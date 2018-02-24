@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 1: February 23, 2018
+
+**Today's Progress**: FileMaker scripting today. Finished a script to capitalize the first letter of sentences in text fields. This one took me almost 5 hours. Also started the CSS Grid course at https://scrimba.com/g/gR8PTE , very nice interactive videos, learner can stop and try things at any time. 
+
+**Thoughts:** CSS Grid is awesome. 
+
+**Link to work:** not yet. 
+
 ### Day 0: February 22, 2018
 
 **Today's Progress**: Started work on FCC Weather page. JS part almost ready. 
