@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 23, 2018
+### Day 4: February 25, 2018
+
+**Today's Progress**: 3 hours work on my weather app. I got something wrong and broke the code. Tomorrow is debugging day. #100DaysOfCode 
+
+**Thoughts:** What did I got wrong?  
+
+**Link to work:** not yet. 
+
+### Day 3: February 24, 2018
+
+**Today's Progress**: More Filemaker Pro scripting today. Working on a multifield search script. Continue with my weather app. UI is almost final. I have to work on C to F conversion. #100DaysOfCode 
+
+**Thoughts:** I have to get a 15" MacBook Pro. The 13" screen is to small. 
+
+**Link to work:** not yet. 
+
+### Day 2: February 23, 2018
 
 **Today's Progress**: FileMaker scripting today. Finished a script to capitalize the first letter of sentences in text fields. This one took me almost 5 hours. Also started the CSS Grid course at https://scrimba.com/g/gR8PTE , very nice interactive videos, learner can stop and try things at any time. 
 
@@ -8,7 +24,7 @@
 
 **Link to work:** not yet. 
 
-### Day 0: February 22, 2018
+### Day 1: February 22, 2018
 
 **Today's Progress**: Started work on FCC Weather page. JS part almost ready. 
 
