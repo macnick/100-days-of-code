@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: February 26, 2018
+
+**Today's Progress**: FileMaker Work yesterday. I implemented a search in a set of 3 different fields in a portal. The results are filtered as you type. Turns out my weather app didn't have a problem. The problem was with the weather server. Today I added code and pictures to change the background image depending on the weather.  #100DaysOfCode 
+
+**Thoughts:** Good productive day.   
+
+**Link to work:** not yet. 
+
 ### Day 4: February 25, 2018
 
 **Today's Progress**: 3 hours work on my weather app. I got something wrong and broke the code. Tomorrow is debugging day. #100DaysOfCode 
