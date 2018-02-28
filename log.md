@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: February 27, 2018
+
+**Today's Progress**: I am a Happy Camper. Today finished my weather app. Yoohoo! The only problem is the weather server is not always returning results and the page doesn't always work. #100DaysOfCode 
+
+**Thoughts:** YES moment day.   
+
+**Link to work:** https://codepen.io/macnick/full/eyPvqj/ 
+
 ### Day 5: February 26, 2018
 
 **Today's Progress**: FileMaker Work yesterday. I implemented a search in a set of 3 different fields in a portal. The results are filtered as you type. Turns out my weather app didn't have a problem. The problem was with the weather server. Today I added code and pictures to change the background image depending on the weather.  #100DaysOfCode 
