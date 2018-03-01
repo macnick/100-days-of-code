@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 7: February 28, 2018
+
+**Today's Progress**: #FileMaker scripting for an hour this morning. Started my next project the Wikipedia Viewer. Also added various colors to the temperature of the Weather App after my son's suggestion. #100DaysOfCode 
+
+**Thoughts:** I do not have a clue how I will make the Viewer!   
+
+**Link to work:** not yet.
+
 ### Day 6: February 27, 2018
 
 **Today's Progress**: I am a Happy Camper. Today finished my weather app. Yoohoo! The only problem is the weather server is not always returning results and the page doesn't always work. #100DaysOfCode 
 
-**Thoughts:** YES moment day.   
+**Thoughts:** YES moment, day.   
 
 **Link to work:** https://codepen.io/macnick/full/eyPvqj/ 
 
