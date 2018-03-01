@@ -2,7 +2,7 @@
 
 ### Day 7: February 28, 2018
 
-**Today's Progress**: #FileMaker scripting for an hour this morning. Started my next project the Wikipedia Viewer. Also added various colors to the temperature of the Weather App after my son's suggestion. #100DaysOfCode 
+**Today's Progress**: #FileMaker scripting for an hour this morning. Started my next project: the Wikipedia Viewer. Also added various colors to the temperature of the Weather App after my son's suggestion. #100DaysOfCode 
 
 **Thoughts:** I do not have a clue how I will make the Viewer!   
 
