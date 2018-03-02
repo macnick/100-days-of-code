@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8: March 1, 2018
+
+**Today's Progress**: Going through the excellent and free Practical Javascript course in watchandcode.com. Gordon is probably the best teacher I've ever had. This is the second time I do it so am at 60% already. #100DaysOfCode 
+
+**Thoughts:** 
+
+**Link to work:** not yet.
+
 ### Day 7: February 28, 2018
 
 **Today's Progress**: #FileMaker scripting for an hour this morning. Started my next project: the Wikipedia Viewer. Also added various colors to the temperature of the Weather App after my son's suggestion. #100DaysOfCode 
