@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8: March 2, 2018
+
+**Today's Progress**: I used jQuery in my Weater App project, so I thought I learn it a little beeter. I went through all the stuff  in w3schools.com and at the end I did the Quiz. I got 100%! Unbelievable! #100DaysOfCode 
+
+**Thoughts:** Still thinking about my Wikipedia reader...
+
+**Link to work:** not yet.
+
 ### Day 8: March 1, 2018
 
 **Today's Progress**: Going through the excellent and free Practical Javascript course in watchandcode.com. Gordon is probably the best teacher I've ever had. This is the second time I do it so am at 60% already. #100DaysOfCode 
