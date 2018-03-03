@@ -2,7 +2,7 @@
 
 ### Day 8: March 2, 2018
 
-**Today's Progress**: I used jQuery in my Weather App project, so I thought I learn it a little better. I went through all the stuff  in w3schools.com and at the end I did the Quiz. I got 100%! Unbelievable! #100DaysOfCode 
+**Today's Progress**: I used jQuery in my Weather App project, so I thought I learn it a little better. I went through all the stuff  in w3schools.com and at the end I took the Quiz. I got 100%! Unbelievable! #100DaysOfCode 
 
 **Thoughts:** Still thinking about my Wikipedia reader...
 
