@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: March 3, 2018
+
+**Today's Progress**: It's weekend so more hours to study JS theory. I refreshed my knowledge going through the material https://developer.mozilla.org/en-US/docs/Web/JavaScript . #100DaysOfCode 
+
+**Thoughts:** The Wikipedia reader has to wait...
+
+**Link to work:** not yet.
+
 ### Day 8: March 2, 2018
 
 **Today's Progress**: I used jQuery in my Weather App project, so I thought I learn it a little better. I went through all the stuff  in w3schools.com and at the end I took the Quiz. I got 100%! Unbelievable! #100DaysOfCode 
