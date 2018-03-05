@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: March 4, 2018
+
+**Today's Progress**: More JS training today. Started working on the Wikipedia reader. #100DaysOfCode 
+
+**Thoughts:** 
+
+**Link to work:** not yet.
+
 ### Day 9: March 3, 2018
 
 **Today's Progress**: It's weekend so more hours to study JS theory. I refreshed my knowledge going through the material https://developer.mozilla.org/en-US/docs/Web/JavaScript . #100DaysOfCode 
