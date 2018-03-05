@@ -2,7 +2,7 @@
 
 ### Day 10: March 4, 2018
 
-**Today's Progress**: More JS training today. Started working on the Wikipedia reader. #100DaysOfCode 
+**Today's Progress**: More JS training today. I am at 30% of "The Complete JavaScript Course" in Udemy. Still the easy stuff, but I learned a couple of new things. #100DaysOfCode 
 
 **Thoughts:** 
 
