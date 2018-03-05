@@ -4,7 +4,7 @@
 
 **Today's Progress**: More JS training today. I am at 30% of "The Complete JavaScript Course" in Udemy. Still the easy stuff, but I learned a couple of new things. #100DaysOfCode 
 
-**Thoughts:** 
+**Thoughts:** How will the Wikipedia reader be? 
 
 **Link to work:** not yet.
 
