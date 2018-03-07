@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 12: March 6, 2018
+
+**Today's Progress**: Wikipedia Viewer progressing slowly. Interesting stuff on Javascript. I love DOM manipulation. #100DaysOfCode 
+
+**Thoughts:** 
+
+**Link to work:** not yet.
+
+### Day 11: March 5, 2018
+
+**Today's Progress**: I started my Wikipedia Viewer zipline. On JS I am at 40% of "The Complete JavaScript Course" in Udemy which I started on March 3. #100DaysOfCode 
+
+**Thoughts:** 
+
+**Link to work:** not yet.
+
 ### Day 10: March 4, 2018
 
 **Today's Progress**: More JS training today. I am at 30% of "The Complete JavaScript Course" in Udemy which I started yesterday. Still the easy stuff, but I learned a couple of new things. #100DaysOfCode 
