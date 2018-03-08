@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 13: March 7, 2018
+
+**Today's Progress**: Learned about the Conditional operator (ternary) and almost finished my version of the pig game. #100DaysOfCode 
+
+**Thoughts:** 
+
+**Link to work:** not yet.
+
 ### Day 12: March 6, 2018
 
 **Today's Progress**: Wikipedia Viewer progressing slowly. Interesting stuff on Javascript. I love DOM manipulation. #100DaysOfCode 
