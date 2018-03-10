@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 15: March 9, 2018
+
+**Today's Progress**: Finished my version of the pig game! Played it with my kids tonight. I have to make some inprovements now. #100DaysOfCode 
+
+**Thoughts:** 
+
+**Link to work:** not yet.
+
+### Day 14: March 8, 2018
+
+**Today's Progress**: #Filemaker Pro scripting today. An hour of JS only. #100DaysOfCode 
+
+**Thoughts:** 
+
+**Link to work:** not yet.
+
 ### Day 13: March 7, 2018
 
 **Today's Progress**: Learned about the Conditional operator (ternary) and almost finished my version of the pig game. #100DaysOfCode 
