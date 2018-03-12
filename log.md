@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 17: March 17, 2018
+### Day 17: March 11, 2018
 
 **Today's Progress**: Discovered a bug in my pig game. I will squash it tomorrow. #100DaysOfCode 
 
