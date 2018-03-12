@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 17: March 17, 2018
+
+**Today's Progress**: Discovered a bug in my pig game. I will squash it tomorrow. #100DaysOfCode 
+
+**Thoughts:** 
+
+### Day 16: March 10, 2018
+
+**Today's Progress**: More than 3 hours of study today. I did a modification to the pig game. When you roll 6 twice in a row you loose all scores. #100DaysOfCode 
+
+**Thoughts:** 
+
 ### Day 15: March 9, 2018
 
 **Today's Progress**: Finished my version of the pig game! Played it with my kids tonight. I have to make some inprovements now. #100DaysOfCode 
