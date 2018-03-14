@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 19: March 13, 2018
+
+**Today's Progress**: Went back to my weather page to fix some things after user suggestions. #100DaysOfCode 
+
+**Thoughts:** 
+
+### Day 18: March 12, 2018
+
+**Today's Progress**: Pig Game bug fixed. More #Filemaker study for the certification. #100DaysOfCode 
+
+**Thoughts:** 
+
 ### Day 17: March 11, 2018
 
 **Today's Progress**: Discovered a bug in my pig game. I will squash it tomorrow. #100DaysOfCode 
