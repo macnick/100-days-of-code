@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log
 
+### Day 24: March 18, 2018
+
+**Today's Progress**: #Filemaker scripts finished. It parsed 85000 urls from JSON in a few minutes #100DaysOfCode 
+
+**Thoughts:** Weekends are good. I have more time to code. 
+
+### Day 23: March 17, 2018
+
+**Today's Progress**: Another #Filemaker job with JSON data. I have to make a couple of scripts to extract data and put it on another table. #100DaysOfCode 
+
+**Thoughts:** 
+
+### Day 22: March 16, 2018
+
+**Today's Progress**: Developed a small #Filemaker solution for a new client. #100DaysOfCode 
+
+**Thoughts:** 
+
+### Day 21: March 15, 2018
+
+**Today's Progress**: JS coding for my version of the Pig game. #100DaysOfCode 
+
+**Thoughts:** 
+
+### Day 20: March 14, 2018
+
+**Today's Progress**: Finished updating my weather page. New font, bigger temperature reading and better size images. #100DaysOfCode 
+
+**Thoughts:** 
+
 ### Day 19: March 13, 2018
 
 **Today's Progress**: Went back to my weather page to fix some things after user suggestions. #100DaysOfCode 
