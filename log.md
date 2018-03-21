@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+
+### Day 26: March 20, 2018
+
+**Today's Progress**: Finished, or so I think, with my own version of the Pig Game with my custom rules. You can play it here www.macexperts.gr/PigGame/index.html and you can see the code here www.macexperts.gr/PigGame/app.js The graphics are not mine  #100DaysOfCode 
+
+**Thoughts:**  
+
+### Day 25: March 19, 2018
+
+**Today's Progress**: Playing with JS objects and learning more about the this.  #100DaysOfCode 
+
+**Thoughts:**  
+
 ### Day 24: March 18, 2018
 
 **Today's Progress**: #Filemaker scripts finished. It parsed 85000 urls from JSON in a few minutes #100DaysOfCode 
