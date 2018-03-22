@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 27: March 21, 2018
+
+**Today's Progress**: JS learning about object.create creation method and inheritance.  #100DaysOfCode 
+
+**Thoughts:** 
 
 ### Day 26: March 20, 2018
 
