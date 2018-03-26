@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 31: March 25, 2018
+
+**Today's Progress**: Redoing and improving my code at Basic Algorith Scripting @ #FreeCodeCamp. #100DaysOfCode 
+
+**Thoughts:** I am a little better now. 
+
+## Day 30: March 24, 2018
+
+**Today's Progress**: Went through all the material at Object Oriented and Functional Programming at #FreeCodeCamp. #100DaysOfCode 
+
+**Thoughts:**  
+
+## Day 29: March 23, 2018
+
+**Today's Progress**: Repeating my #FreeCodeCamp Basic Javascript Lessons.Took me 3 hours. #100DaysOfCode 
+
+**Thoughts:** I found a few things I've missed the first time. 
+
 ## Day 28: March 22, 2018
 
 **Today's Progress**: More study today. Difference between primitives and objects. #100DaysOfCode 
