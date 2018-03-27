@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 32: March 26, 2018
+
+**Today's Progress**: Signed in at www.codewars.com. Did my first two katas. @ #FreeCodeCamp. #100DaysOfCode 
+
+**Thoughts:** I stuck with a stupid problem in the first one.  
+
 ## Day 31: March 25, 2018
 
 **Today's Progress**: Redoing and improving my code at Basic Algorith Scripting @ #FreeCodeCamp. #100DaysOfCode 
