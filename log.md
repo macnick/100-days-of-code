@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 33: March 27, 2018
+
+**Today's Progress**: More basic alogrithms @ #FreeCodeCamp and another kata completed at #Codewars. #100DaysOfCode 
+
+**Thoughts:**  
+
 ## Day 32: March 26, 2018
 
 **Today's Progress**: Signed in at www.codewars.com. Did my first two katas. @ #FreeCodeCamp. #100DaysOfCode 
