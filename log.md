@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 34: March 28, 2018
+
+**Today's Progress**: #R1D34 Completed the Slasher Flick Complete and the Mutations Complete @ #FreeCodeCamp and the Get Middle Character kata at #Codewars. #100DaysOfCode 
+
+**Thoughts:**  
+
 ## Day 33: March 27, 2018
 
 **Today's Progress**: More basic alogrithms @ #FreeCodeCamp and another kata completed at #Codewars. #100DaysOfCode 
