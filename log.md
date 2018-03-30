@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+Auto execution function syntax in Javascript: ((){})(); Awkward as sin but, it works! 
+So lets look at our code again, with some self-executing syntax:
+
+(function main() {
+  var userName = "Sean";
+
+    console.log(name());
+
+    function name() {
+      return userName;
+    }
+  }
+)();
+
 ## Day 35: March 29, 2018
 
 **Today's Progress**: #R1D35 Completed the Sum without Highest and Lowest Number and my first 6 kyu kata the Build Tower at #Codewars. #100DaysOfCode 
