@@ -14,6 +14,12 @@ So lets look at our code again, with some self-executing syntax:
   }
 )();
 
+## Day 36: March 30, 2018
+
+**Today's Progress**: #R1D36 Completed another 6kyu kata, Playing with digits and Get the middle character at #Codewars and Falsy bouncer @ #FreeCodeCamp. #100DaysOfCode 
+
+**Thoughts:**  
+
 ## Day 35: March 29, 2018
 
 **Today's Progress**: #R1D35 Completed the Sum without Highest and Lowest Number and my first 6 kyu kata the Build Tower at #Codewars. #100DaysOfCode 
