@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 38: April 1, 2018
+
+**Today's Progress**: #R1D38 Completed 7 Kyu kata "Sum of odd numbers" @ #Codewars. #100DaysOfCode 
+
+**Thoughts:** 
+
 ## Day 37: March 31, 2018
 
 **Today's Progress**: #R1D37 Learned about IIFE. Auto execution function syntax in Javascript: ((){})(); Awkward as sin but, it works! So lets look at our code again, with some self-executing syntax:
@@ -16,7 +22,7 @@
 )();
 Completed Seek and destroy and Where do I belong @ #FreeCodeCamp. #100DaysOfCode 
 
-**Thoughts:**  
+**Thoughts:** 
 
 ## Day 36: March 30, 2018
 
