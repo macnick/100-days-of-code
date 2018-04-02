@@ -2,7 +2,7 @@
 
 ## Day 38: April 1, 2018
 
-**Today's Progress**: #R1D38 Completed 7 Kyu kata "Sum of odd numbers" @ #Codewars. #100DaysOfCode 
+**Today's Progress**: #R1D38 Completed 7 Kyu kata "Sum of odd numbers" @ #Codewars. #100DaysOfCode. Then went for a ride with my bike and wife. :)
 
 **Thoughts:** 
 
