@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 39: April 2, 2018
+
+**Today's Progress**: #R1D39 Learned about closures in JS. Completed 6 Kyu kata "Bouncing Balls" @ #Codewars. Did a better job coding the "Caesars Cipher" @ #Freecodecmp #100DaysOfCode.
+
+**Thoughts:** 
+
 ## Day 38: April 1, 2018
 
 **Today's Progress**: #R1D38 Completed 7 Kyu kata "Sum of odd numbers" @ #Codewars. #100DaysOfCode. Then went for a ride with my bike and wife. :)
