@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 40: April 3, 2018
+
+**Today's Progress**: #R1D40 Completed 6 Kyu kata "Tortoise Racing" plus 3 more 7 kyu @ #Codewars. #100DaysOfCode.
+
+**Thoughts:** 
+
 ## Day 39: April 2, 2018
 
-**Today's Progress**: #R1D39 Learned about closures in JS. Completed 6 Kyu kata "Bouncing Balls" @ #Codewars. Did a better job coding the "Caesars Cipher" @ #Freecodecmp #100DaysOfCode.
+**Today's Progress**: #R1D39 Learned about closures in JS. Completed 6 Kyu kata "Bouncing Balls" @ #Codewars. Did a better job coding the "Caesars Cipher" @ #Freecodecamp #100DaysOfCode.
 
 **Thoughts:** 
 
