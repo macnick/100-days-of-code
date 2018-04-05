@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 41: April 4, 2018
+
+**Today's Progress**: #R1D41 Level Up @ #Codewars. Now I am 6 kyu in JS #100DaysOfCode.
+
+**Thoughts:** 
+
 ## Day 40: April 3, 2018
 
 **Today's Progress**: #R1D40 Completed 6 Kyu kata "Tortoise Racing" plus 3 more 7 kyu @ #Codewars. #100DaysOfCode.
