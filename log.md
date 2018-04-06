@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+## Day 42: April 5, 2018
+
+**Today's Progress**: #R1D42 Spent hours learning about and testing call, bind and apply methods #100DaysOfCode.
+
+**Thoughts:** 
 
 
 ## Day 41: April 4, 2018
