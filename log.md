@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+decodeMorse = function(morseCode){
+  //your code here
+  var words = morseCode.split('   ');
+  var letters = [];//morseCode.match(/.?-?/, 'g')
+  var decoded = [];
+  for (var i = 0; i < words.length; i++) {
+    letters = words[i].split(' ');
+     for (var j = 0; j < letters.length; j++) {
+       decoded.push(MORSE_CODE[letters[j]]);
+   } 
+  };
+   
+  return decoded;
+}
+
 ## Day 41: April 4, 2018
 
 **Today's Progress**: #R1D41 Level Up @ #Codewars. Now I am 6 kyu in JS #100DaysOfCode.
