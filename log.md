@@ -1,11 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 43: April 6, 2018
+
+**Today's Progress**: #R1D43 More JS learning today and completed another kata, the "Decode the Morse code" #Codewars #100DaysOfCode.
+
+**Thoughts:** More than 5 hours of study today. My eyes are aching. 
+
 ## Day 42: April 5, 2018
 
 **Today's Progress**: #R1D42 Spent hours learning about and testing call, bind and apply methods #100DaysOfCode.
 
 **Thoughts:** 
-
 
 ## Day 41: April 4, 2018
 
