@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 46: April 9, 2018
+
+**Today's Progress**: #R1D46 Continue practicing doing katas at #Codewars. "Thinking & Testing: A and B?", "Shorten Me: Mad Mathematician's Algorithm I (Addition)", "Build a pile of Cubes"#100DaysOfCode.
+
+**Thoughts:** 
+
 ## Day 45: April 8, 2018
 
 **Today's Progress**: #R1D45 JS practicing doing katas at #Codewars. "All Star Code Challenge #18", "Is n divisible by x and y?", "A Needle in the Haystack", "Exclamation marks series #6" #100DaysOfCode.
