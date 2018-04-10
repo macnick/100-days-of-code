@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 45: April 8, 2018
+
+**Today's Progress**: #R1D45 JS practicing doing katas at #Codewars. "All Star Code Challenge #18", "Is n divisible by x and y?", "A Needle in the Haystack", "Exclamation marks series #6" #100DaysOfCode.
+
+**Thoughts:** 
+
+## Day 44: April 7, 2018
+
+**Today's Progress**: #R1D44 #FileMaker Pro learning today and completed another 6 kyu kata, the "Reverse or rotate?" #Codewars #100DaysOfCode.
+
+**Thoughts:** More than 5 hours of study today. My eyes are aching. 
+
 ## Day 43: April 6, 2018
 
 **Today's Progress**: #R1D43 More JS learning today and completed another kata, the "Decode the Morse code" #Codewars #100DaysOfCode.
