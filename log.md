@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 47: April 10, 2018
+
+**Today's Progress**: #R1D47 Been practicing katas like maniac at #Codewars. Also did my first 5kyu kata: "Directions Reduction" #100DaysOfCode.
+
+**Thoughts:** 
+
 ## Day 46: April 9, 2018
 
 **Today's Progress**: #R1D46 Continue practicing doing katas at #Codewars. "Thinking & Testing: A and B?", "Shorten Me: Mad Mathematician's Algorithm I (Addition)", "Build a pile of Cubes"#100DaysOfCode.
