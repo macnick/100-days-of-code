@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 48: April 11, 2018
+
+**Today's Progress**: #R1D48 3 more katas today at #Codewars. I have to make my WikiPidia search page... #100DaysOfCode.
+
+**Thoughts:** 
+
 ## Day 47: April 10, 2018
 
 **Today's Progress**: #R1D47 Been practicing katas like maniac at #Codewars. Also did my first 5kyu kata: "Directions Reduction" #100DaysOfCode.
