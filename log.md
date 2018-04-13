@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 49: April 12, 2018
+
+**Today's Progress**: #R1D49 More Javascript study today. For practice I did another 5 kyu kata "Regex Password Validation" #Codewars #100DaysOfCode.
+
+**Thoughts:** 
+
 ## Day 48: April 11, 2018
 
 **Today's Progress**: #R1D48 3 more katas today at #Codewars. I have to make my WikiPidia search page... #100DaysOfCode.
