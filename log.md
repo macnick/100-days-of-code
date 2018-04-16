@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 51: April 14, 2018
+
+**Today's Progress**: #R1D51 Weekends are good. More than 5 hours of studying/training JS today. #Codewars #100DaysOfCode.
+
+## Day 50: April 13, 2018
+
+**Today's Progress**: #R1D50 I don't believe I am in the middle of my commitment already! For practice I did a 6 kyu kata "One line task: Square Every Digit" #Codewars #100DaysOfCode.
+
 ## Day 49: April 12, 2018
 
 **Today's Progress**: #R1D49 More Javascript study today. For practice I did another 5 kyu kata "Regex Password Validation" #Codewars #100DaysOfCode.
