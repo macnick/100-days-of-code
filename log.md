@@ -1,12 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 53: April 16, 2018
+
+**Today's Progress**: #R1D53 Mmm, I love the smell of code in the morning! 2 new katas completed: "Your order, please" and "Student's Final Grade" #Codewars #100DaysOfCode.
+
+**Thoughts:** 
+
+## Day 52: April 15, 2018
+
+**Today's Progress**: #R1D52 Rain helps me code better. JS training. 2 more kata "Convert a string to an array" and Maximum_Gap_(Array_Series_#4) #Codewars #100DaysOfCode.
+
+**Thoughts:** 
+
 ## Day 51: April 14, 2018
 
 **Today's Progress**: #R1D51 Weekends are good. More than 5 hours of studying/training JS today. #Codewars #100DaysOfCode.
 
+**Thoughts:** 
+
 ## Day 50: April 13, 2018
 
 **Today's Progress**: #R1D50 I don't believe I am in the middle of my commitment already! For practice I did a 6 kyu kata "One line task: Square Every Digit" #Codewars #100DaysOfCode.
+
+**Thoughts:** 
 
 ## Day 49: April 12, 2018
 
