@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 54: April 17, 2018
+
+**Today's Progress**: #R1D54 Started a new project in my Udemy JS course. A kata a day keeps the programmer ...happy: "Converting integer to currency format" completed. #Codewars #100DaysOfCode.
+
+**Thoughts:** 
+
 ## Day 53: April 16, 2018
 
 **Today's Progress**: #R1D53 Mmm, I love the smell of code in the morning! 2 new katas completed: "Your order, please" and "Student's Final Grade" #Codewars #100DaysOfCode.
