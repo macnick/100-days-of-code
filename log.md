@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 55: April 18, 2018
+
+**Today's Progress**: #R1D55 Completed my first proper recursive function! Yes!   . #Codewars #100DaysOfCode.
+
+**Thoughts:** 
+
 ## Day 54: April 17, 2018
 
 **Today's Progress**: #R1D54 Started a new project in my Udemy JS course. A kata a day keeps the programmer ...happy: "Converting integer to currency format" completed. #Codewars #100DaysOfCode.
