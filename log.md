@@ -2,7 +2,7 @@
 
 ## Day 55: April 18, 2018
 
-**Today's Progress**: #R1D55 Completed my first proper recursive function! Yes!   . #Codewars #100DaysOfCode.
+**Today's Progress**: #R1D55 Completed my first proper recursive function! Yes! kata of the day: "Happy numbers" #Codewars #100DaysOfCode.
 
 **Thoughts:** 
 
