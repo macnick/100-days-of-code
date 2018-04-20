@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 56: April 19, 2018
+
+**Today's Progress**: #R1D56 Lots of reading and testing things today. Just and easy kata today "Logic Drills: Traffic light" #CodeWars #100DaysOfCode.
+
+**Thoughts:** 
+
 ## Day 55: April 18, 2018
 
 **Today's Progress**: #R1D55 Completed my first proper recursive function! Yes! kata of the day: "Happy numbers" #Codewars #100DaysOfCode.
