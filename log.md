@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 59: April 22, 2018
+
+**Today's Progress**: #R1D59 Trying to refactor one of my solutions using regex. #CodeWars. Trying to find a good tutorial on regular expressions. #100DaysOfCode.
+
+**Thoughts:** 
+
+## Day 58: April 21, 2018
+
+**Today's Progress**: #R1D58 Continue practicing at #CodeWars. 2 kata today "Row Weights" & "Format a string of names like 'Bart, Lisa & Maggie'"  #100DaysOfCode.
+
+**Thoughts:** I do not like my solution in "Format a string of names". I will refactor. 
+
+## Day 57: April 20, 2018
+
+**Today's Progress**: #R1D57 More reading and testing things today. Managed to solve the 6kyu kata today "Chocolate Party" #CodeWars #100DaysOfCode.
+
+**Thoughts:** 
+
 ## Day 56: April 19, 2018
 
 **Today's Progress**: #R1D56 Lots of reading and testing things today. Just and easy kata today "Logic Drills: Traffic light" #CodeWars #100DaysOfCode.
