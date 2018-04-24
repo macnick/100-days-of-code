@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 61: April 24, 2018
+
+**Today's Progress**: #R1D61 Fixed a user interface script for #FileMaker Pro. #100DaysOfCode.
+
+**Thoughts:** I have to ask on Twitter.
+
 ## Day 60: April 23, 2018
 
 **Today's Progress**: #R1D60 Did an easy kata today "Special_Numbers_Series _#5" #CodeWars. Can not find anything good on regular expressions. #100DaysOfCode.
