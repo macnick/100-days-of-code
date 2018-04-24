@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 60: April 23, 2018
+
+**Today's Progress**: #R1D60 Did an easy kata today "Special_Numbers_Series _#5" #CodeWars. Can not find anything good on regular expressions. #100DaysOfCode.
+
+**Thoughts:** I have to ask on Twitter.
+
 ## Day 59: April 22, 2018
 
-**Today's Progress**: #R1D59 Trying to refactor one of my solutions using regex. #CodeWars. Trying to find a good tutorial on regular expressions. #100DaysOfCode.
+**Today's Progress**: #R1D59 Trying to refactor one of my solutions using regex. #CodeWars. Also trying to find a good tutorial on regular expressions. #100DaysOfCode.
 
 **Thoughts:** 
 
