@@ -2,9 +2,9 @@
 
 ## Day 61: April 24, 2018
 
-**Today's Progress**: #R1D61 Fixed a user interface script for #FileMaker Pro. #100DaysOfCode.
+**Today's Progress**: #R1D61 Fixed a user interface script for #FileMaker Pro. Stuck in a 5kyu problem at #Codewars. #100DaysOfCode.
 
-**Thoughts:** I have to ask on Twitter.
+**Thoughts:**
 
 ## Day 60: April 23, 2018
 
