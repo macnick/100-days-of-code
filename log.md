@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 62: April 25, 2018
+
+**Today's Progress**: #R1D62 Javascript learning today. Did just a simple kata at "Automorphic Number" #Codewars. #100DaysOfCode.
+
+**Thoughts:**
+
 ## Day 61: April 24, 2018
 
 **Today's Progress**: #R1D61 Fixed a user interface script for #FileMaker Pro. Stuck in a 5kyu problem at #Codewars. #100DaysOfCode.
