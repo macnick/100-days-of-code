@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 64: April 27, 2018
+
+**Today's Progress**: #R1D64 Developed a 2-field live search in a portal in a #Filemaker solution. #100DaysOfCode.
+
+**Thoughts:**
+
+## Day 63: April 26, 2018
+
+**Today's Progress**: #R1D63 #Filemaker learning today. Also I leveled up to 5kyu at #Codewars by solving the "Simple string expansion" kata. #100DaysOfCode.
+
+**Thoughts:**
+
 ## Day 62: April 25, 2018
 
 **Today's Progress**: #R1D62 Javascript learning today. Did just a simple kata at "Automorphic Number" #Codewars. #100DaysOfCode.
