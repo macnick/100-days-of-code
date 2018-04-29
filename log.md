@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 65: April 28, 2018
+
+**Today's Progress**: #R1D65 Javascript practice day at #Codewars. Solved "Find the unique number, and "Nth Root of a Number" #100DaysOfCode.
+
+**Thoughts:**
+
 ## Day 64: April 27, 2018
 
 **Today's Progress**: #R1D64 Developed a 2-field live search in a portal in a #Filemaker solution. #100DaysOfCode.
