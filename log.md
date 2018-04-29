@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 66: April 29, 2018
+
+**Today's Progress**: #R1D66 A more difficult kata today @ #Codewars. Solved "Simple Fun #387: Lonely Frog IV" #100DaysOfCode.
+
+**Thoughts:**
+
 ## Day 65: April 28, 2018
 
 **Today's Progress**: #R1D65 Javascript practice day at #Codewars. Solved "Find the unique number, and "Nth Root of a Number" #100DaysOfCode.
@@ -10,7 +16,7 @@
 
 **Today's Progress**: #R1D64 Developed a 2-field live search in a portal in a #Filemaker solution. #100DaysOfCode.
 
-**Thoughts:**
+**Thoughts:** Got my first big job at #Upwork. 
 
 ## Day 63: April 26, 2018
 
