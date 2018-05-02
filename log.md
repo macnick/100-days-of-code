@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 68: May 1, 2018
+
+**Today's Progress**: #R1D68 So busy scipting for #FileMaker job I don't have time to tweet. Solved the kata "Two Oldest Ages" @ #Codewars. #100DaysOfCode.
+
+**Thoughts:**
+
+## Day 67: April 30, 2018
+
+**Today's Progress**: #R1D67 Got hired as a freelancer for a #FileMaker job. This is exciting! Solved Expressions Matter @ #Codewars. #100DaysOfCode.
+
+**Thoughts:**
+
 ## Day 66: April 29, 2018
 
 **Today's Progress**: #R1D66 A more difficult kata today @ #Codewars. Solved "Simple Fun #387: Lonely Frog IV" #100DaysOfCode.
