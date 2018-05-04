@@ -1,8 +1,13 @@
 # 100 Days Of Code - Log
 
+
+## Day 70: May 3, 2018
+
+**Today's Progress**: #R1D70 More Javascript practice today at #Codewars. Solved the Running Average kata using closures. Also  #Filemaker development #100DaysOfCode.
+
 ## Day 69: May 2, 2018
 
-**Today's Progress**: #R1D69 So busy scipting for #FileMaker job I don't have time to tweet. Solved the kata "Two Oldest Ages" @ #Codewars. #100DaysOfCode.
+**Today's Progress**: #R1D69 Javascript practice provided by #Codewars. Solved the Find X kata. Doing #Filemaker work every day now #100DaysOfCode.
 
 **Thoughts:**
 
