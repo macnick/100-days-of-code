@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 69: May 2, 2018
+
+**Today's Progress**: #R1D69 So busy scipting for #FileMaker job I don't have time to tweet. Solved the kata "Two Oldest Ages" @ #Codewars. #100DaysOfCode.
+
+**Thoughts:**
+
 ## Day 68: May 1, 2018
 
 **Today's Progress**: #R1D68 So busy scipting for #FileMaker job I don't have time to tweet. Solved the kata "Two Oldest Ages" @ #Codewars. #100DaysOfCode.
