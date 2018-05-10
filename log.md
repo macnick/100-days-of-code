@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 75: May 8, 2018
+
+**Today's Progress**: #R1D75 "Hero's root" kata complete. This one took me some time although it was easy. My mind stuck. I feel stupid. @ #Codewars. #100DaysOfCode.
+
+## Day 74: May 7, 2018
+
+**Today's Progress**: #R1D74 Practice Javascript @ #Codewars. "Grasshopper - Terminal game combat function" kata completed. #100DaysOfCode.
+
+## Day 73: May 6, 2018
+
+**Today's Progress**: #R1D73 A lot of #Filemaker scripting and development. I do not have time to tweet. #100DaysOfCode.
+
+## Day 72: May 5, 2018
+
+**Today's Progress**: #R1D72 Coded a tough one today: "Simple fraction to mixed number converter" kata #Codewars. #100DaysOfCode.
+
 ## Day 71: May 4, 2018
 
 **Today's Progress**: #R1D71 Javascript reading and practice today at #Codewars. Solved an easy one the See You Next Happy Year kata. #Filemaker development every day now. #100DaysOfCode.
