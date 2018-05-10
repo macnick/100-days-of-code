@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+## Day 71: May 4, 2018
+
+**Today's Progress**: #R1D71 Javascript reading and practice today at #Codewars. Solved an easy one the See You Next Happy Year kata. #Filemaker development every day now. #100DaysOfCode.
 
 ## Day 70: May 3, 2018
 
