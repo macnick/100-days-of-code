@@ -1,28 +1,76 @@
 # 100 Days Of Code - Log
 
+## Day 79: May 12, 2018
+
+**Today's Progress**: #R1D79 FileMaker Day. Fixed various scripts for my clients solution. #100DaysOfCode.
+
+**Thoughts:** 
+
+## Day 78: May 11, 2018
+
+**Today's Progress**: #R1D78 Reading and practising with "Hero's root" @ #Codewars. I got it wrong from the start and it took way longer than I thought.  #100DaysOfCode.
+
+**Thoughts:** Hofstadter’s law is the observation that “It always takes longer than you expect, even when you take into account Hofstadter's Law.”
+
+## Day 78: May 11, 2018
+
+**Today's Progress**: #R1D78 Reading and practising with "Hero's root" @ #Codewars. I got it wrong from the start and it took way longer than I thought.  #100DaysOfCode.
+
+**Thoughts:** 
+
+## Day 77: May 10, 2018
+
+**Today's Progress**: #R1D77 Started reading the book "Pro JavaScript Design Patterns" by Ross Harmes and Dustin Diaz. #100DaysOfCode.
+
+**Thoughts:**
+
+## Day 77: May 10, 2018
+
+**Today's Progress**: #R1D77 Started reading the book "Pro JavaScript Design Patterns" by Ross Harmes and Dustin Diaz. #100DaysOfCode.
+
+**Thoughts:**
+
+## Day 76: May 9, 2018
+
+**Today's Progress**: #R1D76 "Grasshopper - Terminal game combat function" kata complete. This one was very easy for me. @ #Codewars. #100DaysOfCode.
+
+**Thoughts:**
+
 ## Day 75: May 8, 2018
 
 **Today's Progress**: #R1D75 "Hero's root" kata complete. This one took me some time although it was easy. My mind stuck. I feel stupid. @ #Codewars. #100DaysOfCode.
+
+**Thoughts:**
 
 ## Day 74: May 7, 2018
 
 **Today's Progress**: #R1D74 Practice Javascript @ #Codewars. "Grasshopper - Terminal game combat function" kata completed. #100DaysOfCode.
 
+**Thoughts:**
+
 ## Day 73: May 6, 2018
 
 **Today's Progress**: #R1D73 A lot of #Filemaker scripting and development. I do not have time to tweet. #100DaysOfCode.
+
+**Thoughts:**
 
 ## Day 72: May 5, 2018
 
 **Today's Progress**: #R1D72 Coded a tough one today: "Simple fraction to mixed number converter" kata #Codewars. #100DaysOfCode.
 
+**Thoughts:**
+
 ## Day 71: May 4, 2018
 
 **Today's Progress**: #R1D71 Javascript reading and practice today at #Codewars. Solved an easy one the See You Next Happy Year kata. #Filemaker development every day now. #100DaysOfCode.
 
+**Thoughts:**
+
 ## Day 70: May 3, 2018
 
 **Today's Progress**: #R1D70 More Javascript practice today at #Codewars. Solved the Running Average kata using closures. Also  #Filemaker development #100DaysOfCode.
+
+**Thoughts:**
 
 ## Day 69: May 2, 2018
 
