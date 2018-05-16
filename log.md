@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 81: May 14, 2018
+
+**Today's Progress**: #R1D81 Practice with "The Feast of Many Beasts" kata @ #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 80: May 13, 2018
+
+**Today's Progress**: #R1D80 Only JS studying today. #100DaysOfCode.
+
+**Thoughts:** 
+
 ## Day 79: May 12, 2018
 
 **Today's Progress**: #R1D79 FileMaker Day. Fixed various scripts for my clients solution. #100DaysOfCode.
@@ -8,7 +20,7 @@
 
 ## Day 78: May 11, 2018
 
-**Today's Progress**: #R1D78 Reading and practising with "Hero's root" @ #Codewars. I got it wrong from the start and it took way longer than I thought.  #100DaysOfCode.
+**Today's Progress**: #R1D78 Javascript practice @ #Codewars. "A Rule of Divisibility by 13" kata finished. #100DaysOfCode.
 
 **Thoughts:** Hofstadter’s law is the observation that “It always takes longer than you expect, even when you take into account Hofstadter's Law.”
 
