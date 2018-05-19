@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 82: May 15, 2018
+
+**Today's Progress**: #R1D82 Reading YDKJS, Up & Going  #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 81: May 14, 2018
 
 **Today's Progress**: #R1D81 Practice with "The Feast of Many Beasts" kata @ #Codewars #100DaysOfCode
