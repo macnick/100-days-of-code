@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 85: May 18, 2018
+
+**Today's Progress**: #R1D85 I went to Athens today to get my bike from the service. Ready for the track now. This 6 hour trip didn't prevent me from doing another kata "Get the mean of an array" @ #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 84: May 17, 2018
+
+**Today's Progress**: #R1D84 More @Codewars practice with "STRONGN Strong Number (Special Numbers Series #2)" #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 83: May 16, 2018
+
+**Today's Progress**: #R1D83 Practice today with "Balanced Number (Special Numbers Series #1)" @Codewars an of course reading the YDKJS.  #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 82: May 15, 2018
 
 **Today's Progress**: #R1D82 Reading YDKJS, Up & Going  #100DaysOfCode
