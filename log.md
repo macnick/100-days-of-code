@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 88: May 21, 2018
+
+**Today's Progress**: #R1D88 Reading YDKJS, Scopes & Closures. Practicing JS @ #Codewars with a tough one (at least for me) "Is my friend cheating?" #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 87: May 20, 2018
 
 **Today's Progress**: #R1D87 Started YDKJS, Scopes & Closures. Kata of the day: "longest_palindrome" @ #Codewars #100DaysOfCode
