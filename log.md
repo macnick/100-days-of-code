@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 87: May 20, 2018
+
+**Today's Progress**: #R1D87 Started YDKJS, Scopes & Closures. Kata of the day: "longest_palindrome" @ #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 86: May 19, 2018
 
 **Today's Progress**: #R1D86 Finished YDKJS, Up & Running. Kata of the day: "Bumps in the Road" @ #Codewars #100DaysOfCode
