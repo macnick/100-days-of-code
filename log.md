@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 86: May 19, 2018
+
+**Today's Progress**: #R1D86 Finished YDKJS, Up & Running. Kata of the day: "Bumps in the Road" @ #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 85: May 18, 2018
 
-**Today's Progress**: #R1D85 I went to Athens today to get my bike from the service. Ready for the track now. This 6 hour trip didn't prevent me from doing another kata "Get the mean of an array" @ #Codewars #100DaysOfCode
+**Today's Progress**: #R1D85 I went to Athens today to get my bike from service. Ready for the track now. This 6 hour trip didn't prevent me from doing another kata "Get the mean of an array" @ #Codewars #100DaysOfCode
 
 **Thoughts:** 
 
