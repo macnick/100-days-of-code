@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 91: May 24, 2018
+
+**Today's Progress**: #R1D91 Less than 10 days left. Today two kata "Minimize Sum Of Array (Array Series #1)" & "Jumping Number (Special Numbers Series #4)" #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 90: May 23, 2018
+
+**Today's Progress**: #R1D90 Read and practice every day. Today's kata "CamelCase Method" #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 89: May 22, 2018
+
+**Today's Progress**: #R1D89 More reading YDKJS and practicing JS with katas. Todays kata "Counting Duplicates" #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 88: May 21, 2018
 
 **Today's Progress**: #R1D88 Reading YDKJS, Scopes & Closures. Practicing JS @ #Codewars with a tough one (at least for me) "Is my friend cheating?" #100DaysOfCode
