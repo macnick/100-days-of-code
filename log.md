@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 94: May 27, 2018
+
+**Today's Progress**: #R1D94 Reading and testing JS closures. Todays kata "If you can't sleep, just count sheeps!!" #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 93: May 26, 2018
+
+**Today's Progress**: #R1D93 Reading YDKJS and testing JS closures. Todays kata "If you can't sleep, just count sheeps!!" #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 92: May 25, 2018
+
+**Today's Progress**: #R1D92 #FileMaker scripting today. JS practice "Buying a car" #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 91: May 24, 2018
 
 **Today's Progress**: #R1D91 Less than 10 days left. Today two kata "Minimize Sum Of Array (Array Series #1)" & "Jumping Number (Special Numbers Series #4)" #Codewars #100DaysOfCode
