@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 97: May 30, 2018
+
+**Today's Progress**: #R1D97 Integrated FM Pro solution with web SMS API. Piece of cake! Todays kata "Sum of numerous arguments" #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 96: May 29, 2018
+
+**Today's Progress**: #R1D96 Filemaker Pro developing with FM Pro 17! Todays kata "Array.diff" #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 95: May 28, 2018
+
+**Today's Progress**: #R1D95 Finished book number 2 of YDKJS series. I am ok with scopes, I need to work more on Closures. Todays kata "Letterbox Paint-Squad" #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 94: May 27, 2018
 
 **Today's Progress**: #R1D94 Reading and testing JS closures. Todays kata "If you can't sleep, just count sheeps!!" #Codewars #100DaysOfCode
