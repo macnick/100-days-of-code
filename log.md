@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 101: June 2, 2018
+
+**Today's Progress**: #R1D101 I love this number and I love Javascript. 2nd round starts tomorrow. Practicing with katas "Sum of positive" & "Geometry Basics: Circle Circumference in 2D" #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 100: June 1, 2018
+
+**Today's Progress**: #R1D100 I did it! I have so much more to learn. I will go for the second round. Celebrating the 100th day with a 5kyu kata "Josephus Survivor" #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 99: May 31, 2018
+
+**Today's Progress**: #R1D99 One day left! JS study and practice today with kata "Transform To Prime" #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 98: May 31, 2018
+
+**Today's Progress**: #R1D98 JS practice today with kata "Alphabetized" #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 97: May 30, 2018
 
 **Today's Progress**: #R1D97 Integrated FM Pro solution with web SMS API. Piece of cake! Todays kata "Sum of numerous arguments" #Codewars #100DaysOfCode
