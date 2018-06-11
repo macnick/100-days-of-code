@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 3: June 5, 2018
+
+**Today's Progress**: #R2D3 FileMaker developing. 3 katas completed at #Codewars "Holiday VI - Shark Pontoon", "Century From Year" & "Remove duplicates from list" #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 2: June 4, 2018
+
+**Today's Progress**: #R2D2 Started reading YDKJS this & Object Prototypes. More katas at #Codewars "Convert to Binary", "Reversed sequence" & "Abbreviate a Two Word Name" #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 1: June 3, 2018
+
+**Today's Progress**: #R2D1 Starting Round 2 of #100DaysOfCode. In the next 100 days I want to learn Meteor and get my FCC certification. Lots of JS practice doing 3 katas "Sort and Star", "altERnaTIng cAsE <=> ALTerNAtiNG CaSe" & "Training JS #18: Methods of String object--concat() split() and its good friend join()" #Codewars #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 101: June 2, 2018
 
 **Today's Progress**: #R1D101 I love this number and I love Javascript. 2nd round starts tomorrow. Practicing with katas "Sum of positive" & "Geometry Basics: Circle Circumference in 2D" #Codewars #100DaysOfCode
