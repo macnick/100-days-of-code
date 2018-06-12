@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 6: June 8, 2018
+
+**Today's Progress**: #R2D6 15% completed course at #Udemy.JS Practice at #Codewars katas "Basic Mathematical Operations", "Coding 3min : Jumping Dutch act" & "Remove First and Last Character" #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 5: June 7, 2018
+
+**Today's Progress**: #R2D5 Started the "The Complete JavaScript Course 2018: Build Real Projects!" at #Udemy.JS Practice at #Codewars katas "Count of positives / sum of negatives", "Fake Binary" & "Opposite number" #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 4: June 6, 2018
+
+**Today's Progress**: #R2D4 Reading and training. Very productive day. #Codewars katas "Stringy Strings", "Find Nearest square number" & "Determine offspring sex based on chromosomes" #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 3: June 5, 2018
 
 **Today's Progress**: #R2D3 FileMaker developing. 3 katas completed at #Codewars "Holiday VI - Shark Pontoon", "Century From Year" & "Remove duplicates from list" #100DaysOfCode
