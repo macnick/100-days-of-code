@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 9: June 11, 2018
+
+**Today's Progress**: #R2D9 #Filemaker scripting day. Katas completed "Sleigh Authentication" & "Convert boolean values to strings 'Yes' or 'No'." #Codewars. #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 8: June 10, 2018
+
+**Today's Progress**: #R2D8 20% completed course at #Udemy. Today's practice "Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence" & "Convert number to reversed array of digits" #Codewars. #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 7: June 9, 2018
+
+**Today's Progress**: #R2D7 Reading YDKJS and practicing JS at #Codewars. Today's katas "Reversed Strings", "Remove String Spaces" & "Correct the mistakes of the character recognition software" #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 6: June 8, 2018
 
 **Today's Progress**: #R2D6 15% completed course at #Udemy.JS Practice at #Codewars katas "Basic Mathematical Operations", "Coding 3min : Jumping Dutch act" & "Remove First and Last Character" #100DaysOfCode
