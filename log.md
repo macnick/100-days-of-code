@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 11: June 13, 2018
+
+**Today's Progress**: #R2D11 Developed a Filemaker script to upload JSON data to webmerge.me. Katas completed "Cat years, Dog years" & "Bin to Decimal" #Codewars. #100DaysOfCode
+
+**Thoughts:** 
+
+## Day 10: June 12, 2018
+
+**Today's Progress**: #R2D10 25% completed of JS course at #Udemy. Katas completed "Will you make it?", "Sum of Multiples" & "Merge two sorted arrays into one" #Codewars. #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 9: June 11, 2018
 
 **Today's Progress**: #R2D9 #Filemaker scripting day. Katas completed "Sleigh Authentication" & "Convert boolean values to strings 'Yes' or 'No'." #Codewars. #100DaysOfCode
