@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 12: June 14, 2018
+
+**Today's Progress**: #R2D12 25% completed of JS course at #Udemy. Katas completed "Hex to Decimal", "Surface Area and Volume of a Box" & "Capitalization and Mutability" #Codewars. #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 11: June 13, 2018
 
 **Today's Progress**: #R2D11 Developed a Filemaker script to upload JSON data to webmerge.me. Katas completed "Cat years, Dog years" & "Bin to Decimal" #Codewars. #100DaysOfCode
@@ -74,7 +80,7 @@
 
 ## Day 100: June 1, 2018
 
-**Today's Progress**: #R1D100 I did it! I have so much more to learn. I will go for the second round. Celebrating the 100th day with a 5kyu kata "Josephus Survivor" #Codewars #100DaysOfCode
+**Today's Progress**: #R1D100 I did it! 100 passed so fast! I have so much more to learn. I will go for the second round. Celebrating the 100th day with a 5kyu kata "Josephus Survivor" #Codewars #100DaysOfCode
 
 **Thoughts:** 
 
