@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 13: June 15, 2018
+
+**Today's Progress**: #R2D12 30% completed of JS course at #Udemy. Practicing JS with kata "Difference of Volumes of Cuboids", "How good are you really?" & "CSV representation of array" #Codewars. #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 12: June 14, 2018
 
 **Today's Progress**: #R2D12 25% completed of JS course at #Udemy. Katas completed "Hex to Decimal", "Surface Area and Volume of a Box" & "Capitalization and Mutability" #Codewars. #100DaysOfCode
@@ -68,7 +74,7 @@
 
 ## Day 1: June 3, 2018
 
-**Today's Progress**: #R2D1 Starting Round 2 of #100DaysOfCode. In the next 100 days I want to learn Meteor and get my FCC certification. Lots of JS practice doing 3 katas "Sort and Star", "altERnaTIng cAsE <=> ALTerNAtiNG CaSe" & "Training JS #18: Methods of String object--concat() split() and its good friend join()" #Codewars #100DaysOfCode
+**Today's Progress**: #R2D1 Starting Round 2 of #100DaysOfCode. In the next 100 days my goals are to learn Meteor and get my FCC certification. Lots of JS practice doing 3 katas "Sort and Star", "altERnaTIng cAsE <=> ALTerNAtiNG CaSe" & "Training JS #18: Methods of String object--concat() split() and its good friend join()" #Codewars #100DaysOfCode
 
 **Thoughts:** 
 
