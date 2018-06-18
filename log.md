@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 14: June 16, 2018
+
+**Today's Progress**: #R2D13 Reading about and practicing JS with kata "Beginner - Lost Without a Map", "String cleaning" & "The falling speed of petals" #Codewars. #100DaysOfCode
+
+**Thoughts:** 
+
 ## Day 13: June 15, 2018
 
 **Today's Progress**: #R2D12 30% completed of JS course at #Udemy. Practicing JS with kata "Difference of Volumes of Cuboids", "How good are you really?" & "CSV representation of array" #Codewars. #100DaysOfCode
