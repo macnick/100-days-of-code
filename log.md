@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 15: June 17, 2018
+
+**Today's Progress**: #R2D14 Filemaker developing for customer and practicing JS with 4 kata "Returning Strings", "Simple Fun #352: Reagent Formula", "Subtract the Sum" & "Grasshopper - Debug" Rank #18100 #Codewars. #100DaysOfCode
+
+**Thoughts:** I finish 8 kyu kata in less than 2 minutes 
+
 ## Day 14: June 16, 2018
 
 **Today's Progress**: #R2D13 Reading about and practicing JS with kata "Beginner - Lost Without a Map", "String cleaning" & "The falling speed of petals" #Codewars. #100DaysOfCode
