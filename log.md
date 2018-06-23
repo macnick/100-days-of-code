@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 18: June 20, 2018
+
+**Today's Progress**: #R2D18 Reading YDKJS and practicing JS with kata "Check the exam", "Count Odd Numbers below n", "Who ate the cookie?" & "Define a card suit" #Codewars. #100DaysOfCode
+
+**Thoughts:** I finish 8 kyu kata in less than 2 minutes 
+
+## Day 17: June 19, 2018
+
+**Today's Progress**: #R2D17 35% completed of JS course at #Udemy. Practicing JS with kata "Return Negative", "Array plus array" & "Multiple of index" #Codewars. #100DaysOfCode
+
+**Thoughts:** I finish 8 kyu kata in less than 2 minutes 
+
 ## Day 16: June 18, 2018
 
 **Today's Progress**: #R2D16 Filemaker developing all morning. Practicing JS with 4 kata "Do I get a bonus?", "Who is going to pay for the wall?", "Kata Example Twist" & "Man in the west" #Codewars. #100DaysOfCode
