@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 20: June 22, 2018
+
+**Today's Progress**: #R2D20 Reading YDKJS and practicing JS with kata "Type of sum", "Parse nice int from char problem", "Find out whether the shape is a cube" & "Even or Odd" #Codewars. #100DaysOfCode
+
+**Thoughts:** I finish 8 kyu kata in less than 2 minutes 
+
+## Day 19: June 21, 2018
+
+**Today's Progress**: #R2D19 I going on a business trip for the next 3 days. Only JS practice at #Codewars today. Did 4 kata "MakeUpperCase", "Thinkful - Number Drills: Pixelart planning", "Can we divide it?" & "Multiplication table for number". #100DaysOfCode
+
+**Thoughts:** I finish 8 kyu kata in less than 2 minutes 
+
 ## Day 18: June 20, 2018
 
 **Today's Progress**: #R2D18 Reading YDKJS and practicing JS with kata "Check the exam", "Count Odd Numbers below n", "Who ate the cookie?" & "Define a card suit" #Codewars. #100DaysOfCode
