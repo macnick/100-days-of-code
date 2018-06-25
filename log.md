@@ -1,34 +1,46 @@
 # 100 Days Of Code - Log
 
+## Day 22: June 24, 2018
+
+**Today's Progress**: #R2D22 Lots of Filemaker developing. But I did my daily JS practice with kata "You only need one - Beginner", "Geometry Basics: Circle Area in 2D" & "Potenciation" #Codewars. #100DaysOfCode
+
+**Thoughts:** Rank 15,000 @ Codewars
+
+## Day 21: June 23, 2018
+
+**Today's Progress**: #R2D21 35% completed of JS course at #Udemy. Practicing JS with kata "USD => CNY", "Third Angle of a Triangle", "Aspect Ratio Cropping - Part 1" & "Reversed Words" #Codewars. #100DaysOfCode
+
+**Thoughts:** Rank 15,500 at Codewars
+
 ## Day 20: June 22, 2018
 
 **Today's Progress**: #R2D20 Reading YDKJS and practicing JS with kata "Type of sum", "Parse nice int from char problem", "Find out whether the shape is a cube" & "Even or Odd" #Codewars. #100DaysOfCode
 
-**Thoughts:** I finish 8 kyu kata in less than 2 minutes 
+**Thoughts:**  
 
 ## Day 19: June 21, 2018
 
 **Today's Progress**: #R2D19 I going on a business trip for the next 3 days. Only JS practice at #Codewars today. Did 4 kata "MakeUpperCase", "Thinkful - Number Drills: Pixelart planning", "Can we divide it?" & "Multiplication table for number". #100DaysOfCode
 
-**Thoughts:** I finish 8 kyu kata in less than 2 minutes 
+**Thoughts:**  
 
 ## Day 18: June 20, 2018
 
 **Today's Progress**: #R2D18 Reading YDKJS and practicing JS with kata "Check the exam", "Count Odd Numbers below n", "Who ate the cookie?" & "Define a card suit" #Codewars. #100DaysOfCode
 
-**Thoughts:** I finish 8 kyu kata in less than 2 minutes 
+**Thoughts:** 
 
 ## Day 17: June 19, 2018
 
 **Today's Progress**: #R2D17 35% completed of JS course at #Udemy. Practicing JS with kata "Return Negative", "Array plus array" & "Multiple of index" #Codewars. #100DaysOfCode
 
-**Thoughts:** I finish 8 kyu kata in less than 2 minutes 
+**Thoughts:**  
 
 ## Day 16: June 18, 2018
 
 **Today's Progress**: #R2D16 Filemaker developing all morning. Practicing JS with 4 kata "Do I get a bonus?", "Who is going to pay for the wall?", "Kata Example Twist" & "Man in the west" #Codewars. #100DaysOfCode
 
-**Thoughts:** I finish 8 kyu kata in less than 2 minutes 
+**Thoughts:**  
 
 ## Day 15: June 17, 2018
 
