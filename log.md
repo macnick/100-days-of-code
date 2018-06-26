@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 23: June 25, 2018
+
+**Today's Progress**: #R2D23 Filemaker developing again today. Never miss my daily JS practice with kata "Do you speak "English"?", "!a == a ?!" & "What's the real floor?" #Codewars. #100DaysOfCode
+
+**Thoughts:** Rank 14,530 @ Codewars
+
 ## Day 22: June 24, 2018
 
 **Today's Progress**: #R2D22 Lots of Filemaker developing. But I did my daily JS practice with kata "You only need one - Beginner", "Geometry Basics: Circle Area in 2D" & "Potenciation" #Codewars. #100DaysOfCode
