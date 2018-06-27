@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 24: June 26, 2018
+
+**Today's Progress**: #R2D24 Major reconstruction in a Filemaker solution. Daily JS practice with kata "Jenny's secret message"?", "Is integer safe to use?" & "Convert a Number to a String!" #Codewars. #100DaysOfCode
+
+**Thoughts:** Rank 14,164 @ Codewars
+
 ## Day 23: June 25, 2018
 
 **Today's Progress**: #R2D23 Filemaker developing again today. Never miss my daily JS practice with kata "Do you speak "English"?", "!a == a ?!" & "What's the real floor?" #Codewars. #100DaysOfCode
@@ -38,7 +44,7 @@
 
 ## Day 17: June 19, 2018
 
-**Today's Progress**: #R2D17 35% completed of JS course at #Udemy. Practicing JS with kata "Return Negative", "Array plus array" & "Multiple of index" #Codewars. #100DaysOfCode
+**Today's Progress**: #R2D17 46% completed of JS course at #Udemy. Practicing JS with kata "Return Negative", "Array plus array" & "Multiple of index" #Codewars. #100DaysOfCode
 
 **Thoughts:**  
 
@@ -62,13 +68,13 @@
 
 ## Day 13: June 15, 2018
 
-**Today's Progress**: #R2D13 30% completed of JS course at #Udemy. Practicing JS with kata "Difference of Volumes of Cuboids", "How good are you really?" & "CSV representation of array" #Codewars. #100DaysOfCode
+**Today's Progress**: #R2D13 35% completed of JS course at #Udemy. Practicing JS with kata "Difference of Volumes of Cuboids", "How good are you really?" & "CSV representation of array" #Codewars. #100DaysOfCode
 
 **Thoughts:** 
 
 ## Day 12: June 14, 2018
 
-**Today's Progress**: #R2D12 25% completed of JS course at #Udemy. Katas completed "Hex to Decimal", "Surface Area and Volume of a Box" & "Capitalization and Mutability" #Codewars. #100DaysOfCode
+**Today's Progress**: #R2D12 30% completed of JS course at #Udemy. Katas completed "Hex to Decimal", "Surface Area and Volume of a Box" & "Capitalization and Mutability" #Codewars. #100DaysOfCode
 
 **Thoughts:** 
 
