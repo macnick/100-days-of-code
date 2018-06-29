@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 26: June 28, 2018
+
+**Today's Progress**: #R2D26 #Filemaker scripting all morning. Today's practice JS with kata "Grasshopper - Summation", "Get Nth Even Number" & "8kyu interpreters: HQ9+" #Codewars. #100DaysOfCode
+
+**Thoughts:**
+
+## Day 25: June 27, 2018
+
+**Today's Progress**: #R2D25 46% completed of JS course at #Udemy. Practicing JS with kata "Counting sheep...", "Calculate Price Excluding VAT", "Heads and Legs" & "For UFC Fans: Conor McGregor vs George Saint Pierre" #Codewars. #100DaysOfCode
+
+**Thoughts:**
+
 ## Day 24: June 26, 2018
 
 **Today's Progress**: #R2D24 Major reconstruction in a Filemaker solution. Daily JS practice with kata "Jenny's secret message"?", "Is integer safe to use?" & "Convert a Number to a String!" #Codewars. #100DaysOfCode
