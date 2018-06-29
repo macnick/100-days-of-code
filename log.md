@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R2D26 #Filemaker scripting all morning. Today's practice JS with kata "Grasshopper - Summation", "Get Nth Even Number" & "8kyu interpreters: HQ9+" #Codewars. #100DaysOfCode
 
-**Thoughts:**
+**Thoughts:** Rank 13,634 @ Codewars
 
 ## Day 25: June 27, 2018
 
