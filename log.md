@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 27: June 29, 2018
+
+**Today's Progress**: #R2D27 #Filemaker development did go well today. Daily JS practice with kata "Grasshopper - Terminal game move function", "Return the day", "Is he gonna survive?", & "Will there be enough space?" #Codewars. #100DaysOfCode
+
+**Thoughts:** Rank 13,165 @ Codewars
+
 ## Day 26: June 28, 2018
 
 **Today's Progress**: #R2D26 #Filemaker scripting all morning. Today's practice JS with kata "Grasshopper - Summation", "Get Nth Even Number" & "8kyu interpreters: HQ9+" #Codewars. #100DaysOfCode
