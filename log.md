@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 28: June 30, 2018
+
+**Today's Progress**: #R2D28 Level Up at #Codewars. On my way to become a JS ninja :-) Daily JS practice with kata "Is it a number?", "Safen User Input Part I - htmlspecialchars", "Function 1 - hello world", & "No Loops 2 - You only need one" #100DaysOfCode
+
+**Thoughts:** Rank 11,200 @ Codewars
+
 ## Day 27: June 29, 2018
 
 **Today's Progress**: #R2D27 #Filemaker development did go well today. Daily JS practice with kata "Grasshopper - Terminal game move function", "Return the day", "Is he gonna survive?", & "Will there be enough space?" #Codewars. #100DaysOfCode
