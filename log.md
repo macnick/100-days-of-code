@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 29: July 1, 2018
+
+**Today's Progress**: #R2D29 66% completed of JS course at #Udemy. Practicing JS with kata "Sum The Strings", "isReallyNaN", "Find the Integral", & "A Strange Trip to the Market" #100DaysOfCode
+
+**Thoughts:** Rank 11,200 @ Codewars
+
 ## Day 28: June 30, 2018
 
 **Today's Progress**: #R2D28 Level Up at #Codewars. On my way to become a JS ninja :-) Daily JS practice with kata "Is it a number?", "Safen User Input Part I - htmlspecialchars", "Function 1 - hello world", & "No Loops 2 - You only need one" #100DaysOfCode
@@ -20,7 +26,7 @@
 
 ## Day 25: June 27, 2018
 
-**Today's Progress**: #R2D25 46% completed of JS course at #Udemy. Practicing JS with kata "Counting sheep...", "Calculate Price Excluding VAT", "Heads and Legs" & "For UFC Fans: Conor McGregor vs George Saint Pierre" #Codewars. #100DaysOfCode
+**Today's Progress**: #R2D25 60% completed of JS course at #Udemy. Practicing JS with kata "Counting sheep...", "Calculate Price Excluding VAT", "Heads and Legs" & "For UFC Fans: Conor McGregor vs George Saint Pierre" #Codewars. #100DaysOfCode
 
 **Thoughts:**
 
