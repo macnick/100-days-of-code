@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R2D29 66% completed of JS course at #Udemy. Practicing JS with kata "Sum The Strings", "isReallyNaN", "Find the Integral", & "A Strange Trip to the Market" #100DaysOfCode
 
-**Thoughts:** Rank 11,200 @ Codewars
+**Thoughts:** Rank 11,110 @ Codewars
 
 ## Day 28: June 30, 2018
 
