@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 30: July 2, 2018
+
+**Today's Progress**: #R2D30 Started learning Meteor.js. Practicing JS with kata "", "", "", & " " #100DaysOfCode
+
+**Thoughts:** Rank 11,110 @ Codewars
+
 ## Day 29: July 1, 2018
 
 **Today's Progress**: #R2D29 66% completed of JS course at #Udemy. Practicing JS with kata "Sum The Strings", "isReallyNaN", "Find the Integral", & "A Strange Trip to the Market" #100DaysOfCode
