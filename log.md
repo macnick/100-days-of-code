@@ -2,7 +2,7 @@
 
 ## Day 30: July 2, 2018
 
-**Today's Progress**: #R2D30 Started learning Meteor.js. Practicing JS with kata "", "", "", & " " #100DaysOfCode
+**Today's Progress**: #R2D30 Started learning Meteor.js. Practicing JS with kata "TV Remote", "Sentence Smash" & "Two Sum" #100DaysOfCode
 
 **Thoughts:** Rank 11,110 @ Codewars
 
