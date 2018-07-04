@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 31: July 3, 2018
+
+**Today's Progress**: #R2D31 72% completed of JS course at #Udemy. Daily JS practice with kata "Simple Pig Latin" & "Calculate average" #100DaysOfCode
+
+**Thoughts:** Rank 10,973 @ Codewars
+
 ## Day 30: July 2, 2018
 
 **Today's Progress**: #R2D30 Started learning Meteor.js. Practicing JS with kata "TV Remote", "Sentence Smash" & "Two Sum" #100DaysOfCode
