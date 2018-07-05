@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 32: July 4, 2018
+
+**Today's Progress**: #R2D32 Happy 4th of July to all my American friends. Daily JS practice with kata "Are arrow functions odd?", "Calculate BMI" & "Filter out the geese" #100DaysOfCode
+
+**Thoughts:** Rank 10,731 @ Codewars
+
 ## Day 31: July 3, 2018
 
 **Today's Progress**: #R2D31 72% completed of JS course at #Udemy. Daily JS practice with kata "Simple Pig Latin" & "Calculate average" #100DaysOfCode
