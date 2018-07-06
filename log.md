@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 33: July 5, 2018
+
+**Today's Progress**: #R2D33 Worked on #Filemaker live search scripts. Daily JS practice with kata "Beginner Series #4 Cockroach", "Beginner Series #2 Clock", "Beginner Series #1 School Paperwork" & "Pirates!! Are the Cannons ready!?" #100DaysOfCode
+
+**Thoughts:** Rank 10,582 @ Codewars
+
 ## Day 32: July 4, 2018
 
 **Today's Progress**: #R2D32 Happy 4th of July to all my American friends. Daily JS practice with kata "Are arrow functions odd?", "Calculate BMI" & "Filter out the geese" #100DaysOfCode
