@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 34: July 6, 2018
+
+**Today's Progress**: #R2D34 74% completed of JS course at #Udemy. Practicing JS with kata "Pizza Payments", "Predict your age!", "For Twins: 1. Types" & "TV Remote (shift and space)" #100DaysOfCode
+
+**Thoughts:** Rank 10,283 @ Codewars
+
 ## Day 33: July 5, 2018
 
 **Today's Progress**: #R2D33 Worked on #Filemaker live search scripts. Daily JS practice with kata "Beginner Series #4 Cockroach", "Beginner Series #2 Clock", "Beginner Series #1 School Paperwork" & "Pirates!! Are the Cannons ready!?" #100DaysOfCode
