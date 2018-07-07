@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 35: July 7, 2018
+
+**Today's Progress**: #R2D35 FileMaker development. I love to practice JS every day. Today's kata "Grasshopper - Bug Squashing", "Training JS #7: if..else and ternary operator", "Exclamation marks series #1: Remove a exclamation mark from the end of string" #100DaysOfCode
+
+**Thoughts:** Rank 10,238 @ Codewars
+
 ## Day 34: July 6, 2018
 
 **Today's Progress**: #R2D34 74% completed of JS course at #Udemy. Practicing JS with kata "Pizza Payments", "Predict your age!", "For Twins: 1. Types" & "TV Remote (shift and space)" #100DaysOfCode
