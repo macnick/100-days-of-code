@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 36: July 8, 2018
+
+**Today's Progress**: #R2D36 Reading the YDKJS today and little practice with kata "Disemvowel Trolls", "simple calculator" & "Find the Remainder" #100DaysOfCode
+
+**Thoughts:** Rank 10,238 @ Codewars
+
 ## Day 35: July 7, 2018
 
 **Today's Progress**: #R2D35 FileMaker development. I love to practice JS every day. Today's kata "Grasshopper - Bug Squashing", "Training JS #7: if..else and ternary operator", "Exclamation marks series #1: Remove a exclamation mark from the end of string" #100DaysOfCode
