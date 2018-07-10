@@ -2,7 +2,7 @@
 
 ## Day 37: July 9, 2018
 
-**Today's Progress**: #R2D36 74% completed of JS course at #Udemy. Practicing JS with kata "Decibel Scale", "Shorten Me: Mad Mathematician's Algorithm II (Subtraction)", "Cat and Mouse - 2D Version" & "Sum Arrays" #100DaysOfCode
+**Today's Progress**: #R2D36 75% completed of JS course at #Udemy. Practicing JS with kata "Decibel Scale", "Shorten Me: Mad Mathematician's Algorithm II (Subtraction)", "Cat and Mouse - 2D Version" & "Sum Arrays" #100DaysOfCode
 
 **Thoughts:** Rank 9,894 @ Codewars
 
