@@ -10,7 +10,7 @@
 
 **Today's Progress**: #R2D36 Reading the YDKJS today and little practice with kata "Disemvowel Trolls", "simple calculator" & "Find the Remainder" #100DaysOfCode
 
-**Thoughts:** Rank 10,238 @ Codewars
+**Thoughts:** Rank 10,119 @ Codewars
 
 ## Day 35: July 7, 2018
 
