@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 38: July 10, 2018
+
+**Today's Progress**: #R2D36 Many hours of #Filemaker developing. JS practice with kata "Offspring Traits", "Fruit Machine", "JS is Weird: Return a" & "JS is Weird: Return fuelstar" #100DaysOfCode
+
+**Thoughts:** Rank 9,811 @ Codewars
+
 ## Day 37: July 9, 2018
 
 **Today's Progress**: #R2D36 75% completed of JS course at #Udemy. Practicing JS with kata "Decibel Scale", "Shorten Me: Mad Mathematician's Algorithm II (Subtraction)", "Cat and Mouse - 2D Version" & "Sum Arrays" #100DaysOfCode
