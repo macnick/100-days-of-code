@@ -1,14 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 40: July 12, 2018
+
+**Today's Progress**: #R2D40 75% completed of JS course at #Udemy. Daily JS practice with kata "Projectile Motion", "Driving License", "SpeedCode #2 - Array Madness" & "Function 3 - multiplying two numbers" #100DaysOfCode
+
+**Thoughts:** Rank 9,595 @ Codewars
+
+## Day 39: July 11, 2018
+
+**Today's Progress**: #R2D39 Lots of #Filemaker developing. Daily JS practice with kata "To square(root) or not to square(root)", "Weird words", "Simple multiplication" & "Odd-Even String Sort" #100DaysOfCode
+
+**Thoughts:** Rank 9,680 @ Codewars
+
 ## Day 38: July 10, 2018
 
-**Today's Progress**: #R2D36 Many hours of #Filemaker developing. JS practice with kata "Offspring Traits", "Fruit Machine", "JS is Weird: Return a" & "JS is Weird: Return fuelstar" #100DaysOfCode
+**Today's Progress**: #R2D38 Many hours of #Filemaker developing. JS practice with kata "Offspring Traits", "Fruit Machine", "JS is Weird: Return a" & "JS is Weird: Return fuelstar" #100DaysOfCode
 
 **Thoughts:** Rank 9,811 @ Codewars
 
 ## Day 37: July 9, 2018
 
-**Today's Progress**: #R2D36 75% completed of JS course at #Udemy. Practicing JS with kata "Decibel Scale", "Shorten Me: Mad Mathematician's Algorithm II (Subtraction)", "Cat and Mouse - 2D Version" & "Sum Arrays" #100DaysOfCode
+**Today's Progress**: #R2D37 75% completed of JS course at #Udemy. Practicing JS with kata "Decibel Scale", "Shorten Me: Mad Mathematician's Algorithm II (Subtraction)", "Cat and Mouse - 2D Version" & "Sum Arrays" #100DaysOfCode
 
 **Thoughts:** Rank 9,894 @ Codewars
 
