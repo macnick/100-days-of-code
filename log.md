@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 41: July 13, 2018
+
+**Today's Progress**: #R2D40 Moved to a new office today. Practicing JS at #Codewars with kata "Are the numbers in order?", "getNames()", "Are the numbers in order?" & "JavaScript Array Filter" #100DaysOfCode
+
+**Thoughts:** Rank 9,420 @ Codewars
+
 ## Day 40: July 12, 2018
 
 **Today's Progress**: #R2D40 75% completed of JS course at #Udemy. Daily JS practice with kata "Projectile Motion", "Driving License", "SpeedCode #2 - Array Madness" & "Function 3 - multiplying two numbers" #100DaysOfCode
