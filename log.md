@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 42: July 14, 2018
+
+**Today's Progress**: #R2D42 Business trip in Patras, Greece. JS practice at #Codewars with kata "Drying Potatoes", "Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string", "Remove consecutive duplicate words" & "Remove duplicate words" #100DaysOfCode
+
+**Thoughts:** Rank 9,433 @ Codewars
+
 ## Day 41: July 13, 2018
 
 **Today's Progress**: #R2D40 Moved to a new office today. Practicing JS at #Codewars with kata "Are the numbers in order?", "getNames()", "Are the numbers in order?" & "JavaScript Array Filter" #100DaysOfCode
