@@ -4,13 +4,13 @@
 
 **Today's Progress**: #R2D44 Travel to Athens, Greece today. Didn't miss my daily JS practice at #Codewars with kata "String Packet Based Communications", "noobCode 01: SUPERSIZE ME.... or rather, this integer!" & "Jubilee Year" #100DaysOfCode
 
-**Thoughts:** Rank 9,219 @ Codewars
+**Thoughts:** Rank 9,xxx @ Codewars
 
 ## Day 43: July 15, 2018
 
 **Today's Progress**: #R2D43 LOTS of #FileMaker pro developing today. Practice coding JS at #Codewars with kata "Consecutive strings", "NBA full 48 minutes average" & "Simple Fun #22: Is Smooth?" #100DaysOfCode
 
-**Thoughts:** Rank 9,433 @ Codewars
+**Thoughts:** Rank 9,219 @ Codewars
 
 ## Day 42: July 14, 2018
 
