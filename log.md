@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 44: July 16, 2018
+
+**Today's Progress**: #R2D44 Travel to Athens, Greece today. Didn't miss my daily JS practice at #Codewars with kata "String Packet Based Communications", "noobCode 01: SUPERSIZE ME.... or rather, this integer!" & "Jubilee Year" #100DaysOfCode
+
+**Thoughts:** Rank 9,219 @ Codewars
+
 ## Day 43: July 15, 2018
 
 **Today's Progress**: #R2D43 LOTS of #FileMaker pro developing today. Practice coding JS at #Codewars with kata "Consecutive strings", "NBA full 48 minutes average" & "Simple Fun #22: Is Smooth?" #100DaysOfCode
@@ -14,7 +20,7 @@
 
 ## Day 41: July 13, 2018
 
-**Today's Progress**: #R2D40 Moved to a new office today. Practicing JS at #Codewars with kata "Are the numbers in order?", "getNames()", "Are the numbers in order?" & "JavaScript Array Filter" #100DaysOfCode
+**Today's Progress**: #R2D41 Moved to a new office today. Practicing JS at #Codewars with kata "Are the numbers in order?", "getNames()", "Are the numbers in order?" & "JavaScript Array Filter" #100DaysOfCode
 
 **Thoughts:** Rank 9,420 @ Codewars
 
