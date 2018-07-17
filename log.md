@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 45: July 17, 2018
+
+**Today's Progress**: #R2D45 More #FileMaker pro scripting for customers. Daily JS practice at #Codewars with kata "Simple beads count", "Covfefe" & "Time Math" #100DaysOfCode
+
+**Thoughts:** Rank 9,xxx @ Codewars
+
 ## Day 44: July 16, 2018
 
 **Today's Progress**: #R2D44 Travel to Athens, Greece today. Didn't miss my daily JS practice at #Codewars with kata "String Packet Based Communications", "noobCode 01: SUPERSIZE ME.... or rather, this integer!" & "Jubilee Year" #100DaysOfCode
 
-**Thoughts:** Rank 9,xxx @ Codewars
+**Thoughts:** Rank 9,155 @ Codewars
 
 ## Day 43: July 15, 2018
 
