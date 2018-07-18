@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R2D45 More #FileMaker pro scripting for customers. Daily JS practice at #Codewars with kata "Simple beads count", "Covfefe" & "Time Math" #100DaysOfCode
 
-**Thoughts:** Rank 9,xxx @ Codewars
+**Thoughts:** Rank 9,089 @ Codewars
 
 ## Day 44: July 16, 2018
 
