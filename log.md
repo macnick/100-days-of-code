@@ -8,7 +8,7 @@
 
 ## Day 46: July 18, 2018
 
-**Today's Progress**: #R2D46 75% completed of JS course at #Udemy. JS practice at #Codewars with kata "Is this my tail?", "Basic variable assignment" & "Mr. Freeze" #100DaysOfCode
+**Today's Progress**: #R2D46 77% completed of JS course at #Udemy. JS practice at #Codewars with kata "Is this my tail?", "Basic variable assignment" & "Mr. Freeze" #100DaysOfCode
 
 **Thoughts:** Rank 8,965 @ Codewars
 
