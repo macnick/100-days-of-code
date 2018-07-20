@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 47: July 19, 2018
+
+**Today's Progress**: #R2D47 Travelling again today but I never miss my JS practice at #Codewars with kata "Multiples of 3 or 5", "RGB To Hex Conversion" & "Age Range Compatibility Equation" #100DaysOfCode
+
+**Thoughts:** Rank 8,813 @ Codewars
+
 ## Day 46: July 18, 2018
 
 **Today's Progress**: #R2D46 75% completed of JS course at #Udemy. JS practice at #Codewars with kata "Is this my tail?", "Basic variable assignment" & "Mr. Freeze" #100DaysOfCode
