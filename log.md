@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 48: July 20, 2018
+
+**Today's Progress**: #R2D48 #FileMaker pro 15 developing today. #Codewars JS practice with kata "Help the Fruit Guy", "Return to Sanity" & "Get Planet Name By ID" #100DaysOfCode
+
+**Thoughts:** Rank 8,783 @ Codewars
+
 ## Day 47: July 19, 2018
 
 **Today's Progress**: #R2D47 Travelling again today but I never miss my JS practice at #Codewars with kata "Multiples of 3 or 5", "RGB To Hex Conversion" & "Age Range Compatibility Equation" #100DaysOfCode
