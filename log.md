@@ -10,7 +10,7 @@
 
 **Today's Progress**: #R2D49 #FileMaker debugging day. Daily JS practice at #Codewars with kata "Square(n) Sum", "Short Long Short" & "Shifty Closures" #100DaysOfCode
 
-**Thoughts:** Rank 8,783 @ Codewars
+**Thoughts:** Rank 8,794 @ Codewars
 
 ## Day 48: July 20, 2018
 
