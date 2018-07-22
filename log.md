@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 50: July 22, 2018
+
+**Today's Progress**: #R2D50 #FileMaker coding since early in the morning. Then swim at one of these Greek beaches! Didn't miss my daily JS practice at #Codewars with kata "Basic Training: Add item to an Array", "Jaden Casing Strings" & "How many lightsabers do you own?" #100DaysOfCode
+
+**Thoughts:** Rank 8,783 @ Codewars
+
 ## Day 49: July 21, 2018
 
-**Today's Progress**: #R2D48 #FileMaker debugging day. Daily JS practice at #Codewars with kata "Square(n) Sum", "Short Long Short" & "Shifty Closures" #100DaysOfCode
+**Today's Progress**: #R2D49 #FileMaker debugging day. Daily JS practice at #Codewars with kata "Square(n) Sum", "Short Long Short" & "Shifty Closures" #100DaysOfCode
 
 **Thoughts:** Rank 8,783 @ Codewars
 
