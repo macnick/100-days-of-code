@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 49: July 21, 2018
+
+**Today's Progress**: #R2D48 #FileMaker debugging day. Daily JS practice at #Codewars with kata "Square(n) Sum", "Short Long Short" & "Shifty Closures" #100DaysOfCode
+
+**Thoughts:** Rank 8,783 @ Codewars
+
 ## Day 48: July 20, 2018
 
 **Today's Progress**: #R2D48 #FileMaker pro 15 developing today. #Codewars JS practice with kata "Help the Fruit Guy", "Return to Sanity" & "Get Planet Name By ID" #100DaysOfCode
