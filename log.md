@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 51: July 23, 2018
+
+**Today's Progress**: #R2D51 Another trip today in Thessaloniki, Greece. Practiced JS at #Codewars with kata "Printer Errors", "Largest 5 digit number in a series" & "Refactored Greeting" #100DaysOfCode
+
+**Thoughts:** Rank 8,807 @ Codewars
+
 ## Day 50: July 22, 2018
 
 **Today's Progress**: #R2D50 #FileMaker coding since early in the morning. Then swim at one of these Greek beaches! Didn't miss my daily JS practice at #Codewars with kata "Basic Training: Add item to an Array", "Jaden Casing Strings" & "How many lightsabers do you own?" #100DaysOfCode
