@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 54: July 26, 2018
+
+**Today's Progress**: #R2D54 Learning about the new features in JS ES6. Practiced JS at #Codewars with kata "Convert a Boolean to a String", "Switch it Up!" & "Harry and the Mathematician's Chicken".
+
+**Thoughts:** Rank 8,584 @ Codewars
+
+## Day 53: July 25, 2018
+
+**Today's Progress**: #R2D53 Only JS practice today with kata at #Codewars "Debug Sum of Digits of a Number", "Sum of digits" & "DNA to RNA Conversion" #100DaysOfCode
+
+**Thoughts:** Rank 8,584 @ Codewars
+
 ## Day 52: July 24, 2018
 
-**Today's Progress**: #R2D52 Reading the YDKJS today and little practice with kata at #Codewars "Sort Numbers", "Exclusive "or" (xor) Logical Operator" & "Fix string caseg" #100DaysOfCode
+**Today's Progress**: #R2D52 Reading the YDKJS today and little practice with kata at #Codewars "Sort Numbers", "Exclusive "or" (xor) Logical Operator" & "Fix string case" #100DaysOfCode
 
 **Thoughts:** Rank 8,807 @ Codewars
 
