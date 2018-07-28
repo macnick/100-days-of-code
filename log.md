@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 55: July 27, 2018
+
+**Today's Progress**: #R2D55 Learning more about regular expressions today. Of course more kata at #Codewars with kata "N High Scores", "My head is at the wrong end!" & "Ninja vs Samurai: Strike".
+
+**Thoughts:** Rank 8,584 @ Codewars
+
 ## Day 54: July 26, 2018
 
 **Today's Progress**: #R2D54 Learning about the new features in JS ES6. Practiced JS at #Codewars with kata "Convert a Boolean to a String", "Switch it Up!" & "Harry and the Mathematician's Chicken".
