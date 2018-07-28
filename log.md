@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R2D55 Learning more about regular expressions today. Of course more kata at #Codewars with kata "N High Scores", "My head is at the wrong end!" & "Ninja vs Samurai: Strike".
 
-**Thoughts:** Rank 8,584 @ Codewars
+**Thoughts:** Rank 8,566 @ Codewars
 
 ## Day 54: July 26, 2018
 
