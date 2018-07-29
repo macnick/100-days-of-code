@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 56: July 28, 2018
+
+**Today's Progress**: #R2D56 Learning some basic UNIX terminal commands. Daily JS practice at #Codewars with kata "JavaScript class-like objects", "Mexican Wave" & "Semi-Optional".
+
+**Thoughts:** Rank 8,571 @ Codewars
+
 ## Day 55: July 27, 2018
 
 **Today's Progress**: #R2D55 Learning more about regular expressions today. Of course more kata at #Codewars with kata "N High Scores", "My head is at the wrong end!" & "Ninja vs Samurai: Strike".
