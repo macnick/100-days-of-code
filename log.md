@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 57: July 29, 2018
+
+**Today's Progress**: #R2D57 Learning new stuff about GitHub. Practiced JS at #Codewars with kata "Building Strings From a Hash", "Function 2 - squaring an argument" & "Get key/value pairs as arrays".
+
+**Thoughts:** Rank 8,571 @ Codewars
+
 ## Day 56: July 28, 2018
 
 **Today's Progress**: #R2D56 Learning some basic UNIX terminal commands. Daily JS practice at #Codewars with kata "JavaScript class-like objects", "Mexican Wave" & "Semi-Optional".
