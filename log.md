@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R2D57 Learning new stuff about GitHub. Practiced JS at #Codewars with kata "Building Strings From a Hash", "Function 2 - squaring an argument" & "Get key/value pairs as arrays".
 
-**Thoughts:** Rank 8,571 @ Codewars
+**Thoughts:** Rank 8,480 @ Codewars
 
 ## Day 56: July 28, 2018
 
