@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 58: July 30, 2018
+
+**Today's Progress**: #R2D58 80% completed of JS course at #Udemy. JS practice at #Codewars with kata "Convert Hash To An Array", "Growth of a Population" & "Points of Reflection".
+
+**Thoughts:** Rank 8,480 @ Codewars
+
 ## Day 57: July 29, 2018
 
 **Today's Progress**: #R2D57 Learning new stuff about GitHub. Practiced JS at #Codewars with kata "Building Strings From a Hash", "Function 2 - squaring an argument" & "Get key/value pairs as arrays".
