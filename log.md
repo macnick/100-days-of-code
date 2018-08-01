@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 59: July 31, 2018
+
+**Today's Progress**: #R2D59 Only JS practice today with kata at #Codewars "Collatz Conjecture (3n+1)", "Bubblesort Once" & "Drone Fly-By" #100DaysOfCode
+
+**Thoughts:** Rank 8,396 @ Codewars
+
 ## Day 58: July 30, 2018
 
 **Today's Progress**: #R2D58 80% completed of JS course at #Udemy. JS practice at #Codewars with kata "Convert Hash To An Array", "Growth of a Population" & "Points of Reflection".
