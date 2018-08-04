@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 61: August 2, 2018
+
+**Today's Progress**: #R2D61 Learning about new array ES6 methods. Daily JS practice at #Codewars with kata "Fizz / Buzz", "Warm Up for Speed." & "Unicode Total" #100DaysOfCode
+
+**Thoughts:** Rank 8,170 @ Codewars
+
+## Day 60: August 1, 2018
+
+**Today's Progress**: #R2D60 Learning about ES6 destructuring. Daily JS practice at #Codewars with kata "Push a hash/an object into array", "Max Headroom and JavaScript style" & "Substituting Variables Into Strings: Padded Numbers" #100DaysOfCode
+
+**Thoughts:** Rank 8,280 @ Codewars
+
 ## Day 59: July 31, 2018
 
 **Today's Progress**: #R2D59 Only JS practice today with kata at #Codewars "Collatz Conjecture (3n+1)", "Bubblesort Once" & "Drone Fly-By" #100DaysOfCode
