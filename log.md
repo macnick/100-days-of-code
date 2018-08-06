@@ -1,14 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 64: August 5, 2018
+
+**Today's Progress**: #R2D64 Learning about spread parameters in ES6. Daily JS practice at #Codewars with kata: "Array - squareUp b!", "Broken Counter" & "Plural" #100DaysOfCode
+
+**Thoughts:** Rank 7,633 @ Codewars
+
 ## Day 63: August 4, 2018
 
-**Today's Progress**: #R2D63 Learning about spread parameters in ES6. Kata completed at #Codewars: "Array - squareUp b!", "Broken Counter" & "Plural" #100DaysOfCode
+**Today's Progress**: #R2D63 Learning about spread operator in ES6. Kata completed at #Codewars: "Array - squareUp b!", "Broken Counter" & "Plural" #100DaysOfCode
 
-**Thoughts:** Rank 7,970 @ Codewars
+**Thoughts:** Rank 7,770 @ Codewars
 
 ## Day 62: August 3, 2018
 
-**Today's Progress**: #R2D62 Learning nad practicing the spread operator in ES6. Daily JS practice at #Codewars with kata "Every possible sum of two digits", "Elapsed Seconds" & "Car Park Escape" #100DaysOfCode
+**Today's Progress**: #R2D62 Learning and practicing the spread operator in ES6. Daily JS practice at #Codewars with kata "Every possible sum of two digits", "Elapsed Seconds" & "Car Park Escape" #100DaysOfCode
 
 **Thoughts:** Rank 7,970 @ Codewars
 
