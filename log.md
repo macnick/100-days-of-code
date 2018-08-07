@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 65: August 6, 2018
+
+**Today's Progress**: #R2D65 Learning about default parameters in ES6. Practice at #Codewars with kata: "Welcome to the City", "A function within a function" & "Swap Values" #100DaysOfCode
+
+**Thoughts:** Rank 7,626 @ Codewars
+
 ## Day 64: August 5, 2018
 
-**Today's Progress**: #R2D64 Learning about spread parameters in ES6. Daily JS practice at #Codewars with kata: "Array - squareUp b!", "Broken Counter" & "Plural" #100DaysOfCode
+**Today's Progress**: #R2D64 Learning about rest parameters in ES6. Daily JS practice at #Codewars with kata: "Array - squareUp b!", "Broken Counter" & "Plural" #100DaysOfCode
 
 **Thoughts:** Rank 7,633 @ Codewars
 
