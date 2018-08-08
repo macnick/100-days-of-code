@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 66: August 7, 2018
+
+**Today's Progress**: #R2D66 Learning about maps in ES6. Practice at #Codewars with kata: "Return substring instance count", "Number toString" & "Are You Playing Banjo?" #100DaysOfCode
+
+**Thoughts:** Rank 7,649 @ Codewars
+
 ## Day 65: August 6, 2018
 
 **Today's Progress**: #R2D65 Learning about default parameters in ES6. Practice at #Codewars with kata: "Welcome to the City", "A function within a function" & "Swap Values" #100DaysOfCode
