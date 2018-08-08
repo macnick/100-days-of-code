@@ -2,25 +2,25 @@
 
 ## Day 66: August 7, 2018
 
-**Today's Progress**: #R2D66 Learning about maps in ES6. Practice at #Codewars with kata: "Return substring instance count", "Number toString" & "Are You Playing Banjo?" #100DaysOfCode
+**Today's Progress**: #R2D66 Learning about classes in ES6. Practice at #Codewars with kata: "Return substring instance count", "Number toString" & "Are You Playing Banjo?" #100DaysOfCode
 
 **Thoughts:** Rank 7,649 @ Codewars
 
 ## Day 65: August 6, 2018
 
-**Today's Progress**: #R2D65 Learning about default parameters in ES6. Practice at #Codewars with kata: "Welcome to the City", "A function within a function" & "Swap Values" #100DaysOfCode
+**Today's Progress**: #R2D65 Learning about maps in ES6. Practice at #Codewars with kata: "Welcome to the City", "A function within a function" & "Swap Values" #100DaysOfCode
 
 **Thoughts:** Rank 7,626 @ Codewars
 
 ## Day 64: August 5, 2018
 
-**Today's Progress**: #R2D64 Learning about rest parameters in ES6. Daily JS practice at #Codewars with kata: "Array - squareUp b!", "Broken Counter" & "Plural" #100DaysOfCode
+**Today's Progress**: #R2D64 Learning about default parameters in ES6. Daily JS practice at #Codewars with kata: "Array - squareUp b!", "Broken Counter" & "Plural" #100DaysOfCode
 
 **Thoughts:** Rank 7,633 @ Codewars
 
 ## Day 63: August 4, 2018
 
-**Today's Progress**: #R2D63 Learning about spread operator in ES6. Kata completed at #Codewars: "Array - squareUp b!", "Broken Counter" & "Plural" #100DaysOfCode
+**Today's Progress**: #R2D63 Learning about rest parameters in ES6. Kata completed at #Codewars: "Array - squareUp b!", "Broken Counter" & "Plural" #100DaysOfCode
 
 **Thoughts:** Rank 7,770 @ Codewars
 
