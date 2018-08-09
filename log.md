@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 67: August 87, 2018
+
+**Today's Progress**: #R2D67 Learning about subclasses in ES6. More kata completed at #Codewars: "Remove anchor from URL", "IP Validation" & "Grader" #100DaysOfCode
+
+**Thoughts:** Rank 7,493 @ Codewars
+
 ## Day 66: August 7, 2018
 
 **Today's Progress**: #R2D66 Learning about classes in ES6. Practice at #Codewars with kata: "Return substring instance count", "Number toString" & "Are You Playing Banjo?" #100DaysOfCode
