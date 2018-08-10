@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 68: August 9, 2018
+
+**Today's Progress**: #R2D68 Coding some complex scripts in #FileMaker Pro 16. Daily JS practice at #Codewars: "String ends with?", "Sort arrays - 1" & "No oddities here" #100DaysOfCode
+
+**Thoughts:** Rank 7,318 @ Codewars
+
 ## Day 67: August 8, 2018
 
 **Today's Progress**: #R2D67 Learning about subclasses in ES6. More kata completed at #Codewars: "Remove anchor from URL", "IP Validation" & "Grader" #100DaysOfCode
