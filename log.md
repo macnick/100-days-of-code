@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 69: August 10, 2018
+
+**Today's Progress**: #R2D69 More #FileMaker Pro scripting today. Never miss my JS practice at #Codewars: "Reverse List Order", "Limit string length - 1" & "You Can't Code Under Pressure #1" #100DaysOfCode
+
+**Thoughts:** Rank 7,318 @ Codewars
+
 ## Day 68: August 9, 2018
 
 **Today's Progress**: #R2D68 Coding some complex scripts in #FileMaker Pro 16. Daily JS practice at #Codewars: "String ends with?", "Sort arrays - 1" & "No oddities here" #100DaysOfCode
