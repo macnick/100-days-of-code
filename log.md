@@ -2,7 +2,7 @@
 
 ## Day 72: August 13, 2018
 
-**Today's Progress**: #R2D72 Just an emergency in a #FileMaker Pro Solution. Daily JS practice at #Codewars: "", "" & "" #100DaysOfCode
+**Today's Progress**: #R2D72 One day vacations. No internet here. I missed my daily JS practice at #Codewars #100DaysOfCode
 
 **Thoughts:** Rank 7,221 @ Codewars
 
