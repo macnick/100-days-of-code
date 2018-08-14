@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 72: August 13, 2018
+
+**Today's Progress**: #R2D72 Just an emergency in a #FileMaker Pro Solution. Daily JS practice at #Codewars: "", "" & "" #100DaysOfCode
+
+**Thoughts:** Rank 7,221 @ Codewars
+
+## Day 71: August 12, 2018
+
+**Today's Progress**: #R2D71 Just an emergency in a #FileMaker Pro Solution. Daily JS practice at #Codewars: "generateRules", "Simple Fun #74: Growing Plant" & "Hello Happy Codevarrior!" #100DaysOfCode
+
+**Thoughts:** Rank 7,221 @ Codewars
+
 ## Day 70: August 11, 2018
 
 **Today's Progress**: #R2D70 #FileMaker Pro development again. Daily JS practice at #Codewars: "Regular Ball Super Ball", "Honey to the Bee" & "Color Ghost" #100DaysOfCode
