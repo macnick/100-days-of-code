@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 73: August 14, 2018
+
+**Today's Progress**: #R2D73 Back to civilization again. Daily JS practice at #Codewars. Kata completed "Disarium Number (Special Numbers Series #3)", "The 'if' function" & "(Don't) Make Me Repeat Myself" #100DaysOfCode
+
+**Thoughts:** Rank 7,155 @ Codewars
+
 ## Day 72: August 13, 2018
 
 **Today's Progress**: #R2D72 One day vacations. No internet here. I missed my daily JS practice at #Codewars #100DaysOfCode
