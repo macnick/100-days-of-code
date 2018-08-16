@@ -10,7 +10,7 @@
 
 **Today's Progress**: #R2D74 #FileMaker Pro development today. More kata completed at #Codewars: "Sum of differences in array", "" & "" #100DaysOfCode
 
-**Thoughts:** Rank 7,155 @ Codewars
+**Thoughts:** Rank 7,125 @ Codewars
 
 ## Day 73: August 14, 2018
 
