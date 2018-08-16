@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 75: August 16, 2018
+
+**Today's Progress**: #R2D75 Brain fried!!! I can't solve the easiest of problems :-(.  #100DaysOfCode
+
+**Thoughts:** Rank 7,155 @ Codewars
+
 ## Day 74: August 15, 2018
 
-**Today's Progress**: #R2D74 #FileMaker Pro development today. More kata completed at #Codewars: "", "" & "" #100DaysOfCode
+**Today's Progress**: #R2D74 #FileMaker Pro development today. More kata completed at #Codewars: "Sum of differences in array", "" & "" #100DaysOfCode
 
 **Thoughts:** Rank 7,155 @ Codewars
 
