@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 74: August 15, 2018
+
+**Today's Progress**: #R2D74 #FileMaker Pro development today. More kata completed at #Codewars: "", "" & "" #100DaysOfCode
+
+**Thoughts:** Rank 7,155 @ Codewars
+
 ## Day 73: August 14, 2018
 
 **Today's Progress**: #R2D73 Back to civilization again. Daily JS practice at #Codewars. Kata completed "Disarium Number (Special Numbers Series #3)", "The 'if' function" & "(Don't) Make Me Repeat Myself" #100DaysOfCode
