@@ -1,20 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 77: August 18, 2018
+
+**Today's Progress**: #R2D78 Travelling again today. #FileMaker Pro development and a little JS reading. #100DaysOfCode
+
+**Thoughts:** Rank 7,072 @ Codewars
+
 ## Day 76: August 17, 2018
 
-**Today's Progress**: #R2D76 Develop new scripts in #FileMaker Pro.  I can't solve even the easiest of problems :-(.  #100DaysOfCode
+**Today's Progress**: #R2D76 Develop new scripts in #FileMaker Pro. Back to JS training today with kata "Enumerable Magic #1 - True for All?", "", & "" #Codewars #100DaysOfCode
 
 **Thoughts:** Rank 7,133 @ Codewars
 
 ## Day 75: August 16, 2018
 
-**Today's Progress**: #R2D75 Brain fried!!! I can't solve even the easiest of problems :-(.  #100DaysOfCode
+**Today's Progress**: #R2D75 I feel like my brain is fried!!! I can't solve even the easiest of problems :-(.  #100DaysOfCode
 
 **Thoughts:** Rank 7,155 @ Codewars
 
 ## Day 74: August 15, 2018
 
-**Today's Progress**: #R2D74 #FileMaker Pro development today. More kata completed at #Codewars: "Sum of differences in array", "Convert a String to a Number!" & "" #100DaysOfCode
+**Today's Progress**: #R2D74 #FileMaker Pro development today. More kata completed at #Codewars: "Sum of differences in array", "Convert a String to a Number!" & "What's up next?" #100DaysOfCode
 
 **Thoughts:** Rank 7,125 @ Codewars
 
