@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 78: August 19, 2018
+
+**Today's Progress**: #R2D78 Finished Python I at #Progate.com. #FileMaker Pro development for a customer. #100DaysOfCode
+
+**Thoughts:** Rank 7,072 @ Codewars
+
 ## Day 77: August 18, 2018
 
-**Today's Progress**: #R2D78 Travelling again today. #FileMaker Pro development and a little JS reading. #100DaysOfCode
+**Today's Progress**: #R2D77 Travelling again today. #FileMaker Pro development and a little JS reading. #100DaysOfCode
 
 **Thoughts:** Rank 7,072 @ Codewars
 
