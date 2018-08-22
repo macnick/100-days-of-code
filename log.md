@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 80: August 21, 2018
+
+**Today's Progress**: #R2D80 Very productive day developing #FileMaker pro solution. Today's JS training with kata "Barking mad", "Unexpected parsing" & "Object Oriented Piracy" #Codewars. #100DaysOfCode
+
+**Thoughts:** Rank 6,900 @ Codewars
+
+## Day 79: August 20, 2018
+
+**Today's Progress**: #R2D79 Travelling again today. JS training with kata "Enumerable Magic #4 - True for None?", ""this" is a problem" & "Character Frequency" . #100DaysOfCode
+
+**Thoughts:** Rank 6,900 @ Codewars
+
 ## Day 78: August 19, 2018
 
 **Today's Progress**: #R2D78 Finished Python I at #Progate.com. #FileMaker Pro development for a customer. #100DaysOfCode
@@ -14,7 +26,7 @@
 
 ## Day 76: August 17, 2018
 
-**Today's Progress**: #R2D76 Develop new scripts in #FileMaker Pro. Back to JS training today with kata "Enumerable Magic #1 - True for All?", "", & "" #Codewars #100DaysOfCode
+**Today's Progress**: #R2D76 Develop new scripts in #FileMaker Pro. Back to JS training today with kata "Enumerable Magic #1 - True for All?", "Enumerable Magic #2 - True for Any?", & "Does My List Include This?" #Codewars #100DaysOfCode
 
 **Thoughts:** Rank 7,133 @ Codewars
 
