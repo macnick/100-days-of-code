@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 81: August 22, 2018
+
+**Today's Progress**: #R2D81 Travelling back home again. Today's JS training with kata "Count by X", "Watermelon" & "Vowel remover" #Codewars. #100DaysOfCode
+
+**Thoughts:** Rank 6,600 @ Codewars
+
 ## Day 80: August 21, 2018
 
 **Today's Progress**: #R2D80 Very productive day developing #FileMaker pro solution. Today's JS training with kata "Barking mad", "Unexpected parsing" & "Object Oriented Piracy" #Codewars. #100DaysOfCode
 
-**Thoughts:** Rank 6,900 @ Codewars
+**Thoughts:** Rank 6,700 @ Codewars
 
 ## Day 79: August 20, 2018
 
