@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R2D82 #Filemaker work today for a factory in Belize. More JS training with kata "easy logs", "Opposites Attract", "Is it even?", "repeatIt" & "Mpg to km/lt" #Codewars. #100DaysOfCode
 
-**Thoughts:** Rank 6,600 @ Codewars
+**Thoughts:** Rank 6,490 @ Codewars
 
 ## Day 81: August 22, 2018
 
