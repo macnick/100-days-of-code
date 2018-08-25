@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 83: August 24, 2018
+
+**Today's Progress**: #R2D83 Finished Applied Visual Desing in #Freecodecamp. JS training with kata "Online RPG: player to qualifying stage?", "Dollars and Cents" & "Name Shuffler" #Codewars. #100DaysOfCode
+
+**Thoughts:** Rank 6,319 @ Codewars
+
 ## Day 82: August 23, 2018
 
 **Today's Progress**: #R2D82 #Filemaker work today for a factory in Belize. More JS training with kata "easy logs", "Opposites Attract", "Is it even?", "repeatIt" & "Mpg to km/lt" #Codewars. #100DaysOfCode
