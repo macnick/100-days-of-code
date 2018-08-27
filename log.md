@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 85: August 26, 2018
+
+**Today's Progress**: #R2D84 More reading the YDKJS this & Object Prototypes. Dailye JS practice with kata "Lexical this", "Template Strings" & "Classy Classes" #Codewars #100DaysOfCode #Javascript
+
+**Thoughts:** Rank 6,210 @ Codewars
+
 ## Day 84: August 25, 2018
 
 **Today's Progress**: #R2D84 Reading the YDKJS 3 book today and more JS practice with kata "Add Length", "Take an Arrow to the knee, Functionally" & "Are there any arrows left?" #Codewars #100DaysOfCode #Javascript
