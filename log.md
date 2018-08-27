@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 84: August 25, 2018
+
+**Today's Progress**: #R2D84 Reading the YDKJS 3 book today and more JS practice with kata "Add Length", "Take an Arrow to the knee, Functionally" & "Are there any arrows left?" #Codewars #100DaysOfCode #Javascript
+
+**Thoughts:** Rank 6,210 @ Codewars
+
 ## Day 83: August 24, 2018
 
 **Today's Progress**: #R2D83 Finished Applied Visual Desing in #Freecodecamp. JS training with kata "Online RPG: player to qualifying stage?", "Dollars and Cents" & "Name Shuffler" #Codewars. #100DaysOfCode
