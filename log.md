@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R2D84 More reading the YDKJS this & Object Prototypes. Dailye JS practice with kata "Lexical this", "Template Strings" & "Classy Classes" #Codewars #100DaysOfCode #Javascript
 
-**Thoughts:** Rank 6,210 @ Codewars
+**Thoughts:** Rank 6,100 @ Codewars
 
 ## Day 84: August 25, 2018
 
