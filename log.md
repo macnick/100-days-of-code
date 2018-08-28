@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 86: August 27, 2018
+
+**Today's Progress**: #R2D86 More reading the YDKJS this & Object Prototypes. Today's JS practice with kata "Classy Extentions", "Find the Slope" & "get character from ASCII Value" #Codewars #100DaysOfCode #Javascript
+
+**Thoughts:** Rank 6,100 @ Codewars
+
 ## Day 85: August 26, 2018
 
-**Today's Progress**: #R2D84 More reading the YDKJS this & Object Prototypes. Dailye JS practice with kata "Lexical this", "Template Strings" & "Classy Classes" #Codewars #100DaysOfCode #Javascript
+**Today's Progress**: #R2D85 More reading the YDKJS this & Object Prototypes. Daily JS practice with kata "Lexical this", "Template Strings" & "Classy Classes" #Codewars #100DaysOfCode #Javascript
 
 **Thoughts:** Rank 6,100 @ Codewars
 
