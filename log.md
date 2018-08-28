@@ -2,7 +2,7 @@
 
 ## Day 86: August 27, 2018
 
-**Today's Progress**: #R2D86 More reading the YDKJS this & Object Prototypes. Today's JS practice with kata "Classy Extentions", "Find the Slope" & "get character from ASCII Value" #Codewars #100DaysOfCode #Javascript
+**Today's Progress**: #R2D86 Repeat reading about the ES6 features. Today's JS practice with kata "Classy Extentions", "Find the Slope" & "get character from ASCII Value" #Codewars #100DaysOfCode #Javascript
 
 **Thoughts:** Rank 6,100 @ Codewars
 
