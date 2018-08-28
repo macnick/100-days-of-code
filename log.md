@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R2D86 Repeat reading about the ES6 features. Today's JS practice with kata "Classy Extentions", "Find the Slope" & "get character from ASCII Value" #Codewars #100DaysOfCode #Javascript
 
-**Thoughts:** Rank 6,100 @ Codewars
+**Thoughts:** Rank 5,900 @ Codewars
 
 ## Day 85: August 26, 2018
 
