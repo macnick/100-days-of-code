@@ -26,7 +26,7 @@
 
 ## Day 83: August 24, 2018
 
-**Today's Progress**: #R2D83 Finished Applied Visual Desing in #Freecodecamp. JS training with kata "Online RPG: player to qualifying stage?", "Dollars and Cents" & "Name Shuffler" #Codewars. #100DaysOfCode
+**Today's Progress**: #R2D83 Finished Applied Visual Design in #Freecodecamp. JS training with kata "Online RPG: player to qualifying stage?", "Dollars and Cents" & "Name Shuffler" #Codewars. #100DaysOfCode
 
 **Thoughts:** Rank 6,319 @ Codewars
 
