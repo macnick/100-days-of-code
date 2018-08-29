@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 87: August 28, 2018
+
+**Today's Progress**: #R2D87 Trying to finish my JS Udemy course. Still stuck at 80%. Today's JS practice with kata "Unfinished Loop - Bug Fixing #1", "Failed Sort - Bug Fixing #4" & "String Templates - Bug Fixing #5" #Codewars #100DaysOfCode #Javascript
+
+**Thoughts:** Rank 5,900 @ Codewars
+
 ## Day 86: August 27, 2018
 
 **Today's Progress**: #R2D86 Repeat reading about the ES6 features. Today's JS practice with kata "Classy Extentions", "Find the Slope" & "get character from ASCII Value" #Codewars #100DaysOfCode #Javascript
