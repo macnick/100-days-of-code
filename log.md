@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 88: August 29, 2018
+
+**Today's Progress**: #R2D88 A lot of Filemaker Pro 17 work today. More JS practice with kata "Switch/Case - Bug Fixing #6", "Keep up the hoop" & "Grasshopper - Grade book" #Codewars #100DaysOfCode #Javascript
+
+**Thoughts:** Rank 5,680 @ Codewars
+
 ## Day 87: August 28, 2018
 
 **Today's Progress**: #R2D87 Trying to finish my JS Udemy course. Still stuck at 80%. Today's JS practice with kata "Unfinished Loop - Bug Fixing #1", "Failed Sort - Bug Fixing #4" & "String Templates - Bug Fixing #5" #Codewars #100DaysOfCode #Javascript
