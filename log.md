@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 90: August 31, 2018
+
+**Today's Progress**: #R2D90 Started JS training on #hackerrank. Also solved kata "Invalid Login - Bug Fixing #11", "Generate range of integers" & "Find numbers which are divisible by given number" #Codewars #100DaysOfCode #Javascript
+
+**Thoughts:** Rank 5,460 @ Codewars
+
+## Day 89: August 30, 2018
+
+**Today's Progress**: #R2D89 Fixing a Filemaker Pro 14 solution today. Daily JS practice with kata "Grasshopper - Messi Goals", "Wilson primes" & "Grasshopper - Array Mean" #Codewars #100DaysOfCode #Javascript
+
+**Thoughts:** Rank 5,570 @ Codewars
+
 ## Day 88: August 29, 2018
 
 **Today's Progress**: #R2D88 A lot of Filemaker Pro 17 work today. More JS practice with kata "Switch/Case - Bug Fixing #6", "Keep up the hoop" & "Grasshopper - Grade book" #Codewars #100DaysOfCode #Javascript
