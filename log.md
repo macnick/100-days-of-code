@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 92: Semptember 2, 2018
+
+**Today's Progress**: #R2D92 Traveling back home today. Afternoon JS training with kata "Find variable which breaks strict comparison!", "Drink about" & "Grasshopper - Order of operations" #Codewars #100DaysOfCode #Javascript
+
+**Thoughts:** Rank 5,260 @ Codewars
+
+## Day 91: Semptember 1, 2018
+
+**Today's Progress**: #R2D91 Daily JS training with kata "Smallest unused ID", "Localize The Barycenter of a Triangle" & "Grasshopper - Terminal Game Turn Function" #Codewars #100DaysOfCode #Javascript
+
+**Thoughts:** Rank 5,350 @ Codewars
+
 ## Day 90: August 31, 2018
 
 **Today's Progress**: #R2D90 Started JS training on #hackerrank. Also solved kata "Invalid Login - Bug Fixing #11", "Generate range of integers" & "Find numbers which are divisible by given number" #Codewars #100DaysOfCode #Javascript
