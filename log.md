@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 93: Semptember 3, 2018
+
+**Today's Progress**: #R2D93 Developed a tool in FileMaker Pro 16 to filter out records based on a db of keywords. Today's JS training with kata "Grasshopper - Variable Assignment Debug", "Grasshopper - Make change" & "Grasshopper - Shopping list" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 5,228 @ Codewars
+
 ## Day 92: Semptember 2, 2018
 
 **Today's Progress**: #R2D92 Traveling back home today. Afternoon JS training with kata "Find variable which breaks strict comparison!", "Drink about" & "Grasshopper - Order of operations" #Codewars #100DaysOfCode #Javascript
