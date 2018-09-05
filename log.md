@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 94: Semptember 4, 2018
+
+**Today's Progress**: #R2D94 Debugged the FileMaker Pro 16 tool I created yesterday. Of course JS training again with kata "Power", "Grasshopper - Basic Function Fixer" & "Grasshopper - Debug sayHello" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 5,228 @ Codewars
+
 ## Day 93: Semptember 3, 2018
 
 **Today's Progress**: #R2D93 Developed a tool in FileMaker Pro 16 to filter out records based on a db of keywords. Today's JS training with kata "Grasshopper - Variable Assignment Debug", "Grasshopper - Make change" & "Grasshopper - Shopping list" #Codewars #100DaysOfCode #javascript
