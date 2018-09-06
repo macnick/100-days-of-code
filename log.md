@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R2D95 Trying new tricks with Classes in ES6. Never miss my JS training with kata "A bugs trilogy: Episode 1-Let Math.Random();", "Grasshopper - Combine strings" & "Is the date today" #Codewars #100DaysOfCode #javascript
 
-**Thoughts:** Rank 5,228 @ Codewars
+**Thoughts:** Rank 5,110 @ Codewars
 
 ## Day 94: Semptember 4, 2018
 
