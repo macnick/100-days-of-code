@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R2D96 Working on filtering tool for FileMaker. New relationships will make it 100 times faster. Today's JS training with kata "Simple Fun #1: Seats in Theater", "Formatting decimal places #0" & "Tip Calculator" #Codewars #100DaysOfCode #javascript
 
-**Thoughts:** Rank 5,110 @ Codewars
+**Thoughts:** Rank 5,105 @ Codewars
 
 ## Day 95: Semptember 5, 2018
 
