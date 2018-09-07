@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 96: Semptember 6, 2018
+
+**Today's Progress**: #R2D96 Working on filtering tool for FileMaker. New relationships will make it 100 times faster. Today's JS training with kata "Simple Fun #1: Seats in Theater", "Formatting decimal places #0" & "Tip Calculator" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 5,110 @ Codewars
+
 ## Day 95: Semptember 5, 2018
 
 **Today's Progress**: #R2D95 Trying new tricks with Classes in ES6. Never miss my JS training with kata "A bugs trilogy: Episode 1-Let Math.Random();", "Grasshopper - Combine strings" & "Is the date today" #Codewars #100DaysOfCode #javascript
