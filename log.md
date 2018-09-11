@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 100: Semptember 10, 2018
+
+**Today's Progress**: #R2D100 Round 2 is over! Another 100 days gone so fast! Found a new love in regular expressions. Still have not got any FreeCodeCamp certifications and I haven't applied for any jobs! I keep practicing JS every day. I now rank 4,990 at #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,880 @ Codewars
+
+## Day 99: Semptember 9, 2018
+
+**Today's Progress**: #R2D99 I can't believe there is only one day left to finish round 2. Reading about regular expressions like maniac. Today's JS practice kata with regex: "validate code with simple regex", "Simple validation of a username with regex" & "What's wrong with these identifiers?" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,970 @ Codewars
+
+## Day 98: Semptember 8, 2018
+
+**Today's Progress**: #R2D98 Started reading the book "Mastering Regular Expressions by Jeffrey E. F. Friedl. Of course daily JS practice with kata "L1: Bartender, drinks!", "Pre-FizzBuzz Workout #1" & "Finish Guess the Number Game" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 5,060 @ Codewars
+
+## Day 97: Semptember 7, 2018
+
+**Today's Progress**: #R2D97 Waiting for my Filemaker solution to be approved by the customer. Meanwhile I did some JS training with kata "Rock Paper Scissors!", "Regexp Basics - is it a digit?" & "Transportation on vacation" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 5,060 @ Codewars
+
 ## Day 96: Semptember 6, 2018
 
 **Today's Progress**: #R2D96 Working on filtering tool for FileMaker. New relationships will make it 100 times faster. Today's JS training with kata "Simple Fun #1: Seats in Theater", "Formatting decimal places #0" & "Tip Calculator" #Codewars #100DaysOfCode #javascript
