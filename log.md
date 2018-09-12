@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 101: Semptember 11, 2018
+
+**Today's Progress**: #R2D101 Because I love this number! Round 3 starts tomorrow. JS practice with kata "The Ladies of ENIAC", "Regex validate PIN code" & "Remove the noise from the string" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,790 @ Codewars
+
 ## Day 100: Semptember 10, 2018
 
 **Today's Progress**: #R2D100 Round 2 is over! Another 100 days gone so fast! Found a new love in regular expressions. Still have not got any FreeCodeCamp certifications and I haven't applied for any jobs! I keep practicing JS every day. I now rank 4,990 at #Codewars #100DaysOfCode #javascript
