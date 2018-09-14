@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 2: Semptember 13, 2018
+
+**Today's Progress**: #R3D2 Developing a #Filemaker pro solution. JS training with kata "Coding Meetup #3 - Higher-Order Functions Series - Is Ruby coming?", "Coding Meetup #4 - Higher-Order Functions Series - Find the first Python developer" & "NLP-Series #1 - Inverted Index" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,724 @ Codewars
+
 ## Day 1: Semptember 12, 2018
 
 **Today's Progress**: #R3D1 Doing lessons in Freecodecamp to get my first certificate. Never miss my JS training with kata "Date Format Validation", "Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from " & "Coding Meetup #2 - Higher-Order Functions Series - Greet developers" #Codewars #100DaysOfCode #javascript
