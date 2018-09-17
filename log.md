@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 4: Semptember 15, 2018
+
+**Today's Progress**: #R3D4 Having fun with regular expressions. Did some regex kata too. "Remove the time", "Double Char" & "Lario and Muigi Pipe Problem" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,680 @ Codewars
+
+## Day 3: Semptember 14, 2018
+
+**Today's Progress**: #R3D3 Regex reading and learning. Today's JS training with kata "Did she say hallo?", "Regex count lowercase letters" & "Fix the Bugs (Syntax) - My First Kata" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,700 @ Codewars
+
 ## Day 2: Semptember 13, 2018
 
 **Today's Progress**: #R3D2 Developing a #Filemaker pro solution. JS training with kata "Coding Meetup #3 - Higher-Order Functions Series - Is Ruby coming?", "Coding Meetup #4 - Higher-Order Functions Series - Find the first Python developer" & "NLP-Series #1 - Inverted Index" #Codewars #100DaysOfCode #javascript
