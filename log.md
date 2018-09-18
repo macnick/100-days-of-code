@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 6: Semptember 17, 2018
+
+**Today's Progress**: #R3D6 Some freelance work on a site in NYC. JS training with kata "Leonardo Dicaprio and Oscars", "Days in the year" & "Create Phone Number" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,630 @ Codewars
+
+## Day 5: Semptember 16, 2018
+
+**Today's Progress**: #R3D5 RegEx fun in the morning JS fun in the evening with more kata "Job Matching #1", "Grasshopper - Personalized Message" & "Is the string uppercase?" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,660 @ Codewars
+
 ## Day 4: Semptember 15, 2018
 
 **Today's Progress**: #R3D4 Having fun with regular expressions. Did some regex kata too. "Remove the time", "Double Char" & "Lario and Muigi Pipe Problem" #Codewars #100DaysOfCode #javascript
