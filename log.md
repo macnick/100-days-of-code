@@ -1,78 +1,78 @@
 # 100 Days Of Code - Log
 
-## Day 6: Semptember 17, 2018
+## Day 6: September 17, 2018
 
 **Today's Progress**: #R3D6 Some freelance work on a site in NYC. JS training with kata "Leonardo Dicaprio and Oscars", "Days in the year" & "Create Phone Number" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,630 @ Codewars
 
-## Day 5: Semptember 16, 2018
+## Day 5: September 16, 2018
 
 **Today's Progress**: #R3D5 RegEx fun in the morning JS fun in the evening with more kata "Job Matching #1", "Grasshopper - Personalized Message" & "Is the string uppercase?" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,660 @ Codewars
 
-## Day 4: Semptember 15, 2018
+## Day 4: September 15, 2018
 
 **Today's Progress**: #R3D4 Having fun with regular expressions. Did some regex kata too. "Remove the time", "Double Char" & "Lario and Muigi Pipe Problem" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,680 @ Codewars
 
-## Day 3: Semptember 14, 2018
+## Day 3: September 14, 2018
 
 **Today's Progress**: #R3D3 Regex reading and learning. Today's JS training with kata "Did she say hallo?", "Regex count lowercase letters" & "Fix the Bugs (Syntax) - My First Kata" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,700 @ Codewars
 
-## Day 2: Semptember 13, 2018
+## Day 2: September 13, 2018
 
 **Today's Progress**: #R3D2 Developing a #Filemaker pro solution. JS training with kata "Coding Meetup #3 - Higher-Order Functions Series - Is Ruby coming?", "Coding Meetup #4 - Higher-Order Functions Series - Find the first Python developer" & "NLP-Series #1 - Inverted Index" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,724 @ Codewars
 
-## Day 1: Semptember 12, 2018
+## Day 1: September 12, 2018
 
 **Today's Progress**: #R3D1 Doing lessons in Freecodecamp to get my first certificate. Never miss my JS training with kata "Date Format Validation", "Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from " & "Coding Meetup #2 - Higher-Order Functions Series - Greet developers" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,743 @ Codewars
 
-## Day 101: Semptember 11, 2018
+## Day 101: September 11, 2018
 
 **Today's Progress**: #R2D101 Because I love this number! Round 3 starts tomorrow. JS practice with kata "The Ladies of ENIAC", "Regex validate PIN code" & "Remove the noise from the string" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,790 @ Codewars
 
-## Day 100: Semptember 10, 2018
+## Day 100: September 10, 2018
 
 **Today's Progress**: #R2D100 Round 2 is over! Another 100 days gone so fast! Found a new love in regular expressions. Still have not got any FreeCodeCamp certifications and I haven't applied for any jobs! I keep practicing JS every day. I now rank 4,990 at #Codewars #100DaysOfCode #javascript. Thank you all for your support. 
 
 **Thoughts:** Rank 4,880 @ Codewars
 
-## Day 99: Semptember 9, 2018
+## Day 99: September 9, 2018
 
 **Today's Progress**: #R2D99 I can't believe there is only one day left to finish round 2. Reading about regular expressions like maniac. Today's JS practice kata with regex: "validate code with simple regex", "Simple validation of a username with regex" & "What's wrong with these identifiers?" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,970 @ Codewars
 
-## Day 98: Semptember 8, 2018
+## Day 98: September 8, 2018
 
 **Today's Progress**: #R2D98 Started reading the book "Mastering Regular Expressions by Jeffrey E. F. Friedl. Of course daily JS practice with kata "L1: Bartender, drinks!", "Pre-FizzBuzz Workout #1" & "Finish Guess the Number Game" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 5,060 @ Codewars
 
-## Day 97: Semptember 7, 2018
+## Day 97: September 7, 2018
 
 **Today's Progress**: #R2D97 Waiting for my Filemaker solution to be approved by the customer. Meanwhile I did some JS training with kata "Rock Paper Scissors!", "Regexp Basics - is it a digit?" & "Transportation on vacation" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 5,060 @ Codewars
 
-## Day 96: Semptember 6, 2018
+## Day 96: September 6, 2018
 
 **Today's Progress**: #R2D96 Working on filtering tool for FileMaker. New relationships will make it 100 times faster. Today's JS training with kata "Simple Fun #1: Seats in Theater", "Formatting decimal places #0" & "Tip Calculator" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 5,105 @ Codewars
 
-## Day 95: Semptember 5, 2018
+## Day 95: September 5, 2018
 
 **Today's Progress**: #R2D95 Trying new tricks with Classes in ES6. Never miss my JS training with kata "A bugs trilogy: Episode 1-Let Math.Random();", "Grasshopper - Combine strings" & "Is the date today" #Codewars #100DaysOfCode #javascript
 
@@ -84,19 +84,19 @@
 
 **Thoughts:** Rank 5,228 @ Codewars
 
-## Day 93: Semptember 3, 2018
+## Day 93: September 3, 2018
 
 **Today's Progress**: #R2D93 Developed a tool in FileMaker Pro 16 to filter out records based on a db of keywords. Today's JS training with kata "Grasshopper - Variable Assignment Debug", "Grasshopper - Make change" & "Grasshopper - Shopping list" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 5,228 @ Codewars
 
-## Day 92: Semptember 2, 2018
+## Day 92: September 2, 2018
 
 **Today's Progress**: #R2D92 Traveling back home today. Afternoon JS training with kata "Find variable which breaks strict comparison!", "Drink about" & "Grasshopper - Order of operations" #Codewars #100DaysOfCode #Javascript
 
 **Thoughts:** Rank 5,260 @ Codewars
 
-## Day 91: Semptember 1, 2018
+## Day 91: September 1, 2018
 
 **Today's Progress**: #R2D91 Daily JS training with kata "Smallest unused ID", "Localize The Barycenter of a Triangle" & "Grasshopper - Terminal Game Turn Function" #Codewars #100DaysOfCode #Javascript
 
