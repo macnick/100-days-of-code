@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 7: September 18, 2018
+
+**Today's Progress**: #R3D7 Continue my journey in RegEx. Today's JS training with kata "Hide password from jdbc url", "Building a mini search engine" & "Grasshopper - Function syntax debugging" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,630 @ Codewars
+
 ## Day 6: September 17, 2018
 
 **Today's Progress**: #R3D6 Some freelance work on a site in NYC. JS training with kata "Leonardo Dicaprio and Oscars", "Days in the year" & "Create Phone Number" #Codewars #100DaysOfCode #javascript
