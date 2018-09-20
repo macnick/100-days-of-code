@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 8: September 19, 2018
+
+**Today's Progress**: #R3D8 Learned about (?= and (?: in RegEx. Today's JS training with kata "Grasshopper - Object syntax debug", "Basic subclasses - Adam and Eve" & "Printing Array elements with Comma delimiters" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,550 @ Codewars
+
 ## Day 7: September 18, 2018
 
 **Today's Progress**: #R3D7 Continue my journey in RegEx. Today's JS training with kata "Hide password from jdbc url", "Building a mini search engine" & "Grasshopper - Function syntax debugging" #Codewars #100DaysOfCode #javascript
