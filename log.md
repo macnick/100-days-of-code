@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 9: September 20, 2018
+
+**Today's Progress**: #R3D9 RegEx are tough but it's worth the effort. My daily JS training with kata "Be Concise I - The Ternary Operator", "Be Concise II - I Need Squares" & "Squash the bugs" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,420 @ Codewars
+
 ## Day 8: September 19, 2018
 
 **Today's Progress**: #R3D8 Learned about (?= and (?: in RegEx. Today's JS training with kata "Grasshopper - Object syntax debug", "Basic subclasses - Adam and Eve" & "Printing Array elements with Comma delimiters" #Codewars #100DaysOfCode #javascript
 
-**Thoughts:** Rank 4,550 @ Codewars
+**Thoughts:** Rank 4,490 @ Codewars
 
 ## Day 7: September 18, 2018
 
