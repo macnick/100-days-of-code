@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 10: September 21, 2018
+
+**Today's Progress**: #R3D10 I've been awarded a free ticket to the 2018 freeCodeCamp JAMstack hackathon! Thank you! Still can't believe it. I have to study more now. JS practice with kata "101 Dalmatians - squash the bugs, not the dogs!", "Count the Monkeys!" & "How many stairs will Suzuki climb in 20 years?" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,373 @ Codewars
+
 ## Day 9: September 20, 2018
 
 **Today's Progress**: #R3D9 RegEx are tough but it's worth the effort. My daily JS training with kata "Be Concise I - The Ternary Operator", "Be Concise II - I Need Squares" & "Squash the bugs" #Codewars #100DaysOfCode #javascript
