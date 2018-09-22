@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 11: September 22, 2018
+
+**Today's Progress**: #R3D11 JS study and practice with kata "Be Concise III - Sum Squares", "CFun with ES6 Classes #1 - People, people, people" & "Evil or Odious" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,337 @ Codewars
+
 ## Day 10: September 21, 2018
 
 **Today's Progress**: #R3D10 I've been awarded a free ticket to the 2018 freeCodeCamp JAMstack hackathon! Thank you! Still can't believe it. I have to study more now. JS practice with kata "101 Dalmatians - squash the bugs, not the dogs!", "Count the Monkeys!" & "How many stairs will Suzuki climb in 20 years?" #Codewars #100DaysOfCode #javascript
