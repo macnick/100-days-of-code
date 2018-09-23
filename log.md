@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 12: September 23, 2018
+
+**Today's Progress**: #R3D12 Conitunue my Freecodecamp lessons to get the 1st certificate. Practice JS with kata "Beginner - Reduce but Grow", "Triple Trouble" & "Take the First N Elements" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,209 @ Codewars
+
 ## Day 11: September 22, 2018
 
-**Today's Progress**: #R3D11 JS study and practice with kata "Be Concise III - Sum Squares", "CFun with ES6 Classes #1 - People, people, people" & "Evil or Odious" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D11 JS study and practice with kata "Be Concise III - Sum Squares", "Fun with ES6 Classes #1 - People, people, people" & "Evil or Odious" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,337 @ Codewars
 
