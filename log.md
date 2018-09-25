@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 13: September 24, 2018
+
+**Today's Progress**: #R3D12 Reading Regex. This book is loooong! JS daily practice with kata "Classic Hello World", "Index of an element in an array" & "Remove First and Last Character Part Two" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,101 @ Codewars
+
 ## Day 12: September 23, 2018
 
-**Today's Progress**: #R3D12 Conitunue my Freecodecamp lessons to get the 1st certificate. Practice JS with kata "Beginner - Reduce but Grow", "Triple Trouble" & "Take the First N Elements" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D12 Continue with my Freecodecamp lessons to get the 1st certificate. Practice JS with kata "Beginner - Reduce but Grow", "Triple Trouble" & "Take the First N Elements" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,209 @ Codewars
 
