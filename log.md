@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 14: September 25, 2018
+
+**Today's Progress**: #R3D13 Reading Regex and lots of JS practicing. Today's kata "Add new item (collections are passed by reference)", "Circular Objects #1", "Not so black box", "Multiply the number" & "Grasshopper - If/else syntax debug" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,072 @ Codewars
+
 ## Day 13: September 24, 2018
 
 **Today's Progress**: #R3D12 Reading Regex. This book is loooong! JS daily practice with kata "Classic Hello World", "Index of an element in an array" & "Remove First and Last Character Part Two" #Codewars #100DaysOfCode #javascript
