@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 15: September 26, 2018
+
+**Today's Progress**: #R3D14 Reading about a new face recognition API. Today's JS practicing with kata "Logical calculator", "No zeros for heros" & "Name on billboard" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,046 @ Codewars
+
 ## Day 14: September 25, 2018
 
 **Today's Progress**: #R3D13 Reading Regex and lots of JS practicing. Today's kata "Add new item (collections are passed by reference)", "Circular Objects #1", "Not so black box", "Multiply the number" & "Grasshopper - If/else syntax debug" #Codewars #100DaysOfCode #javascript
