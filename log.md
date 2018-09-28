@@ -2,25 +2,25 @@
 
 ## Day 16: September 27, 2018
 
-**Today's Progress**: #R3D15 More Regex reading today. Never miss my daily JS practice. Kata completed "Number Format", "Freudian translator" & "Fix your code before the garden dies!" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D16 More Regex reading today. Never miss my daily JS practice. Kata completed "Number Format", "Freudian translator" & "Fix your code before the garden dies!" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,020 @ Codewars
 
 ## Day 15: September 26, 2018
 
-**Today's Progress**: #R3D14 Reading about a new face recognition API. Today's JS practicing with kata "Logical calculator", "No zeros for heros" & "Name on billboard" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D15 Reading about a new face recognition API. Today's JS practicing with kata "Logical calculator", "No zeros for heros" & "Name on billboard" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,046 @ Codewars
 
 ## Day 14: September 25, 2018
 
-**Today's Progress**: #R3D13 Reading Regex and lots of JS practicing. Today's kata "Add new item (collections are passed by reference)", "Circular Objects #1", "Not so black box", "Multiply the number" & "Grasshopper - If/else syntax debug" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D14 Reading Regex and lots of JS practicing. Today's kata "Add new item (collections are passed by reference)", "Circular Objects #1", "Not so black box", "Multiply the number" & "Grasshopper - If/else syntax debug" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,072 @ Codewars
 
 ## Day 13: September 24, 2018
 
-**Today's Progress**: #R3D12 Reading Regex. This book is loooong! JS daily practice with kata "Classic Hello World", "Index of an element in an array" & "Remove First and Last Character Part Two" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D13 Reading Regex. This book is loooong! JS daily practice with kata "Classic Hello World", "Index of an element in an array" & "Remove First and Last Character Part Two" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,101 @ Codewars
 
