@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 17: September 28, 2018
+
+**Today's Progress**: #R3D17 A little web development today for a client's site. I don't miss my JS practice no matter what. Kata completed "Blood-Alcohol Content", "Word Count" & "Filling an array (part 1)" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 4,003 @ Codewars
+
 ## Day 16: September 27, 2018
 
 **Today's Progress**: #R3D16 More Regex reading today. Never miss my daily JS practice. Kata completed "Number Format", "Freudian translator" & "Fix your code before the garden dies!" #Codewars #100DaysOfCode #javascript
