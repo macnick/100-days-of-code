@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 18: September 29, 2018
+
+**Today's Progress**: #R3D18 Reading, learning and practicing for 3 hours. Kata completed "create your first JS function and print "Helloworld"", "Basic data types--Number" & "Basic data types--String" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,956 @ Codewars
+
 ## Day 17: September 28, 2018
 
 **Today's Progress**: #R3D17 A little web development today for a client's site. I don't miss my JS practice no matter what. Kata completed "Blood-Alcohol Content", "Word Count" & "Filling an array (part 1)" #Codewars #100DaysOfCode #javascript
