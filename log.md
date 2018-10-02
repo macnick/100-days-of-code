@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 20: October 1, 2018
+
+**Today's Progress**: #R3D20 Lot of study, some work on the FCC Survey Form and more kata: "Basic data types--Array", "Basic data types--Object" & "BBoolean and conditional statements if..else" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,886 @ Codewars
+
 ## Day 19: September 30, 2018
 
 **Today's Progress**: #R3D19 Started the FCC Survey Form. Today's kata "Basic data types--Array", "Basic data types--Object" & "BBoolean and conditional statements if..else" #Codewars #100DaysOfCode #javascript
