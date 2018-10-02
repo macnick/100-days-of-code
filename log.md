@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 21: October 2, 2018
+
+**Today's Progress**: #R3D21   #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,8-- @ Codewars - 3 hours of study
+
 ## Day 20: October 1, 2018
 
-**Today's Progress**: #R3D20 Lot of study, some work on the FCC Survey Form and more kata: "Conditional statement--switch", "loop statement --while and do..while" & "loop statement --for" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D20 Lots of studying, some work on the FCC Survey Form and more kata: "Conditional statement--switch", "loop statement --while and do..while" & "loop statement --for" #Codewars #100DaysOfCode #javascript
 
-**Thoughts:** Rank 3,886 @ Codewars
+**Thoughts:** Rank 3,886 @ Codewars - 2 hours of study
 
 ## Day 19: September 30, 2018
 
