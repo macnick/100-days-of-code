@@ -2,9 +2,9 @@
 
 ## Day 21: October 2, 2018
 
-**Today's Progress**: #R3D21   #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D21 Still working the FCC Survey form. Today's kata: "loop statement --break,continue", "for..in and for..of" & "Number object and its properties" #Codewars #100DaysOfCode #javascript
 
-**Thoughts:** Rank 3,8-- @ Codewars - 3 hours of study
+**Thoughts:** Rank 3,857 @ Codewars - 3 hours of study
 
 ## Day 20: October 1, 2018
 
