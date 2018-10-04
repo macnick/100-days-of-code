@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 22: October 3, 2018
+
+**Today's Progress**: #R3D22 Little progress on FCC Survey form. JS kata completed: " Methods of Number object--toString() and toLocaleString()", "Methods of Number object--toFixed(), toExponential() and toPrecision()" & "Methods of String object--slice(), substring() and substr()" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,826 @ Codewars - 2 hours of study
+
 ## Day 21: October 2, 2018
 
 **Today's Progress**: #R3D21 Still working the FCC Survey form. Today's kata: "loop statement --break,continue", "for..in and for..of" & "Number object and its properties" #Codewars #100DaysOfCode #javascript
