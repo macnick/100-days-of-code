@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 25: October 6, 2018
+
+**Today's Progress**: #R3D25 Some work on a customer's web site. Today's JS practice with some easy kata: "methods of arrayObject---splice() and slice()", "methods of arrayObject---map()" & "methods of arrayObject---filter()" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,797 @ Codewars - 1 hours of study
+
+## Day 24: October 5, 2018
+
+**Today's Progress**: #R3D24 More work on the FCC survey form. JS practice with kata: "Methods of String object--trim() and the string template", "Unlock new skills--Arrow function,spread operator and deconstruction" & "methods of arrayObject---push(), pop(), shift() and unshift()" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,806 @ Codewars - 3 hours of study
+
+## Day 23: October 4, 2018
+
+**Today's Progress**: #R3D23 Reading the book Mastering Regular expressions. JS practice with kata: "Methods of String object--indexOf(), lastIndexOf() and search()", "Methods of String object--toUpperCase() toLowerCase() and replace()" & "Methods of String object--charAt() charCodeAt() and fromCharCode()" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,815 @ Codewars - 2 hours of study
+
 ## Day 22: October 3, 2018
 
 **Today's Progress**: #R3D22 Little progress on FCC Survey form. JS kata completed: " Methods of Number object--toString() and toLocaleString()", "Methods of Number object--toFixed(), toExponential() and toPrecision()" & "Methods of String object--slice(), substring() and substr()" #Codewars #100DaysOfCode #javascript
