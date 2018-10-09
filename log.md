@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 27: October 8, 2018
+
+**Today's Progress**: #R3D27 Went for a nice trip with my wife and kids. Afternoon JS practice with kata: "methods of Math---round() ceil() and floor()", "methods of Math---max() min() and abs()" & "methods of Math---kata author's lover:random()" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,726 @ Codewars - 3 hours of study
+
+## Day 26: October 7, 2018
+
+**Today's Progress**: #R3D26 Days fly by and I am still in Greece :-(. Practice JS with kata: "methods of arrayObject---every() and some()", "methods of arrayObject---reduce() and reduceRight()" & "methods of arrayObject---isArray() indexOf() and toString()" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,788 @ Codewars - 1 hours of study
+
 ## Day 25: October 6, 2018
 
 **Today's Progress**: #R3D25 Some work on a customer's web site. Today's JS practice with some easy kata: "methods of arrayObject---splice() and slice()", "methods of arrayObject---map()" & "methods of arrayObject---filter()" #Codewars #100DaysOfCode #javascript
