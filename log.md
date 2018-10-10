@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 28: October 9, 2018
+
+**Today's Progress**: #R3D28 Finished the book "Mastering Regular Expressions". I feel wiser now! JS practice with kata: "Unlock new weapon---RegExp Object", "Regular Expression--"^","$", "." and test()" & "Regular Expression--"?", "*", "+" and "{}"" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,721 @ Codewars - 3 hours of study
+
 ## Day 27: October 8, 2018
 
 **Today's Progress**: #R3D27 Went for a nice trip with my wife and kids. Afternoon JS practice with kata: "methods of Math---round() ceil() and floor()", "methods of Math---max() min() and abs()" & "methods of Math---kata author's lover:random()" #Codewars #100DaysOfCode #javascript
