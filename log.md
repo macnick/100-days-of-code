@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 29: October 10, 2018
+
+**Today's Progress**: #R3D29 Finished the book "Mastering Regular Expressions". I feel wiser now! Daily practice JS. Kata completed: "Regular Expression--"|", "[]" and "()"", "Regular Expression--"\"" & "Regular Expression--( ?: ), ( ?= ) and ( ?! )" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,689 @ Codewars - 3 hours of study
+
 ## Day 28: October 9, 2018
 
 **Today's Progress**: #R3D28 Finished the book "Mastering Regular Expressions". I feel wiser now! JS practice with kata: "Unlock new weapon---RegExp Object", "Regular Expression--"^","$", "." and test()" & "Regular Expression--"?", "*", "+" and "{}"" #Codewars #100DaysOfCode #javascript
