@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 30: October 11, 2018
+
+**Today's Progress**: #R3D30 Reading the excellent book YDKJS Scope and Closures. Noon practice with kata: "Is your period late?", "Grasshopper - Create the rooms" & "Implement a Filter function" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,589 @ Codewars - 3 hours of study
+
 ## Day 29: October 10, 2018
 
-**Today's Progress**: #R3D29 Finished the book "Mastering Regular Expressions". I feel wiser now! Daily practice JS. Kata completed: "Regular Expression--"|", "[]" and "()"", "Regular Expression--"\"" & "Regular Expression--( ?: ), ( ?= ) and ( ?! )" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D29 A little development for a WordPress site. Daily practice JS. Kata completed: "Regular Expression--"|", "[]" and "()"", "Regular Expression--"\"" & "Regular Expression--( ?: ), ( ?= ) and ( ?! )" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 3,689 @ Codewars - 3 hours of study
 
