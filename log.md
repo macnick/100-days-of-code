@@ -2,7 +2,7 @@
 
 ## Day 31: October 12, 2018
 
-**Today's Progress**: #R3D32 Started a new book: Programming Intervies Exposed. JS practice with kata: "Find the Difference in Age between Oldest and Youngest Family Members", "Simple Change Machine" & "Pillars" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D32 Started a new book: Programming Interviews Exposed. Spend 3 hours in the morning solving JS kata: "Find the Difference in Age between Oldest and Youngest Family Members", "Simple Change Machine", "Twice as old" & "Pillars" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 3,499 @ Codewars - 3 hours of study
 
