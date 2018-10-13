@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 31: October 12, 2018
+
+**Today's Progress**: #R3D32 Started a new book: Programming Intervies Exposed. JS practice with kata: "Find the Difference in Age between Oldest and Youngest Family Members", "Simple Change Machine" & "Pillars" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,499 @ Codewars - 3 hours of study
+
 ## Day 30: October 11, 2018
 
 **Today's Progress**: #R3D30 Reading the excellent book YDKJS Scope and Closures. Noon practice with kata: "Is your period late?", "Grasshopper - Create the rooms" & "Implement a Filter function" #Codewars #100DaysOfCode #javascript
