@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 34: October 15, 2018
+
+**Today's Progress**: #R3D35 Almost finished my FCC Survey form. JS daily pracitce: "Find Multiples of a Number", "I love you, a little , a lot, passionately ...not at all" & "Invert values" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,342 @ Codewars - 2 hours of study
+
 ## Day 33: October 14, 2018
 
 **Today's Progress**: #R3D34 Worked on my FCC Survey form. JS coding with kata: "BASIC: Making Six Toast.", "Welcome!" & "Sum Mixed Array" #Codewars #100DaysOfCode #javascript
 
-**Thoughts:** Rank 3,419 @ Codewars - 2 hours of study
+**Thoughts:** Rank 3,349 @ Codewars - 2 hours of study
 
 ## Day 32: October 13, 2018
 
