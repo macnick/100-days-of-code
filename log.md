@@ -2,25 +2,25 @@
 
 ## Day 34: October 15, 2018
 
-**Today's Progress**: #R3D35 Almost finished my FCC Survey form. JS daily pracitce: "Find Multiples of a Number", "I love you, a little , a lot, passionately ...not at all" & "Invert values" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D34 Almost finished my FCC Survey form. JS daily pracitce: "Find Multiples of a Number", "I love you, a little , a lot, passionately ...not at all" & "Invert values" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 3,342 @ Codewars - 2 hours of study
 
 ## Day 33: October 14, 2018
 
-**Today's Progress**: #R3D34 Worked on my FCC Survey form. JS coding with kata: "BASIC: Making Six Toast.", "Welcome!" & "Sum Mixed Array" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D33 Worked on my FCC Survey form. JS coding with kata: "BASIC: Making Six Toast.", "Welcome!" & "Sum Mixed Array" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 3,349 @ Codewars - 2 hours of study
 
 ## Day 32: October 13, 2018
 
-**Today's Progress**: #R3D33 Spend a couple of hours reading the PIE book. Sharpening my JS coding skills with kata: "How old will I be in 2099?", "Holiday VIII - Duty Free" & "Coding 3min: Bug in Apple" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D32 Spend a couple of hours reading the PIE book. Sharpening my JS coding skills with kata: "How old will I be in 2099?", "Holiday VIII - Duty Free" & "Coding 3min: Bug in Apple" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 3,419 @ Codewars - 2 hours of study
 
 ## Day 31: October 12, 2018
 
-**Today's Progress**: #R3D32 Started a new book: Programming Interviews Exposed. Spend 3 hours in the morning solving JS kata: "Find the Difference in Age between Oldest and Youngest Family Members", "Simple Change Machine", "Twice as old" & "Pillars" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D31 Started a new book: Programming Interviews Exposed. Spend 3 hours in the morning solving JS kata: "Find the Difference in Age between Oldest and Youngest Family Members", "Simple Change Machine", "Twice as old" & "Pillars" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 3,499 @ Codewars - 3 hours of study
 
