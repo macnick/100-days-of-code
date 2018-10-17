@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 35: October 16, 2018
+
+**Today's Progress**: #R3D35 I was ready to submit my FCC Survey form but I tested it and found it is not looking good on phone screens. Fixing it tomorrow. Practiced JS with: "Duck Duck Goose", "Find the first non-consecutive number" & "Keep Hydrated!" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,342 @ Codewars - 3 hours of study
+
 ## Day 34: October 15, 2018
 
-**Today's Progress**: #R3D34 Almost finished my FCC Survey form. JS daily pracitce: "Find Multiples of a Number", "I love you, a little , a lot, passionately ...not at all" & "Invert values" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D34 Almost finished my FCC Survey form. JS daily practice: "Find Multiples of a Number", "I love you, a little , a lot, passionately ...not at all" & "Invert values" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 3,342 @ Codewars - 2 hours of study
 
