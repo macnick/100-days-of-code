@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 36: October 17, 2018
+
+**Today's Progress**: #R3D36 Finished my FCC Survey Form at last. https://codepen.io/macnick/full/YJErGL/. Did my 1st contribution to FCC Github. Today's JS practice: "Remove exclamation marks", "Find Max and Min Values of a List" & "Reversing Words in a String" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,299 @ Codewars - 4 hours of study
+
 ## Day 35: October 16, 2018
 
 **Today's Progress**: #R3D35 I was ready to submit my FCC Survey form but I tested it and found it is not looking good on phone screens. Fixing it tomorrow. Practiced JS with: "Duck Duck Goose", "Find the first non-consecutive number" & "Keep Hydrated!" #Codewars #100DaysOfCode #javascript
 
-**Thoughts:** Rank 3,342 @ Codewars - 3 hours of study
+**Thoughts:** Rank 3,314 @ Codewars - 3 hours of study
 
 ## Day 34: October 15, 2018
 
