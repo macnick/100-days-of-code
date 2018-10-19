@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 37: October 18, 2018
+
+**Today's Progress**: #R3D37 Emergency work on a Wordpress site. Did my 1st contribution to FCC Github. Today's JS coding with kata: "FIXME: Replace all dots", "Volume of a Cuboid" & "Get number from string" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,250 @ Codewars - 2 hours of study
+
 ## Day 36: October 17, 2018
 
 **Today's Progress**: #R3D36 Finished my FCC Survey Form at last. https://codepen.io/macnick/full/YJErGL/. Did my 1st contribution to FCC Github. Today's JS practice: "Remove exclamation marks", "Find Max and Min Values of a List" & "Reversing Words in a String" #Codewars #100DaysOfCode #javascript
