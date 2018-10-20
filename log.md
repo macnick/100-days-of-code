@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 39: October 20, 2018
+
+**Today's Progress**: #R3D39 Completed the Hacktoberfest challenge! Daily JS practice with kata: "", "" & "" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,204 @ Codewars - 2 hours of study
+
 ## Day 38: October 19, 2018
 
 **Today's Progress**: #R3D38 Playing with flexbox. JS practice at codewars and Hackerrank.com: "Parse float", "Remove all exclamation marks from the end of sentence" & "Find the position!" #Codewars #100DaysOfCode #javascript
