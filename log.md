@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 38: October 19, 2018
+
+**Today's Progress**: #R3D38 Playing with flexbox. JS practice at codewars and Hackerrank.com: "Parse float", "Remove all exclamation marks from the end of sentence" & "Find the position!" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,204 @ Codewars - 2 hours of study
+
 ## Day 37: October 18, 2018
 
 **Today's Progress**: #R3D37 Emergency work on a Wordpress site. Did my 1st contribution to FCC Github. Today's JS coding with kata: "FIXME: Replace all dots", "Volume of a Cuboid" & "Get number from string" #Codewars #100DaysOfCode #javascript
