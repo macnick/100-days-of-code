@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R3D39 Completed the Hacktoberfest challenge! Daily JS practice with kata: "", "" & "" #Codewars #100DaysOfCode #javascript
 
-**Thoughts:** Rank 3,204 @ Codewars - 2 hours of study
+**Thoughts:** Rank 3,178 @ Codewars - 2 hours of study
 
 ## Day 38: October 19, 2018
 
