@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 40: October 21, 2018
+
+**Today's Progress**: #R3D41 Started my FCC Landing Page. JS kata completed: "Palindrome Strings", "Removing Elements" & "Well of Ideas - Easy Version" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,178 @ Codewars - 2 hours of study
+
 ## Day 39: October 20, 2018
 
-**Today's Progress**: #R3D39 Completed the Hacktoberfest challenge! Daily JS practice with kata: "", "" & "" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D39 Completed the Hacktoberfest challenge! Daily JS practice with kata: "Are they opposite?", "Powers of 2" & "Price of Mangoes" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 3,178 @ Codewars - 2 hours of study
 
