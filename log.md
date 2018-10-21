@@ -2,7 +2,7 @@
 
 ## Day 40: October 21, 2018
 
-**Today's Progress**: #R3D41 Started my FCC Landing Page. JS kata completed: "Palindrome Strings", "Removing Elements" & "Well of Ideas - Easy Version" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D40 Started my FCC Landing Page. JS kata completed: "Palindrome Strings", "Removing Elements" & "Well of Ideas - Easy Version" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 3,178 @ Codewars - 2 hours of study
 
