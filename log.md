@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 41: October 22, 2018
+
+**Today's Progress**: #R3D41 Reading algorithms day.  Noon JS practice with kata:: "The Wide-Mouthed frog!", "Simple Fun #261: Whose Move" & "UEFA EURO 2016" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,076 @ Codewars - 2 hours of study
+
 ## Day 40: October 21, 2018
 
 **Today's Progress**: #R3D40 Started my FCC Landing Page. JS kata completed: "Palindrome Strings", "Removing Elements" & "Well of Ideas - Easy Version" #Codewars #100DaysOfCode #javascript
