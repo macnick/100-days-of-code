@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 42: October 23, 2018
+
+**Today's Progress**: #R3D42 More reading and practicing JS. Kata completed: "Alan Partridge II - Apple Turnover", "Contamination #1 -String-" & "Pole Vault Starting Marks" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,052 @ Codewars - 2 hours of study
+
 ## Day 41: October 22, 2018
 
 **Today's Progress**: #R3D41 Reading algorithms day.  Noon JS practice with kata:: "The Wide-Mouthed frog!", "Simple Fun #261: Whose Move" & "UEFA EURO 2016" #Codewars #100DaysOfCode #javascript
