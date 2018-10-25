@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 43: October 24, 2018
+
+**Today's Progress**: #R3D43 Other projects took my time and my FCC Landing page stays unfinishe. Kata completed: "Compare within margin", "Is there a vowel in there?" & "Playing with cubes II" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,025 @ Codewars - 4 hours of study
+
 ## Day 42: October 23, 2018
 
 **Today's Progress**: #R3D42 More reading and practicing JS. Kata completed: "Alan Partridge II - Apple Turnover", "Contamination #1 -String-" & "Pole Vault Starting Marks" #Codewars #100DaysOfCode #javascript
