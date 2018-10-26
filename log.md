@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 44: October 25, 2018
+
+**Today's Progress**: #R3D44 Morning reading about Algorithms in interview questions. I can't get enough of JS. Practising in Codewars & Hackerrank: Fuel Calculator", "ES6 string addition" & "Chuck Norris VII - True or False?" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 3,025 @ Codewars - 4 hours of study
+
 ## Day 43: October 24, 2018
 
-**Today's Progress**: #R3D43 Other projects took my time and my FCC Landing page stays unfinishe. Kata completed: "Compare within margin", "Is there a vowel in there?" & "Playing with cubes II" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D43 Other projects took my time and my FCC Landing page stays unfinished. Kata completed: "Compare within margin", "Is there a vowel in there?" & "Playing with cubes II" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 3,025 @ Codewars - 4 hours of study
 
