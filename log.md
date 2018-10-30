@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+## Day 48: October 29, 2018
+
+**Today's Progress**: #R3D48 My FCC Product Landing Page is passed all the tests. I need to fix one small problem and will post it. JS practice with: "Simple Comparison?", "Take the Derivative" & "Polish alphabet" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 2,976 @ Codewars - 3 hours of study
+
+## Day 47: October 28, 2018
+
+**Today's Progress**: #R3D47 Thought about my FCC Product page while asleep! Tomorrow I will make it true. JS kata completed: "Super Duper Easy", "Count the number of cubes with paint on" & "Improving Math.round(x)" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 2,976 @ Codewars - 3 hours of study
+
+## Day 46: October 27, 2018
+
+**Today's Progress**: #R3D46 JS reading and practicing. More kata completed: "Generate user links", "Total amount of points" & "pick a set of first elements" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 2,987 @ Codewars - 3 hours of study
+
+## Day 45: October 26, 2018
+
+**Today's Progress**: #R3D45 JS practice all day. Kata completed: "Crash Override", "Area of a Square" & "Geometry Basics: Distance between points in 2D" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 2,997 @ Codewars - 3 hours of study
+
 ## Day 44: October 25, 2018
 
 **Today's Progress**: #R3D44 Morning reading about Algorithms in interview questions. I can't get enough of JS. Practising in Codewars & Hackerrank: Fuel Calculator", "ES6 string addition" & "Chuck Norris VII - True or False?" #Codewars #100DaysOfCode #javascript
