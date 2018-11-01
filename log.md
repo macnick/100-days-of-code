@@ -1,16 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 50: October 31, 2018
+
+**Today's Progress**: #R3D50 Working hard on a customer's Wordpress site. Noon JS practice with kata: "Arguments to Binary addition", "Total pressure calculation" & "Find the force of gravity between two objects" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 2,900 @ Codewars - 2 hours of study
+
 ## Day 49: October 30, 2018
 
 **Today's Progress**: #R3D49 Another small problem delayed my FCC Landing page. Never stop practicing JS. Today's kata: "How much water do I need?", "noobCode 02: TRICKY QUESTIONS , primitives and operator precedence" & "get ascii value of character" #Codewars #100DaysOfCode #javascript
 
-**Thoughts:** Rank 2,976 @ Codewars - 3 hours of study
+**Thoughts:** Rank 2,904 @ Codewars - 3 hours of study
 
 ## Day 48: October 29, 2018
 
 **Today's Progress**: #R3D48 My FCC Product Landing Page is passed all the tests. I need to fix one small problem and will post it. JS practice with: "Simple Comparison?", "Take the Derivative" & "Polish alphabet" #Codewars #100DaysOfCode #javascript
 
-**Thoughts:** Rank 2,976 @ Codewars - 3 hours of study
+**Thoughts:** Rank 2,955 @ Codewars - 3 hours of study
 
 ## Day 47: October 28, 2018
 
