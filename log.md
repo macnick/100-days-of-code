@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 51: November 1, 2018
+
+**Today's Progress**: #R3D51 I bug in my FCC Landing page is... bugging me :-). Today's JS kata: "Hello, Name or World!", "SpeedCode #3 × Fun with ES6 Classes #5 - Dogs and Classes" & "Configure package json for a node application" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 2,904 @ Codewars - 1 hours of study
+
 ## Day 50: October 31, 2018
 
 **Today's Progress**: #R3D50 Working hard on a customer's Wordpress site. Noon JS practice with kata: "Arguments to Binary addition", "Total pressure calculation" & "Find the force of gravity between two objects" #Codewars #100DaysOfCode #javascript
