@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 52: November 2, 2018
+
+**Today's Progress**: #R3D52 Reading Gatsby documentation, preparing for tomorrow's hackathon. JS practice kata: "Do something "n.times" (Simplifying "for" loops)", "Breaking chocolate problem" & "Parts of a list" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 2,874 @ Codewars - 1 hours of study
+
 ## Day 51: November 1, 2018
 
-**Today's Progress**: #R3D51 I bug in my FCC Landing page is... bugging me :-). Today's JS kata: "Hello, Name or World!", "SpeedCode #3 × Fun with ES6 Classes #5 - Dogs and Classes" & "Configure package json for a node application" #Codewars #100DaysOfCode #javascript
+**Today's Progress**: #R3D51 A bug in my FCC Landing page is... bugging me :-). Today's JS kata: "Hello, Name or World!", "SpeedCode #3 × Fun with ES6 Classes #5 - Dogs and Classes" & "Configure package json for a node application" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 2,904 @ Codewars - 1 hours of study
 
