@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 53: November 3, 2018
+
+**Today's Progress**: #R3D53 Participating to FCC Online Hackathon. Having some trouble finding a team with an interesting project. JS practice kata: "Adding useful functional functionality to JavaScript", "Flatten" & "Exes and Ohs" #Codewars #100DaysOfCode #javascript
+
+**Thoughts:** Rank 2,871 @ Codewars - 1 hours of study
+
 ## Day 52: November 2, 2018
 
 **Today's Progress**: #R3D52 Reading Gatsby documentation, preparing for tomorrow's hackathon. JS practice kata: "Do something "n.times" (Simplifying "for" loops)", "Breaking chocolate problem" & "Parts of a list" #Codewars #100DaysOfCode #javascript
