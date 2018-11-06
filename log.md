@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+## Day 54: November 4, 2018
+
+**Today's Progress**: #R3D54 2nd day in FCC Online Hackathon. Everything went almost as planned. Learning new APIs from Netlify, FaunaDB and Fromspree. No JS practice today at #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,873 @ Codewars - 0 hours of study
 ## Day 53: November 3, 2018
 
 **Today's Progress**: #R3D53 Participating to FCC Online Hackathon. Having some trouble finding a team with an interesting project. JS practice kata: "Adding useful functional functionality to JavaScript", "Flatten" & "Exes and Ohs" #Codewars #100DaysOfCode #javascript
