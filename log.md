@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 56: November 6, 2018
+
+**Today's Progress**: #R3D56 Started my FCC Technical Documentation Page. Today's JS practice with kata:"Scaling Squared Strings", "The old switcheroo" & "Leap Years" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,824 @ Codewars - 2 hours of study
+
 ## Day 55: November 5, 2018
 
 **Today's Progress**: #R3D55 Our team got an amazing 2nd second place in FCC Online Hackathon! Big thanks to all team members. No resting though. JS practice today with kata:"Deodorant Evaporator", "Enumerable Magic #5- True for Just One?" & "Gematria for all" #Codewars #100DaysOfCode #javascript.
