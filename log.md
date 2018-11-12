@@ -1,20 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 61: November 11, 2018
+
+**Today's Progress**: #R3D61 Time to work on my FCC Technical Documentation Page. Time for JS kata today : "Mumbling", "Speed Control" & "A Rule of Divisibility by 7" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,770 @ Codewars - 0 hours of study
+
 ## Day 60: November 10, 2018
 
-**Today's Progress**: #R3D58 Finished the Forum today and travelling back home. Too tired to complete more than one kata : "Highest and Lowest" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R3D60 Finished the Forum today and travelling back home. Too tired to complete more than one kata : "Highest and Lowest" #Codewars #100DaysOfCode #javascript.
 
 **Thoughts:** Rank 2,802 @ Codewars - 0 hours of study
 
 ## Day 59: November 9, 2018
 
-**Today's Progress**: #R3D58 Still the Market Forum 2018 in Athens. Only one kata today : "Two to One" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R3D59 Still the Market Forum 2018 in Athens. Only one kata today : "Two to One" #Codewars #100DaysOfCode #javascript.
 
 **Thoughts:** Rank 2,808 @ Codewars - 0 hours of study
 
 ## Day 58: November 8, 2018
 
-**Today's Progress**: #R3D58 Very busy day suporting the Market Forum 2018. Minimal JS practice with kata: "Number of People in the Bus" & "Vowel Count" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R3D58 Very busy day supporting the Market Forum 2018. Minimal JS practice with kata: "Number of People in the Bus" & "Vowel Count" #Codewars #100DaysOfCode #javascript.
 
 **Thoughts:** Rank 2,812 @ Codewars - 0 hours of study
 
