@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 621: November 12, 2018
+
+**Today's Progress**: #R3D62 Day didn't go as planned. I have more to do tomorrow. Today's JS practice with kata: "Shortest Word", "Maximum Length Difference" & "Thinkful - String Drills: Repeater" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,720 @ Codewars - 0 hours of study
+
 ## Day 61: November 11, 2018
 
 **Today's Progress**: #R3D61 Time to work on my FCC Technical Documentation Page. Time for JS kata today : "Mumbling", "Speed Control" & "A Rule of Divisibility by 7" #Codewars #100DaysOfCode #javascript.
