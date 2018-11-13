@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R3D62 Day didn't go as planned. I have more to do tomorrow. Today's JS practice with kata: "Shortest Word", "Maximum Length Difference" & "Thinkful - String Drills: Repeater" #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 2,720 @ Codewars - 0 hours of study
+**Thoughts:** Rank 2,720 @ Codewars - 1 hours of study
 
 ## Day 61: November 11, 2018
 
