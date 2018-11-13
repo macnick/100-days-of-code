@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 621: November 12, 2018
+## Day 62: November 12, 2018
 
 **Today's Progress**: #R3D62 Day didn't go as planned. I have more to do tomorrow. Today's JS practice with kata: "Shortest Word", "Maximum Length Difference" & "Thinkful - String Drills: Repeater" #Codewars #100DaysOfCode #javascript.
 
