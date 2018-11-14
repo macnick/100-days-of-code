@@ -3,13 +3,13 @@
 
 ## Day 64: November 14, 2018
 
-**Today's Progress**: #R3D64 My FCC Technical Documentation Page is finaly here. Next stop the FCC Portfolio page. http://www.macexperts.gr/portfolio/fccTechnicalPage/FCCTechnicalDocumentationPage.html.  Daily JS practice at codewars.com: "Shortest Word", "Maximum Length Difference" & "Thinkful - String Drills: Repeater" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R3D64 My FCC Technical Documentation Page is finaly here. Next stop the FCC Portfolio page. http://www.macexperts.gr/portfolio/fccTechnicalPage/FCCTechnicalDocumentationPage.html.  Daily JS practice at codewars.com: "The Baby Years II - Poo Roulette", "True Min" & "Sentences with Functions" #Codewars #100DaysOfCode #javascript.
 
 **Thoughts:** Rank 2,660 @ Codewars - 3 hours of study
 
 ## Day 63: November 13, 2018
 
-**Today's Progress**: #R3D63 My FCC Technical Documentation Page is almost ready. Daily JS practice at codewars.com: "Shortest Word", "Maximum Length Difference" & "Thinkful - String Drills: Repeater" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R3D63 My FCC Technical Documentation Page is almost ready. Daily JS practice at codewars.com: "Going to the cinema", "Holiday VII - Local Talk" & "Alphabetical Sequence" #Codewars #100DaysOfCode #javascript.
 
 **Thoughts:** Rank 2,690 @ Codewars - 3 hours of study
 
