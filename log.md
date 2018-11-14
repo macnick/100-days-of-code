@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+
+## Day 64: November 14, 2018
+
+**Today's Progress**: #R3D64 My FCC Technical Documentation Page is finaly here. Next stop the FCC Portfolio page. http://www.macexperts.gr/portfolio/fccTechnicalPage/FCCTechnicalDocumentationPage.html.  Daily JS practice at codewars.com: "Shortest Word", "Maximum Length Difference" & "Thinkful - String Drills: Repeater" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,660 @ Codewars - 3 hours of study
+
+## Day 63: November 13, 2018
+
+**Today's Progress**: #R3D63 My FCC Technical Documentation Page is almost ready. Daily JS practice at codewars.com: "Shortest Word", "Maximum Length Difference" & "Thinkful - String Drills: Repeater" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,690 @ Codewars - 3 hours of study
+
 ## Day 62: November 12, 2018
 
 **Today's Progress**: #R3D62 Day didn't go as planned. I have more to do tomorrow. Today's JS practice with kata: "Shortest Word", "Maximum Length Difference" & "Thinkful - String Drills: Repeater" #Codewars #100DaysOfCode #javascript.
