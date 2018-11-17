@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 66: November 16, 2018
+
+**Today's Progress**: #R3D66 Urgent work on customer's Wordpress sites. Daily JS practice with kata: "For the sake of argument", "Reverse words" & "Javascript filter - 1" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,630 @ Codewars - 3 hours of study
+
+## Day 65: November 15, 2018
+
+**Today's Progress**: #R3D65 Thinking about my FCC Portfolio page. My JS practice with kata: "Alphabet war", "Manipulate URL Parameters" & "Javascript Namespacing" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,630 @ Codewars - 3 hours of study
 
 ## Day 64: November 14, 2018
 
