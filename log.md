@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 67: November 17, 2018
+
+**Today's Progress**: #R3D67 Learning about and practicing Try, Catch and Finaly @ #codewars.Today's JS practice with kata: "Triangular Treasure", "Palindrome chain length" & "Find sum of top-left to bottom-right diagonals" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,630 @ Codewars - 3 hours of study
+
 ## Day 66: November 16, 2018
 
 **Today's Progress**: #R3D66 Urgent work on customer's Wordpress sites. Daily JS practice with kata: "For the sake of argument", "Reverse words" & "Javascript filter - 1" #Codewars #100DaysOfCode #javascript.
