@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R3D67 Learning about and practicing Try, Catch and Finaly @ #codewars.Today's JS practice with kata: "Triangular Treasure", "Palindrome chain length" & "Find sum of top-left to bottom-right diagonals" #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 2,630 @ Codewars - 3 hours of study
+**Thoughts:** Rank 2,600 @ Codewars - 3 hours of study
 
 ## Day 66: November 16, 2018
 
