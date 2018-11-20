@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 69: November 19, 2018
+
+**Today's Progress**: #R3D69 Lots of work on nycgrfilmfestival.com today. Practicing Objects and Clases at #Hackerrank. More kata today: "Factorial Factory", "Basic Calculator" & "The reject() function" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,570 @ Codewars - 3 hours of study
+
 ## Day 68: November 18, 2018
 
 **Today's Progress**: #R3D68 Learning about Throw in JS @ #Hackerrank. JS practice with kata: "Complementary DNA", "Return a sorted list of objects" & "Number Of Occurrences" #Codewars #100DaysOfCode #javascript.
