@@ -1,16 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 71: November 21, 2018
+
+**Today's Progress**: #R3D71 nycgrfilmfestival.com site finished. Practicing Template Literals and Arrow functions at #Hackerrank. Practiced JS with: "Basic JS - Building a calculator", "Naughty or Nice?" & "99 bottles of beer" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,490 @ Codewars - 1 hours of study
+
 ## Day 70: November 20, 2018
 
-**Today's Progress**: #R3D69 Only a few things left to be fixed at the nycgrfilmfestival.com. Practicing Objects and Clases at #Hackerrank. More kata today: "Factorial Factory", "Basic Calculator" & "The reject() function" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R3D70 Only a few things left to be fixed at the nycgrfilmfestival.com. Practicing Inheritance at #Hackerrank. Daily JS practice with: "Return the Missing Element", "Anagram Detection" & "Basic JS - Calculating averages" #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 2,570 @ Codewars - 3 hours of study
+**Thoughts:** Rank 2,510 @ Codewars - 3 hours of study
 
 ## Day 69: November 19, 2018
 
 **Today's Progress**: #R3D69 Lots of work on nycgrfilmfestival.com today. Practicing Objects and Clases at #Hackerrank. More kata today: "Factorial Factory", "Basic Calculator" & "The reject() function" #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 2,570 @ Codewars - 3 hours of study
+**Thoughts:** Rank 2,540 @ Codewars - 3 hours of study
 
 ## Day 68: November 18, 2018
 
