@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 72: November 22, 2018
+
+**Today's Progress**: #R3D72 Today's practice: Bitwise operations at #Hackerrank. More JS kata: "Sort Santa's Reindeer", "Sort the Gift Code" & "Only One Gift Per Child" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,460 @ Codewars - 1 hours of study
+
 ## Day 71: November 21, 2018
 
 **Today's Progress**: #R3D71 nycgrfilmfestival.com site finished. Practicing Template Literals and Arrow functions at #Hackerrank. Practiced JS with: "Basic JS - Building a calculator", "Naughty or Nice?" & "99 bottles of beer" #Codewars #100DaysOfCode #javascript.
