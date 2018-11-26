@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 73: November 23, 2018
+
+**Today's Progress**: #R3D73 Did a job intervies today. The interview went well but I didn't get the job because we disagreed in the salary department. Today's JS kata: "Milk and Cookies for Santa", "SantaClausable Interface" & "Boiled Eggs" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,430 @ Codewars - 1 hours of study
+
 ## Day 72: November 22, 2018
 
 **Today's Progress**: #R3D72 Today's practice: Bitwise operations at #Hackerrank. More JS kata: "Sort Santa's Reindeer", "Sort the Gift Code" & "Only One Gift Per Child" #Codewars #100DaysOfCode #javascript.
