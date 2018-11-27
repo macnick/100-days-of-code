@@ -1,8 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 76: November 26, 2018
+
+**Today's Progress**: #R3D76 Feeling ill today but nothing will stop me from doing my Javascript practice. Today's kata: "splicing", "Summing a number's digits" & "Constructing a bit vector set. (Sort 0 - 30 numbers only using one integer)" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,.370 @ Codewars - 1 hours of study
+
+## Day 75: November 25, 2018
+
+**Today's Progress**: #R3D75 Practicing Javascript Dates and Regular Expression at #Hackerrand. Solved kata @ codewars: "Differential Averaging", "Multiply characters" & "Simple elevator" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,.370 @ Codewars - 1 hours of study
+
 ## Day 74: November 24, 2018
 
-**Today's Progress**: #R3D74 Did a job intervies today. The interview went well but I didn't get the job because we disagreed in the salary department. Today's JS kata: "Milk and Cookies for Santa", "SantaClausable Interface" & "Boiled Eggs" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R3D74 Decided how my FCC Portfolio page will be. Probably I will do it using Bootstrap 4. Day's JS practice with kata: "esreveR gnirtS", "Ones and Zeros" & "Search for letters" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,400 @ Codewars - 1 hours of study
 
 ## Day 73: November 23, 2018
 
