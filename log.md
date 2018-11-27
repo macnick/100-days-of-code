@@ -1,8 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 74: November 24, 2018
+
+**Today's Progress**: #R3D74 Did a job intervies today. The interview went well but I didn't get the job because we disagreed in the salary department. Today's JS kata: "Milk and Cookies for Santa", "SantaClausable Interface" & "Boiled Eggs" #Codewars #100DaysOfCode #javascript.
+
 ## Day 73: November 23, 2018
 
-**Today's Progress**: #R3D73 Did a job intervies today. The interview went well but I didn't get the job because we disagreed in the salary department. Today's JS kata: "Milk and Cookies for Santa", "SantaClausable Interface" & "Boiled Eggs" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R3D73 Did a job interview today. The interview went well but I didn't get the job because we disagreed in the salary department. Today's JS kata: "Milk and Cookies for Santa", "SantaClausable Interface" & "Boiled Eggs" #Codewars #100DaysOfCode #javascript.
 
 **Thoughts:** Rank 2,430 @ Codewars - 1 hours of study
 
