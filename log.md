@@ -14,7 +14,7 @@
 
 ## Day 75: November 25, 2018
 
-**Today's Progress**: #R3D75 Practicing Javascript Dates and Regular Expression at #Hackerrand. Solved kata @ codewars: "Differential Averaging", "Multiply characters" & "Simple elevator" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R3D75 Practicing Javascript Dates and Regular Expression at #Hackerrank. Solved kata @ codewars: "Differential Averaging", "Multiply characters" & "Simple elevator" #Codewars #100DaysOfCode #javascript.
 
 **Thoughts:** Rank 2,370 @ Codewars - 1 hours of study
 
