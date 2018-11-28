@@ -1,16 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 77: November 27, 2018
+
+**Today's Progress**: #R3D77 FCC Portfolio Page almost ready. JS practice with kata: "Pluck", "Fizz Buzz" & "Factorial division" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,357 @ Codewars - 3 hours of study
+
 ## Day 76: November 26, 2018
 
 **Today's Progress**: #R3D76 Feeling ill today but nothing will stop me from doing my Javascript practice. Today's kata: "splicing", "Summing a number's digits" & "Constructing a bit vector set. (Sort 0 - 30 numbers only using one integer)" #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 2,.370 @ Codewars - 1 hours of study
+**Thoughts:** Rank 2,358 @ Codewars - 1 hours of study
 
 ## Day 75: November 25, 2018
 
 **Today's Progress**: #R3D75 Practicing Javascript Dates and Regular Expression at #Hackerrand. Solved kata @ codewars: "Differential Averaging", "Multiply characters" & "Simple elevator" #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 2,.370 @ Codewars - 1 hours of study
+**Thoughts:** Rank 2,370 @ Codewars - 1 hours of study
 
 ## Day 74: November 24, 2018
 
