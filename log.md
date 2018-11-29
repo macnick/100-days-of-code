@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 78: November 28, 2018
+
+**Today's Progress**: #R3D78 Debugging Filemaker Pro 17 scripts for a customer. Solved kata today: "Number-like counter", "Operator overload?" & "Slope of a Line" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,317 @ Codewars - 3 hours of study
+
 ## Day 77: November 27, 2018
 
 **Today's Progress**: #R3D77 FCC Portfolio Page almost ready. JS practice with kata: "Pluck", "Fizz Buzz" & "Factorial division" #Codewars #100DaysOfCode #javascript.
