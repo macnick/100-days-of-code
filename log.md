@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 79: November 29, 2018
+
+**Today's Progress**: #R3D79 Leveled up! @codewars. 3kyu from now on! Yes!!!. Solved kata today: "Use reduce() to calculate the sum of the values in an array", "Power of two" & "isAN(value)" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,317 @ Codewars - 3 hours of study
+
 ## Day 78: November 28, 2018
 
 **Today's Progress**: #R3D78 Debugging Filemaker Pro 17 scripts for a customer. Solved kata today: "Number-like counter", "Operator overload?" & "Slope of a Line" #Codewars #100DaysOfCode #javascript.
