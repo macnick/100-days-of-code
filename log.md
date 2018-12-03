@@ -1,10 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 82: December 2, 2018
+
+**Today's Progress**: #R3D82 Made some fundamental changes to my FCC Portfolio page. JS practice with kata: "Find Your Villain Name", "Unlimited Sum" & "Singleton Pattern" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,193 @ Codewars - 3 hours of study
+
+## Day 81: December 1, 2018
+
+**Today's Progress**: #R3D81 Practiced Javascript dates at #Hackerrank. Also solved the kata: "8 towers", "Parse integers in array" & "Orthogonal Vectors" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,224 @ Codewars - 3 hours of study
+
+## Day 80: November 30, 2018
+
+**Today's Progress**: #R3D80 Started the day full of confidence since I am 3kyu now :-D. Next up is 2kyu. JS practice with more difficult kata: "Greet Me", "Name Array Capping" & "Find the Capitals" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,255 @ Codewars - 3 hours of study
+
 ## Day 79: November 29, 2018
 
 **Today's Progress**: #R3D79 Leveled up! @codewars. 3kyu from now on! Yes!!!. Solved kata today: "Use reduce() to calculate the sum of the values in an array", "Power of two" & "isAN(value)" #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 2,317 @ Codewars - 3 hours of study
+**Thoughts:** Rank 2,286 @ Codewars - 3 hours of study
 
 ## Day 78: November 28, 2018
 
