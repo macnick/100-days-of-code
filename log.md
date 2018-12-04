@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 83: December 3, 2018
+
+**Today's Progress**: #R3D83 Got my FCC Responsive Web Desing Certificate. Thank you all at #freeCodeCamp and many thanks particularly to @ossia for creating this great platform. Daily JS practice: "Find Your Villain Name", "Unlimited Sum" & "Singleton Pattern" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,193 @ Codewars - 3 hours of study
+
 ## Day 82: December 2, 2018
 
 **Today's Progress**: #R3D82 Made some fundamental changes to my FCC Portfolio page. JS practice with kata: "Find Your Villain Name", "Unlimited Sum" & "Singleton Pattern" #Codewars #100DaysOfCode #javascript.
