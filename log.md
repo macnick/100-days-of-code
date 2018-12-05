@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 84: December 4, 2018
+
+**Today's Progress**: #R3D84 With boosted morale I am going after the next goal which is the Javascript Algorithms And Data Structures Certification. Curriculum seems easy since I practice JS every day. Today's kata: "Area of a Circle", "Functional Addition" & "Delta Bits" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,131 @ Codewars - 4 hours of study
+
 ## Day 83: December 3, 2018
 
-**Today's Progress**: #R3D83 Got my FCC Responsive Web Desing Certificate. Thank you all at #freeCodeCamp and many thanks particularly to @ossia for creating this great platform. Daily JS practice: "Find Your Villain Name", "Unlimited Sum" & "Singleton Pattern" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R3D83 Got my FCC Responsive Web Desing Certificate. Thank you all at #freeCodeCamp and many thanks particularly to @ossia for creating this great platform. Daily JS practice: "Find Your Villain Name", "Unlimited Sum" & "Singleton Pattern" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 2,193 @ Codewars - 3 hours of study
+**Thoughts:** Rank 2,162 @ Codewars - 3 hours of study
 
 ## Day 82: December 2, 2018
 
