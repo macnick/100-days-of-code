@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 86: December 6, 2018
+
+**Today's Progress**: #R3D86 Went through Debugging & Basic Data Structures at FCC. JS practice solving the kata: "The Coupon Code", "Find the capitals" & "Say "Hello World" JS Style" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,075 @ Codewars - 4 hours of study
+
+## Day 85: December 5, 2018
+
+**Today's Progress**: #R3D85 Went through Basic JS, ES6 & Regular Expressions at FCC. JS practice solving the kata: "Weight of its Contents", "The Power of Exponents" & "Use map() to double the values in an array" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,100 @ Codewars - 4 hours of study
+
 ## Day 84: December 4, 2018
 
 **Today's Progress**: #R3D84 With boosted morale I am going after the next goal which is the Javascript Algorithms And Data Structures Certification. Curriculum seems easy since I practice JS every day. Today's kata: "Area of a Circle", "Functional Addition" & "Delta Bits" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
