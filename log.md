@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 89: December 9, 2018
+
+**Today's Progress**: #R3D89 Finished the Object Oriented Programming @ FCC. Today's kata: "Largest Elements", "Target Date" & "Anonymous Returns" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,000 Yessss! Actually happened yesterday. @ Codewars - 3 hours of study
+
+## Day 88: December 8, 2018
+
+**Today's Progress**: #R3D88 Halfway through the Object Oriented Programming @ FCC. Kata solved today: "Making Copies", "Array.prototype.reverse()" & "uniquePush - No Dupes!" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,025 @ Codewars - 3 hours of study
+
 ## Day 87: December 7, 2018
 
 **Today's Progress**: #R3D87 Blazed through Basic Algorithm Scripting @ FCC. Solved the kata: "Array Appender", "Recursive reverse string" & "Dangerous Dates" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
