@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 90: December 10, 2018
+
+**Today's Progress**: #R3D90 Started Functional Programming @ FCC. Solved the kata: "Re-open class", "We Have Liftoff" & "Sorting Dictionaries" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 2,000 Yessss! Actually happened yesterday. @ Codewars - 3 hours of study
+
 ## Day 89: December 9, 2018
 
 **Today's Progress**: #R3D89 Finished the Object Oriented Programming @ FCC. Today's kata: "Largest Elements", "Target Date" & "Anonymous Returns" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
