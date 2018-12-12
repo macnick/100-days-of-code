@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 91: December 11, 2018
+
+**Today's Progress**: #R3D91 I love the smell of code in the morning! Halfway through Functional Programming @ FCC. Solved the kata: "List Filtering", "Left$ and Right$" & "Sum of all arguments" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,950 @ Codewars - 3 hours of study
+
 ## Day 90: December 10, 2018
 
 **Today's Progress**: #R3D90 Started Functional Programming @ FCC. Solved the kata: "Re-open class", "We Have Liftoff" & "Sorting Dictionaries" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 2,000 Yessss! Actually happened yesterday. @ Codewars - 3 hours of study
+**Thoughts:** Rank 1,975 @ Codewars - 3 hours of study
 
 ## Day 89: December 9, 2018
 
