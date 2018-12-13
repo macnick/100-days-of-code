@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 92: December 12, 2018
+
+**Today's Progress**: #R3D92 Finished Functional Programming @ FCC. Solved the kata: "Unique Pairs", "Unpacking Arguments" & "Grasshopper - Messi goals function" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,925 @ Codewars - 3 hours of study
+
 ## Day 91: December 11, 2018
 
 **Today's Progress**: #R3D91 I love the smell of code in the morning! Halfway through Functional Programming @ FCC. Solved the kata: "List Filtering", "Left$ and Right$" & "Sum of all arguments" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
