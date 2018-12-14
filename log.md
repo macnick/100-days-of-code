@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 93: December 13, 2018
+
+**Today's Progress**: #R3D93 Started Intermediate Algorithm Scripting @ FCC. Solved the kata: "For Twins: 2. Math operations", "Digitize" & "Credit Card Mask" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,900 @ Codewars - 3 hours of study
+
 ## Day 92: December 12, 2018
 
 **Today's Progress**: #R3D92 Finished Functional Programming @ FCC. Solved the kata: "Unique Pairs", "Unpacking Arguments" & "Grasshopper - Messi goals function" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
