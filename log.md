@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 96: December 16, 2018
+
+**Today's Progress**: #R3D95 Solving the Intermediate Algorithm Scripting challenges @ FCC. Today's kata: "Simple Moon Rating", "Caffeine Script" & "Monotone travel" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,875 @ Codewars - 3 hours of study
+
 ## Day 95: December 15, 2018
 
 **Today's Progress**: #R3D95 Halfway through the Intermediate Algorithm Scripting challenges @ FCC. Kata solved today: "Smallest value of an array", "Same Birthday Probability" & "Who let the dogs out?" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
