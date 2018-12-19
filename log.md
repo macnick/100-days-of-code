@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 98: December 18, 2018
+
+**Today's Progress**: #R3D98 Finished all the Intermediate Algorithm Scripting challenges @ FCC. My daily JS practice has really paid off. Now if I could finish the JavaScript Algorithms and Data Structures Projects in the next 2 days! No practice @ Codewars today. #freeCodeCamp #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,775 @ Codewars - 3 hours of study
+
 ## Day 97: December 17, 2018
 
 **Today's Progress**: #R3D97 4 Intermediate Algorithm Scripting challenges remaining @ FCC. Daily JS practice with: "Find the divisors!", "PopShift" & "esreveR" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
@@ -16,7 +22,7 @@
 
 **Today's Progress**: #R3D95 Halfway through the Intermediate Algorithm Scripting challenges @ FCC. Kata solved today: "Smallest value of an array", "Same Birthday Probability" & "Who let the dogs out?" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 1,850 @ Codewars - 3 hours of study
+**Thoughts:** Rank 1,850 @ Codewars - 4 hours of study
 
 ## Day 94: December 14, 2018
 
