@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 100 - 302: December 20, 2018
+
+**Today's Progress**: #R3D100 Another round is about to finish today (I count to 101). Did the first 3 Javascript projects @ FCC. The phone number validator took me almost 3 hours. I found the courage to do the kata:"Arithmetic List!", "Triple trouble" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,750 @ Codewars - 5 hours of study
+
 ## Day 99: December 19, 2018
 
 **Today's Progress**: #R3D99 Almost there. Did the first 3 Javascript projects @ FCC. The phone number validator might prove more difficult than I thought. Definitely not a single regex. More JS practice with kata:"Find divisors of a number", "SequenceSum" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 1,767 @ Codewars - 3 hours of study
+**Thoughts:** Rank 1,767 @ Codewars - 4 hours of study
 
 ## Day 98: December 18, 2018
 
