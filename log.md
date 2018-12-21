@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 101 - 303: December 21, 2018
+
+**Today's Progress**: #R3D101 Finished round 3. I have been coding 303 days straight. And also today got my FCC JavaScript Algorithms and Data Structures certificate. Thank you all for your support. Tomorrow starting the Front End Libraries Certification. #freeCodeCamp #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,752 @ Codewars - 5 hours of study
+
 ## Day 100 - 302: December 20, 2018
 
 **Today's Progress**: #R3D100 Another round is about to finish today (I count to 101). Did the first 3 Javascript projects @ FCC. The phone number validator took me almost 3 hours. I found the courage to do the kata:"Arithmetic List!", "Triple trouble" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
