@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 1: December 22, 2018
+
+**Today's Progress**: #R4D1 Start officially today. I am so addicted to morning coding. I wake up every day to solve problem @ Codewars and Hackerrank. What is your favorite hour? Kata solved today: "Persistent Bugger", "Only Duplicates" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,734 @ Codewars - 3 hours of study
+
 ## Day 101 - 303: December 21, 2018
 
 **Today's Progress**: #R3D101 Finished round 3. I have been coding 303 days straight. And also today got my FCC JavaScript Algorithms and Data Structures certificate. Thank you all for your support. Tomorrow starting the Front End Libraries Certification. #freeCodeCamp #Codewars #100DaysOfCode #javascript.
