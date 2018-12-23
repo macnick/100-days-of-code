@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 2: December 23, 2018
+
+**Today's Progress**: #R4D2 Started the FrontEnd Libraries Certification #freeCodeCamp. Daily JS practice with kata: "Moving Zeros To The End", "Pascal's Triangle" & "Greed is Good"  #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,734 @ Codewars - 2 hours of study
+
 ## Day 1: December 22, 2018
 
-**Today's Progress**: #R4D1 Start officially today. I am so addicted to morning coding. I wake up every day to solve problem @ Codewars and Hackerrank. What is your favorite hour? Kata solved today: "Persistent Bugger", "Only Duplicates" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R4D1 Starts officially today. I am so addicted to morning coding. I wake up every day to solve problem @ Codewars and Hackerrank. What is your favorite hour? Kata solved today: "Persistent Bugger", "Only Duplicates" #freeCodeCamp #Codewars #100DaysOfCode #javascript.
 
 **Thoughts:** Rank 1,734 @ Codewars - 3 hours of study
 
