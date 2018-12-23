@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R4D2 Started the FrontEnd Libraries Certification #freeCodeCamp. Daily JS practice with kata: "Moving Zeros To The End", "Pascal's Triangle" & "Greed is Good"  #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 1,734 @ Codewars - 2 hours of study
+**Thoughts:** Rank 1,706 @ Codewars - 2 hours of study
 
 ## Day 1: December 22, 2018
 
