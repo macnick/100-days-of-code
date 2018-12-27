@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R4D5 Finished the jQuery Intro #freeCodeCamp. A little JS practice with kata: "Super Secret Password Generator", "Format words into a sentence" & "Extract the domain name from a URL"  #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 1,668 @ Codewars - 1 hours of study
+**Thoughts:** Rank 1,649 @ Codewars - 1 hours of study
 
 ## Day 4: December 25, 2018
 
