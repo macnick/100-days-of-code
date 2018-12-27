@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 5: December 26, 2018
+
+**Today's Progress**: #R4D5 Finished the jQuery Intro #freeCodeCamp. A little JS practice with kata: "Super Secret Password Generator", "Format words into a sentence" & "Extract the domain name from a URL"  #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,668 @ Codewars - 1 hours of study
+
+## Day 4: December 25, 2018
+
+**Today's Progress**: #R4D4 Halfway through the jQuery Intro #freeCodeCamp. Today's JS practice: "Human readable duration format", "Sort array by string length" & "Last"  #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,668 @ Codewars - 1 hours of study
+
+## Day 3: December 24, 2018
+
+**Today's Progress**: #R4D3 finished the Bootstrap 3 Challengers #freeCodeCamp. Practiced JS with kata: "Talisman Board Game Combat System Checker", "Roman Numerals Decoder" & "flatten()"  #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,687 @ Codewars - 2 hours of study
+
 ## Day 2: December 23, 2018
 
 **Today's Progress**: #R4D2 Started the FrontEnd Libraries Certification #freeCodeCamp. Daily JS practice with kata: "Moving Zeros To The End", "Pascal's Triangle" & "Greed is Good"  #Codewars #100DaysOfCode #javascript.
