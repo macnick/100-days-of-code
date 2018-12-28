@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 6: December 27, 2018
+
+**Today's Progress**: #R4D6 As of today I am a #freeCodeCamp supporter. A small token for my appreciation for Quincy and the friends at FCC. Daily practice with: "Super Secret Password Generator", "Format words into a sentence" & "Extract the domain name from a URL"  #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,649 @ Codewars - 1 hours of study
+
 ## Day 5: December 26, 2018
 
 **Today's Progress**: #R4D5 Finished the jQuery Intro #freeCodeCamp. A little JS practice with kata: "Super Secret Password Generator", "Format words into a sentence" & "Extract the domain name from a URL"  #Codewars #100DaysOfCode #javascript.
