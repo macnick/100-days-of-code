@@ -1,8 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 9: December 30, 2018
+
+**Today's Progress**: #R4D9 Started REACT at #freeCodeCamp. I am really excited with it. Today's kata: "Integers: Recreation One" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,592 @ Codewars - 2 hours of study
+
+## Day 8: December 29, 2018
+
+**Today's Progress**: #R4D8 Finished the Sass Challenges at #freeCodeCamp. Daily JS practice with kata: "Node.js Intro", "Strip Url Params" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,603 @ Codewars - 2 hours of study
+
+## Day 7: December 28, 2018
+
+**Today's Progress**: #R4D7 Started the Sass Challenges at #freeCodeCamp. JS practiced with kata: "Strip Comments" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,621 @ Codewars - 2 hours of study
+
 ## Day 6: December 27, 2018
 
-**Today's Progress**: #R4D6 As of today I am a #freeCodeCamp supporter. A small token for my appreciation for Quincy and the friends at FCC. Daily practice with: "Super Secret Password Generator", "Format words into a sentence" & "Extract the domain name from a URL"  #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R4D6 As of today I am a #freeCodeCamp supporter. A small token for my appreciation for Quincy and the friends at FCC. Daily practice with: "Arithmetic Sequence!", "Extract the IDs from the data set" & "Sort the odd"  #Codewars #100DaysOfCode #javascript.
 
 **Thoughts:** Rank 1,633 @ Codewars - 1 hours of study
 
