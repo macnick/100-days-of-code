@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 10: December 31, 2018
+
+**Today's Progress**: #R4D10 Enjoying REACT challenges at #freeCodeCamp. JS practice whith 4kyu kata: "Strings Mix" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,578 @ Codewars - 2 hours of study
+
 ## Day 9: December 30, 2018
 
 **Today's Progress**: #R4D9 Started REACT at #freeCodeCamp. I am really excited with it. Today's kata: "Integers: Recreation One" #Codewars #100DaysOfCode #javascript.
