@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 13: January 3, 2019
+
+**Today's Progress**: #R4D13 When you are learning to code not only you should make but also try to break code. That is how you learn faster. #freeCodeCamp. Today's kata: "" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,552 @ Codewars - 3 hours of study
+
 ## Day 12: January 2, 2019
 
 **Today's Progress**: #R4D12 Started the year well with 7 hours of studying and coding today. #freeCodeCamp. Today's kata: "shorter concat [reverse longer]", "Make the Deadfish swim" & "Time-like string format" #Codewars #100DaysOfCode #javascript.
