@@ -8,13 +8,13 @@
 
 ## Day 11: January 1, 2019
 
-**Today's Progress**: #R4D11 Continuing with REACT challenges at #freeCodeCamp. Today's JS practice whith kata: "Figure Out the Notes", "Password Hashes" & "Split Strings" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R4D11 Continuing with REACT challenges at #freeCodeCamp. Today's JS practice with kata: "Figure Out the Notes", "Password Hashes" & "Split Strings" #Codewars #100DaysOfCode #javascript.
 
 **Thoughts:** Rank 1,563 @ Codewars - 5 hours of study
 
 ## Day 10: December 31, 2018
 
-**Today's Progress**: #R4D10 Enjoying REACT challenges at #freeCodeCamp. JS practice whith 4kyu kata: "Strings Mix" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R4D10 Enjoying REACT challenges at #freeCodeCamp. JS practice with 4kyu kata: "Strings Mix" #Codewars #100DaysOfCode #javascript.
 
 **Thoughts:** Rank 1,578 @ Codewars - 4 hours of study
 
