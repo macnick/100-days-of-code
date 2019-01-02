@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 12: January 2, 2019
+
+**Today's Progress**: #R4D12 Started the year well with 7 hours of studying and coding today. #freeCodeCamp. Today's kata: "shorter concat [reverse longer]", "Make the Deadfish swim" & "Time-like string format" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,552 @ Codewars - 7 hours of study
+
 ## Day 11: January 1, 2019
 
 **Today's Progress**: #R4D11 Continuing with REACT challenges at #freeCodeCamp. Today's JS practice whith kata: "Figure Out the Notes", "Password Hashes" & "Split Strings" #Codewars #100DaysOfCode #javascript.
