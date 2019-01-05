@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 14: January 4, 2019
+
+**Today's Progress**: #R4D14 React challenges #freeCodeCamp and reading the documentation because I feel something is missing. JS practice with kata: "Counting power sets", "Sign in/Sign out but sign it" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,502 @ Codewars - 3 hours of study
+
 ## Day 13: January 3, 2019
 
-**Today's Progress**: #R4D13 When you are learning to code not only you should make stuff but also try to break it. This is how you get a better understanding of what is happening. #freeCodeCamp. Today's kata: "" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R4D13 When you are learning to code not only you should make stuff but also try to break it. This is how you get a better understanding of what is happening. #freeCodeCamp. Today's kata: "Round by 0.5 steps", "Rot13" #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 1,537 @ Codewars - 3 hours of study
+**Thoughts:** Rank 1,520 @ Codewars - 3 hours of study
 
 ## Day 12: January 2, 2019
 
