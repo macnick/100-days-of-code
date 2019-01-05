@@ -2,7 +2,7 @@
 
 ## Day 13: January 3, 2019
 
-**Today's Progress**: #R4D13 When you are learning to code not only you should make stuff but also try to break it. That is how you learn better. #freeCodeCamp. Today's kata: "" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R4D13 When you are learning to code not only you should make stuff but also try to break it. This is how you get a better understanding of what is happening. #freeCodeCamp. Today's kata: "" #Codewars #100DaysOfCode #javascript.
 
 **Thoughts:** Rank 1,537 @ Codewars - 3 hours of study
 
