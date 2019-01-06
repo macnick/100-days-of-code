@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 16: January 6, 2019
+
+**Today's Progress**: #R4D16 Did my first generator function in JS. Yuppi. JS practice with: "Street Fighter 2 - Character Selection", "Find within array" & "Arrays Similar" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,497 @ Codewars - 3 hours of study
+
+## Day 15: January 5, 2019
+
+**Today's Progress**: #R4D15 Refreshing my knowledge in closures. Today's kata: "Playing with types", "Sort Arrays (Ignoring Case)" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,497 @ Codewars - 3 hours of study
+
 ## Day 14: January 4, 2019
 
 **Today's Progress**: #R4D14 React challenges #freeCodeCamp and reading the documentation because I feel something is missing. JS practice with kata: "Counting power sets", "Sign in/Sign out but sign it" #Codewars #100DaysOfCode #javascript.
