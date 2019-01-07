@@ -1224,91 +1224,91 @@
 
 **Thoughts:**  
 
-## Day 15: June 17, 2018
+## Day 116: June 17, 2018
 
 **Today's Progress**: #R2D15 Filemaker developing for customer and practicing JS with 4 kata "Returning Strings", "Simple Fun #352: Reagent Formula", "Subtract the Sum" & "Grasshopper - Debug" Rank #18100 #Codewars. #100DaysOfCode
 
 **Thoughts:** I finish 8 kyu kata in less than 2 minutes 
 
-## Day 14: June 16, 2018
+## Day 115: June 16, 2018
 
 **Today's Progress**: #R2D14 Reading about and practicing JS with kata "Beginner - Lost Without a Map", "String cleaning" & "The falling speed of petals" #Codewars. #100DaysOfCode
 
 **Thoughts:** 
 
-## Day 13: June 15, 2018
+## Day 114: June 15, 2018
 
 **Today's Progress**: #R2D13 35% completed of JS course at #Udemy. Practicing JS with kata "Difference of Volumes of Cuboids", "How good are you really?" & "CSV representation of array" #Codewars. #100DaysOfCode
 
 **Thoughts:** 
 
-## Day 12: June 14, 2018
+## Day 113: June 14, 2018
 
 **Today's Progress**: #R2D12 30% completed of JS course at #Udemy. Katas completed "Hex to Decimal", "Surface Area and Volume of a Box" & "Capitalization and Mutability" #Codewars. #100DaysOfCode
 
 **Thoughts:** 
 
-## Day 11: June 13, 2018
+## Day 112: June 13, 2018
 
 **Today's Progress**: #R2D11 Developed a Filemaker script to upload JSON data to webmerge.me. Katas completed "Cat years, Dog years" & "Bin to Decimal" #Codewars. #100DaysOfCode
 
 **Thoughts:** 
 
-## Day 10: June 12, 2018
+## Day 111: June 12, 2018
 
 **Today's Progress**: #R2D10 25% completed of JS course at #Udemy. Katas completed "Will you make it?", "Sum of Multiples" & "Merge two sorted arrays into one" #Codewars. #100DaysOfCode
 
 **Thoughts:** 
 
-## Day 9: June 11, 2018
+## Day 110: June 11, 2018
 
 **Today's Progress**: #R2D9 #Filemaker scripting day. Katas completed "Sleigh Authentication" & "Convert boolean values to strings 'Yes' or 'No'." #Codewars. #100DaysOfCode
 
 **Thoughts:** 
 
-## Day 8: June 10, 2018
+## Day 109: June 10, 2018
 
 **Today's Progress**: #R2D8 20% completed course at #Udemy. Today's practice "Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence" & "Convert number to reversed array of digits" #Codewars. #100DaysOfCode
 
 **Thoughts:** 
 
-## Day 7: June 9, 2018
+## Day 108: June 9, 2018
 
 **Today's Progress**: #R2D7 Reading YDKJS and practicing JS at #Codewars. Today's katas "Reversed Strings", "Remove String Spaces" & "Correct the mistakes of the character recognition software" #100DaysOfCode
 
 **Thoughts:** 
 
-## Day 6: June 8, 2018
+## Day 107: June 8, 2018
 
 **Today's Progress**: #R2D6 15% completed course at #Udemy.JS Practice at #Codewars katas "Basic Mathematical Operations", "Coding 3min : Jumping Dutch act" & "Remove First and Last Character" #100DaysOfCode
 
 **Thoughts:** 
 
-## Day 5: June 7, 2018
+## Day 106: June 7, 2018
 
 **Today's Progress**: #R2D5 Started the "The Complete JavaScript Course 2018: Build Real Projects!" at #Udemy.JS Practice at #Codewars katas "Count of positives / sum of negatives", "Fake Binary" & "Opposite number" #100DaysOfCode
 
 **Thoughts:** 
 
-## Day 4: June 6, 2018
+## Day 105: June 6, 2018
 
 **Today's Progress**: #R2D4 Reading and training. Very productive day. #Codewars katas "Stringy Strings", "Find Nearest square number" & "Determine offspring sex based on chromosomes" #100DaysOfCode
 
 **Thoughts:** 
 
-## Day 3: June 5, 2018
+## Day 104: June 5, 2018
 
 **Today's Progress**: #R2D3 FileMaker developing. 3 katas completed at #Codewars "Holiday VI - Shark Pontoon", "Century From Year" & "Remove duplicates from list" #100DaysOfCode
 
 **Thoughts:** 
 
-## Day 2: June 4, 2018
+## Day 103: June 4, 2018
 
 **Today's Progress**: #R2D2 Started reading YDKJS this & Object Prototypes. More katas at #Codewars "Convert to Binary", "Reversed sequence" & "Abbreviate a Two Word Name" #100DaysOfCode
 
 **Thoughts:** 
 
-## Day 1: June 3, 2018
+## Day 102: June 3, 2018
 
 **Today's Progress**: #R2D1 Starting Round 2 of #100DaysOfCode. In the next 100 days my goals are to learn Meteor and get my FCC certification. Lots of JS practice doing 3 katas "Sort and Star", "altERnaTIng cAsE <=> ALTerNAtiNG CaSe" & "Training JS #18: Methods of String object--concat() split() and its good friend join()" #Codewars #100DaysOfCode
 
