@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 17: January 7, 2019
+
+**Today's Progress**: #R4D17 Did my first generator function in JS. Yuppi. JS practice with: "Power of 4", "NATO Phonetic Alphabet" & "Title Case" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,485 @ Codewars - 6 hours of study
+
 ## Day 16: January 6, 2019
 
-**Today's Progress**: #R4D16 Did my first generator function in JS. Yuppi. JS practice with: "Street Fighter 2 - Character Selection", "Find within array" & "Arrays Similar" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R4D16 Did my first generator function in JS. Yeeaaahhh. JS practice with: "Street Fighter 2 - Character Selection", "Find within array" & "Arrays Similar" #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 1,497 @ Codewars - 3 hours of study
+**Thoughts:** Rank 1,485 @ Codewars - 6 hours of study
 
 ## Day 15: January 5, 2019
 
