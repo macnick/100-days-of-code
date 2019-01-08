@@ -1086,145 +1086,145 @@
 
 **Thoughts:** Rank 9,595 @ Codewars
 
-## Day 39: July 11, 2018
+## Day 140: July 11, 2018
 
 **Today's Progress**: #R2D39 Lots of #Filemaker developing. Daily JS practice with kata "To square(root) or not to square(root)", "Weird words", "Simple multiplication" & "Odd-Even String Sort" #100DaysOfCode
 
 **Thoughts:** Rank 9,680 @ Codewars
 
-## Day 38: July 10, 2018
+## Day 139: July 10, 2018
 
 **Today's Progress**: #R2D38 Many hours of #Filemaker developing. JS practice with kata "Offspring Traits", "Fruit Machine", "JS is Weird: Return a" & "JS is Weird: Return fuelstar" #100DaysOfCode
 
 **Thoughts:** Rank 9,811 @ Codewars
 
-## Day 37: July 9, 2018
+## Day 138: July 9, 2018
 
 **Today's Progress**: #R2D37 75% completed of JS course at #Udemy. Practicing JS with kata "Decibel Scale", "Shorten Me: Mad Mathematician's Algorithm II (Subtraction)", "Cat and Mouse - 2D Version" & "Sum Arrays" #100DaysOfCode
 
 **Thoughts:** Rank 9,894 @ Codewars
 
-## Day 36: July 8, 2018
+## Day 137: July 8, 2018
 
 **Today's Progress**: #R2D36 Reading the YDKJS today and little practice with kata "Disemvowel Trolls", "simple calculator" & "Find the Remainder" #100DaysOfCode
 
 **Thoughts:** Rank 10,119 @ Codewars
 
-## Day 35: July 7, 2018
+## Day 136: July 7, 2018
 
 **Today's Progress**: #R2D35 FileMaker development. I love to practice JS every day. Today's kata "Grasshopper - Bug Squashing", "Training JS #7: if..else and ternary operator", "Exclamation marks series #1: Remove a exclamation mark from the end of string" #100DaysOfCode
 
 **Thoughts:** Rank 10,238 @ Codewars
 
-## Day 34: July 6, 2018
+## Day 135: July 6, 2018
 
 **Today's Progress**: #R2D34 74% completed of JS course at #Udemy. Practicing JS with kata "Pizza Payments", "Predict your age!", "For Twins: 1. Types" & "TV Remote (shift and space)" #100DaysOfCode
 
 **Thoughts:** Rank 10,283 @ Codewars
 
-## Day 33: July 5, 2018
+## Day 134: July 5, 2018
 
 **Today's Progress**: #R2D33 Worked on #Filemaker live search scripts. Daily JS practice with kata "Beginner Series #4 Cockroach", "Beginner Series #2 Clock", "Beginner Series #1 School Paperwork" & "Pirates!! Are the Cannons ready!?" #100DaysOfCode
 
 **Thoughts:** Rank 10,582 @ Codewars
 
-## Day 32: July 4, 2018
+## Day 133: July 4, 2018
 
 **Today's Progress**: #R2D32 Happy 4th of July to all my American friends. Daily JS practice with kata "Are arrow functions odd?", "Calculate BMI" & "Filter out the geese" #100DaysOfCode
 
 **Thoughts:** Rank 10,731 @ Codewars
 
-## Day 31: July 3, 2018
+## Day 132: July 3, 2018
 
 **Today's Progress**: #R2D31 72% completed of JS course at #Udemy. Daily JS practice with kata "Simple Pig Latin" & "Calculate average" #100DaysOfCode
 
 **Thoughts:** Rank 10,973 @ Codewars
 
-## Day 30: July 2, 2018
+## Day 131: July 2, 2018
 
 **Today's Progress**: #R2D30 Started learning Meteor.js. Practicing JS with kata "TV Remote", "Sentence Smash" & "Two Sum" #100DaysOfCode
 
 **Thoughts:** Rank 11,110 @ Codewars
 
-## Day 29: July 1, 2018
+## Day 130: July 1, 2018
 
 **Today's Progress**: #R2D29 66% completed of JS course at #Udemy. Practicing JS with kata "Sum The Strings", "isReallyNaN", "Find the Integral", & "A Strange Trip to the Market" #100DaysOfCode
 
 **Thoughts:** Rank 11,110 @ Codewars
 
-## Day 28: June 30, 2018
+## Day 129: June 30, 2018
 
 **Today's Progress**: #R2D28 Level Up at #Codewars. On my way to become a JS ninja :-) Daily JS practice with kata "Is it a number?", "Safen User Input Part I - htmlspecialchars", "Function 1 - hello world", & "No Loops 2 - You only need one" #100DaysOfCode
 
 **Thoughts:** Rank 11,200 @ Codewars
 
-## Day 27: June 29, 2018
+## Day 128: June 29, 2018
 
 **Today's Progress**: #R2D27 #Filemaker development did go well today. Daily JS practice with kata "Grasshopper - Terminal game move function", "Return the day", "Is he gonna survive?", & "Will there be enough space?" #Codewars. #100DaysOfCode
 
 **Thoughts:** Rank 13,165 @ Codewars
 
-## Day 26: June 28, 2018
+## Day 127: June 28, 2018
 
 **Today's Progress**: #R2D26 #Filemaker scripting all morning. Today's practice JS with kata "Grasshopper - Summation", "Get Nth Even Number" & "8kyu interpreters: HQ9+" #Codewars. #100DaysOfCode
 
 **Thoughts:** Rank 13,634 @ Codewars
 
-## Day 25: June 27, 2018
+## Day 126: June 27, 2018
 
 **Today's Progress**: #R2D25 60% completed of JS course at #Udemy. Practicing JS with kata "Counting sheep...", "Calculate Price Excluding VAT", "Heads and Legs" & "For UFC Fans: Conor McGregor vs George Saint Pierre" #Codewars. #100DaysOfCode
 
 **Thoughts:**
 
-## Day 24: June 26, 2018
+## Day 125: June 26, 2018
 
 **Today's Progress**: #R2D24 Major reconstruction in a Filemaker solution. Daily JS practice with kata "Jenny's secret message"?", "Is integer safe to use?" & "Convert a Number to a String!" #Codewars. #100DaysOfCode
 
 **Thoughts:** Rank 14,164 @ Codewars
 
-## Day 23: June 25, 2018
+## Day 124: June 25, 2018
 
 **Today's Progress**: #R2D23 Filemaker developing again today. Never miss my daily JS practice with kata "Do you speak "English"?", "!a == a ?!" & "What's the real floor?" #Codewars. #100DaysOfCode
 
 **Thoughts:** Rank 14,530 @ Codewars
 
-## Day 22: June 24, 2018
+## Day 123: June 24, 2018
 
 **Today's Progress**: #R2D22 Lots of Filemaker developing. But I did my daily JS practice with kata "You only need one - Beginner", "Geometry Basics: Circle Area in 2D" & "Potenciation" #Codewars. #100DaysOfCode
 
 **Thoughts:** Rank 15,000 @ Codewars
 
-## Day 21: June 23, 2018
+## Day 122: June 23, 2018
 
 **Today's Progress**: #R2D21 35% completed of JS course at #Udemy. Practicing JS with kata "USD => CNY", "Third Angle of a Triangle", "Aspect Ratio Cropping - Part 1" & "Reversed Words" #Codewars. #100DaysOfCode
 
 **Thoughts:** Rank 15,500 at Codewars
 
-## Day 20: June 22, 2018
+## Day 121: June 22, 2018
 
 **Today's Progress**: #R2D20 Reading YDKJS and practicing JS with kata "Type of sum", "Parse nice int from char problem", "Find out whether the shape is a cube" & "Even or Odd" #Codewars. #100DaysOfCode
 
 **Thoughts:**  
 
-## Day 19: June 21, 2018
+## Day 120: June 21, 2018
 
 **Today's Progress**: #R2D19 I going on a business trip for the next 3 days. Only JS practice at #Codewars today. Did 4 kata "MakeUpperCase", "Thinkful - Number Drills: Pixelart planning", "Can we divide it?" & "Multiplication table for number". #100DaysOfCode
 
 **Thoughts:**  
 
-## Day 18: June 20, 2018
+## Day 119: June 20, 2018
 
 **Today's Progress**: #R2D18 Reading YDKJS and practicing JS with kata "Check the exam", "Count Odd Numbers below n", "Who ate the cookie?" & "Define a card suit" #Codewars. #100DaysOfCode
 
 **Thoughts:** 
 
-## Day 17: June 19, 2018
+## Day 118: June 19, 2018
 
 **Today's Progress**: #R2D17 46% completed of JS course at #Udemy. Practicing JS with kata "Return Negative", "Array plus array" & "Multiple of index" #Codewars. #100DaysOfCode
 
 **Thoughts:**  
 
-## Day 16: June 18, 2018
+## Day 117: June 18, 2018
 
 **Today's Progress**: #R2D16 Filemaker developing all morning. Practicing JS with 4 kata "Do I get a bonus?", "Who is going to pay for the wall?", "Kata Example Twist" & "Man in the west" #Codewars. #100DaysOfCode
 
