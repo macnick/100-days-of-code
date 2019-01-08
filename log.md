@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 18: January 8, 2019
+
+**Today's Progress**: #R4D18 Finished React challenges at #freeCodeCamp. Today's JS practice: "Break camelCase", "Duplicate Arguments" & "ToLeetSpeak" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,472 @ Codewars - 6 hours of study
+
 ## Day 17: January 7, 2019
 
 **Today's Progress**: #R4D17 Did my first generator function in JS. Yuppi. JS practice with: "Power of 4", "NATO Phonetic Alphabet" & "Title Case" #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 1,485 @ Codewars - 6 hours of study
+**Thoughts:** Rank 1,472 @ Codewars - 6 hours of study
 
 ## Day 16: January 6, 2019
 
