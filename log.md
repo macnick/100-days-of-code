@@ -2,13 +2,13 @@
 
 ## Day 18: January 8, 2019
 
-**Today's Progress**: #R4D18 Finished React challenges at #freeCodeCamp. Today's JS practice: "Break camelCase", "Duplicate Arguments" & "ToLeetSpeak" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R4D19 Started Redux challenges at #freeCodeCamp. Daily JS practice: "Break camelCase", "Duplicate Arguments" & "ToLeetSpeak" #Codewars #100DaysOfCode #javascript.
 
-**Thoughts:** Rank 1,472 @ Codewars - 6 hours of study
+**Thoughts:** Rank 1,459 @ Codewars - 6 hours of study
 
 ## Day 17: January 7, 2019
 
-**Today's Progress**: #R4D17 Did my first generator function in JS. Yuppi. JS practice with: "Power of 4", "NATO Phonetic Alphabet" & "Title Case" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R4D17 Finished React challenges at #freeCodeCamp. Today's JS practice: "Power of 4", "NATO Phonetic Alphabet" & "Title Case" #Codewars #100DaysOfCode #javascript.
 
 **Thoughts:** Rank 1,472 @ Codewars - 6 hours of study
 
@@ -966,121 +966,121 @@
 
 **Thoughts:** Rank 8,280 @ Codewars
 
-## Day 59: July 31, 2018
+## Day 160: July 31, 2018
 
 **Today's Progress**: #R2D59 Only JS practice today with kata at #Codewars "Collatz Conjecture (3n+1)", "Bubblesort Once" & "Drone Fly-By" #100DaysOfCode
 
 **Thoughts:** Rank 8,396 @ Codewars
 
-## Day 58: July 30, 2018
+## Day 159: July 30, 2018
 
 **Today's Progress**: #R2D58 80% completed of JS course at #Udemy. JS practice at #Codewars with kata "Convert Hash To An Array", "Growth of a Population" & "Points of Reflection".
 
 **Thoughts:** Rank 8,393 @ Codewars
 
-## Day 57: July 29, 2018
+## Day 158: July 29, 2018
 
 **Today's Progress**: #R2D57 Learning new stuff about GitHub. Practiced JS at #Codewars with kata "Building Strings From a Hash", "Function 2 - squaring an argument" & "Get key/value pairs as arrays".
 
 **Thoughts:** Rank 8,480 @ Codewars
 
-## Day 56: July 28, 2018
+## Day 157: July 28, 2018
 
 **Today's Progress**: #R2D56 Learning some basic UNIX terminal commands. Daily JS practice at #Codewars with kata "JavaScript class-like objects", "Mexican Wave" & "Semi-Optional".
 
 **Thoughts:** Rank 8,571 @ Codewars
 
-## Day 55: July 27, 2018
+## Day 156: July 27, 2018
 
 **Today's Progress**: #R2D55 Learning more about regular expressions today. Of course more kata at #Codewars with kata "N High Scores", "My head is at the wrong end!" & "Ninja vs Samurai: Strike".
 
 **Thoughts:** Rank 8,566 @ Codewars
 
-## Day 54: July 26, 2018
+## Day 155: July 26, 2018
 
 **Today's Progress**: #R2D54 Learning about the new features in JS ES6. Practiced JS at #Codewars with kata "Convert a Boolean to a String", "Switch it Up!" & "Harry and the Mathematician's Chicken".
 
 **Thoughts:** Rank 8,584 @ Codewars
 
-## Day 53: July 25, 2018
+## Day 154: July 25, 2018
 
 **Today's Progress**: #R2D53 Only JS practice today with kata at #Codewars "Debug Sum of Digits of a Number", "Sum of digits" & "DNA to RNA Conversion" #100DaysOfCode
 
 **Thoughts:** Rank 8,584 @ Codewars
 
-## Day 52: July 24, 2018
+## Day 153: July 24, 2018
 
 **Today's Progress**: #R2D52 Reading the YDKJS today and little practice with kata at #Codewars "Sort Numbers", "Exclusive "or" (xor) Logical Operator" & "Fix string case" #100DaysOfCode
 
 **Thoughts:** Rank 8,807 @ Codewars
 
-## Day 51: July 23, 2018
+## Day 152: July 23, 2018
 
 **Today's Progress**: #R2D51 Another trip today in Thessaloniki, Greece. Practiced JS at #Codewars with kata "Printer Errors", "Largest 5 digit number in a series" & "Refactored Greeting" #100DaysOfCode
 
 **Thoughts:** Rank 8,807 @ Codewars
 
-## Day 50: July 22, 2018
+## Day 151: July 22, 2018
 
 **Today's Progress**: #R2D50 #FileMaker coding since early in the morning. Then swim at one of these Greek beaches! Didn't miss my daily JS practice at #Codewars with kata "Basic Training: Add item to an Array", "Jaden Casing Strings" & "How many lightsabers do you own?" #100DaysOfCode
 
 **Thoughts:** Rank 8,783 @ Codewars
 
-## Day 49: July 21, 2018
+## Day 150: July 21, 2018
 
 **Today's Progress**: #R2D49 #FileMaker debugging day. Daily JS practice at #Codewars with kata "Square(n) Sum", "Short Long Short" & "Shifty Closures" #100DaysOfCode
 
 **Thoughts:** Rank 8,794 @ Codewars
 
-## Day 48: July 20, 2018
+## Day 149: July 20, 2018
 
 **Today's Progress**: #R2D48 #FileMaker pro 15 developing today. #Codewars JS practice with kata "Help the Fruit Guy", "Return to Sanity" & "Get Planet Name By ID" #100DaysOfCode
 
 **Thoughts:** Rank 8,783 @ Codewars
 
-## Day 47: July 19, 2018
+## Day 148: July 19, 2018
 
 **Today's Progress**: #R2D47 Travelling again today but I never miss my JS practice at #Codewars with kata "Multiples of 3 or 5", "RGB To Hex Conversion" & "Age Range Compatibility Equation" #100DaysOfCode
 
 **Thoughts:** Rank 8,813 @ Codewars
 
-## Day 46: July 18, 2018
+## Day 147: July 18, 2018
 
 **Today's Progress**: #R2D46 77% completed of JS course at #Udemy. JS practice at #Codewars with kata "Is this my tail?", "Basic variable assignment" & "Mr. Freeze" #100DaysOfCode
 
 **Thoughts:** Rank 8,965 @ Codewars
 
-## Day 45: July 17, 2018
+## Day 146: July 17, 2018
 
 **Today's Progress**: #R2D45 More #FileMaker pro scripting for customers. Daily JS practice at #Codewars with kata "Simple beads count", "Covfefe" & "Time Math" #100DaysOfCode
 
 **Thoughts:** Rank 9,089 @ Codewars
 
-## Day 44: July 16, 2018
+## Day 145: July 16, 2018
 
 **Today's Progress**: #R2D44 Travel to Athens, Greece today. Didn't miss my daily JS practice at #Codewars with kata "String Packet Based Communications", "noobCode 01: SUPERSIZE ME.... or rather, this integer!" & "Jubilee Year" #100DaysOfCode
 
 **Thoughts:** Rank 9,155 @ Codewars
 
-## Day 43: July 15, 2018
+## Day 144: July 15, 2018
 
 **Today's Progress**: #R2D43 LOTS of #FileMaker pro developing today. Practice coding JS at #Codewars with kata "Consecutive strings", "NBA full 48 minutes average" & "Simple Fun #22: Is Smooth?" #100DaysOfCode
 
 **Thoughts:** Rank 9,219 @ Codewars
 
-## Day 42: July 14, 2018
+## Day 143: July 14, 2018
 
 **Today's Progress**: #R2D42 Business trip in Patras, Greece. JS practice at #Codewars with kata "Drying Potatoes", "Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string", "Remove consecutive duplicate words" & "Remove duplicate words" #100DaysOfCode
 
 **Thoughts:** Rank 9,433 @ Codewars
 
-## Day 41: July 13, 2018
+## Day 142: July 13, 2018
 
 **Today's Progress**: #R2D41 Moved to a new office today. Practicing JS at #Codewars with kata "Are the numbers in order?", "getNames()", "Are the numbers in order?" & "JavaScript Array Filter" #100DaysOfCode
 
 **Thoughts:** Rank 9,420 @ Codewars
 
-## Day 40: July 12, 2018
+## Day 141: July 12, 2018
 
 **Today's Progress**: #R2D40 75% completed of JS course at #Udemy. Daily JS practice with kata "Projectile Motion", "Driving License", "SpeedCode #2 - Array Madness" & "Function 3 - multiplying two numbers" #100DaysOfCode
 
