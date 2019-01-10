@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 20: January 10, 2019
+
+**Today's Progress**: #R4D20 Finished with Redux challenges at #freeCodeCamp. Still I am not sure how Redux is useful. Practiced JS with kata: "Simple Fun #2: Circle of Numbers", "Simple Fun #3: Late Ride" & "Is a number prime?" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,446 @ Codewars - 6 hours of study
+
 ## Day 19: January 9, 2019
 
 **Today's Progress**: #R4D19 Almost finished with Redux challenges at #freeCodeCamp. Today's JS kata: "Waiting room", "Cross Product of Vectors" & "Custom sort function" #Codewars #100DaysOfCode #javascript.
