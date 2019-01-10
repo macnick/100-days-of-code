@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 19: January 9, 2019
+
+**Today's Progress**: #R4D19 Almost finished with Redux challenges at #freeCodeCamp. Today's JS kata: "Waiting room", "Cross Product of Vectors" & "Custom sort function" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,446 @ Codewars - 6 hours of study
+
 ## Day 18: January 8, 2019
 
-**Today's Progress**: #R4D19 Started Redux challenges at #freeCodeCamp. Daily JS practice: "Break camelCase", "Duplicate Arguments" & "ToLeetSpeak" #Codewars #100DaysOfCode #javascript.
+**Today's Progress**: #R4D18 Started Redux challenges at #freeCodeCamp. Daily JS practice: "Break camelCase", "Duplicate Arguments" & "ToLeetSpeak" #Codewars #100DaysOfCode #javascript.
 
 **Thoughts:** Rank 1,459 @ Codewars - 6 hours of study
 
