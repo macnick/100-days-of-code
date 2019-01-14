@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 24: January 14, 2019
+
+**Today's Progress**: #R4D24 Preparing for a job interview!!! More Fibonacci katas: "Find Fibonacci last digit", "Check if a number is a part of an arbitrary fibonacci sequence" & "Fibonacci Generator" #Codewars #100DaysOfCode #javascript #freeCodeCamp.
+
+**Thoughts:** Rank 1,418 @ Codewars - 2 hours of study. I have to learn git
+
+## Day 23: January 13, 2019
+
+**Today's Progress**: #R4D22 I am in love with fibonacci series. JS practice with Fibonacci: "Memoized Fibonacci", "Fast Fibonacci" & "Recursion #2 - Fibonacci" #Codewars #100DaysOfCode #javascript #freeCodeCamp.
+
+**Thoughts:** Rank 1,426 @ Codewars - 2 hours of study. I have to learn git
+
+## Day 22: January 12, 2019
+
+**Today's Progress**: #R4D22 I can do the challenges in React and Redux curriculum, but I feel I do not have a clear understanding of them. #freeCodeCamp. JS kata tday: "All, None & Any", "Complete Fibonacci Series" & "Fibonacci Reloaded" #Codewars #100DaysOfCode #javascript.
+
+**Thoughts:** Rank 1,426 @ Codewars - 2 hours of study. I have to learn git
+
 ## Day 21: January 11, 2019
 
 **Today's Progress**: #R4D21 Started the React and Redux curriculum at #freeCodeCamp. Feeling motivated. Did these JS kata: "A Gift Well Spent", "uniq (UNIX style)" & "N-th Fibonacci" #Codewars #100DaysOfCode #javascript.
@@ -864,121 +882,121 @@
 
 **Thoughts:** Rank 6,700 @ Codewars
 
-## Day 79: August 20, 2018
+## Day 180: August 20, 2018
 
 **Today's Progress**: #R2D79 Travelling again today. JS training with kata "Enumerable Magic #4 - True for None?", ""this" is a problem" & "Character Frequency" . #100DaysOfCode
 
 **Thoughts:** Rank 6,900 @ Codewars
 
-## Day 78: August 19, 2018
+## Day 179: August 19, 2018
 
 **Today's Progress**: #R2D78 Finished Python I at #Progate.com. #FileMaker Pro development for a customer. #100DaysOfCode
 
 **Thoughts:** Rank 7,072 @ Codewars
 
-## Day 77: August 18, 2018
+## Day 178: August 18, 2018
 
 **Today's Progress**: #R2D77 Travelling again today. #FileMaker Pro development and a little JS reading. #100DaysOfCode
 
 **Thoughts:** Rank 7,072 @ Codewars
 
-## Day 76: August 17, 2018
+## Day 177: August 17, 2018
 
 **Today's Progress**: #R2D76 Develop new scripts in #FileMaker Pro. Back to JS training today with kata "Enumerable Magic #1 - True for All?", "Enumerable Magic #2 - True for Any?", & "Does My List Include This?" #Codewars #100DaysOfCode
 
 **Thoughts:** Rank 7,133 @ Codewars
 
-## Day 75: August 16, 2018
+## Day 176: August 16, 2018
 
 **Today's Progress**: #R2D75 I feel like my brain is fried!!! I can't solve even the easiest of problems :-(.  #100DaysOfCode
 
 **Thoughts:** Rank 7,155 @ Codewars
 
-## Day 74: August 15, 2018
+## Day 175: August 15, 2018
 
 **Today's Progress**: #R2D74 #FileMaker Pro development today. More kata completed at #Codewars: "Sum of differences in array", "Convert a String to a Number!" & "What's up next?" #100DaysOfCode
 
 **Thoughts:** Rank 7,125 @ Codewars
 
-## Day 73: August 14, 2018
+## Day 174: August 14, 2018
 
 **Today's Progress**: #R2D73 Back to civilization again. Daily JS practice at #Codewars. Kata completed "Disarium Number (Special Numbers Series #3)", "The 'if' function" & "(Don't) Make Me Repeat Myself" #100DaysOfCode
 
 **Thoughts:** Rank 7,155 @ Codewars
 
-## Day 72: August 13, 2018
+## Day 173: August 13, 2018
 
 **Today's Progress**: #R2D72 One day vacation. No internet here. I missed my daily JS practice at #Codewars #100DaysOfCode
 
 **Thoughts:** Rank 7,221 @ Codewars
 
-## Day 71: August 12, 2018
+## Day 172: August 12, 2018
 
 **Today's Progress**: #R2D71 Just an emergency in a #FileMaker Pro Solution. Daily JS practice at #Codewars: "generateRules", "Simple Fun #74: Growing Plant" & "Hello Happy Codevarrior!" #100DaysOfCode
 
 **Thoughts:** Rank 7,221 @ Codewars
 
-## Day 70: August 11, 2018
+## Day 171: August 11, 2018
 
 **Today's Progress**: #R2D70 #FileMaker Pro development again. Daily JS practice at #Codewars: "Regular Ball Super Ball", "Honey to the Bee" & "Color Ghost" #100DaysOfCode
 
 **Thoughts:** Rank 7,237 @ Codewars
 
-## Day 69: August 10, 2018
+## Day 170: August 10, 2018
 
 **Today's Progress**: #R2D69 More #FileMaker Pro scripting today. Never miss my JS practice at #Codewars: "Reverse List Order", "Limit string length - 1" & "You Can't Code Under Pressure #1" #100DaysOfCode
 
 **Thoughts:** Rank 7,232 @ Codewars
 
-## Day 68: August 9, 2018
+## Day 169: August 9, 2018
 
 **Today's Progress**: #R2D68 Coding some complex scripts in #FileMaker Pro 16. Daily JS practice at #Codewars: "String ends with?", "Sort arrays - 1" & "No oddities here" #100DaysOfCode
 
 **Thoughts:** Rank 7,318 @ Codewars
 
-## Day 67: August 8, 2018
+## Day 168: August 8, 2018
 
 **Today's Progress**: #R2D67 Learning about subclasses in ES6. More kata completed at #Codewars: "Remove anchor from URL", "IP Validation" & "Grader" #100DaysOfCode
 
 **Thoughts:** Rank 7,493 @ Codewars
 
-## Day 66: August 7, 2018
+## Day 167: August 7, 2018
 
 **Today's Progress**: #R2D66 Learning about classes in ES6. Practice at #Codewars with kata: "Return substring instance count", "Number toString" & "Are You Playing Banjo?" #100DaysOfCode
 
 **Thoughts:** Rank 7,649 @ Codewars
 
-## Day 65: August 6, 2018
+## Day 166: August 6, 2018
 
 **Today's Progress**: #R2D65 Learning about maps in ES6. Practice at #Codewars with kata: "Welcome to the City", "A function within a function" & "Swap Values" #100DaysOfCode
 
 **Thoughts:** Rank 7,626 @ Codewars
 
-## Day 64: August 5, 2018
+## Day 165: August 5, 2018
 
 **Today's Progress**: #R2D64 Learning about default parameters in ES6. Daily JS practice at #Codewars with kata: "Array - squareUp b!", "Broken Counter" & "Plural" #100DaysOfCode
 
 **Thoughts:** Rank 7,633 @ Codewars
 
-## Day 63: August 4, 2018
+## Day 164: August 4, 2018
 
 **Today's Progress**: #R2D63 Learning about rest parameters in ES6. Kata completed at #Codewars: "Array - squareUp b!", "Broken Counter" & "Plural" #100DaysOfCode
 
 **Thoughts:** Rank 7,770 @ Codewars
 
-## Day 62: August 3, 2018
+## Day 163: August 3, 2018
 
 **Today's Progress**: #R2D62 Learning and practicing the spread operator in ES6. Daily JS practice at #Codewars with kata "Every possible sum of two digits", "Elapsed Seconds" & "Car Park Escape" #100DaysOfCode
 
 **Thoughts:** Rank 7,970 @ Codewars
 
-## Day 61: August 2, 2018
+## Day 162: August 2, 2018
 
 **Today's Progress**: #R2D61 Learning about new array ES6 methods. Practice at #Codewars with kata "Fizz / Buzz", "Warm Up for Speed." & "Unicode Total" #100DaysOfCode
 
 **Thoughts:** Rank 8,170 @ Codewars
 
-## Day 60: August 1, 2018
+## Day 161: August 1, 2018
 
 **Today's Progress**: #R2D60 Learning about ES6 destructuring. Daily JS practice at #Codewars with kata "Push a hash/an object into array", "Max Headroom and JavaScript style" & "Substituting Variables Into Strings: Padded Numbers" #100DaysOfCode
 
