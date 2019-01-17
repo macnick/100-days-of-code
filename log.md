@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 26: January 16, 2019
+
+**Today's Progress**: #R4D26 . JS practice with Fibonacci: "Fibonacci's FizzBuzz", "Big Fibonacci Numbers" & "Even Fibonacci Sum" #Codewars #100DaysOfCode #javascript #freeCodeCamp.
+
+**Thoughts:** Rank 1,407 @ Codewars - 2 hours of study. I have to learn git
+
+## Day 25: January 15, 2019
+
+**Today's Progress**: #R4D25 Finished React and ReduxChallenges. I will repeat the curriculum to get better understanding. JS practice with Fibonacci: "Fibonacci's FizzBuzz", "Big Fibonacci Numbers" & "Even Fibonacci Sum" #Codewars #100DaysOfCode #javascript #freeCodeCamp.
+
+**Thoughts:** Rank 1,407 @ Codewars - 2 hours of study. I have to learn git
+
 ## Day 24: January 14, 2019
 
 **Today's Progress**: #R4D24 Preparing for a job interview!!! More Fibonacci katas: "Find Fibonacci last digit", "Check if a number is a part of an arbitrary fibonacci sequence" & "Fibonacci Generator" #Codewars #100DaysOfCode #javascript #freeCodeCamp.
