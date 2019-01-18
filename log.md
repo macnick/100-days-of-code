@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 28: January 18, 2019
+
+**Today's Progress**: #R4D28 Trying to do my next FCC project using React. Fibonacci madness with kata: "Shorten Me: Array Declaration III (Fibonacci Last Digit)", "Descending Order" & "Square Every Digit" #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
+
+**Thoughts:** Rank 1,381 @ Codewars - 8 hours of study. I have to learn git
+
 ## Day 27: January 17, 2019
 
-**Today's Progress**: #R4D27 Reading Elocuent Javascript book. More Fibonacci kata: "Reverse fibonacci series", "Tribonacci Sequence" & "Fibonacci, Tribonacci and friends" #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
+**Today's Progress**: #R4D27 Reading Eloquent Javascript book. More Fibonacci kata: "Reverse fibonacci series", "Tribonacci Sequence" & "Fibonacci, Tribonacci and friends" #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
 
 **Thoughts:** Rank 1,385 @ Codewars - 1 hours of study. I have to learn git
 
