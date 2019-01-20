@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 29: January 19, 2019
+
+**Today's Progress**: #R4D29 Attended my first #Leetcode contest. The time difference didn't help me a lot since I had to wake up at 4:25 in the morning to be able to compete. I ranked 2286 out of 3876 contestants. JS kata today: "Hard Time Bomb", "Sequences and Series" #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
+
+**Thoughts:** Rank 1,377 @ Codewars - 2 hours of study. I have to learn git
+
 ## Day 28: January 18, 2019
 
 **Today's Progress**: #R4D28 Trying to do my next FCC project using React. Fibonacci madness with kata: "Shorten Me: Array Declaration III (Fibonacci Last Digit)", "Descending Order" & "Square Every Digit" #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
@@ -726,61 +732,61 @@
 
 **Thoughts:** Rank 4,420 @ Codewars
 
-## Day 8: September 19, 2018
+## Day 210: September 19, 2018
 
 **Today's Progress**: #R3D8 Learned about (?= and (?: in RegEx. Today's JS training with kata "Grasshopper - Object syntax debug", "Basic subclasses - Adam and Eve" & "Printing Array elements with Comma delimiters" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,490 @ Codewars
 
-## Day 7: September 18, 2018
+## Day 209: September 18, 2018
 
 **Today's Progress**: #R3D7 Continue my journey in RegEx. Today's JS training with kata "Hide password from jdbc url", "Building a mini search engine" & "Grasshopper - Function syntax debugging" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,550 @ Codewars
 
-## Day 6: September 17, 2018
+## Day 208: September 17, 2018
 
 **Today's Progress**: #R3D6 Some freelance work on a site in NYC. JS training with kata "Leonardo Dicaprio and Oscars", "Days in the year" & "Create Phone Number" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,620 @ Codewars
 
-## Day 5: September 16, 2018
+## Day 207: September 16, 2018
 
 **Today's Progress**: #R3D5 RegEx fun in the morning JS fun in the evening with more kata "Job Matching #1", "Grasshopper - Personalized Message" & "Is the string uppercase?" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,660 @ Codewars
 
-## Day 4: September 15, 2018
+## Day 206: September 15, 2018
 
 **Today's Progress**: #R3D4 Having fun with regular expressions. Did some regex kata too. "Remove the time", "Double Char" & "Lario and Muigi Pipe Problem" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,680 @ Codewars
 
-## Day 3: September 14, 2018
+## Day 205: September 14, 2018
 
 **Today's Progress**: #R3D3 Regex reading and learning. Today's JS training with kata "Did she say hallo?", "Regex count lowercase letters" & "Fix the Bugs (Syntax) - My First Kata" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,700 @ Codewars
 
-## Day 2: September 13, 2018
+## Day 204: September 13, 2018
 
 **Today's Progress**: #R3D2 Developing a #Filemaker pro solution. JS training with kata "Coding Meetup #3 - Higher-Order Functions Series - Is Ruby coming?", "Coding Meetup #4 - Higher-Order Functions Series - Find the first Python developer" & "NLP-Series #1 - Inverted Index" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,724 @ Codewars
 
-## Day 1: September 12, 2018
+## Day 203: September 12, 2018
 
 **Today's Progress**: #R3D1 Doing lessons in Freecodecamp to get my first certificate. Never miss my JS training with kata "Date Format Validation", "Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from " & "Coding Meetup #2 - Higher-Order Functions Series - Greet developers" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,743 @ Codewars
 
-## Day 101: September 11, 2018
+## Day 202: September 11, 2018
 
 **Today's Progress**: #R2D101 Because I love this number! Round 3 starts tomorrow. JS practice with kata "The Ladies of ENIAC", "Regex validate PIN code" & "Remove the noise from the string" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,790 @ Codewars
 
-## Day 100: September 10, 2018
+## Day 201: September 10, 2018
 
 **Today's Progress**: #R2D100 Round 2 is over! Another 100 days gone so fast! Found a new love in regular expressions. Still have not got any FreeCodeCamp certifications and I haven't applied for any jobs! I keep practicing JS every day. I now rank 4,990 at #Codewars #100DaysOfCode #javascript. Thank you all for your support. 
 
