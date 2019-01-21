@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 30: January 20, 2019
+
+**Today's Progress**: #R4D30 Morning ride with my beautiful Ducati. Evening JS practice: "Fibonacci Generator Function", "Simple fibonacci strings" & "Simple Fun #395: Fibonacci digit sequence" #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
+
+**Thoughts:** Rank 1,374 @ Codewars - 2 hours of study. I have to learn git
+
 ## Day 29: January 19, 2019
 
 **Today's Progress**: #R4D29 Attended my first #Leetcode contest. The time difference didn't help me a lot since I had to wake up at 4:25 in the morning to be able to compete. I ranked 2286 out of 3876 contestants. JS kata today: "Hard Time Bomb", "Sequences and Series" #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
