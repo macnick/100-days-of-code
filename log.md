@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
-## Day 30: January 20, 2019
+## Day 32: January 22, 2019
 
-**Today's Progress**: #R4D30 Morning ride with my beautiful Ducati. Evening JS practice: "Fibonacci Generator Function", "Simple fibonacci strings" & "Simple Fun #395: Fibonacci digit sequence" #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
+**Today's Progress**: #R4D32    #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
 
-**Thoughts:** Rank 1,374 @ Codewars - 2 hours of study. I have to learn git
+**Thoughts:** Rank 1,369 @ Codewars - 2 hours of study. I have to learn git
+
+## Day 31: January 21, 2019
+
+**Today's Progress**: #R4D31 Reading React documentation and examples. Today's JS practice: "[BF] Fibonacci Sequence", "More than one way to call a function, or skin a cat." & "You're a square!" #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
+
+**Thoughts:** Rank 1,374 @ Codewars - 7 hours of study. I have to learn git
 
 ## Day 29: January 19, 2019
 
