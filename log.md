@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 33: January 23, 2019
+
+**Today's Progress**: #R4D33 - ----- - -- - - - kata: "Find heavy ball - level: master" & "Array Helpers" #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
+
+**Thoughts:** Rank 1,345 @ Codewars - 8 hours of study. I have to learn git
+
 ## Day 32: January 22, 2019
 
-**Today's Progress**: #R4D32 React-ing to React half the day. run out of fibonacci kata: "Beginner Series #3 Sum of Numbers", "Find heavy ball - level: novice" & "Find heavy ball - level: conqueror" #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
+**Today's Progress**: #R4D32 Reading React half the day. Run out of fibonacci kata: "Beginner Series #3 Sum of Numbers", "Find heavy ball - level: novice" & "Find heavy ball - level: conqueror" #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
 
 **Thoughts:** Rank 1,345 @ Codewars - 8 hours of study. I have to learn git
 
