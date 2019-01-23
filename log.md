@@ -690,61 +690,61 @@
 
 **Thoughts:** Rank 3,924 @ Codewars
 
-## Day 18: September 29, 2018
+## Day 220: September 29, 2018
 
 **Today's Progress**: #R3D18 Reading, learning and practicing for 3 hours. Kata completed "create your first JS function and print "Helloworld"", "Basic data types--Number" & "Basic data types--String" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 3,956 @ Codewars
 
-## Day 17: September 28, 2018
+## Day 219: September 28, 2018
 
 **Today's Progress**: #R3D17 A little web development today for a client's site. I don't miss my JS practice no matter what. Kata completed "Blood-Alcohol Content", "Word Count" & "Filling an array (part 1)" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,003 @ Codewars
 
-## Day 16: September 27, 2018
+## Day 218: September 27, 2018
 
 **Today's Progress**: #R3D16 More Regex reading today. Never miss my daily JS practice. Kata completed "Number Format", "Freudian translator" & "Fix your code before the garden dies!" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,020 @ Codewars
 
-## Day 15: September 26, 2018
+## Day 217: September 26, 2018
 
 **Today's Progress**: #R3D15 Reading about a new face recognition API. Today's JS practicing with kata "Logical calculator", "No zeros for heros" & "Name on billboard" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,046 @ Codewars
 
-## Day 14: September 25, 2018
+## Day 216: September 25, 2018
 
 **Today's Progress**: #R3D14 Reading Regex and lots of JS practicing. Today's kata "Add new item (collections are passed by reference)", "Circular Objects #1", "Not so black box", "Multiply the number" & "Grasshopper - If/else syntax debug" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,072 @ Codewars
 
-## Day 13: September 24, 2018
+## Day 215: September 24, 2018
 
 **Today's Progress**: #R3D13 Reading Regex. This book is loooong! JS daily practice with kata "Classic Hello World", "Index of an element in an array" & "Remove First and Last Character Part Two" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,101 @ Codewars
 
-## Day 12: September 23, 2018
+## Day 214: September 23, 2018
 
 **Today's Progress**: #R3D12 Continue with my Freecodecamp lessons to get the 1st certificate. Practice JS with kata "Beginner - Reduce but Grow", "Triple Trouble" & "Take the First N Elements" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,209 @ Codewars
 
-## Day 11: September 22, 2018
+## Day 213: September 22, 2018
 
 **Today's Progress**: #R3D11 JS study and practice with kata "Be Concise III - Sum Squares", "Fun with ES6 Classes #1 - People, people, people" & "Evil or Odious" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,337 @ Codewars
 
-## Day 10: September 21, 2018
+## Day 212: September 21, 2018
 
 **Today's Progress**: #R3D10 I've been awarded a free ticket to the 2018 freeCodeCamp JAMstack hackathon! Thank you! Still can't believe it. I have to study more now. JS practice with kata "101 Dalmatians - squash the bugs, not the dogs!", "Count the Monkeys!" & "How many stairs will Suzuki climb in 20 years?" #Codewars #100DaysOfCode #javascript
 
 **Thoughts:** Rank 4,373 @ Codewars
 
-## Day 9: September 20, 2018
+## Day 211: September 20, 2018
 
 **Today's Progress**: #R3D9 RegEx are tough but it's worth the effort. My daily JS training with kata "Be Concise I - The Ternary Operator", "Be Concise II - I Need Squares" & "Squash the bugs" #Codewars #100DaysOfCode #javascript
 
