@@ -2,9 +2,9 @@
 
 ## Day 32: January 22, 2019
 
-**Today's Progress**: #R4D32    #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
+**Today's Progress**: #R4D32 React-ing to React half the day. run out of fibonacci kata: "Beginner Series #3 Sum of Numbers", "Find heavy ball - level: novice" & "Find heavy ball - level: conqueror" #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
 
-**Thoughts:** Rank 1,369 @ Codewars - 2 hours of study. I have to learn git
+**Thoughts:** Rank 1,345 @ Codewars - 8 hours of study. I have to learn git
 
 ## Day 31: January 21, 2019
 
