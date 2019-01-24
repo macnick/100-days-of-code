@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 34: January 24, 2019
+
+**Today's Progress**: #R4D34 My poor brain is reacting well to ...React :-D. JS practice with kata: "L1: Set Alarm", "L2: Triple X" & "Binary Calculator" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,334 @ Codewars - 8 hours of study. I have to learn git and finish my udemy course.
+
 ## Day 33: January 23, 2019
 
-**Today's Progress**: #R4D33 - ----- - -- - - - kata: "Find heavy ball - level: master" & "Array Helpers" #Codewars #100DaysOfCode #javascript # React #freeCodeCamp.
+**Today's Progress**: #R4D33 Steady progress with React but still a lot to learn. Today's JS practice: "Good vs Evil", "Showing X to Y of Z Products." & "Lazily executing a function" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 1,345 @ Codewars - 8 hours of study. I have to learn git
+**Thoughts:** Rank 1,334 @ Codewars - 8 hours of study. I have to learn git and finish my udemy course.
 
 ## Day 32: January 22, 2019
 
