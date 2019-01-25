@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 35: January 25, 2019
+
+**Today's Progress**: #R4D35 Finished chapter 4 of Eloquent Javascript book. Doing kata like maniac: "Custom each() Array method", "Next birth-day of the week finder" & "Easy mathematical callback" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,309 @ Codewars - 8 hours of study. I have to learn git and finish my udemy course.
+
 ## Day 34: January 24, 2019
 
 **Today's Progress**: #R4D34 My poor brain is reacting well to ...React :-D. JS practice with kata: "L1: Set Alarm", "L2: Triple X" & "Binary Calculator" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 1,334 @ Codewars - 8 hours of study. I have to learn git and finish my udemy course.
+**Thoughts:** Rank 1,323 @ Codewars - 8 hours of study. I have to learn git and finish my udemy course.
 
 ## Day 33: January 23, 2019
 
