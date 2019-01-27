@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 37: January 27, 2019
+
+**Today's Progress**: #R4D37 Participated at my 2nd Leetcode contest. Didn't go so well this time. Daily JS practice: "bit "Wise" #1: XOR-cism", "Range Extraction" & "Run your String" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,277 @ Codewars - 4 hours of study. I have to learn git and finish my udemy course. Preparing my 1st kata.
+
 ## Day 36: January 26, 2019
 
 **Today's Progress**: #R4D36 As I understand I didn't get the job I was interviewed for. As usual nobody contacted me to tell me so. More JS practise today: "Imperfect Network #1 (duplicate messages)", "Partial Word Searching" & "Isograms" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
