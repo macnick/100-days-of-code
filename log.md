@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 38: January 28, 2019
+
+**Today's Progress**: #R4D38 Authored my first kata on Codewars. I am so worried if people will like it. Practiced JS with: "Greed", "Build a square" & "254 shades of grey" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,277 @ Codewars - 4 hours of study. I have to learn git and finish my udemy course. Preparing my 1st kata.
+
 ## Day 37: January 27, 2019
 
 **Today's Progress**: #R4D37 Participated at my 2nd Leetcode contest. Didn't go so well this time. Daily JS practice: "bit "Wise" #1: XOR-cism", "Range Extraction" & "Run your String" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
