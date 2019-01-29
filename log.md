@@ -1,10 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 40: January 30, 2019
+
+**Today's Progress**: #R4D40  -- -  ------ - . JS practice with kata: "Custom Setters and Getters", "Price VAT Calculator" & "Pair Zeros" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,255 @ Codewars - 8 hours of study. I have to learn git and finish my udemy course. Preparing my 1st kata.
+
+## Day 39: January 29, 2019
+
+**Today's Progress**: #R4D39 Today Asynchronous Javascript and callback HELL!. Daily JS with: "Vampire Numbers", "Musical Pitch Classes" & "Gauß needs help! (Sums of a lot of numbers)" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,255 @ Codewars - 8 hours of study. I have to learn git and finish my udemy course. Preparing my 1st kata.
+
 ## Day 38: January 28, 2019
 
 **Today's Progress**: #R4D38 Authored my first kata on Codewars. I am so worried if people will like it. Practiced JS with: "Greed", "Build a square" & "254 shades of grey" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 1,277 @ Codewars - 4 hours of study. I have to learn git and finish my udemy course. Preparing my 1st kata.
+**Thoughts:** Rank 1,261 @ Codewars - 4 hours of study. I have to learn git and finish my udemy course. Preparing my 1st kata.
 
 ## Day 37: January 27, 2019
 
