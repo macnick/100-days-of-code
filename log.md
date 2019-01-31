@@ -1,16 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 41: January 31, 2019
+
+**Today's Progress**: #R4D41 Didn't start well today but I will make it end well.  : "Object Search and Replace", "bit "Wise" #2: SHIFT-iness" & "Adjacent pairs in a string" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,251 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
+
 ## Day 40: January 30, 2019
 
-**Today's Progress**: #R4D40  -- -  ------ - . JS practice with kata: "Custom Setters and Getters", "Price VAT Calculator" & "Pair Zeros" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D40 My kata is not going well. I have to change the random tests but there is no documentation on how to do it. Solved JS challenges: "Custom Setters and Getters", "Price VAT Calculator" & "Pair Zeros" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 1,255 @ Codewars - 8 hours of study. I have to learn git and finish my udemy course. Preparing my 1st kata.
+**Thoughts:** Rank 1,251 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
 
 ## Day 39: January 29, 2019
 
 **Today's Progress**: #R4D39 Today Asynchronous Javascript and callback HELL!. Daily JS with: "Vampire Numbers", "Musical Pitch Classes" & "Gauß needs help! (Sums of a lot of numbers)" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 1,255 @ Codewars - 8 hours of study. I have to learn git and finish my udemy course. Preparing my 1st kata.
+**Thoughts:** Rank 1,255 @ Codewars - 8 hours of study. I have to learn git and finish my udemy course.
 
 ## Day 38: January 28, 2019
 
