@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 42: February 1, 2019
+
+**Today's Progress**: #R4D42 . Solved the kata: "Object Search and Replace", "bit "Wise" #2: SHIFT-iness" & "Adjacent pairs in a string" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,251 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
+
 ## Day 41: January 31, 2019
 
-**Today's Progress**: #R4D41 Didn't start well today but I will make it end well.  : "Object Search and Replace", "bit "Wise" #2: SHIFT-iness" & "Adjacent pairs in a string" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D41 Didn't start well today but I made it end well, I fixed my kata's test cases. Did these kata: "Object Search and Replace", "bit "Wise" #2: SHIFT-iness" & "Adjacent pairs in a string" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 1,251 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
 
