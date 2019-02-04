@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 43: February 2, 2019
+
+**Today's Progress**: #R4D43 Today was full of Promises :-). Solved the kata: "Arabian String", "None shall pass" & "Calculate Hypotenuse of Right-angled Triangle" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,242 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
+
 ## Day 42: February 1, 2019
 
-**Today's Progress**: #R4D42 . Solved the kata: "Object Search and Replace", "bit "Wise" #2: SHIFT-iness" & "Adjacent pairs in a string" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D42 Today was full of Promises :-). Solved the kata: "Arabian String", "None shall pass" & "Calculate Hypotenuse of Right-angled Triangle" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 1,251 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
+**Thoughts:** Rank 1,242 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
 
 ## Day 41: January 31, 2019
 
