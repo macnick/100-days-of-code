@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R4D45 Tried making calls with Fetch and Promises. Daily JS practice with: "Valid Phone Number", "Matrix Addition" & "Javascript filter-2" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 1,212 @ Codewars - 7 hours of study. I have to learn git and finish my udemy course.
+**Thoughts:** Rank 1,202 @ Codewars - 7 hours of study. I have to learn git and finish my udemy course.
 
 ## Day 44: February 3, 2019
 
