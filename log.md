@@ -1,14 +1,20 @@
 # 100 Days Of Code - Log
 
-## Day 45: February 5, 2019
+## Day 47: February 6, 2019
 
-**Today's Progress**: #R4D45 Finished the React Crash Course 2018 - React Tutorial with Examples | Mosh. Solved JS challenges: "Stop gninnipS My sdroW!", "Binary string" & "Beginner friendly: Lowercase letters" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D47 Today: API calls with Fetch and Async/Await. More JS practise today: "Testing, Testing! Return and concatenate a string.", "The most asked question on CodeWars" & "Convert natural number to its binary representation" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,189 @ Codewars - 10 hours of study. I have to learn git and finish my udemy course.
+
+## Day 46: February 5, 2019
+
+**Today's Progress**: #R4D46 Finished the React Crash Course 2018 - React Tutorial with Examples | Mosh. Solved JS challenges: "Stop gninnipS My sdroW!", "Binary string" & "Beginner friendly: Lowercase letters" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 1,194 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
 
 ## Day 45: February 4, 2019
 
-**Today's Progress**: #R4D45 Tried making calls with Fetch and Promises. Daily JS practice with: "Valid Phone Number", "Matrix Addition" & "Javascript filter-2" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D45 Tried making API calls with Fetch and Promises. Daily JS practice with: "Valid Phone Number", "Matrix Addition" & "Javascript filter-2" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 1,202 @ Codewars - 7 hours of study. I have to learn git and finish my udemy course.
 
