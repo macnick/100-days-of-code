@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 49: February 8, 2019
+
+**Today's Progress**: #R4D49 Installed and configured webpack. More JS practise today:: "Pete, the baker", "Not 3 in a row" & "Pete, the baker (part 2)" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,188 @ Codewars - 10 hours of study. I have to learn git and finish my udemy course.
+
+## Day 48: February 7, 2019
+
+**Today's Progress**: #R4D48 Installing node.js and learning about npm. Solved the kata: "Bit Counting", "Closest elevator" & "Alphabetize a list by the nth character" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,188 @ Codewars - 10 hours of study. I have to learn git and finish my udemy course.
+
 ## Day 47: February 6, 2019
 
 **Today's Progress**: #R4D47 Today: API calls with Fetch and Async/Await. More JS practise today: "Testing, Testing! Return and concatenate a string.", "The most asked question on CodeWars" & "Convert natural number to its binary representation" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
