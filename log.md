@@ -4,13 +4,13 @@
 
 **Today's Progress**: #R4D50 Tried the Webpack DEv serber and configurd Babel to make my dev env complete. Also solved the kata: "Think how isArray function can be implemented", "Don't rely on luck" & "Coordinates Validator" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 1,188 @ Codewars - 10 hours of study. I have to learn git and finish my udemy course.
+**Thoughts:** Rank 1,158 @ Codewars - 10 hours of study. I have to learn git and finish my udemy course.
 
 ## Day 49: February 8, 2019
 
 **Today's Progress**: #R4D49 Installed and configured webpack. More JS practise today:: "Pete, the baker", "Not 3 in a row" & "Pete, the baker (part 2)" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 1,188 @ Codewars - 10 hours of study. I have to learn git and finish my udemy course.
+**Thoughts:** Rank 1,186 @ Codewars - 10 hours of study. I have to learn git and finish my udemy course.
 
 ## Day 48: February 7, 2019
 
