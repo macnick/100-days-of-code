@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 51: February 10, 2019
+
+**Today's Progress**: #R4D51 We went to swimming races today with my little one. Coding at noon with kata: "Two fighters, one winner", "HTML Generator" & "Two Joggers" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,144 @ Codewars - 3 hours of study. I have to learn git and finish my udemy course.
+
 ## Day 50: February 9, 2019
 
-**Today's Progress**: #R4D50 Tried the Webpack DEv serber and configurd Babel to make my dev env complete. Also solved the kata: "Think how isArray function can be implemented", "Don't rely on luck" & "Coordinates Validator" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D50 Tried the Webpack Dev server and configured Babel to make my dev env complete. Also solved the kata: "Think how isArray function can be implemented", "Don't rely on luck" & "Coordinates Validator" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 1,158 @ Codewars - 10 hours of study. I have to learn git and finish my udemy course.
+**Thoughts:** Rank 1,158 @ Codewars - 2 hours of study. I have to learn git and finish my udemy course.
 
 ## Day 49: February 8, 2019
 
