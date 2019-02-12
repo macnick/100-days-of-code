@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 52: February 11, 2019
+
+**Today's Progress**: #R4D52 We went to swimming races today with my little one. Coding at noon with kata: "Trim a String", "Closures and Scopes" & "Design a Simple Automaton (Finite State Machine)" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,138 @ Codewars - 3 hours of study. I have to learn git and finish my udemy course.
+
 ## Day 51: February 10, 2019
 
 **Today's Progress**: #R4D51 We went to swimming races today with my little one. Coding at noon with kata: "Two fighters, one winner", "HTML Generator" & "Two Joggers" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
