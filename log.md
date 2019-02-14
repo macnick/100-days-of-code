@@ -1,10 +1,22 @@
 # 100 Days Of Code - Log
 
-## Day 52: February 11, 2019
+## Day 54: February 132, 2019
 
-**Today's Progress**: #R4D52 We went to swimming races today with my little one. Coding at noon with kata: "Trim a String", "Closures and Scopes" & "Design a Simple Automaton (Finite State Machine)" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D54 Built the searchView in JS Udemy course. More JS practise today: "The Span Function", "Something 's fishy..." & "Valid Braces" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,135 @ Codewars - 3 hours of study. I have to learn git and finish my udemy course.
+
+## Day 53: February 12, 2019
+
+**Today's Progress**: #R4D53 Testing API calls and built the search model in JS Udemy course. Today's kata: "The Span Function", "Something 's fishy..." & "Valid Braces" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 1,138 @ Codewars - 3 hours of study. I have to learn git and finish my udemy course.
+
+## Day 52: February 11, 2019
+
+**Today's Progress**: #R4D52 Started planning my last project's architecture with MVC in Udemy course. Solved JS challenges: "Trim a String", "Closures and Scopes" & "Design a Simple Automaton (Finite State Machine)" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,138 @ Codewars - 8 hours of study. I have to learn git and finish my udemy course.
 
 ## Day 51: February 10, 2019
 
@@ -20,7 +32,7 @@
 
 ## Day 49: February 8, 2019
 
-**Today's Progress**: #R4D49 Installed and configured webpack. More JS practise today:: "Pete, the baker", "Not 3 in a row" & "Pete, the baker (part 2)" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D49 Installed and configured webpack. More JS practise today: "Pete, the baker", "Not 3 in a row" & "Pete, the baker (part 2)" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 1,186 @ Codewars - 10 hours of study. I have to learn git and finish my udemy course.
 
