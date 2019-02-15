@@ -4,19 +4,19 @@
 
 **Today's Progress**: #R4D55 Rendered an AJAX loading spinner in JS Udemy course. More JS practise today: "Convert a Number to money!", "Christmas tree" & "PaginationHelper" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 1,135 @ Codewars - 3 hours of study. I have to learn git and finish my udemy course.
+**Thoughts:** Rank 1,135 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
 
 ## Day 54: February 13, 2019
 
 **Today's Progress**: #R4D54 Built the searchView in JS Udemy course. More JS practise today: "Checking Groups", "Which are in?" & "Grouped by commas" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 1,135 @ Codewars - 3 hours of study. I have to learn git and finish my udemy course.
+**Thoughts:** Rank 1,135 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
 
 ## Day 53: February 12, 2019
 
 **Today's Progress**: #R4D53 Testing API calls and built the search model in JS Udemy course. Today's kata: "The Span Function", "Something 's fishy..." & "Valid Braces" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 1,135 @ Codewars - 3 hours of study. I have to learn git and finish my udemy course.
+**Thoughts:** Rank 1,135 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
 
 ## Day 52: February 11, 2019
 
