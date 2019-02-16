@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 56: February 15, 2019
+
+**Today's Progress**: #R4D56 Implemented search results pagination in JS Udemy course. Solved the JS kata: "Number Zoo Patrol", "How new Works" & "Tic-Tac-Toe" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,115 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
+
 ## Day 55: February 14, 2019
 
 **Today's Progress**: #R4D55 Rendered an AJAX loading spinner in JS Udemy course. More JS practise today: "Convert a Number to money!", "Christmas tree" & "PaginationHelper" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
