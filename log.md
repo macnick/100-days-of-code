@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 58: February 17, 2019
+
+**Today's Progress**: #R4D58 Started the day with kata: "Monty Hall Problem", "Chain me" & "Collatz Conjecture Length". Finished with ASDFASDFASDGADSGSDGADSGSADGSAG #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,102 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
+
+## Day 57: February 16, 2019
+
+**Today's Progress**: #R4D57 Reading Eloquent JS book and advancing on JS Udemy course. Morning coding with kata: "Reversing a string", "The dropWhile Function" & "The takeWhile Function" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,115 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
+
 ## Day 56: February 15, 2019
 
 **Today's Progress**: #R4D56 Implemented search results pagination in JS Udemy course. Solved the JS kata: "Number Zoo Patrol", "How new Works" & "Tic-Tac-Toe" #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
