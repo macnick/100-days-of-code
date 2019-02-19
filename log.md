@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 59: February 18, 2019
+
+**Today's Progress**: #R4D59 Morning exercise with JS kata: "String to integer conversion", "Grid blast!" & "Factorial". 80% completed of JS course at #Udemy. #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,098 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
+
 ## Day 58: February 17, 2019
 
-**Today's Progress**: #R4D58 Started the day with kata: "Monty Hall Problem", "Chain me" & "Collatz Conjecture Length". Finished with ASDFASDFASDGADSGSDGADSGSADGSAG #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D58 Started the day with kata: "Monty Hall Problem", "Chain me" & "Collatz Conjecture Length". 80% completed of JS course at #Udemy. #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 1,102 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
 
