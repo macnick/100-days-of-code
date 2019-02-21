@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 61: February 20, 2019
+
+**Today's Progress**: #R4D61 Bug fixed. It turned out a whole function went missing!. 90% of the JS Udemy course now completed! More katas today: "Deletion in an array", "Simple Maths Test" & "Return Specifics from an Object". #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,061 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
+
 ## Day 60: February 19, 2019
 
 **Today's Progress**: #R4D60 Strange bug in my code didn't let me advance more in the JS Udemy course. Either will learn from it or I will break my Mac. Did a few kata to calm down: "Greatest common divisor", "Categorize New Member" & "Hoisting". #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
@@ -8,7 +14,7 @@
 
 ## Day 59: February 18, 2019
 
-**Today's Progress**: #R4D59 Morning exercise with JS kata: "String to integer conversion", "Grid blast!" & "Factorial". 80% completed of JS course at #Udemy. #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D59 Morning exercise with JS kata: "String to integer conversion", "Grid blast!" & "Factorial". 85% completed of JS course at #Udemy. #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 1,098 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
 
