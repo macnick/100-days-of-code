@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 62: February 21, 2019
+
+**Today's Progress**: #R4D62 Almost finishing the free React course at scrimba.com. Practice JS with kata: "CubeSummation", "Product of the main diagonal of a square matrix" & "Broken sequence". #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,035 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
+
 ## Day 61: February 20, 2019
 
 **Today's Progress**: #R4D61 Bug fixed. It turned out a whole function went missing!. 90% of the JS Udemy course now completed! More katas today: "Deletion in an array", "Simple Maths Test" & "Return Specifics from an Object". #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
