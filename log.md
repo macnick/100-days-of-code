@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 63: February 22, 2019
+
+**Today's Progress**: #R4D63 Mostly reading today the excellent book Eloquent Javacript. Daily JS practice with kata: "Character Concatenation", "League Champions" & "Batman Quotes". #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,029 @ Codewars - 8 hours of study. I have to learn git and finish my udemy course.
+
 ## Day 62: February 21, 2019
 
 **Today's Progress**: #R4D62 Almost finishing the free React course at scrimba.com. Practice JS with kata: "CubeSummation", "Product of the main diagonal of a square matrix" & "Broken sequence". #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
