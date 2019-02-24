@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 65: February 24, 2019
+
+**Today's Progress**: #R4D65 95% of Vanilla JS Udemy course completed. Never miss my Javascript practice: "Split an array", "Binary Addition" & "Vasya and Book". #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,002 @ Codewars - 9 hours of study. I have to learn git and finish my udemy course.
+
+## Day 64: February 23, 2019
+
+**Today's Progress**: #R4D64 Continued with React today. Soon I will built my 1st project in React. Today's kata: "Do you speak retsec?", "Count the Ones" & "Sum Times Tables". #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 1,006 @ Codewars - 4 hours of study. I have to learn git and finish my udemy course.
+
 ## Day 63: February 22, 2019
 
 **Today's Progress**: #R4D63 Mostly reading today the excellent book Eloquent Javacript. Daily JS practice with kata: "Character Concatenation", "League Champions" & "Batman Quotes". #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
