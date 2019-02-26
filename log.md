@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 67: February 26, 2019
+
+**Today's Progress**: #R4D67 -------------------- Javascript practice: "SillyCASE", "Deutschstunde" & "Russian postal code checker". #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 989 @ Codewars - 9 hours of study. 1.finish my udemy course, 2 finish React courses, 3. Do the FCC projects. Every goal gives me strength and confidence to pursue the next.
+
 ## Day 66: February 25, 2019
 
 **Today's Progress**: #R4D66 After 11.5 months of daily practice and 900 kata solved, I now rank at 990 @codewars.com! You can check my progress here: https://www.codewars.com/users/macnick Javascript practice: "Base Conversion", "Extract Nested Object Reference" & "Discover The Original Price". #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
