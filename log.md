@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R4D67 Finished the "The Complete JavaScript Course 2019: Build Real Projects!" Highly recomended for new and intermediate Javascripters. Practiced with kata: "Dictionary from two lists", "Simple Fun #63: Shape Area" & "Programmed mapper". #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 983 @ Codewars - 7 hours of study. 1.finish my udemy course, 2 finish React courses, 3. Do the FCC projects. Every goal gives me strength and confidence to pursue the next.
+**Thoughts:** Rank 983 @ Codewars - 7 hours of study. 1 finish React courses, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next.
 
 ## Day 66: February 25, 2019
 
