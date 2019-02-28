@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 68: February 27, 2019
+
+**Today's Progress**: #R4D68 React learnig day. Also started practicing @ #Hackerrank. Vanilla JS practice with kata: "Does my number look big in this?", "Find the Mine!". #Hackerrank #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 983 @ Codewars - 9 hours of study. 1 finish React courses, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next.
+
 ## Day 67: February 26, 2019
 
 **Today's Progress**: #R4D67 Finished the "The Complete JavaScript Course 2019: Build Real Projects!" Highly recomended for new and intermediate Javascripters. Practiced with kata: "Dictionary from two lists", "Simple Fun #63: Shape Area" & "Programmed mapper". #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
