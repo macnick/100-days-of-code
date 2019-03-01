@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 69: February 28, 2019
+
+**Today's Progress**: #R4D69 More react lessons today. Practiced JS at #Hackerrank & #Codewars: "Array of sunshine :)", "Is Integer Array ?", "WeIrD StRiNg CaSe".  #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 979 @ Codewars - 9 hours of study. 1 finish React courses, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next.
+
 ## Day 68: February 27, 2019
 
-**Today's Progress**: #R4D68 React learnig day. Also started practicing @ #Hackerrank. Vanilla JS practice with kata: "Does my number look big in this?", "Find the Mine!". #Hackerrank #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D68 React learning day. Also started practicing @ #Hackerrank. Vanilla JS practice with kata: "Does my number look big in this?", "Find the Mine!". #Hackerrank #Codewars #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 983 @ Codewars - 9 hours of study. 1 finish React courses, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next.
 
