@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 70: March 1, 2019
+
+**Today's Progress**: #R4D70 Practicing React again until I become a ninja. Solved probs at #Hackerrank: "Array of sunshine :)" & #Codewars: "Pascal's Triangle #2", "Make them bark!".  #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 965 @ Codewars, 333272 @ Hackerrank - 7 hours of study. March and still unemployed :-( 1 finish React courses, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next.
+
 ## Day 69: February 28, 2019
 
 **Today's Progress**: #R4D69 More react lessons today. Practiced JS at #Hackerrank & #Codewars: "Array of sunshine :)", "Is Integer Array ?", "WeIrD StRiNg CaSe".  #100DaysOfCode #javascript #React #freeCodeCamp.
