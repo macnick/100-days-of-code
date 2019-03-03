@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R4D71 Spent the day reading tutorials and solving probs at #Hackerrank: "Ice Cream Parlor", "Lonely Integer" & #Codewars: "All unique", "Simple Sequence Validator".  #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 965 @ Codewars, 333272 @ Hackerrank - 7 hours of study. March and still unemployed :-( 1 finish React courses, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next.
+**Thoughts:** Rank 965 @ Codewars, 242607 @ Hackerrank - 6 hours of study. March and still unemployed :-( 1 finish React courses, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next.
 
 ## Day 70: March 1, 2019
 
