@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 72: March 3, 2019
+
+**Today's Progress**: #R4D71 Working on a Wordpress site for a customer. Problems solved at #Hackerrank: "Maximizing XOR", "Missing Numbers" & #Codewars: "Collatz", "Find the missing term in an Arithmetic Progression". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 962 @ Codewars, 242607 @ Hackerrank - 6 hours of study. March and still unemployed :-( 1 finish React courses, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next.
+
 ## Day 71: March 2, 2019
 
 **Today's Progress**: #R4D71 Spent the day reading tutorials and solving probs at #Hackerrank: "Ice Cream Parlor", "Lonely Integer" & #Codewars: "All unique", "Simple Sequence Validator".  #100DaysOfCode #javascript #React #freeCodeCamp.
