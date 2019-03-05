@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 73: March 4, 2019
+
+**Today's Progress**: #R4D73 More work with Wordpress today. Problems solved at #Hackerrank: "Recursion 3 ", "Binary Numbers" & #Codewars: "Find the next perfect square!", "Find the odd int". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 951 @ Codewars, 214225 @ Hackerrank - 6 hours of study. March and still unemployed :-( 1 finish React courses, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next.
+
 ## Day 72: March 3, 2019
 
-**Today's Progress**: #R4D71 Working on a Wordpress site for a customer. Problems solved at #Hackerrank: "Maximizing XOR", "Missing Numbers" & #Codewars: "Collatz", "Find the missing term in an Arithmetic Progression". #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D72 Working on a Wordpress site for a customer. Problems solved at #Hackerrank: "Maximizing XOR", "Missing Numbers" & #Codewars: "Collatz", "Find the missing term in an Arithmetic Progression". #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 962 @ Codewars, 222853 @ Hackerrank - 6 hours of study. March and still unemployed :-( 1 finish React courses, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next.
 
