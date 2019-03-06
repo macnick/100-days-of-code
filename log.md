@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 74: March 5, 2019
+
+**Today's Progress**: #R4D74 Creating a new website for a customer. Yes! Problems solved at #Hackerrank: "Divisible Sum Pairs", "HackerRank in a String!" & #Codewars: "Find The Parity Outlier", "Midpoint Sum". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 942 @ Codewars, 191392 @ Hackerrank - 9 hours of study. March and still unemployed :-( 1 finish React courses, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next.
+
 ## Day 73: March 4, 2019
 
 **Today's Progress**: #R4D73 More work with Wordpress today. Problems solved at #Hackerrank: "Recursion 3 ", "Binary Numbers" & #Codewars: "Find the next perfect square!", "Find the odd int". #100DaysOfCode #javascript #React #freeCodeCamp.
