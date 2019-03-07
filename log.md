@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 75: March 6, 2019
+
+**Today's Progress**: #R4D75 A good developer must also take care of his body. Hitting the gym 4 times every week. Solved problems at #Hackerrank: "2D Array - DS", "Inheritance" & #Codewars: "Equal Sides Of An Array", "Sum of two lowest positive integers". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 934 @ Codewars, 191590 @ Hackerrank - 9 hours of study. March and still unemployed :-( 1 finish React courses, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next.
+
 ## Day 74: March 5, 2019
 
 **Today's Progress**: #R4D74 Creating a new website for a customer. Yes! Problems solved at #Hackerrank: "Divisible Sum Pairs", "HackerRank in a String!" & #Codewars: "Find The Parity Outlier", "Midpoint Sum". #100DaysOfCode #javascript #React #freeCodeCamp.
