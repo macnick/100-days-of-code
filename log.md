@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 76: March 7, 2019
+
+**Today's Progress**: #R4D76 Spent a couple of hour updating my Git repos. Problems solved at #Hackerrank: "Arrays - DS", "Dynamic Array" & #Codewars: "Sum of Digits / Digital Root", "Duplicate Encoder". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 922 @ Codewars, 180789 @ Hackerrank - 8 hours of study. March and still unemployed :-( 1 finish React book, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next. Cracked my knee today! ouch!
+
 ## Day 75: March 6, 2019
 
 **Today's Progress**: #R4D75 A good developer must also take care of his body. Hitting the gym 4 times every week. Solved problems at #Hackerrank: "2D Array - DS", "Inheritance" & #Codewars: "Equal Sides Of An Array", "Sum of two lowest positive integers". #100DaysOfCode #javascript #React #freeCodeCamp.
