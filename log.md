@@ -1,8 +1,38 @@
 # 100 Days Of Code - Log
 
+## Day 81: March 12, 2019
+
+**Today's Progress**: #R4D80 Implemented my first two language interpereters for 2 simple Esolangs. Problems solved at #Hackerrank: "" & #Codewars: "Sum of a sequence", "Simple Encryption #1 - Alternating Split". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 915 @ Codewars, 180789 @ Hackerrank - 3 hours of study. March and still unemployed :-( 1 finish React book, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next. Cracked my knee today! ouch!
+
+## Day 80: March 11, 2019
+
+**Today's Progress**: #R4D80 Finished and got the Certificate for the "Javascript from Beginner to Expert" course on Udemy. Course not recommended. Problems solved at #Hackerrank: "Sparse Arrays" & #Codewars: "The highest profit wins!", "Find the stray number". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 915 @ Codewars, 180789 @ Hackerrank - 3 hours of study. March and still unemployed :-( 1 finish React book, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next. Cracked my knee today! ouch!
+
+## Day 79: March 10, 2019
+
+**Today's Progress**: #R4D79 Almost finished another Udemy course about JS. This one is not so good. Problems solved at #Hackerrank: "Day 14: Scope" & #Codewars: "Unique In Order", "Replace With Alphabet Position", "Supermarket Queue". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 917 @ Codewars, 180789 @ Hackerrank - 8 hours of study. March and still unemployed :-( 1 finish React book, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next. Cracked my knee today! ouch!
+
+## Day 78: March 9, 2019
+
+**Today's Progress**: #R4D78 Having trouble with linked lists !!! . Problems solved at #Hackerrank: "Day 13: Abstract Classes" & #Codewars: "Don't give me five!", "Odd or Even?", "Vasya - Clerk". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 919 @ Codewars, 180789 @ Hackerrank - 8 hours of study. March and still unemployed :-( 1 finish React book, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next. Cracked my knee today! ouch!
+
+## Day 77: March 8, 2019
+
+**Today's Progress**: #R4D77 Last time I created a linked list was 20 years ago. Now learning again how to do it. Problems solved at #Hackerrank: "Left Rotation" & #Codewars: "Take a Ten Minute Walk", "IQ Test", "Is this a triangle?". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 921 @ Codewars, 180789 @ Hackerrank - 8 hours of study. March and still unemployed :-( 1 finish React book, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next. Cracked my knee today! ouch!
+
 ## Day 76: March 7, 2019
 
-**Today's Progress**: #R4D76 Spent a couple of hour updating my Git repos. Problems solved at #Hackerrank: "Arrays - DS", "Dynamic Array" & #Codewars: "Sum of Digits / Digital Root", "Duplicate Encoder". #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D76 Spent a couple of hours updating my Git repos. Problems solved at #Hackerrank: "Arrays - DS", "Dynamic Array" & #Codewars: "Sum of Digits / Digital Root", "Duplicate Encoder". #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 922 @ Codewars, 180789 @ Hackerrank - 8 hours of study. March and still unemployed :-( 1 finish React book, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next. Cracked my knee today! ouch!
 
