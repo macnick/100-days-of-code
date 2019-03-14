@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 83: March 14, 2019
+
+**Today's Progress**: #R4D83 Now I know linked lists again. Very productive day. Problems solved at #Hackerrank: "More Exceptions", "Queues and Stacks" & #Codewars: "Delete element if it occurs more than n times", "Count the smileys!". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 907 @ Codewars, 157733 @ Hackerrank - 6 hours of study. March and still unemployed :-( 1 finish React book, 2. Do the FCC projects.
+
 ## Day 82: March 13, 2019
 
 **Today's Progress**: #R4D82 Wrote a script to get data in FileMaker pro 17 from anymailfinder.com API. Problems solved at #Hackerrank: "Array Manipulation", "Print the Elements of a Linked List" & #Codewars: "Are they the "same"?", "Find the missing letter". #100DaysOfCode #javascript #React #freeCodeCamp.
@@ -8,7 +14,7 @@
 
 ## Day 81: March 12, 2019
 
-**Today's Progress**: #R4D81 Implemented my first two language interpereters for 2 simple Esolangs. Problems solved at #Hackerrank: "Linked List", "Exceptions-String to Integer" & #Codewars: "Sum of a sequence", "Simple Encryption #1 - Alternating Split". #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D81 Implemented my first two language interpereters for 2 simple Esolangs. Very happy about it. Problems solved at #Hackerrank: "Linked List", "Exceptions-String to Integer" & #Codewars: "Sum of a sequence", "Simple Encryption #1 - Alternating Split". #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 912 @ Codewars, 180789 @ Hackerrank - 3 hours of study. March and still unemployed :-( 1 finish React book, 2. Do the FCC projects. Every goal gives me strength and confidence to pursue the next. Cracked my knee today! ouch!
 
