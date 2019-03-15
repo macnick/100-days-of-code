@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 84: March 15, 2019
+
+**Today's Progress**: #R4D84 I have been solving linked list problems all day. Problems solved at #Hackerrank: "Interfaces", "Interfaces" & #Codewars: "Write Number in Expanded Form", "Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 900 @ Codewars, 154267 @ Hackerrank - 8 hours of study. Mid-March and still unemployed :-( 1 finish React book, 2. Do the FCC projects.
+
 ## Day 83: March 14, 2019
 
 **Today's Progress**: #R4D83 Now I know linked lists again. Very productive day. Problems solved at #Hackerrank: "More Exceptions", "Queues and Stacks" & #Codewars: "Delete element if it occurs more than n times", "Count the smileys!". #100DaysOfCode #javascript #React #freeCodeCamp.
