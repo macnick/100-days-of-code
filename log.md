@@ -1,8 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 85: March 16, 2019
+
+**Today's Progress**: #R4D85 Linked Lists - Nick: 1 -10. Nailed them! Off to binary trees now. Problems solved at #Hackerrank: "Insert node at specific position in a linked list", "Delete a Node" & #Codewars: "Highest Scoring Word", "Moves in squared strings 1". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 899 @ Codewars, 147902 @ Hackerrank - 10 hours of study. Mid-March and still unemployed :-( 1 finish React book, 2. Do the FCC projects.
 ## Day 84: March 15, 2019
 
-**Today's Progress**: #R4D84 I have been solving linked list problems all day. Problems solved at #Hackerrank: "Interfaces", "Interfaces" & #Codewars: "Write Number in Expanded Form", "Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!". #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D84 I have been solving linked list problems all day. Problems solved at #Hackerrank: "Interfaces", "Sorting" & #Codewars: "Write Number in Expanded Form", "Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!". #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 900 @ Codewars, 154267 @ Hackerrank - 8 hours of study. Mid-March and still unemployed :-( 1 finish React book, 2. Do the FCC projects.
 
