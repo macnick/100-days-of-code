@@ -2,7 +2,7 @@
 
 ## Day 86: March 17, 2019
 
-**Today's Progress**: #R4D85 Mostly problem solving today. Exercises completed #Hackerrank: "Print linked list in Reverse", "Compare two linked lists", "Generics" & #Codewars: "Rectangle into Squares", "Sum of all the multiples of 3 or 5". #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D86 Mostly problem solving today. Exercises completed #Hackerrank: "Print linked list in Reverse", "Compare two linked lists", "Generics" & #Codewars: "Rectangle into Squares", "Sum of all the multiples of 3 or 5". #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 903 @ Codewars, 148060 @ Hackerrank - 8 hours of study. Mid-March and still unemployed :-( 1 finish React book, 2. Do the FCC projects.
 
