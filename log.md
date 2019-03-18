@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 87: March 18, 2019
+
+**Today's Progress**: #R4D87 See how the day goes. Exercises completed #Hackerrank: "Binary Search Trees", "Matching Specific String", "Matching Anything But a Newline" & #Codewars: "Give me a Diamond", "Reverse polish notation calculator". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 893 @ Codewars, 148136 @ Hackerrank - 8 hours of study. Mid-March and still unemployed :-( 1 finish React book, 2. Do the FCC projects.
+
 ## Day 86: March 17, 2019
 
 **Today's Progress**: #R4D86 Mostly problem solving today. Exercises completed #Hackerrank: "Print linked list in Reverse", "Compare two linked lists", "Generics" & #Codewars: "Rectangle into Squares", "Sum of all the multiples of 3 or 5". #100DaysOfCode #javascript #React #freeCodeCamp.
