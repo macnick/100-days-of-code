@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 88: March 19, 2019
+
+**Today's Progress**: #R4D88 Worked on my Regex knowledge. Problems solved: #Hackerrank: "Matching Digits & Non-Digit Characters", "Matching Whitespace & Non-Whitespace Character", "Matching Word & Non-Word Character" & #Codewars: "Detect Pangram", "Word a10n (abbreviation)". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 887 @ Codewars, 146649 @ Hackerrank - 9 hours of study. Mid-March and still unemployed :-( 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+
 ## Day 87: March 18, 2019
 
-**Today's Progress**: #R4D87 See how the day goes. Exercises completed #Hackerrank: "Binary Search Trees", "Matching Specific String", "Matching Anything But a Newline" & #Codewars: "Give me a Diamond", "Reverse polish notation calculator". #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D87 Started thinking my next FCC project in React. Problems solved: #Hackerrank: "Binary Search Trees", "Matching Specific String", "Matching Anything But a Newline" & #Codewars: "Give me a Diamond", "Reverse polish notation calculator". #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 893 @ Codewars, 148136 @ Hackerrank - 8 hours of study. Mid-March and still unemployed :-( 1 finish React book, 2. Do the FCC projects.
 
