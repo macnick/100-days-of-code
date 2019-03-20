@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 89: March 20, 2019
+
+**Today's Progress**: #R4D89 Started the day by solving some katas, continued with my React project. Solved: #Hackerrank: "Matching Start & End", "Negative Lookahead", "Matching Specific Characters" & #Codewars: "Validate Credit Card Number", "Fold an array". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 884 @ Codewars, 146793 @ Hackerrank - 9 hours of study. Applied for a paid internship. 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+
 ## Day 88: March 19, 2019
 
 **Today's Progress**: #R4D88 Worked on my Regex knowledge. Problems solved: #Hackerrank: "Matching Digits & Non-Digit Characters", "Matching Whitespace & Non-Whitespace Character", "Matching Word & Non-Word Character" & #Codewars: "Detect Pangram", "Word a10n (abbreviation)". #100DaysOfCode #javascript #React #freeCodeCamp.
