@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 90: March 21, 2019
+
+**Today's Progress**: #R4D90 I love the smell of code in the morning :-D. Problems solved: #Hackerrank: "Matching Start & End", "Negative Lookahead", "Matching Specific Characters" & #Codewars: "Validate Credit Card Number", "Fold an array". #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 880 @ Codewars, 146936 @ Hackerrank - 6 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+
 ## Day 89: March 20, 2019
 
 **Today's Progress**: #R4D89 Started the day by solving some katas, continued with my React project. Solved: #Hackerrank: "Matching Start & End", "Negative Lookahead", "Matching Specific Characters" & #Codewars: "Validate Credit Card Number", "Fold an array". #100DaysOfCode #javascript #React #freeCodeCamp.
