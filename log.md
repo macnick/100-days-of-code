@@ -1,8 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 91: March 22, 2019
+
+**Today's Progress**: #R4D91 --- --- . JS practice: #Hackerrank: "Negative Lookbehind", "Matching 0 Or More Repetitions
+", "Matching Ending Items", "Matching {x} Repetitions" & #Codewars: "Calculating with Functions", "Help the bookseller !" #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 877 @ Codewars, 146936 @ Hackerrank - ?? hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+
 ## Day 90: March 21, 2019
 
-**Today's Progress**: #R4D90 I love the smell of code in the morning :-D. Problems solved: #Hackerrank: "Excluding Specific Characters", "Matching Character Ranges", "Positive Lookbehind", "Reverse a linked list" & #Codewars: "Multi-tap Keypad Text Entry on an Old Mobile Phone", "Playing with passphrases", "Wordsearch". #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D90 I love the smell of fresh code in the morning :-D. Problems solved: #Hackerrank: "Excluding Specific Characters", "Matching Character Ranges", "Positive Lookbehind", "Reverse a linked list" & #Codewars: "Multi-tap Keypad Text Entry on an Old Mobile Phone", "Playing with passphrases", "Wordsearch". #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 880 @ Codewars, 146936 @ Hackerrank - ?? hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
