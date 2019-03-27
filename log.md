@@ -1,16 +1,34 @@
 # 100 Days Of Code - Log
 
+## Day 96: March 27, 2019
+
+**Today's Progress**: #R4D96 -----------------: #Hackerrank: "Matching Same Text Again & Again", "Backreferences To Failed Groups" & #Codewars: "One Line Task: Esperanza Pies","Round to the next multiple of 5" #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 859 @ Codewars, 138735 @ Hackerrank - ?? hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+
+## Day 95: March 26, 2019
+
+**Today's Progress**: #R4D95 Trying to create a norm.dist function in Filemaker: #Hackerrank: "Running Time and Complexity", "Nested Logic", " Testing" & #Codewars: "One Line Task: Esperanza Pies","Round to the next multiple of 5" #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 865 @ Codewars, 140019 @ Hackerrank - 10 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+
+## Day 94: March 25, 2019
+
+**Today's Progress**: #R4D94 Spent the day scripting Filemaker solution and Javascript exercises: #Hackerrank: "Alternative Matching","Running Time and Complexity", "Nested Logic", "Testing" & #Codewars: "One Line Task: Esperanza Pies","Round to the next multiple of 5" #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 865 @ Codewars, 140019 @ Hackerrank - 6 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+
 ## Day 93: March 24, 2019
 
-**Today's Progress**: #R4D93 Brain decided to work today! Yeeay. JS exercises: #Hackerrank: "More Linked Lists", "Match Word Boundaries", "Capturing & Non-Capturing Groups", "Alternative Matching" & #Codewars: "Squares sequence", "Rainfall" #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D93 Brain decided to work today! Yeeay. JS exercises: #Hackerrank: "More Linked Lists", "Match Word Boundaries", "Capturing & Non-Capturing Groups",  & #Codewars: ","Thinkful-Number Drills: Blue and red marbles","Squares sequence", "Rainfall" #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 878 @ Codewars, 139790 @ Hackerrank - ?? hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+**Thoughts:** Rank 878 @ Codewars, 139790 @ Hackerrank - 5 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
 ## Day 92: March 23, 2019
 
-**Today's Progress**: #R4D92 Brain dead day. Stuck for a couple of hours in a really simple problem. Problems solved: #Hackerrank: "Match {x, y} Repetitions", "UK & US: Part 2", "BST Level-Order Traversal" & #Codewars: "PHP Functions - Pass By Reference", "Thinkful - Number Drills: Blue and red marbles" #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D92 Brain dead day. Stuck for a couple of hours in a really simple problem. Problems solved: #Hackerrank: "Match {x, y} Repetitions", "UK & US: Part 2", "BST Level-Order Traversal" & #Codewars: "PHP Functions - Pass By Reference" #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 878 @ Codewars, 141068 @ Hackerrank - ?? hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+**Thoughts:** Rank 878 @ Codewars, 141068 @ Hackerrank - 6 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
 ## Day 91: March 22, 2019
 
