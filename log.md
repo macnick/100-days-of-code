@@ -2,7 +2,7 @@
 
 ## Day 96: March 27, 2019
 
-**Today's Progress**: #R4D96 -----------------: #Hackerrank: "Matching Same Text Again & Again", "Backreferences To Failed Groups" & #Codewars: "One Line Task: Esperanza Pies","Round to the next multiple of 5" #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D96 -----------------: #Hackerrank: "Matching Same Text Again & Again", "Backreferences To Failed Groups" & #Codewars: "Candy problem","Introduction to Esolangs and My First MiniStringFuck Interpreter" #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 859 @ Codewars, 138735 @ Hackerrank - ?? hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
