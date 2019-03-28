@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R4D97 Did my first SQL queries! #Hackerrank:"Get Node Value","Forward References","Delete duplicate-value nodes from a sorted linked list","Forward References" & #Codewars:"Unary function chainer" #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 855 @ Codewars, - @ Hackerrank - ?? hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+**Thoughts:** Rank 855 @ Codewars, - 137427 @ Hackerrank - ?? hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
 ## Day 96: March 27, 2019
 
