@@ -1,20 +1,26 @@
 # 100 Days Of Code - Log
 
+## Day 97: March 28, 2019
+
+**Today's Progress**: #R4D97 Did my first SQL queries! #Hackerrank:"Get Node Value","Forward References","Delete duplicate-value nodes from a sorted linked list","Forward References" & #Codewars:"Unary function chainer" #100DaysOfCode #javascript #React #freeCodeCamp.
+
+**Thoughts:** Rank 855 @ Codewars, - @ Hackerrank - ?? hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+
 ## Day 96: March 27, 2019
 
-**Today's Progress**: #R4D96 -----------------: #Hackerrank: "Matching Same Text Again & Again", "Backreferences To Failed Groups" & #Codewars: "Candy problem","Introduction to Esolangs and My First MiniStringFuck Interpreter" #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D96 Coded two Excel functions in FileMaker Pro. #Hackerrank:"Branch Reset Groups","Forward References","Merge two sorted linked lists" & #Codewars:"Esolang Interpreters #2 - Custom Smallfuck Interpreter" #100DaysOfCode #javascript #React #freeCodeCamp.
 
-**Thoughts:** Rank 859 @ Codewars, 138735 @ Hackerrank - ?? hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+**Thoughts:** Rank 859 @ Codewars, 138735 @ Hackerrank - 10 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
 ## Day 95: March 26, 2019
 
-**Today's Progress**: #R4D95 Trying to create a norm.dist function in Filemaker: #Hackerrank: "Running Time and Complexity", "Nested Logic", " Testing" & #Codewars: "One Line Task: Esperanza Pies","Round to the next multiple of 5" #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D95 Trying to create a norm.dist function in Filemaker: #Hackerrank: "Matching Same Text Again & Again", "Backreferences To Failed Groups" & #Codewars: "Candy problem","Introduction to Esolangs and My First MiniStringFuck Interpreter" #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 865 @ Codewars, 140019 @ Hackerrank - 10 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
 ## Day 94: March 25, 2019
 
-**Today's Progress**: #R4D94 Spent the day scripting Filemaker solution and Javascript exercises: #Hackerrank: "Alternative Matching","Running Time and Complexity", "Nested Logic", "Testing" & #Codewars: "One Line Task: Esperanza Pies","Round to the next multiple of 5" #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D94 Spent the day scripting Filemaker solution and Javascript exercises: #Hackerrank: "Alternative Matching","Running Time and Complexity", "Nested Logic", "Testing" & #Codewars: "One Line Task: Esperanza Pies" #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 865 @ Codewars, 140019 @ Hackerrank - 6 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
