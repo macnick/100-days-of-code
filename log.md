@@ -1,14 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 98: March 29, 2019
+
+**Today's Progress**: #R4D98 Lots of reading about JS today. YDKJS is my favorite. Which is yours? #Hackerrank:"Forward References","Saying Hi","HackerRank Language","Building a Smart IDE: Programming Language Detection" & #Codewars:"Count characters in a string" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 850 @ Codewars, - 137527 @ Hackerrank - ?? hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+
 ## Day 97: March 28, 2019
 
-**Today's Progress**: #R4D97 Did my first SQL queries! #Hackerrank:"Get Node Value","Forward References","Delete duplicate-value nodes from a sorted linked list","Forward References" & #Codewars:"Unary function chainer" #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D97 Did my first SQL queries! #Hackerrank:"Get Node Value","Delete duplicate-value nodes from a sorted linked list","Forward References" & #Codewars:"Unary function chainer" #100DaysOfCode #javascript #React #freeCodeCamp
 
-**Thoughts:** Rank 855 @ Codewars, - 137427 @ Hackerrank - ?? hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+**Thoughts:** Rank 855 @ Codewars, - 137427 @ Hackerrank - 10 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
 ## Day 96: March 27, 2019
 
-**Today's Progress**: #R4D96 Coded two Excel functions in FileMaker Pro. #Hackerrank:"Branch Reset Groups","Forward References","Merge two sorted linked lists" & #Codewars:"Esolang Interpreters #2 - Custom Smallfuck Interpreter" #100DaysOfCode #javascript #React #freeCodeCamp.
+**Today's Progress**: #R4D96 Coded two more Excel functions in FileMaker Pro. #Hackerrank:"Branch Reset Groups","Forward References","Merge two sorted linked lists" & #Codewars:"Esolang Interpreters #2 - Custom Smallfuck Interpreter" #100DaysOfCode #javascript #React #freeCodeCamp.
 
 **Thoughts:** Rank 859 @ Codewars, 138735 @ Hackerrank - 10 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
