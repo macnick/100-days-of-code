@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 99: March 30, 2019
+
+**Today's Progress**: #R4D99 Another round almost done. Some info about feelings #Hackerrank:"Split the Phone Numbers","Cycle Detection","Find Merge Point of Two Lists" & #Codewars:"Length of missing array" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 840 @ Codewars, - 132446 @ Hackerrank - 6 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+
 ## Day 98: March 29, 2019
 
 **Today's Progress**: #R4D98 Lots of reading about JS today. YDKJS is my favorite. Which is yours? #Hackerrank:"Forward References","Saying Hi","HackerRank Language","Building a Smart IDE: Programming Language Detection" & #Codewars:"Count characters in a string" #100DaysOfCode #javascript #React #freeCodeCamp
 
-**Thoughts:** Rank 850 @ Codewars, - 137527 @ Hackerrank - ?? hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+**Thoughts:** Rank 850 @ Codewars, - 137527 @ Hackerrank - 10 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
 ## Day 97: March 28, 2019
 
