@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 101: April 1, 2019
+
+**Today's Progress**: #R4D101 Tomorrow I will start round 5! #Hackerrank:"Positive Lookahead",Build a Stack Exchange Scraper","Insert a Node Into a Sorted Doubly Linked List" & #Codewars:"Statistics for an Athletic Association" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 820 @ Codewars, - 132549 @ Hackerrank - 8 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+
+## Day 100: March 31, 2019
+
+**Today's Progress**: #R4D100 This is 403 days of straight coding. No vacations, ni illnesees, no excuses. Keep coding friends. #Hackerrank:"Positive Lookahead",Build a Stack Exchange Scraper","Insert a Node Into a Sorted Doubly Linked List" & #Codewars:"Triangle type" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 830 @ Codewars, - 132549 @ Hackerrank - 4 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+
 ## Day 99: March 30, 2019
 
-**Today's Progress**: #R4D99 Another round almost done. Some info about feelings #Hackerrank:"Split the Phone Numbers","Cycle Detection","Find Merge Point of Two Lists" & #Codewars:"Length of missing array" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R4D99 Another round almost done. It seems like it was only yesterday that I started learning. #Hackerrank:"Split the Phone Numbers","Cycle Detection","Find Merge Point of Two Lists" & #Codewars:"Length of missing array" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 840 @ Codewars, - 132446 @ Hackerrank - 6 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
