@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 1: April 2, 2019
+
+**Today's Progress**: #R5D1 I started learning and using Git. #Hackerrank:,"Insert a Node Into a Sorted Doubly Linked List", "RegEx, Patterns, and Intro to Databases", "Bitwise AND" & #Codewars:"Statistics for an Athletic Association" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 804 @ Codewars, - 132665 @ Hackerrank - 9 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+
 ## Day 101: April 1, 2019
 
 **Today's Progress**: #R4D101 Tomorrow I will start round 5! #Hackerrank:,"Insert a Node Into a Sorted Doubly Linked List",  & #Codewars:"Statistics for an Athletic Association" #100DaysOfCode #javascript #React #freeCodeCamp
@@ -8,7 +14,7 @@
 
 ## Day 100: March 31, 2019
 
-**Today's Progress**: #R4D100 This is 403 days of straight coding. No vacations, no illnesees, no excuses. Keep coding my friends, no matter what. #Hackerrank:"Positive Lookahead",Build a Stack Exchange Scraper" & #Codewars:"Triangle type" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R4D100 This is 403 days of straight coding. No vacations, no illnesees, no excuses. Keep coding my friends, no matter what. #Hackerrank:"Positive Lookahead","Build a Stack Exchange Scraper" & #Codewars:"Triangle type" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 830 @ Codewars, - 132549 @ Hackerrank - 4 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
