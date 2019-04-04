@@ -1,14 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 2: April 3, 2019
+
+**Today's Progress**: #R5D2 Did my first Git commit and push to GitHub using terminal commands only. #Hackerrank:,"Find A Sub-Word", "Reverse a doubly linked list" & #Codewars:"Prefill an Array", "Evil Autocorrect Prank" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 801 @ Codewars, - 132665 @ Hackerrank - 9 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+
 ## Day 1: April 2, 2019
 
-**Today's Progress**: #R5D1 I started learning and using Git. #Hackerrank:,"Insert a Node Into a Sorted Doubly Linked List", "RegEx, Patterns, and Intro to Databases", "Bitwise AND" & #Codewars:"Statistics for an Athletic Association" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D1 I started learning and using Git. #Hackerrank:"Detect HTML links","Detect HTML Tags","LL Cycle Detection"  & #Codewars:"Adding ordinal indicator suffixes to numbers", "IPv4 to int32" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 804 @ Codewars, - 132665 @ Hackerrank - 9 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
 ## Day 101: April 1, 2019
 
-**Today's Progress**: #R4D101 Tomorrow I will start round 5! #Hackerrank:,"Insert a Node Into a Sorted Doubly Linked List",  & #Codewars:"Statistics for an Athletic Association" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R4D101 Tomorrow I will start round 5! #Hackerrank:,"Insert a Node Into a Sorted Doubly Linked List","RegEx, Patterns, and Intro to Databases", "Bitwise AND" & #Codewars:"Statistics for an Athletic Association" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 820 @ Codewars, - 132549 @ Hackerrank - 8 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
