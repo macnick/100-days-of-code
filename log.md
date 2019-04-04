@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R5D2 Did my first Git commit and push to GitHub using terminal commands only. #Hackerrank:,"Find A Sub-Word", "Reverse a doubly linked list" & #Codewars:"Prefill an Array", "Evil Autocorrect Prank" #100DaysOfCode #javascript #React #freeCodeCamp
 
-**Thoughts:** Rank 801 @ Codewars, - 132665 @ Hackerrank - 9 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+**Thoughts:** Rank 801 @ Codewars, - 132755 @ Hackerrank - 9 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
 
 ## Day 1: April 2, 2019
 
