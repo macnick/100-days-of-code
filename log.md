@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 3: April 4, 2019
+
+**Today's Progress**: #R5D3 Started transfering my codewars problem solutions to my Github account. #Hackerrank:,"Alien Username", "Tree: Preorder Traversal" & #Codewars:"Function Composition", "Dashatize it", "Most digits" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 788 @ Codewars, - 130293 @ Hackerrank - 7 hours of study. Goals: 1 finish React book, 2. Do the FCC projects, fix my CV, learn Git.
+
 ## Day 2: April 3, 2019
 
 **Today's Progress**: #R5D2 Did my first Git commit and push to GitHub using terminal commands only. #Hackerrank:,"Find A Sub-Word", "Reverse a doubly linked list" & #Codewars:"Prefill an Array", "Evil Autocorrect Prank" #100DaysOfCode #javascript #React #freeCodeCamp
