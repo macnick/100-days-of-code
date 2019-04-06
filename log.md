@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 4: April 5, 2019
+
+**Today's Progress**: #R5D4 Very excited about Git! Going through the documentation. #Hackerrank:,"Tree: Postorder Traversal", "IP Address Validation" & #Codewars:"You Can't Code Under Pressure #2", "Salesman's Travel" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 788 @ Codewars, - 127983 @ Hackerrank - 7 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV, .
+
 ## Day 3: April 4, 2019
 
 **Today's Progress**: #R5D3 Started transfering my codewars problem solutions to my Github account. #Hackerrank:,"Alien Username", "Tree: Preorder Traversal" & #Codewars:"Function Composition", "Dashatize it", "Most digits" #100DaysOfCode #javascript #React #freeCodeCamp
