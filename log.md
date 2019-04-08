@@ -2,7 +2,7 @@
 
 ## Day 6: April 7, 2019
 
-**Today's Progress**: #R5D5 Left everything behind and went on a ride with my beautiful bike. #Hackerrank:,"Detect the Domain Name", "Tree: Inorder Traversal" & #Codewars:"The Enigma Machine - Part 1: The Plugboard", "A wolf in sheep's clothing" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D5 Left everything behind and went on a ride with my beautiful bike. Evening practice #Hackerrank:,"Detect the Domain Name", "Tree: Inorder Traversal" & #Codewars:"The Enigma Machine - Part 1: The Plugboard", "A wolf in sheep's clothing" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 784 @ Codewars, - 123439 @ Hackerrank - 3 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV, .
 
