@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 7: April 8, 2019
+
+**Today's Progress**: #R5D7 Installed Sololearn and had fun with it. Today's practice #Hackerrank:"Building a Smart IDE: Identifying comments", "Tree: Height of a Binary Tree" & #Codewars:"Sorted? yes? no? how?", "Linked Lists-Length & Count" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 784 @ Codewars, - 123439 @ Hackerrank - 3 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV, .
+
 ## Day 6: April 7, 2019
 
-**Today's Progress**: #R5D5 Left everything behind and went on a ride with my beautiful bike. Evening practice #Hackerrank:,"Detect the Domain Name", "Tree: Inorder Traversal" & #Codewars:"The Enigma Machine - Part 1: The Plugboard", "A wolf in sheep's clothing" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D6 Left everything behind and went on a ride with my beautiful bike. Evening practice #Hackerrank:,"Detect the Domain Name", "Tree: Inorder Traversal" & #Codewars:"The Enigma Machine - Part 1: The Plugboard", "A wolf in sheep's clothing" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 784 @ Codewars, - 123439 @ Hackerrank - 3 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV, .
 
