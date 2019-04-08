@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 5: April 6, 2019
+
+**Today's Progress**: #R5D5 Not much reading today, only JS practicing #Hackerrank:,"Find a Word", "Detect the Email Addresses" & #Codewars:"Playing on a chessboard", "Backwards Read Primes" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 784 @ Codewars, - 123439 @ Hackerrank - 7 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV, .
+
 ## Day 4: April 5, 2019
 
 **Today's Progress**: #R5D4 Very excited about Git! Going through the documentation. #Hackerrank:,"Tree: Postorder Traversal", "IP Address Validation" & #Codewars:"You Can't Code Under Pressure #2", "Salesman's Travel" #100DaysOfCode #javascript #React #freeCodeCamp
