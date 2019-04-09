@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 8: April 9, 2019
+
+**Today's Progress**: #R5D8 Using git from terminal to update and transfer my FCC projects to Github. Practiced with #Hackerrank:"Tree : Top View", "Detecting Valid Latitude and Longitude Pairs" & #Codewars:"Simple Fun #176: Reverse Letter", "Folding your way to the moon" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 783 @ Codewars, - 114937 @ Hackerrank - 3 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV, .
+
 ## Day 7: April 8, 2019
 
 **Today's Progress**: #R5D7 Installed Sololearn and had fun with it. Today's practice #Hackerrank:"Building a Smart IDE: Identifying comments", "Tree: Height of a Binary Tree" & #Codewars:"Sorted? yes? no? how?", "Linked Lists-Length & Count" #100DaysOfCode #javascript #React #freeCodeCamp
