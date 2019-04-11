@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 10: April 11, 2019
+
+**Today's Progress**: #R5D10 Learned about Huffman encoding-decoding. Also installed enzyme and jest for testing. JS problems #Hackerrank:"Utopian Identification Number", "BST : Insertion" & #Codewars:"Width-Height Ratio", "[Geometry A-2]: Length of a vector" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 782 @ Codewars, - 109215 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV, .
+
 ## Day 9: April 10, 2019
 
 **Today's Progress**: #R5D9 Built a #React boileplate with #webpack & #babel. JS practice #Hackerrank:"HackerRank Tweets", "Tree: Level Order Traversal" & #Codewars:"Sum of numbers from 0 to N", "Sum consecutives", "Srot the inner ctonnet in dsnnieedcg oredr" #100DaysOfCode #javascript #React #freeCodeCamp
