@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 10: April 12, 2019
+
+**Today's Progress**: #R5D11 Complete a test for an interview on #Hackerrank JS today:"Valid PAN format", "Tree: Huffman Decoding" & #Codewars:"Steps in Primes", "Kebabize" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 777 @ Codewars, - 107563 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV, .
+
 ## Day 10: April 11, 2019
 
 **Today's Progress**: #R5D10 Learned about Huffman encoding-decoding. Also installed enzyme and jest for testing. JS problems #Hackerrank:"Utopian Identification Number", "BST : Insertion" & #Codewars:"Width-Height Ratio", "[Geometry A-2]: Length of a vector" #100DaysOfCode #javascript #React #freeCodeCamp
