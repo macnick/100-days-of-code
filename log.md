@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
-## Day 10: April 12, 2019
+## Day 12: April 13, 2019
 
-**Today's Progress**: #R5D11 Complete a test for an interview on #Hackerrank JS today:"Valid PAN format", "Tree: Huffman Decoding" & #Codewars:"Steps in Primes", "Kebabize" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D12 Failed miserably on yesterday's test. This is the lowest score I have ever had since a long time. Only 44%! Very discouraging. Little Practice today: #Hackerrank-"Find HackerRank" #Codewars "Data Reverse" #100DaysOfCode #javascript #React #freeCodeCamp
 
-**Thoughts:** Rank 777 @ Codewars, - 107563 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV, .
+**Thoughts:** Rank 779 @ Codewars, - 107563 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+
+## Day 11: April 12, 2019
+
+**Today's Progress**: #R5D11 Completed a test for an interview on #Hackerrank JS today:"Valid PAN format", "Tree: Huffman Decoding" & #Codewars:"Steps in Primes", "Kebabize" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 777 @ Codewars, - 107563 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
 
 ## Day 10: April 11, 2019
 
