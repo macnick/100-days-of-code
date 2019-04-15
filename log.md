@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 13: April 14, 2019
+
+**Today's Progress**: #R5D13 Working on site for a customer. JS challenges solved: #Hackerrank-"Sock Merchant", "Between Two Sets" #Codewars "Tank Truck", "Prize Draw" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 776 @ Codewars, - 105165 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+
 ## Day 12: April 13, 2019
 
 **Today's Progress**: #R5D12 Failed miserably on yesterday's test. This is the lowest score I have ever had since a long time. Only 44%! Very discouraging. Little Practice today: #Hackerrank-"Find HackerRank" #Codewars "Data Reverse" #100DaysOfCode #javascript #React #freeCodeCamp
