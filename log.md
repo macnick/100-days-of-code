@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 15: April 16, 2019
+
+**Today's Progress**: #R5D15 Fixed some errors in two of my older pages. JS problems today: #Hackerrank-"Detect HTML Attributes", "Jumping on the Clouds" #Codewars "Sudoku Solution Validator", "Recover a secret string from random triplets" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 766 @ Codewars, - 98734 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+
+## Day 14: April 15, 2019
+
+**Today's Progress**: #R5D14 Started working on my FFC Mark Down page. Practice today: #Hackerrank-"Counting Valleys", "The British and American Style of Spelling" #Codewars "Snail", "Next bigger number with the same digits" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 776 @ Codewars, - 105165 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+
 ## Day 13: April 14, 2019
 
-**Today's Progress**: #R5D13 Working on site for a customer. JS challenges solved: #Hackerrank-"Sock Merchant", "Between Two Sets" #Codewars "Tank Truck", "Prize Draw" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D13 Working on a site for a customer. JS challenges solved: #Hackerrank-"Sock Merchant", "Between Two Sets" #Codewars "Tank Truck", "Prize Draw" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 776 @ Codewars, - 105165 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
 
