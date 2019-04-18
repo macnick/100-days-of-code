@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 16: April 17, 2019
+
+**Today's Progress**: #R5D16 I use git for all my projects now. Feeling a little more comfortable with basic git usage. Practice today: #Hackerrank-"Repeated String", "Arrays: Left Rotation" #Codewars "If you can read this...", "Find the nth Digit of a Number" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 764 @ Codewars, - 93123 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+
 ## Day 15: April 16, 2019
 
 **Today's Progress**: #R5D15 Fixed some errors in two of my older pages. JS problems today: #Hackerrank-"Detect HTML Attributes", "Jumping on the Clouds" #Codewars "Sudoku Solution Validator", "Recover a secret string from random triplets" #100DaysOfCode #javascript #React #freeCodeCamp
