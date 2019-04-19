@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 17: April 18, 2019
+
+**Today's Progress**: #R5D17 Went to my first developers meetup. Had a great time! Solved problems: #Hackerrank-"New Year Chaos" #Codewars "Multiplication Tables", "Sum of Pairs", "Averages of numbers" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 766 @ Codewars, - 93190 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+
 ## Day 16: April 17, 2019
 
 **Today's Progress**: #R5D16 I use git for all my projects now. Feeling a little more comfortable with basic git usage. Practice today: #Hackerrank-"Repeated String", "Arrays: Left Rotation" #Codewars "If you can read this...", "Find the nth Digit of a Number" #100DaysOfCode #javascript #React #freeCodeCamp
