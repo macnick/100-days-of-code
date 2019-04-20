@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+<i>Is html suported? </i>
+
 ## Day 17: April 18, 2019
 
 **Today's Progress**: #R5D17 Went to my first developers meetup. Had a great time! Solved problems: #Hackerrank-"New Year Chaos" #Codewars "Multiplication Tables", "Sum of Pairs", "Averages of numbers" #100DaysOfCode #javascript #React #freeCodeCamp
