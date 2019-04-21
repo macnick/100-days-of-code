@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 <i>Is html suported? </i>
+## Day 19: April 20, 2019
+
+**Today's Progress**: #R5D19 ==== JS practice with: #Hackerrank-"New Year Chaos" #Codewars "Multiplication Tables", "Sum of Pairs", "Averages of numbers" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 766 @ Codewars, - 93190 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+
+## Day 18: April 19, 2019
+
+**Today's Progress**: #R5D18 Completed all Regex challenges @Hackerrank. JS practice with: #Hackerrank-"New Year Chaos" #Codewars "Multiplication Tables", "Sum of Pairs", "Averages of numbers" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 766 @ Codewars, - 93190 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
 
 ## Day 17: April 18, 2019
 
