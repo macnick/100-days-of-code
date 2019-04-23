@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 20: April 21, 2019
+
+**Today's Progress**: #R5D20 Finished all the warmup challenges of IPK @Hackerrank. Today's practice: #Hackerrank: "Hash Tables: Ransom Note" #Codewars "Clock in Mirror", "All Inclusive?" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 746 @ Codewars, - 93190 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+
 ## Day 19: April 20, 2019
 
 **Today's Progress**: #R5D19 Started the interview preparation kit @Hackerrank. Today's solved challenges: #Codewars "Form The Minimum", "+1 Array", "Shift Left" #100DaysOfCode #javascript #React #freeCodeCamp
