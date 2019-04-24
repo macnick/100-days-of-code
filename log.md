@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R5D22  IPK. Solved problems: #Hackerrank: "" #Codewars "Chess Fun #1: Chess Board Cell Color", "Parse HTML/CSS Colors" #100DaysOfCode #javascript #React #freeCodeCamp
 
-**Thoughts:** Rank 746 @ Codewars, - 90295 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+**Thoughts:** Rank 746 @ Codewars, - 90368 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
 
 ## Day 21: April 22, 2019
 
