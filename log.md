@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 23: April 24, 2019
+
+**Today's Progress**: #R5D23 Today I fixed a little problem in one of my FCC projects. Challenges Solved: #Codewars "Compare Strings by Sum of Chars", "String average", "Roman Numerals Helper" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 747 @ Codewars, - 90454 @ Hackerrank - 8 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+
 ## Day 22: April 23, 2019
 
-**Today's Progress**: #R5D22  IPK. Solved problems: #Hackerrank: "" #Codewars "Chess Fun #1: Chess Board Cell Color", "Parse HTML/CSS Colors" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D22 More serious challenges today @IPK: Dictionaries and Hashmaps. Solved problems: #Codewars "Chess Fun #1: Chess Board Cell Color", "Parse HTML/CSS Colors" #100DaysOfCode #javascript #React #freeCodeCamp
 
-**Thoughts:** Rank 746 @ Codewars, - 90368 @ Hackerrank - 10 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+**Thoughts:** Rank 746 @ Codewars, - 90368 @ Hackerrank - 9 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
 
 ## Day 21: April 22, 2019
 
