@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 24: April 25, 2019
+
+**Today's Progress**: #R5D24 Today I got my 5th star at Hackerrank's problem solving. Challenges Solved: #Hackerrank: "Drawing Book" #Codewars "Compare Strings by Sum of Chars", "String average", "Roman Numerals Helper" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 747 @ Codewars, - 90454 @ Hackerrank - 8 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+
 ## Day 23: April 24, 2019
 
 **Today's Progress**: #R5D23 Today I fixed a little problem in one of my FCC projects. Challenges Solved: #Codewars "Compare Strings by Sum of Chars", "String average", "Roman Numerals Helper" #100DaysOfCode #javascript #React #freeCodeCamp
