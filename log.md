@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 26: April 27, 2019
+
+**Today's Progress**: #R5D26 Another 4 hours of online pair programming today. Problems solved: #Hackerrank: "The Hurdle Race" #Codewars "Digital cypher", "Reverse a Number" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 745 @ Codewars, - 79266 @ Hackerrank - 6 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+
+## Day 25: April 26, 2019
+
+**Today's Progress**: #R5D25 Did 4 hours online pair programming for the 1st time. Solved: #Hackerrank: "Viral Advertising" #Codewars "Decipher this!", "Find the vowels" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 747 @ Codewars, - 90454 @ Hackerrank - 8 hours of study. Goals: 1.learn Git 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+
 ## Day 24: April 25, 2019
 
 **Today's Progress**: #R5D24 Today I got my 5th star at Hackerrank's problem solving. Challenges Solved: #Hackerrank: "Drawing Book" #Codewars "Compare Strings by Sum of Chars", "String average", "Roman Numerals Helper" #100DaysOfCode #javascript #React #freeCodeCamp
