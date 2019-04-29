@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 27: April 28, 2019
+
+**Today's Progress**: #R5D27 Refreshing my HTML5 knowledge by playing with Sololearn App. Solved today: #Hackerrank: "Beautiful Days at the Movies" #Codewars "What's my golf score?", "Counting Array Elements" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 743 @ Codewars, - 79299 @ Hackerrank - 5 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+
 ## Day 26: April 27, 2019
 
 **Today's Progress**: #R5D26 Another 4 hours of online pair programming today. Problems solved: #Hackerrank: "The Hurdle Race" #Codewars "Digital cypher", "Reverse a Number" #100DaysOfCode #javascript #React #freeCodeCamp
