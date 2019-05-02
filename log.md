@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 29: April 30, 2019
+
+**Today's Progress**: #R5D29 Applied for Microverse.org's full stack developer training program. Fingers crossed. Kata today: #Hackerrank: "Service Lane" #Codewars "Inspiring Strings"#100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 741 @ Codewars, - 76991 @ Hackerrank - 5 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+
+## Day 28: April 29, 2019
+
+**Today's Progress**: #R5D28 Did 4 hours of pair programming with a knowledgable person. We had a great time. Today's challenges: #Hackerrank: "Find Digits" #Codewars "Meeting", "Coloured Triangles" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 742 @ Codewars, - 76991 @ Hackerrank - 5 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+
 ## Day 27: April 28, 2019
 
 **Today's Progress**: #R5D27 Refreshing my HTML5 knowledge by playing with Sololearn App. Solved today: #Hackerrank: "Beautiful Days at the Movies" #Codewars "What's my golf score?", "Counting Array Elements" #100DaysOfCode #javascript #React #freeCodeCamp
