@@ -2,7 +2,7 @@
 
 ## Day 31: May 2, 2019
 
-**Today's Progress**: #R5D31 I got accepted at the microverse.org fullstack developer program. ???? training: #Codewars "search in multidimensional array", "Weight for weight" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D31 I got accepted at the microverse.org full-time software development program. ???? training: #Codewars "search in multidimensional array", "Weight for weight" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 739 @ Codewars, - 76957 @ Hackerrank - 5 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
 
