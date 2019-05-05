@@ -1,10 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 33: May 4, 2019
+
+**Today's Progress**: #R5D33 Working on scripts integrate Filemaker 17 with PHP POS API. Today's training: #Codewars "" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 738 @ Codewars, - 77049 @ Hackerrank - 2 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
+## Day 32: May 3, 2019
+
+**Today's Progress**: #R5D32 Got a job to integrate Filemaker 17 with PHP POS API. Kata today: #Codewars "Autocomplete! Yay!" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 738 @ Codewars, - 77049 @ Hackerrank - 3 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 31: May 2, 2019
 
-**Today's Progress**: #R5D31 I got accepted at the microverse.org full-time software development program. ???? training: #Codewars "search in multidimensional array", "Weight for weight" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D31 I got accepted at the microverse.org full-time software development program. Solved challenges: #Codewars "Sum of Triangular Numbers", "Sum The Tree" #100DaysOfCode #javascript #React #freeCodeCamp
 
-**Thoughts:** Rank 739 @ Codewars, - 76957 @ Hackerrank - 5 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
+**Thoughts:** Rank 739 @ Codewars, - 76957 @ Hackerrank - 4 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: fix my CV.
 
 ## Day 30: May 1, 2019
 
