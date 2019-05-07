@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 35: May 6, 2019
+
+**Today's Progress**: #R5D35 Finished the FileMaker job but unfortuantely with partial success. Not happy. Today's training: #Codewars "SevenAte9", "Parsing Commandline Arguments" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 738 @ Codewars, - 77049 @ Hackerrank - 2 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
+## Day 34: May 5, 2019
+
+**Today's Progress**: #R5D34 Reading the "Everything cURL" book. Everything you need to know about cURL and more. Today's training: #Codewars "Form The Largest", "Maximum Multiple" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 738 @ Codewars, - 77049 @ Hackerrank - 2 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 33: May 4, 2019
 
-**Today's Progress**: #R5D33 Working on scripts integrate Filemaker 17 with PHP POS API. Today's training: #Codewars "" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D33 Working on scripts integrate Filemaker 17 with PHP POS API. Today's training: #Codewars "Correct the time-string", "Convert a linked list to a string" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 738 @ Codewars, - 77049 @ Hackerrank - 2 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
