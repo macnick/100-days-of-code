@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R5D35 Finished the FileMaker job but unfortuantely with partial success. Not happy. Today's training: #Codewars "SevenAte9", "Parsing Commandline Arguments" #100DaysOfCode #javascript #React #freeCodeCamp
 
-**Thoughts:** Rank 738 @ Codewars, - 77049 @ Hackerrank - 2 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+**Thoughts:** Rank 731 @ Codewars, - 77049 @ Hackerrank - 2 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
 ## Day 34: May 5, 2019
 
