@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 36: May 7, 2019
+
+**Today's Progress**: #R5D36 Spent 2 hours reading the cURL manual. Kata solved: #Codewars "Next Version", "Functional Lists" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 731 @ Codewars, - 77049 @ Hackerrank - 2 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 35: May 6, 2019
 
 **Today's Progress**: #R5D35 Finished the FileMaker job but unfortuantely with partial success. Not happy. Today's training: #Codewars "SevenAte9", "Parsing Commandline Arguments" #100DaysOfCode #javascript #React #freeCodeCamp
