@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R5D37 Practiced with CSS3 Gradients & Backgrounds. Solved today: #Codewars "Blood Moon", "Ordered Count of Characters" #100DaysOfCode #javascript #React #freeCodeCamp
 
-**Thoughts:** Rank 731 @ Codewars, - 77049 @ Hackerrank - 2 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+**Thoughts:** Rank 717 @ Codewars, - 77049 @ Hackerrank - 2 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
 ## Day 36: May 7, 2019
 
