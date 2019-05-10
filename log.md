@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R5D38 Practiced with CSS3 Transitions & Transforms. Solved today: #Hackerrank: "Electronics Shop" #Codewars "Is It Negative Zero (-0)?", "The Tale of Two Zeros" #100DaysOfCode #javascript #React #freeCodeCamp
 
-**Thoughts:** Rank 716 @ Codewars, - 77049 @ Hackerrank - 2 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+**Thoughts:** Rank 716 @ Codewars, - 75519 @ Hackerrank - 2 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
 ## Day 37: May 8, 2019
 
