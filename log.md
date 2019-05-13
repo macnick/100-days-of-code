@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 41: May 12, 2019
+
+**Today's Progress**: #R5D41 Morning at swimming races with my little one. Solved problems: #Hackerrank: "Sherlock and Anagrams", #Codewars "Offload your work!", "Consonant value" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 712 @ Codewars, - 67678 @ Hackerrank - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
+## Day 40: May 11, 2019
+
+**Today's Progress**: #R5D40 Playing Sololearn. Reach level 11. Challenges solved: #Hackerrank: "Anagram", #Codewars "Alphabet war - airstrike - letters massacre", "Moves in squared strings (II)" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 712 @ Codewars, - 67678 @ Hackerrank - 2 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 39: May 10, 2019
 
 **Today's Progress**: #R5D39 Practiced with CSS3 Filters. Today's challenges: #Codewars "Fizz Buzz Cuckoo Clock", "Financing Plan on Planet XY140Z-n", "Piano Kata, Part 1" #100DaysOfCode #javascript #React #freeCodeCamp
