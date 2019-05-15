@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 42: May 13, 2019
+
+**Today's Progress**: #R5D42 2nd day at the swimming races. His times are constantly improving. Evening training: #Codewars "Sum of Odd Cubed Numbers", "The Office I - Outed" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 707 @ Codewars, - 67768 @ Hackerrank - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 41: May 12, 2019
 
 **Today's Progress**: #R5D41 Morning at swimming races with my little one. Solved problems: #Hackerrank: "Sherlock and Anagrams", #Codewars "Offload your work!", "Consonant value" #100DaysOfCode #javascript #React #freeCodeCamp
