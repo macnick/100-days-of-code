@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 43: May 14, 2019
+
+**Today's Progress**: #R5D43 Fixed a script to send html emails from Filemaker pro for a customer. Challenges solved: #Codewars "Valid Parentheses", "Maximum subarray sum" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 700 @ Codewars, - 67768 @ Hackerrank - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 42: May 13, 2019
 
 **Today's Progress**: #R5D42 2nd day at the swimming races. His times are constantly improving. Evening training: #Codewars "Sum of Odd Cubed Numbers", "The Office I - Outed" #100DaysOfCode #javascript #React #freeCodeCamp
