@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 45: May 16, 2019
+
+**Today's Progress**: #R5D45 Didn't get the job but at least they were kind enough to let me know that I was their next best choice. Kata completed: #Codewars "A Chain adding function" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 700 @ Codewars, - 67768 @ Hackerrank - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
+## Day 44: May 15, 2019
+
+**Today's Progress**: #R5D44 Got a job interview for a Filemaker developer position. Solved today: #Codewars "Product of consecutive Fib numbers", "Twice linear" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 700 @ Codewars, - 67768 @ Hackerrank - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 43: May 14, 2019
 
 **Today's Progress**: #R5D43 Fixed a script to send html emails from Filemaker pro for a customer. Challenges solved: #Codewars "Valid Parentheses", "Maximum subarray sum" #100DaysOfCode #javascript #React #freeCodeCamp
