@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 46: May 17, 2019
+
+**Today's Progress**: #R5D46 Did some work on a customer's WP site. Completed today: #Codewars "Scramblies" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 696 @ Codewars, - 67911 @ Hackerrank - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 45: May 16, 2019
 
 **Today's Progress**: #R5D45 Didn't get the job but at least they were kind enough to let me know that I was their next best choice. Kata completed: #Codewars "A Chain adding function" #100DaysOfCode #javascript #React #freeCodeCamp
