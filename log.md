@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 48: May 19, 2019
+
+**Today's Progress**: #R5D48 Bored to death while making changes to a WP site. // #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 695 @ Codewars, 68021 @ Hackerrank 61127 @ Leetcode - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
+## Day 47: May 18, 2019
+
+**Today's Progress**: #R5D47 Lots of boring work on a WP site. Solved problems: #Codewars "List to Array", "Human Readable Time" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 695 @ Codewars, 68021 @ Hackerrank 61127 @ Leetcode - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 46: May 17, 2019
 
 **Today's Progress**: #R5D46 Did some work on a customer's WP site. Completed today: #Codewars "Scramblies" #100DaysOfCode #javascript #React #freeCodeCamp
