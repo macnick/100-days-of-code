@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R5D48 Bored to death while making changes to a WP site. Morning training: #Codewars: "Credit card issuer checking" #100DaysOfCode #javascript #React #freeCodeCamp
 
-**Thoughts:** Rank 695 @ Codewars, 68021 @ Hackerrank 61127 @ Leetcode - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+**Thoughts:** Rank 694 @ Codewars, 68021 @ Hackerrank 61127 @ Leetcode - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
 ## Day 47: May 18, 2019
 
