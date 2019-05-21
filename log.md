@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 49: May 20, 2019
+
+**Today's Progress**: #R5D49 Installed Ruby and created my Ruby on rails app. Kata solved: #Codewars: "Molecule to atoms" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 694 @ Codewars, 68021 @ Hackerrank 61127 @ Leetcode - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 48: May 19, 2019
 
 **Today's Progress**: #R5D48 Bored to death while making changes to a WP site. Morning training: #Codewars: "Credit card issuer checking" #100DaysOfCode #javascript #React #freeCodeCamp
