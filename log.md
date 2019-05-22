@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 50: May 21, 2019
+
+**Today's Progress**: #R5D50 Today I learned the difference between Permutation and Combination and solved an interesting kata. Kata solved: #Codewars: "Best travel" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 689 @ Codewars, 66615 @ Hackerrank 61127 @ Leetcode - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 49: May 20, 2019
 
-**Today's Progress**: #R5D49 Installed Ruby and created my Ruby on rails app. Kata solved: #Codewars: "Molecule to atoms" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D49 Installed Ruby and created my first Ruby on rails app (from the templates) Also I uploaded and hosted it on heroku.com. Kata solved: #Codewars: "Molecule to atoms" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 694 @ Codewars, 68021 @ Hackerrank 61127 @ Leetcode - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
