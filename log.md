@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 52: May 23, 2019
+
+**Today's Progress**: #R5D52 Setup the Gatsby dev environment. #Codewars: "Double Cola" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 689 @ Codewars, 66721 @ Hackerrank 61127 @ Leetcode - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
+## Day 51: May 22, 2019
+
+**Today's Progress**: #R5D51 Read (again) the YDKJS book 2 about scopes and closures. Today's challenges: #Codewars: "Flatten and sort an array" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 689 @ Codewars, 66615 @ Hackerrank 61127 @ Leetcode - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 50: May 21, 2019
 
 **Today's Progress**: #R5D50 Today I learned the difference between Permutation and Combination and solved an interesting kata. Kata solved: #Codewars: "Best travel" #100DaysOfCode #javascript #React #freeCodeCamp
