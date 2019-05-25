@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 53: May 24, 2019
+
+**Today's Progress**: #R5D53 Learned about Gatsby building blocks and about styling with CSS. #Codewars: "Even numbers in an array" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 689 @ Codewars, 66721 @ Hackerrank 61127 @ Leetcode - 1 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 52: May 23, 2019
 
 **Today's Progress**: #R5D52 Setup the Gatsby dev environment. #Codewars: "Double Cola" #100DaysOfCode #javascript #React #freeCodeCamp
