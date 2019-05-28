@@ -2,9 +2,9 @@
 
 ## Day 56: May 27, 2019
 
-**Today's Progress**: #R5D56 65486. Kata solved @ #Codewars: "The observed PIN" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D56 Reading YDKJS Book 3: this and Object Prototypes. Challenges today: @ #Codewars: "Indexed capitalization" #100DaysOfCode #javascript #React #freeCodeCamp
 
-**Thoughts:** Rank 688 @ Codewars, 66879 @ Hackerrank 61127 @ Leetcode - 5 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+**Thoughts:** Rank 672 @ Codewars, 66923 @ Hackerrank 61127 @ Leetcode - 5 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
 ## Day 55: May 26, 2019
 
