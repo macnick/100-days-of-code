@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 54: May 25, 2019
+
+**Today's Progress**: #R5D54 Gatsby nested layout components today. Training @ #Codewars: "Replace every nth" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 688 @ Codewars, 66879 @ Hackerrank 61127 @ Leetcode - 5 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 53: May 24, 2019
 
 **Today's Progress**: #R5D53 Learned about Gatsby building blocks and about styling with CSS. #Codewars: "Even numbers in an array", "Count all the sheep on farm in the heights of New Zealand" #100DaysOfCode #javascript #React #freeCodeCamp
