@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 56: May 27, 2019
+
+**Today's Progress**: #R5D56 65486. Kata solved @ #Codewars: "The observed PIN" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 688 @ Codewars, 66879 @ Hackerrank 61127 @ Leetcode - 5 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
+## Day 55: May 26, 2019
+
+**Today's Progress**: #R5D55 The Gatsby trip continues: Installing and using Gatsby plugins. Training @ #Codewars: "My Languages", "Sorting on planet Twisted-3-7" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 688 @ Codewars, 66879 @ Hackerrank 61127 @ Leetcode - 5 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 54: May 25, 2019
 
 **Today's Progress**: #R5D54 Gatsby nested layout components today. Training @ #Codewars: "Replace every nth" #100DaysOfCode #javascript #React #freeCodeCamp
