@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 58: May 29, 2019
+
+**Today's Progress**: #R5D58 Went through the Microverse Onboarding Materials. Solved kata: @ #Codewars: "Lost number in number sequence", "Find Count of Most Frequent Item in an Array" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 670 @ Codewars, 67079 @ Hackerrank 61681 @ Leetcode - 8 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 57: May 28, 2019
 
 **Today's Progress**: #R5D57 Did some Git recap today and some exercises. Challenges solved: @ #Codewars: "Linked Lists - Push & BuildOneTwoThree", "Number of trailing zeros of N!" #100DaysOfCode #javascript #React #freeCodeCamp
