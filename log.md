@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 59: May 30, 2019
+
+**Today's Progress**: #R5D59 Preparing to be a good #Microverse student. Today's challenges: @ #Codewars: "Algorithm Fun: Find The Unknown Number - Part I", "How Green Is My Valley?" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 668 @ Codewars, 67079 @ Hackerrank 61681 @ Leetcode - 9 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 58: May 29, 2019
 
 **Today's Progress**: #R5D58 Went through the Microverse Onboarding Materials. Solved kata: @ #Codewars: "Lost number in number sequence", "Find Count of Most Frequent Item in an Array" #100DaysOfCode #javascript #React #freeCodeCamp
