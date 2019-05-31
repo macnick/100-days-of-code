@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 57: May 28, 2019
+
+**Today's Progress**: #R5D57 Did some Git recap today and some exercises. Challenges solved: @ #Codewars: "Linked Lists - Push & BuildOneTwoThree", "Number of trailing zeros of N!" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 670 @ Codewars, 67079 @ Hackerrank 61681 @ Leetcode - 8 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 56: May 27, 2019
 
 **Today's Progress**: #R5D56 Reading YDKJS Book 3: this and Object Prototypes. Challenges today: @ #Codewars: "Indexed capitalization" #100DaysOfCode #javascript #React #freeCodeCamp
