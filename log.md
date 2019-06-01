@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 60: May 31, 2019
+
+**Today's Progress**: #R5D60 I took a peek on microverse's curiculum challenges. It will be a tough Monday. Js Practice with: @ #Codewars: "Find Duplicates" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 668 @ Codewars, 67079 @ Hackerrank 61681 @ Leetcode - 9 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 59: May 30, 2019
 
 **Today's Progress**: #R5D59 Preparing to be a good #Microverse student. Today's challenges: @ #Codewars: "Algorithm Fun: Find The Unknown Number - Part I", "How Green Is My Valley?" #100DaysOfCode #javascript #React #freeCodeCamp
