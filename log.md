@@ -2,7 +2,7 @@
 
 ## Day 62: June 2, 2019
 
-**Today's Progress**: #R5D62  #codecademy. JS practice with a hard kata. Didn't finish it yet. #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D62 Finished control flow with Ruby #codecademy. JS practice with a hard kata. Didn't finish it yet. #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 669 @ Codewars, 67079 @ Hackerrank 61681 @ Leetcode - 4 hours of study. Goals: 1.learn SQL 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
