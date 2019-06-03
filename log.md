@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 63: June 3, 2019
+
+**Today's Progress**: #R5D63 My first day at #microverse! I started 2 hours earlier :-D Solved challengers @ #Hackerrank: "Electronics Shop" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 662 @ Codewars, 67227 @ Hackerrank 61681 @ Leetcode - 4 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 62: June 2, 2019
 
 **Today's Progress**: #R5D62 Finished control flow with Ruby #codecademy. JS practice @ #Codewars: "Decode the Morse code, advanced" #Hackerrank: "Drawing Book" #100DaysOfCode #javascript #React #freeCodeCamp
