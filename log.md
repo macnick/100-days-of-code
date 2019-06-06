@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 65: June 5, 2019
+
+**Today's Progress**: #R5D65 Building a Youtube page clone using only Flexbox. Solved today: @ #Hackerrank: "Picking Numbers", "The Hurdle Race" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 663 @ Codewars, 65998 @ Hackerrank 62209 @ Leetcode - 4 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 64: June 4, 2019
 
-**Today's Progress**: #R5D64 My 2nd day at microverse was a lot better than day 1. JS practice @ #Hackerrank: "Electronics Shop" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D64 My 2nd day at microverse was a lot better than day 1. JS practice @ #Codewars: "Loose Change" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 662 @ Codewars, 67227 @ Hackerrank 61681 @ Leetcode - 4 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
