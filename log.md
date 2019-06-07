@@ -2,9 +2,9 @@
 
 ## Day 66: June 6, 2019
 
-**Today's Progress**: #R5D66 Youtube page clone completed. Very happy with the result. Today's challenges: @ #Hackerrank: ____ #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D66 Youtube page clone completed. Very happy with the result. Waiting for code review. Today's challenges: @ #Hackerrank:"The Hurdle Race" @ #Codewars:"How many arguments" #100DaysOfCode #javascript #React #freeCodeCamp
 
-**Thoughts:** Rank 663 @ Codewars, 65998 @ Hackerrank 62209 @ Leetcode - 4 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+**Thoughts:** Rank 662 @ Codewars, 66060 @ Hackerrank 62209 @ Leetcode - 4 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
 ## Day 65: June 5, 2019
 
