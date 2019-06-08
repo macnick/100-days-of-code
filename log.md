@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 67: June 7, 2019
+
+**Today's Progress**: #R5D67 Started a new project. JS practice with: @ #Hackerrank:"Angry Professor" @ #Codewars:"___" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 662 @ Codewars, 62493 @ Hackerrank 62209 @ Leetcode - 4 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 66: June 6, 2019
 
 **Today's Progress**: #R5D66 Youtube page clone completed. Very happy with the result. Waiting for code review. Today's challenges: @ #Hackerrank:"The Hurdle Race" @ #Codewars:"How many arguments" #100DaysOfCode #javascript #React #freeCodeCamp
