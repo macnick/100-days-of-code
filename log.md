@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 69: June 9, 2019
+
+**Today's Progress**: #R5D69 ______No projects today just a little practice: @ #Hackerrank:"Library Fine" @ #Codewars:"Odds-Index" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 660 @ Codewars, 62564 @ Hackerrank 62209 @ Leetcode - 4 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 68: June 8, 2019
 
 **Today's Progress**: #R5D68 No projects today just a little practice: @ #Hackerrank:"Picking Numbers" @ #Codewars:"Odds-Index" #100DaysOfCode #javascript #React #freeCodeCamp
