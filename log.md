@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 71: June 11, 2019
+
+**Today's Progress**: #R5D71 Started 3rd project of @microverse curiculum. Submited two pull requests for the previous projects. Practice @ #Hackerrank:"Equalize the Array" @ #Codewars:"Matching And Substituting" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 657 @ Codewars, 56982 @ Hackerrank 62209 @ Leetcode - 4 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 70: June 10, 2019
 
 **Today's Progress**: #R5D70 Almost completed the 2nd project @microverse. Hopefully tomorrow we will submit a pull request. Practice @ #Hackerrank:"Equalize the Array" @ #Codewars:"Matching And Substituting" #100DaysOfCode #javascript #React #freeCodeCamp
