@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 72: June 12, 2019
+
+**Today's Progress**: #R5D72 Lots of reading about CSS3 today. JS practice @ #Hackerrank:"Beautiful Triplets" @ #Codewars:"" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 656 @ Codewars, 55091 @ Hackerrank 62209 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 71: June 11, 2019
 
-**Today's Progress**: #R5D71 Started 3rd project of @microverse curiculum. Submited two pull requests for the previous projects. Practice @ #Hackerrank:"Equalize the Array" @ #Codewars:"Matching And Substituting" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D71 Started 3rd project of @microverse curiculum. Submited two pull requests for the previous projects. Practice @ #Hackerrank:"Encryption" @ #Codewars:"Where my anagrams at?" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 657 @ Codewars, 56982 @ Hackerrank 62209 @ Leetcode - 4 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
