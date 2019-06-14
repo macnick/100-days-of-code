@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 73: June 13, 2019
+
+**Today's Progress**: #R5D73 My pull request for the 2nd project was accepted by the code reviewer without any corrections! I am so happy. Today's practice @ #Hackerrank:"The Time in Words" @ #Codewars:"Group Anagrams" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 653 @ Codewars, 53303 @ Hackerrank 62209 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 72: June 12, 2019
 
-**Today's Progress**: #R5D72 Lots of reading about CSS3 today. JS practice @ #Hackerrank:"Beautiful Triplets" @ #Codewars:"" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D72 Lots of reading about CSS3 today. JS practice @ #Hackerrank:"Beautiful Triplets" @ #Codewars:"Gap in Primes" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 656 @ Codewars, 55091 @ Hackerrank 62209 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
