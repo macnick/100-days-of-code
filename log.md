@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 75: June 15, 2019
+
+**Today's Progress**: #R5D75 First day at the beach with kids today. Evening practice @ #Hackerrank:"Lisa's Workbook" @ #Codewars:"Factorial" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 624 @ Codewars, 50163 @ Hackerrank 62209 @ Leetcode - 6 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 74: June 14, 2019
 
 **Today's Progress**: #R5D74 Today I advanced to 2kyu @codewars! It took me 15 months but I learned a lot. Today's practice @ #Hackerrank:"Chocolate Feast" @ #Codewars:"Number of anagrams in an array of words" #100DaysOfCode #javascript #React #freeCodeCamp
