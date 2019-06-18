@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 77: June 17, 2019
+
+**Today's Progress**: #R5D77 A little JS practice in the morning and then off to the beach! @ #Hackerrank:"Cavity map" @ #Codewars:"String incrementer" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 624 @ Codewars, 48414 @ Hackerrank 62209 @ Leetcode - 6 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
+## Day 76: June 16, 2019
+
+**Today's Progress**: #R5D76 Enjoying a short vacation with family. Daily practice @ #Hackerrank:"Fair Rations" @ #Codewars:"By 3, or not by 3? That is the question..." #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 624 @ Codewars, 48414 @ Hackerrank 62209 @ Leetcode - 6 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 75: June 15, 2019
 
 **Today's Progress**: #R5D75 First day at the beach with kids today. Evening practice @ #Hackerrank:"Lisa's Workbook" @ #Codewars:"Factorial" #100DaysOfCode #javascript #React #freeCodeCamp
