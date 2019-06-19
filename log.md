@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 78: June 18, 2019
+
+**Today's Progress**: #R5D78 Back to microverse curiculum. This project is killing me. Problems solved: @ #Hackerrank:"Manasa and Stones" @ #Codewars:"First non-repeating character" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 624 @ Codewars, 48414 @ Hackerrank 62209 @ Leetcode - 6 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 77: June 17, 2019
 
 **Today's Progress**: #R5D77 A little JS practice in the morning and then off to the beach! @ #Hackerrank:"Cavity map" @ #Codewars:"String incrementer" #100DaysOfCode #javascript #React #freeCodeCamp
