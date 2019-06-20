@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 79: June 19, 2019
+
+**Today's Progress**: #R5D79 Coded all day alone today because my coding partner's charger died. Solved: @ #Hackerrank:"Happy Ladybugs" @ #Codewars:"What time is it?" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 616 @ Codewars, 43772 @ Hackerrank 62209 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 78: June 18, 2019
 
-**Today's Progress**: #R5D78 Back to microverse curiculum. This project is killing me. Problems solved: @ #Hackerrank:"Manasa and Stones" @ #Codewars:"First non-repeating character" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D78 Back to microverse curiculum. The 3rd project is a little tougher. Problems solved: @ #Hackerrank:"Manasa and Stones" @ #Codewars:"First non-repeating character" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 624 @ Codewars, 48414 @ Hackerrank 62209 @ Leetcode - 6 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
