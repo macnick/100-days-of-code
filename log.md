@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 80: June 20, 2019
+
+**Today's Progress**: #R5D80 Making a clone of NYT article page. The page has 9 ads which are annoying when you try to clone the page. I created a small IIFE to remove them all. 16 of my fellow students we happier yesterday. Kata solved: @ #Hackerrank:"Halloween Sale" @ #Codewars:"Next smaller number with the same digits?" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 610 @ Codewars, 42259 @ Hackerrank 62209 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 79: June 19, 2019
 
 **Today's Progress**: #R5D79 Coded all day alone today because my coding partner's charger died. Solved: @ #Hackerrank:"Happy Ladybugs" @ #Codewars:"What time is it?" #100DaysOfCode #javascript #React #freeCodeCamp
