@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 82: June 22, 2019
+
+**Today's Progress**: #R5D82 Got an idea and designed a little side-project. Today's practice: @ #Hackerrank:"3D Surface Area" @ #Codewars:"Next smaller number with the same digits?" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 608 @ Codewars, 42365 @ Hackerrank 62209 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 81: June 21, 2019
 
 **Today's Progress**: #R5D81 NYT clone page is at 50% ready.Today's problems: @ #Hackerrank:"Halloween Sale" @ #Codewars:"Next smaller number with the same digits?" #100DaysOfCode #javascript #React #freeCodeCamp
