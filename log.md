@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+
+## Day 84: June 24, 2019
+
+**Today's Progress**: #R5D84 Back to NYT clone. Did some detail work although I believe nobody will notice it. We have still many things to fix.  :@ #Codewars:"" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 609 @ Codewars, 42399 @ Hackerrank 62209 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
+## Day 83: June 23, 2019
+
+**Today's Progress**: #R5D83 Finished layout and styling of my little side-project. Now it's time to add some JS to make it clever. Solved:@ #Codewars:"Wrapped Function" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 609 @ Codewars, 42399 @ Hackerrank 62209 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 82: June 22, 2019
 
 **Today's Progress**: #R5D82 Got an idea and designed a little side-project. Today's practice: @ #Hackerrank:"3D Surface Area" @ #Codewars:"Next smaller number with the same digits?" #100DaysOfCode #javascript #React #freeCodeCamp
