@@ -3,7 +3,7 @@
 
 ## Day 84: June 24, 2019
 
-**Today's Progress**: #R5D84 Back to NYT clone. Did some detail work although I believe nobody will notice it. We have still many things to fix.  :@ #Codewars:"" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D84 Back to NYT clone. Did some detail work although I believe nobody will notice it. We have still many things to fix.  :@ #Codewars:"Sum Strings as Numbers" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 609 @ Codewars, 42399 @ Hackerrank 62209 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
