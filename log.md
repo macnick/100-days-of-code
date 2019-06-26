@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+## Day 85: June 25, 2019
+
+**Today's Progress**: #R5D85 NYT article clone almost ready. Less than an hour of work remains. Ruby training today:@ #Codewars:"How do I compare numbers?" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 609 @ Codewars, 42399 @ Hackerrank 62209 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
 ## Day 84: June 24, 2019
 
