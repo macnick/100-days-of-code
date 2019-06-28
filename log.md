@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 87: June 27, 2019
+
+**Today's Progress**: #R5D87 Got the code review today. Only a couple of things needed fixing. Submitted the corrected code for review. More Ruby today:@ #Codewars:"Enum Magic #6 - Count Items", "Enum Magic #9 - Reduce that List!" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 597 @ Codewars, 42399 @ Hackerrank 62209 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 86: June 26, 2019
 
 **Today's Progress**: #R5D86 Finished with NYT article clone and asked for a code review. More Ruby training with:@ #Codewars:"5 without numbers !", "Help the Elite Squad of Brazilian forces BOPE" #100DaysOfCode #javascript #React #freeCodeCamp
