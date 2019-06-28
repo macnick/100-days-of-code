@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 88: June 28, 2019
+
+**Today's Progress**: #R5D88 Started my first solo project @microverse. Solved Ruby katas:@ #Codewars:"Incorrect division method", "Enum Magic #8 - Find the Index of the Matching Item" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 597 @ Codewars, 41474 @ Hackerrank 62209 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 87: June 27, 2019
 
 **Today's Progress**: #R5D87 Got the code review today. Only a couple of things needed fixing. Submitted the corrected code for review. More Ruby today:@ #Codewars:"Enum Magic #6 - Count Items", "Enum Magic #9 - Reduce that List!" #100DaysOfCode #javascript #React #freeCodeCamp
