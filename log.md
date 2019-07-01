@@ -2,7 +2,7 @@
 
 ## Day 90: June 30, 2019
 
-**Today's Progress**: #R5D90 Working on my Apple page clone project. Ruby practice :@ #Codewars:"Ensure question", "Find Minimum Value by Comparison" #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D90 Working on my Apple page clone project. Ruby practice :@ #Codewars:"Ensure question", "Find Minimum Value by Comparison" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 599 @ Codewars, 41573 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
