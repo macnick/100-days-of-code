@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 90: June 30, 2019
+
+**Today's Progress**: #R5D90 Working on my Apple page clone project. Ruby practice :@ #Codewars:"Ensure question", "Find Minimum Value by Comparison" #100DaysOfCode #javascript #React #freeCodeCamp
+
+**Thoughts:** Rank 599 @ Codewars, 41573 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 89: June 29, 2019
 
-**Today's Progress**: #R5D89 Day at the beach with family. Solved Ruby katas:@ #Codewars:" ", " " #100DaysOfCode #javascript #React #freeCodeCamp
+**Today's Progress**: #R5D89 Day at the beach with family. Ruby katas today:@ #Codewars:" Find the Maximum Value", " Find the Maximum by Value!" #100DaysOfCode #javascript #React #freeCodeCamp
 
 **Thoughts:** Rank 597 @ Codewars, 41474 @ Hackerrank 62209 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
