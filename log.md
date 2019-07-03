@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 92: July 2, 2019
+
+**Today's Progress**: #R5D92 Doing the #Ruby course at Codecademy. Today's Ruby kata :@ #Codewars:" Map that Array!", "Flat-Map that Array!" #100DaysOfCode #javascript #React #freeCodeCamp #microverse 
+
+**Thoughts:** Rank 597 @ Codewars, 41644 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
+## Day 91: July 1, 2019
+
+**Today's Progress**: #R5D91 Apple clone page almost ready. I have to learn #Ruby to be able to complete the coding challenges at Repl.it. Practice with :@ #Codewars:"Incorrect array_remove method", "Find the Minimum Item by Value!" #100DaysOfCode #javascript #React #freeCodeCamp #microverse 
+
+**Thoughts:** Rank 597 @ Codewars, 41644 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 90: June 30, 2019
 
 **Today's Progress**: #R5D90 Working on my Apple page clone project. Ruby practice :@ #Codewars:"Ensure question", "Find Minimum Value by Comparison" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
