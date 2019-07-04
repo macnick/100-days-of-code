@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 93: July 3, 2019
+
+**Today's Progress**: #R5D93 Almost finished the #Ruby course at Codecademy. Ruby katas :@ #Codewars:"Sort that List!", "Sort that List by Value!" #100DaysOfCode #javascript #React #freeCodeCamp #microverse 
+
+**Thoughts:** Rank 592 @ Codewars, 41644 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 92: July 2, 2019
 
 **Today's Progress**: #R5D92 Doing the #Ruby course at Codecademy. Today's Ruby kata :@ #Codewars:" Map that Array!", "Flat-Map that Array!" #100DaysOfCode #javascript #React #freeCodeCamp #microverse 
