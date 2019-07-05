@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 95: July 5, 2019
+
+**Today's Progress**: #R5D95 Finished the 2nd Ruby challenge of the microverse curiculum. Katas today:@ #Codewars:"Filter that Array!", "First Elements of an Array" #100DaysOfCode #javascript #React #freeCodeCamp #microverse 
+
+**Thoughts:** Rank 587 @ Codewars, 41728 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 94: July 4, 2019
 
 **Today's Progress**: #R5D94 Finished my 1st Ruby challenge of the microverse curiculum. Realy happy. Katas today:@ #Codewars:"All Items Except the First...", "Skip Array Elements While..." #100DaysOfCode #javascript #React #freeCodeCamp #microverse 
