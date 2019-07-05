@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R5D94 Finished my 1st Ruby challenge of the microverse curiculum. Realy happy. Katas today:@ #Codewars:"All Items Except the First...", "Skip Array Elements While..." #100DaysOfCode #javascript #React #freeCodeCamp #microverse 
 
-**Thoughts:** Rank 587 @ Codewars, 41644 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+**Thoughts:** Rank 587 @ Codewars, 41728 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
 ## Day 93: July 3, 2019
 
