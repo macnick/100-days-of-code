@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 96: July 6, 2019
+
+**Today's Progress**: #R5D96 Relax at the beach day. Evening practice with:@ #Codewars:"Filter Array by Regex", " Array Rejection!" #100DaysOfCode #javascript #React #freeCodeCamp #microverse 
+
+**Thoughts:** Rank 587 @ Codewars, 41728 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 95: July 5, 2019
 
 **Today's Progress**: #R5D95 Finished the 2nd Ruby challenge of the microverse curiculum. Katas today:@ #Codewars:"Filter that Array!", "First Elements of an Array" #100DaysOfCode #javascript #React #freeCodeCamp #microverse 
