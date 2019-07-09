@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 98: July 8, 2019
+
+**Today's Progress**: #R5D98 Very productive day: finished 2 coding challenges for microverse and completed another project. #Ruby practice: @ #Codewars:"Grab Elements While...", "Cascading Subsets" #100DaysOfCode #javascript #React #freeCodeCamp #microverse 
+
+**Thoughts:** Rank 584 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 97: July 7, 2019
 
 **Today's Progress**: #R5D97 Day started with #Ruby coding practice: @ #Codewars:"Playing with cubes I", "The Least and the Greatest, part 2". Day trip with the family to a beautiful mountain camp. #100DaysOfCode #javascript #React #freeCodeCamp #microverse 
