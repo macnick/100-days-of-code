@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 100: July 10, 2019
+
+**Today's Progress**: #R5D100 The only way to become profficient in a language is to use it daily. 5th round finished! That is 500 days of coding. Let's go for another one!. Today's practice: @ #Codewars:"sum_eq_n?", "Approximate e" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby 
+
+**Thoughts:** Rank 582 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
+## Day 99: July 9, 2019
+
+**Today's Progress**: #R5D99 The streak continues. Finished 2 more coding challenges for microverse and started another project. #Ruby practice: @ #Codewars:"Return Two Highest Values in List", "Are the twins even?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse 
+
+**Thoughts:** Rank 582 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 98: July 8, 2019
 
 **Today's Progress**: #R5D98 Very productive day: finished 2 coding challenges for microverse and completed another project. #Ruby practice: @ #Codewars:"Grab Elements While...", "Cascading Subsets" #100DaysOfCode #javascript #React #freeCodeCamp #microverse 
