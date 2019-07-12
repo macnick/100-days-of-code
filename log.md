@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 001: July 11, 2019
+
+**Today's Progress**: #R6D1 Recap on web typography and CSS grid for my next project. JS & Ruby ractice: @ #Codewars:"Touchdown?", "Array#second", "Yield to the Block" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby 
+
+**Thoughts:** Rank 582 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 100: July 10, 2019
 
 **Today's Progress**: #R5D100 The only way to become profficient in a language is to use it daily. 5th round finished! That is 500 days of coding. Let's go for another one!. Today's practice: @ #Codewars:"sum_eq_n?", "Approximate e" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby 
