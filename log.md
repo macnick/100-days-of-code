@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 02: July 12, 2019
+
+**Today's Progress**: #R6D2 A little JS & Ruby practice today and off to the beach! @ #Codewars:"Find the 2nd largest integer in array", "Bob's Treasure Map" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby 
+
+**Thoughts:** Rank 582 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 001: July 11, 2019
 
-**Today's Progress**: #R6D1 Recap on web typography and CSS grid for my next project. JS & Ruby ractice: @ #Codewars:"Touchdown?", "Array#second", "Yield to the Block" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby 
+**Today's Progress**: #R6D1 New round starts today. Recap on web typography and CSS grid for my next project. JS & Ruby practice: @ #Codewars:"Touchdown?", "Array#second", "Yield to the Block" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby 
 
 **Thoughts:** Rank 582 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
