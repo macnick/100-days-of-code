@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 03: July 13, 2019
+
+**Today's Progress**: #R6D3 Beach day again! Evening practice JS & #Ruby @ #Codewars:"Traffic Count During Peak Hours", "Sum Factorial" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 584 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 02: July 12, 2019
 
 **Today's Progress**: #R6D2 A little JS & Ruby practice today and off to the beach! @ #Codewars:"Find the 2nd largest integer in array", "Bob's Treasure Map" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby 
