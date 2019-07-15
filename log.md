@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 04: July 14, 2019
+
+**Today's Progress**: #R6D4 Started the day with coding challenges in Ruby. Also worked on Smashing mag project. Practice JS & #Ruby @ #Codewars:"Changing letters", "Loose Change!" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 584 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 03: July 13, 2019
 
 **Today's Progress**: #R6D3 Beach day again! Evening practice JS & #Ruby @ #Codewars:"Traffic Count During Peak Hours", "Sum Factorial" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
