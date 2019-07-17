@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 06: July 16, 2019
+
+**Today's Progress**: #R6D6 Today it didn't go as planned. Consolidated my understanding of binary tree traversals. Completed coding challenge and did some work on Smashing mag project. Problems solved #Ruby @ #Codewars:"Gigasecond", "Ruby Functions #1: Define the "Each" Function" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 583 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 05: July 15, 2019
 
 **Today's Progress**: #R6D5 Day went as planned. Completed 2 coding challenges and almost finished the Smashing mag project. Practiced #Ruby @ #Codewars:"Hex Word Sum", "Pluralization" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
