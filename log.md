@@ -1,14 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 08: July 18, 2019
+
+**Today's Progress**: #R6D8 My Smashing magazine project was code reviewd and accepted. Started the next one. JS Kata solved: @ #Codewars: "Fun with trees: array to tree" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby
+
+**Thoughts:** Rank 583 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 07: July 17, 2019
 
-**Today's Progress**: #R6D7 In CS trees grow down :-) Learning how to create a BST from a unsorted array. Today's challenges #Ruby @ #Codewars:"Unique(ish)" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R6D7 In CS trees grow down :-) Learning how to create a BST from a unsorted array. Today's challenges #Ruby @ #Codewars:"Unique(ish)", "Ruby Functions #1: Define the "Each" Function" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 583 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
 ## Day 06: July 16, 2019
 
-**Today's Progress**: #R6D6 Today it didn't go as planned. Consolidated my understanding of binary tree traversals. Completed one coding challenge and did some work on Smashing mag project. Problems solved #Ruby @ #Codewars:"Gigasecond", "Ruby Functions #1: Define the "Each" Function" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R6D6 Today it didn't go as planned. Consolidated my understanding of binary tree traversals. Completed one coding challenge and did some work on Smashing mag project. Problems solved #Ruby @ #Codewars:"Gigasecond" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 583 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
