@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 11: July 21, 2019
+
+**Today's Progress**: #R6D10 Continue with my Responsive Design project. Solved a graph problem in Ruby at repl.it #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby
+
+**Thoughts:** Rank 583 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 10: July 20, 2019
 
-**Today's Progress**: #R6D9 Finished the basic layout of the page and made it respond to 3 different screen sizes. ??? the "Binary Search tree" on Repl.it #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby
+**Today's Progress**: #R6D10 Finished the basic layout of the page and made it respond to 3 different screen sizes. Now I have to fill it with content. #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby
 
 **Thoughts:** Rank 583 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
