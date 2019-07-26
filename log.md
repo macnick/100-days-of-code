@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 15: July 25, 2019
+
+**Today's Progress**: #R6D15 Solved some positioning problems in Responsive Design project but now we have new ones. Coding challenge today: "Is it a binary Search Tree?"  @ repl.it #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby
+
+**Thoughts:** Rank 581 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 14: July 24, 2019
 
-**Today's Progress**: #R6D14 Little progress with Responsive Design project but still it is progress. Coding challenge today: "How Tall Is The Tree?"  @ repl.it #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby
+**Today's Progress**: #R6D14 Little progress with Responsive Design project but still it is progress. Coding challenge today: "How Tall Is The Tree?" @ repl.it, #Codewars: "Largest pair sum in array" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby
 
 **Thoughts:** Rank 582 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
 
