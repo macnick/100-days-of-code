@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 18: July 28, 2019
+
+**Today's Progress**: #R6D18 I am on vacation so only an hour of coding after breakfast before we hit the beach! JS kata solved: #Codewars "Fix my method", "Descriptive selections of data" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby
+
+**Thoughts:** Rank 582 @ Codewars, 41838 @ Hackerrank 63415 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 17: July 27, 2019
 
 **Today's Progress**: #R6D17 Went on a 2-day vacation with family. Packed my MacBook so I can code a little. JS kata solved: #Codewars "JS Prototypes Module #1 - Object Prototypes" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby
