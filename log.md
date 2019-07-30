@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 19: July 29, 2019
+
+**Today's Progress**: #R6D19 Back to Responsive Design Project. Discovered a few bugs and trying to squash them! Ruby kata solved: #Codewars "Last Digit to Appear in Sequence of Powers" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby
+
+**Thoughts:** Rank 583 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 18: July 28, 2019
 
 **Today's Progress**: #R6D18 I am on vacation so only an hour of coding after breakfast before we hit the beach! JS kata solved: #Codewars "Fix my method", "Descriptive selections of data" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby
