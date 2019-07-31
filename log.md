@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 20: July 30, 2019
+
+**Today's Progress**: #R6D20 Still at the Responsive Design Project. Some of the bugs are due to my bad design. #Ruby kata solved: #Codewars "Statistics Algorithm - Calculate Sample Space", "Sorted hashes" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 580 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 19: July 29, 2019
 
 **Today's Progress**: #R6D19 Back to Responsive Design Project. Discovered a few bugs and trying to squash them! Ruby kata solved: #Codewars "Last Digit to Appear in Sequence of Powers" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #Ruby
