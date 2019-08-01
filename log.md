@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 21: July 31, 2019
+
+**Today's Progress**: #R6D21 Sumbitted a code review request for the Responsive Design Project. Start preparation for the next one. JS kata solved: #Codewars "The range() function" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 579 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 20: July 30, 2019
 
 **Today's Progress**: #R6D20 Still at the Responsive Design Project. Some of the bugs are due to my bad design. #Ruby kata solved: #Codewars "Statistics Algorithm - Calculate Sample Space", "Sorted hashes" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
