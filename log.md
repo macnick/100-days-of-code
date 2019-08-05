@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 24: August 3, 2019
+
+**Today's Progress**: #R6D24 Still having problems with a particular coding challenge.  #Ruby kata solved: #Codewars "Line Type Parser", "Given an array of numbers, which are perfect squares?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 580 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
+## Day 23: August 2, 2019
+
+**Today's Progress**: #R6D23 Stuck in a coding challenge. Did some reading for my next project.  #Ruby kata solved: #Codewars "Remove Odd Hashes", "No Modulo" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 580 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
+## Day 22: August 1, 2019
+
+**Today's Progress**: #R6D22 I got the code review. Only 3 changes needed. Corrected, resubmitted and got the OK!. JS problem solved: #Codewars "Ziiiiip!" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 580 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 21: July 31, 2019
 
 **Today's Progress**: #R6D21 Sumbitted a code review request for the Responsive Design Project. Start preparation for the next one. JS kata solved: #Codewars "The range() function" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
