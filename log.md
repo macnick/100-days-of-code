@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 26: August 5, 2019
+
+**Today's Progress**: #R6D26 Started work on the Newsweek site solo project.  #Ruby kata solved: #Repl.it "Trees and Graphs: Is it balanced?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 580 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
+## Day 25: August 4, 2019
+
+**Today's Progress**: #R6D25 Managed to solve the coding challenge with a little help. I was so close to the correct answer but I could not see it.  #Ruby kata solved: #Codewars "Bingo ( Or Not )" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 580 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: Be the best a Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+
 ## Day 24: August 3, 2019
 
 **Today's Progress**: #R6D24 Still having problems with a particular coding challenge.  #Ruby kata solved: #Codewars "Line Type Parser", "Given an array of numbers, which are perfect squares?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
