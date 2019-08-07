@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R6D27 Newsweek site solo project is huge I am not sure if I can finish it in 3 weeks!.  #Ruby kata solved: #Repl.it "Trees and Graphs: Connected Components" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 580 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: Be the best at Microverse 2. finish React book, 3. Do the FCC projects, ongoing: update my CV.
+**Thoughts:** Rank 580 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: Be the best at Microverse 2. finish React book, 3. update my CV, 4. Do the FCC projects
 
 ## Day 26: August 5, 2019
 
