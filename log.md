@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 28: August 8, 2019
+
+**Today's Progress**: #R6D28 Did little progress on the Newsweek site project! #Ruby kata solved: #Repl.it "Trees and Graphs: Find the Cycles" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 576 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: Be the best at Microverse 2. finish React book, 3. update my CV, 4. Do the FCC projects
+
 ## Day 27: August 6, 2019
 
 **Today's Progress**: #R6D27 Newsweek site solo project is huge I am not sure if I can finish it in 3 weeks!.  #Ruby kata solved: #Repl.it "Trees and Graphs: Connected Components" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
