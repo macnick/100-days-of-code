@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-## Day 28: August 8, 2019
+## Day 29: August 8, 2019
+
+**Today's Progress**: #R6D29 Learning about Graph Search techniques and algorithms. Js kata solved: #Codewars "Square into Squares. Protect trees!", "Palindromic Numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 576 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: 1. Finish the Microverse curicullum 
+
+## Day 28: August 7, 2019
 
 **Today's Progress**: #R6D28 Did little progress on the Newsweek site project! #Ruby kata solved: #Repl.it "Trees and Graphs: Find the Cycles" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
