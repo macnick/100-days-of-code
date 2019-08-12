@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 32: August 11, 2019
+
+**Today's Progress**: #R6D32 Learning Hash methods in Ruby. Ruby kata solved: #Codewars "Hashtaggery", "Remove duplicate marks entries" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 575 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: 1. Finish the Microverse curicullum 
+
+## Day 31: August 10, 2019
+
+**Today's Progress**: #R6D31 Learning Set methods in Ruby. Ruby kata solved: #Codewars "Person Class Bug", "Populate hash with array keys and default value" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 575 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: 1. Finish the Microverse curicullum 
+
 ## Day 30: August 9, 2019
 
 **Today's Progress**: #R6D30 Learning about Disjointed sets. Js kata solved: #Codewars "Square into Squares. Protect trees!", "Palindromic Numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
