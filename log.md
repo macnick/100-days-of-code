@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 33: August 12, 2019
+
+**Today's Progress**: #R6D33 Asked my first question in #Stackoverflow.  Ruby kata solved: #Codewars "", "" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 575 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: 1. Finish the Microverse curicullum 
+
 ## Day 32: August 11, 2019
 
 **Today's Progress**: #R6D32 Learning Hash methods in Ruby. Ruby kata solved: #Codewars "Hashtaggery", "Remove duplicate marks entries" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
