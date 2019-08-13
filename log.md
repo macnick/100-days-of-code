@@ -2,7 +2,7 @@
 
 ## Day 34: August 13, 2019
 
-**Today's Progress**: #R6D34 . #Ruby kata solved: #Replit "Greatest Peaks", "Explorer Maze Escape" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R6D34 Did some good progress on my Newsweek clone project. My first 2kyu kata solved in #Codewars: "Multi Line Task++: Hello World" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 557 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: 1. Finish the Microverse curicullum 
 
