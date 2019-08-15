@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 35: August 14, 2019
+
+**Today's Progress**: #R6D35 Gone for a few days vacation. My little macbook is with me. #Ruby kata solved in #Codewars: "Find the max depth in an array", "Divided We Stand" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 558 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: 1. Finish the Microverse curicullum 
+
 ## Day 34: August 13, 2019
 
 **Today's Progress**: #R6D34 Did some good progress on my Newsweek clone project. My first 2kyu kata solved in #Codewars: "Multi Line Task++: Hello World" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
