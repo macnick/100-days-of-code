@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 36: August 15, 2019
+
+**Today's Progress**: #R6D36 Only one kata today and then off to the beach! #Ruby kata solved in #Codewars: "greetings with First Name AND Last Name" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 557 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: 1. Finish the Microverse curicullum 
+
 ## Day 35: August 14, 2019
 
 **Today's Progress**: #R6D35 Gone for a few days vacation. My little macbook is with me. #Ruby kata solved in #Codewars: "Find the max depth in an array", "Divided We Stand" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
