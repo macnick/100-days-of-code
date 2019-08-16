@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 37: August 16, 2019
+
+**Today's Progress**: #R6D37 Went to a nearby waterland today. Lots of fun and play with my kids. #Ruby kata solved after breakfast #Codewars: "Center of the Matrix" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 555 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 36: August 15, 2019
 
 **Today's Progress**: #R6D36 Only one kata today and then off to the beach! #Ruby kata solved in #Codewars: "greetings with First Name AND Last Name" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 557 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: 1. Finish the Microverse curicullum 
+**Thoughts:** Rank 557 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 35: August 14, 2019
 
