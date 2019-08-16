@@ -4,19 +4,19 @@
 
 **Today's Progress**: #R6D37 Went to a nearby waterland today. Lots of fun and play with my kids. #Ruby kata solved after breakfast #Codewars: "Center of the Matrix" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 555 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 555 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 1 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 36: August 15, 2019
 
 **Today's Progress**: #R6D36 Only one kata today and then off to the beach! #Ruby kata solved in #Codewars: "greetings with First Name AND Last Name" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 557 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 557 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 1 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 35: August 14, 2019
 
 **Today's Progress**: #R6D35 Gone for a few days vacation. My little macbook is with me. #Ruby kata solved in #Codewars: "Find the max depth in an array", "Divided We Stand" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 558 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hours of study. Goals: 1. Finish the Microverse curicullum 
+**Thoughts:** Rank 558 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 1 hour of study. Goals: 1. Finish the Microverse curicullum 
 
 ## Day 34: August 13, 2019
 
