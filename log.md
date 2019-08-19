@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 38: August 18, 2019
+
+**Today's Progress**: #R6D39 Back home. Time to work on my challenges. #Ruby kata solved #Codewars: "Find Duplicates with String.match" #replit "Sets" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 555 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 1 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 38: August 17, 2019
+
+**Today's Progress**: #R6D38 Last day of vacation today. I am on vacation so only one #Ruby kata solved #Codewars: "Enumerable Magic #7 - Find a Matching Item" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 555 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 1 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 37: August 16, 2019
 
 **Today's Progress**: #R6D37 Went to a nearby waterland today. Lots of fun and play with my kids. #Ruby kata solved after breakfast #Codewars: "Center of the Matrix" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
