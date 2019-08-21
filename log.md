@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 41: August 20, 2019
+
+**Today's Progress**: #R6D41 Learned how to find the shortest path to the exit in a maze using Breadth First Search. #Ruby problems solved #replit "Prime Numbers", "Prime prime" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 556 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 1 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 40: August 19, 2019
 
 **Today's Progress**: #R6D40 Working on some interesting coding challenges. #Ruby challenge solved #replit "Maps", "Hash Tables" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
