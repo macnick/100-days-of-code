@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 43: August 22, 2019
+
+**Today's Progress**: #R6D43 Did some good progress in my solo project for #microverse. Photo. Today's challenges #Hackerrank "Palindrome Index", "Game of Thrones I", "Birthday Cake Candles" #100DaysOfCode #javascript #React #freeCodeCamp 
+
+**Thoughts:** Rank 553 @ Codewars, 43407 @ Hackerrank 66494 @ Leetcode - 1 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 42: August 21, 2019
 
 **Today's Progress**: #R6D42 Learning sorting algorithms. JS challenge #Hackerrank "Anagram", #Ruby #replit "More practice", "Insertion Sort 1" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
