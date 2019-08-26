@@ -1,28 +1,46 @@
 # 100 Days Of Code - Log
 
+## Day 46: August 25, 2019
+
+**Today's Progress**: #R6D46 Glorious day at the beach with family and friends. I love swimming and the feeling of swimming along with my kids is priceless. Evening practice #Codewars "Deep comparison of objects" #100DaysOfCode #javascript #React #freeCodeCamp 
+
+**Thoughts:** Rank 550 @ Codewars, 43407 @ Hackerrank 68468 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 45: August 24, 2019
+
+**Today's Progress**: #R6D45 Reading about sorting algorithms. #microverse. Problems solved #Codewars "Comma, comma and and", "Regex Match Generator: Alternation", "Simple Fun #32: Create Anagram" #100DaysOfCode #javascript #React #freeCodeCamp 
+
+**Thoughts:** Rank 550 @ Codewars, 43407 @ Hackerrank 68468 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 44: August 23, 2019
+
+**Today's Progress**: #R6D44 Learning sorting algorithms. #microverse. Solved challenges #Hackerrank "Divisible Sum Pairs" #Replit "Insertion Sort Itself", "Running Time" #100DaysOfCode #javascript #React #freeCodeCamp 
+
+**Thoughts:** Rank 550 @ Codewars, 43407 @ Hackerrank 68468 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 43: August 22, 2019
 
 **Today's Progress**: #R6D43 Did some good progress in my solo project for #microverse. Photo. Today's challenges #Hackerrank "Palindrome Index", "Game of Thrones I", "Birthday Cake Candles" #100DaysOfCode #javascript #React #freeCodeCamp 
 
-**Thoughts:** Rank 553 @ Codewars, 43407 @ Hackerrank 66494 @ Leetcode - 1 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 553 @ Codewars, 43407 @ Hackerrank 66494 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 42: August 21, 2019
 
 **Today's Progress**: #R6D42 Learning sorting algorithms. JS challenge #Hackerrank "Anagram", #Ruby #replit "More practice", "Insertion Sort 1" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 556 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 1 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 556 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 41: August 20, 2019
 
 **Today's Progress**: #R6D41 Learned how to find the shortest path to the exit in a maze using Breadth First Search. #Ruby problems solved #replit "Prime Numbers", "Prime prime" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 556 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 1 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 556 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 40: August 19, 2019
 
 **Today's Progress**: #R6D40 Working on some interesting coding challenges. #Ruby challenge solved #replit "Maps", "Hash Tables" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 557 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 1 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 557 @ Codewars, 42543 @ Hackerrank 66494 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 39: August 18, 2019
 
