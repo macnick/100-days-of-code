@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R6D46 Glorious day at the beach with family and friends. I love swimming and the feeling of swimming along with my kids is priceless. Evening practice #Codewars "Deep comparison of objects" #100DaysOfCode #javascript #React #freeCodeCamp 
 
-**Thoughts:** Rank 550 @ Codewars, 43407 @ Hackerrank 68468 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 550 @ Codewars, 41920 @ Hackerrank 68468 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 45: August 24, 2019
 
