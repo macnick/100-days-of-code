@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 48: August 27, 2019
+
+**Today's Progress**: #R6D48 Reading and practicing Functional Programming. Today's challenges #Hackerrank "Insertion Sort - P1", "Insertion Sort - P2", "Find the Median" #100DaysOfCode #javascript #React #freeCodeCamp 
+
+**Thoughts:** Rank 549 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 47: August 26, 2019
 
 **Today's Progress**: #R6D47 Newsweek project almost ready. Probably I will make a pull request tomorrow. Practiced with #Codewars "Simple Fun #347: Bulb Maze I", "Center of the Matrix" #100DaysOfCode #javascript #React #freeCodeCamp 
