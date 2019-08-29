@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 49: August 28, 2019
+
+**Today's Progress**: #R6D49 Created a pull request and wait for a code review of my Bootstrap project. Coding practice with  #Codewars "Array#second", "Sort and Transform", "Where is Vasya?" #100DaysOfCode #javascript #React #freeCodeCamp 
+
+**Thoughts:** Rank 551 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 48: August 27, 2019
 
 **Today's Progress**: #R6D48 Reading and practicing Functional Programming. Today's challenges #Hackerrank "Insertion Sort - P1", "Insertion Sort - P2", "Find the Median" #100DaysOfCode #javascript #React #freeCodeCamp 
