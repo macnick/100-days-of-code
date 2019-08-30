@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 50: August 29, 2019
+
+**Today's Progress**: #R6D50 My pull request was accepted! So happy. Started the next one already. Today's challenges #Hackerrank "Bon Appettit", "Staircase" #100DaysOfCode #javascript #React #freeCodeCamp 
+
+**Thoughts:** Rank 550 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 49: August 28, 2019
 
 **Today's Progress**: #R6D49 Created a pull request and wait for a code review of my Bootstrap project. Coding practice with  #Codewars "Array#second", "Sort and Transform", "Where is Vasya?" #100DaysOfCode #javascript #React #freeCodeCamp 
