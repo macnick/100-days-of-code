@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+
+## Day 53: September 1, 2019
+
+**Today's Progress**: #R6D53 Simple CSS framework almost ready. Now I have to build a page using it. Today's Challenges #Codewars "Sort Out The Men From Boys", "Simple parenthesis removal" #100DaysOfCode #javascript #React #freeCodeCamp 
+
+**Thoughts:** Rank 548 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 52: August 31, 2019
+
+**Today's Progress**: #R6D52 Started the next #microverse project: Build a CSS framework. Solved today #Codewars "Find missing numbers", "Easy Line" #100DaysOfCode #javascript #React #freeCodeCamp 
+
+**Thoughts:** Rank 548 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 51: August 30, 2019
+
+**Today's Progress**: #R6D51 More sorting algorithms today. Playing with Quicksort. Coding practice #Codewars "Who's Online?", "Sum of a Beach" #100DaysOfCode #javascript #React #freeCodeCamp 
+
+**Thoughts:** Rank 548 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 50: August 29, 2019
 
 **Today's Progress**: #R6D50 My pull request was accepted! So happy. Started the next one already. Today's challenges #Hackerrank "Bon Appettit", "Staircase" #100DaysOfCode #javascript #React #freeCodeCamp 
