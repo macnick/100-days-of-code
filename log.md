@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 55: September 3, 2019
+
+**Today's Progress**: #R6D55 Code review arrived. I have to make a couple of changes to my code. Ruby training #Codewars "ATM money counter", "Interactive Dictionary" #100DaysOfCode #javascript #React #freeCodeCamp 
+
+**Thoughts:** Rank 547 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 54: September 2, 2019
+
+**Today's Progress**: #R6D54 I have to build an ask.com clone page using my little CSS framework. Waiting for code review. Practice #Codewars "Maximum Product", "Training JS #25: methods of arrayObject---reverse() and sort()" #100DaysOfCode #javascript #React #freeCodeCamp 
+
+**Thoughts:** Rank 547 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 53: September 1, 2019
 
