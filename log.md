@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 57: September 5, 2019
+
+**Today's Progress**: #R6D57 Lots of advance #Ruby studying preparing for the next project. Practice #Ruby #Codewars "Float Precision", "Retrieve array value by index with default" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 546 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 56: September 4, 2019
 
 **Today's Progress**: #R6D56 I have got a new coding partner! I look forward to build great things with her. Practice #Ruby #Codewars "Float Precision", "Retrieve array value by index with default" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
@@ -8,9 +14,9 @@
 
 ## Day 55: September 3, 2019
 
-**Today's Progress**: #R6D55 Code review arrived. I have to make a couple of changes to my code. Ruby training #Codewars "ATM money counter", "Interactive Dictionary" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R6D55 Code review arrived. I have to make a couple of changes to my code. Solved today #Codewars "Float Precision", "Retrieve array value by index with default" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 547 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 545 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 54: September 2, 2019
 
