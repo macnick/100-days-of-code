@@ -20,7 +20,7 @@
 
 ## Day 54: September 2, 2019
 
-**Today's Progress**: #R6D54 I have to build an ask.com clone page using my little CSS framework. Waiting for code review. Practice #Codewars "Maximum Product", "Training JS #25: methods of arrayObject---reverse() and sort()" #100DaysOfCode #javascript #React #freeCodeCamp 
+**Today's Progress**: #R6D54 I have built an ask.com clone page using my little CSS framework. Waiting for code review. Practice #Codewars "Maximum Product", "Training JS #25: methods of arrayObject---reverse() and sort()" #100DaysOfCode #javascript #React #freeCodeCamp 
 
 **Thoughts:** Rank 547 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
