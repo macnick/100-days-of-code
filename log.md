@@ -14,7 +14,7 @@
 
 ## Day 58: September 6, 2019
 
-**Today's Progress**: #R6D58 Finished reading advanced #Ruby building blocks. Passed all the quizzes with frade 93,6% or more. Solved today #Codewars "Remove Duplicates", "Re-organize the weapons!" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R6D58 Finished reading advanced #Ruby building blocks. Passed all the quizzes with grade 93,6% or more. Solved today #Codewars "Remove Duplicates", "Re-organize the weapons!" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 545 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
