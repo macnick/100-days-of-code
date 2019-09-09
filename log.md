@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 60: September 8, 2019
+
+**Today's Progress**: #R6D60 Implemented the full Merge sort algorithm in #Ruby. Solved @ #Codewars "Big Factorial" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 545 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 59: September 7, 2019
+
+**Today's Progress**: #R6D59 Morning sorting algorithm training with "Merge Sort 1". Evening practice #Codewars "One Line Task: Two Letters" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 545 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 58: September 6, 2019
+
+**Today's Progress**: #R6D58 Finished reading advanced #Ruby building blocks. Passed all the quizzes with frade 93,6% or more. Solved today #Codewars "Remove Duplicates", "Re-organize the weapons!" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 545 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 57: September 5, 2019
 
 **Today's Progress**: #R6D57 Lots of advance #Ruby studying preparing for the next project. Practice #Ruby #Codewars "Float Precision", "Retrieve array value by index with default" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
