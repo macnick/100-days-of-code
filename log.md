@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 62: September 10, 2019
+
+**Today's Progress**: #R6D62 Working on a solo project. I have to recreate some basic enumerable #Ruby methods. Practiced @ #Codewars with kata "Pole Vault Starting Marks", "Coding 3min: Father and Son" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 542 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 61: September 9, 2019
 
 **Today's Progress**: #R6D61 Finished a simple Ruby project with my coding partner in no time. #Ruby problems @replit: "Sorting Challenges: Index Match" @ #Codewars "Capitals first!" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
@@ -8,7 +14,7 @@
 
 ## Day 60: September 8, 2019
 
-**Today's Progress**: #R6D60 Implemented the full Merge sort algorithm in #Ruby. Solved @ #Codewars "Big Factorial" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R6D60 Implemented the full Merge sort algorithm in #Ruby.  I like it because its worst case is O(n log n), can be used for external sorting and produces stable sorts. Solved @ #Codewars "Big Factorial" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 545 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
