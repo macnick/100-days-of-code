@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 63: September 11, 2019
+
+**Today's Progress**: #R6D63 Almost finished a project about creating my own versions of some enumerable #Ruby methods. JS coding practice @ #Codewars with "RegExp for validation string" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 542 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 62: September 10, 2019
 
 **Today's Progress**: #R6D62 Working on a solo project. I have to recreate some basic enumerable #Ruby methods. Practiced @ #Codewars with kata "Pole Vault Starting Marks", "Coding 3min: Father and Son" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
