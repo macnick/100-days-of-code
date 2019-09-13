@@ -1,14 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 64: September 12, 2019
+
+**Today's Progress**: #R6D64 Last method of the project the #inject clone. This one is special, it can accept a block, a proc or a symbol #Ruby methods. Challenge solved @ #Replit "Maximum Time Range" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 544 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 63: September 11, 2019
 
-**Today's Progress**: #R6D63 Almost finished a project about creating my own versions of some enumerable #Ruby methods. JS coding practice @ #Codewars with "RegExp for validation string" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R6D63 Made my own versions of #select, #all? #any? #none? #count #map #Ruby methods. All accept a block or nothing. Problem solved @ #Replit "Time scheduler" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 542 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 62: September 10, 2019
 
-**Today's Progress**: #R6D62 Working on a solo project. I have to recreate some basic enumerable #Ruby methods. Practiced @ #Codewars with kata "Pole Vault Starting Marks", "Coding 3min: Father and Son" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R6D62 Having fun with a solo project. I have to recreate some basic enumerable #Ruby methods. Recreated my_each, my_each_with_index. Practiced @ #Codewars with "Pole Vault Starting Marks", "Coding 3min: Father and Son" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 542 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
