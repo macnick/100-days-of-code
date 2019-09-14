@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 65: September 13, 2019
+
+**Today's Progress**: #R6D65 Recap on OOP for #Ruby. Classes, methods, modules, how inheritance works. Challenge solved @ #Replit "The Median" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 545 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 64: September 12, 2019
 
 **Today's Progress**: #R6D64 Last method of the project the #inject clone. This one is special, it can accept a block, a proc or a symbol #Ruby methods. Challenge solved @ #Replit "Maximum Time Range" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
