@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 67: September 15, 2019
+
+**Today's Progress**: #R6D67 Got the code review for my #Ruby method clones. Only one bug I have to fix. Problem solved @ #Replit "Find the duplicates" #Ruby #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 543 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 66: September 14, 2019
+
+**Today's Progress**: #R6D66 OOP fundamental concepts. DRY. 
+Modularize your code. 
+Have your classes and methods only do one thing. 
+Show as little of your interfaces to the world as you can.
+Don’t make methods or classes heavily dependent on each other. 
+Be lazy.  
+#Ruby #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 544 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 65: September 13, 2019
 
 **Today's Progress**: #R6D65 Recap on OOP for #Ruby. Classes, methods, modules, how inheritance works. Challenge solved @ #Replit "The Median" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
