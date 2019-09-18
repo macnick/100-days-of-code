@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 69: September 17, 2019
+
+**Today's Progress**: #R6D69 Working on milestone 2 of the tic-tac-toe cli game. Solved @ #codewars "Coding 3min : Find the murderer" #Ruby #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 543 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 68: September 16, 2019
+
+**Today's Progress**: #R6D68 Productive day with my coding partner. We created milestone 1 of the tic-tac-toe cli game and got approval to merge the code. Solved @ #codewars "RegExp for validation string" #Ruby #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 543 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 67: September 15, 2019
 
 **Today's Progress**: #R6D67 Got the code review for my #Ruby method clones. Only one bug I have to fix. Problem solved @ #Replit "Find the duplicates" #Ruby #100DaysOfCode #javascript #React #freeCodeCamp #microverse
