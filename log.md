@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 70: September 18, 2019
+
+**Today's Progress**: #R6D70 Did some good progress on the tic-tac-toe cli game. Solved @ #Codewars "Coding Meetup #5 - Higher-Order Functions Series - Prepare the count of languages" #Ruby #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 543 @ Codewars, 38964 @ Hackerrank 71718 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 69: September 17, 2019
 
 **Today's Progress**: #R6D69 Working on milestone 2 of the tic-tac-toe cli game. Solved @ #codewars "Coding 3min : Find the murderer" #Ruby #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 543 @ Codewars, 38964 @ Hackerrank 69234 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 543 @ Codewars, 38964 @ Hackerrank 71718 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 68: September 16, 2019
 
