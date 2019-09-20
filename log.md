@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 72: September 20, 2019
+
+**Today's Progress**: #R6D72 Fixed the reviewer's suggestions on Milestone 3. Also Milestone 4 is almost ready. #Ruby #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 542 @ Codewars, 38235 @ Hackerrank 71718 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 71: September 19, 2019
 
 **Today's Progress**: #R6D71 Milestone 2 got approval to be merged. Also finished Milestone 3 and waiting for code review. Solved @ #Codewars "Ranking position" #Ruby #100DaysOfCode #javascript #React #freeCodeCamp #microverse
