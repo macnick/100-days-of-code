@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 71: September 19, 2019
+
+**Today's Progress**: #R6D71 Milestone 2 got approval to be merged. Also finished Milestone 3 and waiting for code review. Solved @ #Codewars "Ranking position" #Ruby #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 541 @ Codewars, 38235 @ Hackerrank 71718 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 70: September 18, 2019
 
 **Today's Progress**: #R6D70 Did some good progress on the tic-tac-toe cli game. Solved @ #Codewars "Coding Meetup #5 - Higher-Order Functions Series - Prepare the count of languages" #Ruby #100DaysOfCode #javascript #React #freeCodeCamp #microverse
