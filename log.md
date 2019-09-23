@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 74: September 22, 2019
+
+**Today's Progress**: #R6D74 Only #Ruby practice today! Solved problems @codewars "Finding length of the sequence", "Keypad horror", "reverseIt" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 540 @ Codewars, 38326 @ Hackerrank 71718 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 73: September 21, 2019
+
+**Today's Progress**: #R6D73 Practiced coding with #Ruby to learn some more of its built-in methods. This language has a method for almost everything! Challenges solved @codewars "Gradually Adding Parameters", "Decreasing Inputs" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 540 @ Codewars, 38235 @ Hackerrank 71718 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 72: September 20, 2019
 
 **Today's Progress**: #R6D72 Fixed the reviewer's suggestions on Milestone 3. Also Milestone 4 is almost ready. #Ruby #100DaysOfCode #javascript #React #freeCodeCamp #microverse
