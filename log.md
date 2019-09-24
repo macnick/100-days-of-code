@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 75: September 23, 2019
+
+**Today's Progress**: #R6D75 Worked on fixing the last bugs on 2 of my current #Ruby projects. JS training @codewars "Sums of Parts"#100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 541 @ Codewars, 38326 @ Hackerrank 73189 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 74: September 22, 2019
 
 **Today's Progress**: #R6D74 Only #Ruby practice today! Solved problems @codewars "Finding length of the sequence", "Keypad horror", "reverseIt" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
