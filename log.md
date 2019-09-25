@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 76: September 24, 2019
+
+**Today's Progress**: #R6D76 It was great today. I got approval to merge 3 #Ruby projects. The tic-tac-toe is alive. Here is a link to the repo. #Ruby training @codewars "makeAcronym" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 544 @ Codewars, 38326 @ Hackerrank 73189 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 75: September 23, 2019
 
 **Today's Progress**: #R6D75 Worked on fixing the last bugs on 2 of my current #Ruby projects. JS training @codewars "Sums of Parts"#100DaysOfCode #javascript #React #freeCodeCamp #microverse
