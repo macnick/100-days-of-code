@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 77: September 25, 2019
+
+**Today's Progress**: #R6D77 Implemented the #Ruby code which takes an adjacency matrix and to outputs the shortest node-distance from node 0 to all the nodes in a undirected unweighted graph. #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 543 @ Codewars, 38326 @ Hackerrank 73189 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 76: September 24, 2019
 
 **Today's Progress**: #R6D76 It was great today. I got approval to merge 3 #Ruby projects. The tic-tac-toe is alive. Here is a link to the repo. #Ruby training @codewars "makeAcronym" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
