@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 78: September 26, 2019
+
+**Today's Progress**: #R6D78 Installed and started learning #rspec to write tests for my #Ruby code. Practice @ codewars : "Scrabble Score", "Count number of zeros from 1 to N" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 542 @ Codewars, 38326 @ Hackerrank 73189 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 77: September 25, 2019
 
 **Today's Progress**: #R6D77 Implemented the #Ruby code which takes an adjacency matrix and to outputs the shortest node-distance from node 0 to all the nodes in a undirected unweighted graph. #100DaysOfCode #javascript #React #freeCodeCamp #microverse
