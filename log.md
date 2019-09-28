@@ -2,7 +2,7 @@
 
 ## Day 79: September 27, 2019
 
-**Today's Progress**: #R6D77 Implementedin #Ruby, Dijkstra's alogrithm for finding the shortest path in an weighted graph. Training @ codewars : "Convert between radians and degrees" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R6D77 Implemented in #Ruby, Dijkstra's alogrithm for finding the shortest path in an weighted graph. Training @ codewars : "Convert between radians and degrees" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 544 @ Codewars, 38326 @ Hackerrank 73189 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
