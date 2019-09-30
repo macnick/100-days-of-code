@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R6D81 Doing the SQL training at #khanacademy. Solved today @ codewars : "Binary Pyramid 101", "Array2Binary addition", "Ruby Enumerator Methods - Part 1" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 543 @ Codewars, 38326 @ Hackerrank 73189 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 542 @ Codewars, 38326 @ Hackerrank 73189 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 80: September 28, 2019
 
