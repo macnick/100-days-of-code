@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 81: September 29, 2019
+
+**Today's Progress**: #R6D81 Doing the SQL training at #khanacademy. Solved today @ codewars : "Binary Pyramid 101", "Array2Binary addition", "Ruby Enumerator Methods - Part 1" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 543 @ Codewars, 38326 @ Hackerrank 73189 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 80: September 28, 2019
+
+**Today's Progress**: #R6D80 Reading SQL today. Coding practice @ codewars : "count vowels in a string", "The Owls Are Not What They Seem", "Every archer has its arrows" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 543 @ Codewars, 38326 @ Hackerrank 73189 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 79: September 27, 2019
 
-**Today's Progress**: #R6D77 Implemented in #Ruby, Dijkstra's alogrithm for finding the shortest path in an weighted graph. Training @ codewars : "Convert between radians and degrees" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R6D79 Implemented in #Ruby, Dijkstra's alogrithm for finding the shortest path in an weighted graph. Training @ codewars : "Convert between radians and degrees" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 544 @ Codewars, 38326 @ Hackerrank 73189 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
