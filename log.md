@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 82: September 30, 2019
+
+**Today's Progress**: #R6D82 Got approval to merge my code for second to last #Ruby project. One more remaining. Practice with @ codewars : "Statistics Algorithm - Calculate Mean" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 541 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 81: September 29, 2019
 
 **Today's Progress**: #R6D81 Doing the SQL training at #khanacademy. Solved today @ codewars : "Binary Pyramid 101", "Array2Binary addition", "Ruby Enumerator Methods - Part 1" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
