@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 83: October 1, 2019
+
+**Today's Progress**: #R6D83 More SQL training today. Problems solved @ codewars : "Turn String Input into Hash", "Primorial Of a Number", "Average Scores" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 540 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 82: September 30, 2019
 
 **Today's Progress**: #R6D82 Got approval to merge my code for second to last #Ruby project. One more remaining. Practice with @ codewars : "Statistics Algorithm - Calculate Mean" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
