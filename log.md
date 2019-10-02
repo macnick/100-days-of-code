@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 84: October 2, 2019
+
+**Today's Progress**: #R6D84 Implemented in #Ruby Prim's algorithm for Minimum Spanning Tree. It returns the MST and the distances between the vertices. Also solved @ codewars: "" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 539 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 83: October 1, 2019
 
 **Today's Progress**: #R6D83 More SQL training today. Problems solved @ codewars : "Turn String Input into Hash", "Primorial Of a Number", "Average Scores" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
