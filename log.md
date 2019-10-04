@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 86: October 4, 2019
+
+**Today's Progress**: #R6D86 Completed the #Ruby course of microverse curriculum. Coding training @ codewars: "Simple Fun #334: Two Beggars And Gold", "English beggars" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 537 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 85: October 3, 2019
+
+**Today's Progress**: #R6D85 Finished lessons at SQLTraining. Challenges completed @ codewars: "Difference Of Squares", "Hit Count", "Sum of Two Integers" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 538 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 84: October 2, 2019
 
-**Today's Progress**: #R6D84 Implemented in #Ruby Prim's algorithm for Minimum Spanning Tree. It returns the MST and the distances between the vertices. Also solved @ codewars: "" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R6D84 Implemented in #Ruby Prim's algorithm for Minimum Spanning Tree. It returns the MST and the distances between the vertices. Also solved @ codewars: "Numbers in strings" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 539 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
