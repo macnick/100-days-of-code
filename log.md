@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 88: October 6, 2019
+
+**Today's Progress**: #R6D88 Finished lessons at SQLBolt.com. Practiced JS @ Leetcode: "3Sum", "Add Two Numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 535 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 87: October 5, 2019
+
+**Today's Progress**: #R6D87 Coding practice only today @ codewars: "Alphabet symmetry" @ Leetcode: "Valid Parentheses", "Single Number", "Median of Two Sorted Arrays" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 536 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 86: October 4, 2019
 
 **Today's Progress**: #R6D86 Completed the #Ruby course of microverse curriculum. Coding training @ codewars: "Simple Fun #334: Two Beggars And Gold", "English beggars" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
