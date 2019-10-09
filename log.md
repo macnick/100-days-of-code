@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 90: October 8, 2019
+
+**Today's Progress**: #R6D90 Working on SQL lessons at sqlzoo.net. Today's JS problems @ Leetcode: "Longest Valid Parentheses", "First Missing Positive" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 533 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 89: October 7, 2019
+
+**Today's Progress**: #R6D89 Started SQL lessons at sqlzoo.net. JS challenges solved @ Leetcode: "Merge Two Sorted Lists", "Regular Expression Matching" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 534 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 88: October 6, 2019
 
 **Today's Progress**: #R6D88 Finished lessons at SQLBolt.com. Practiced JS @ Leetcode: "3Sum", "Add Two Numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
