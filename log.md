@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 92: October 10, 2019
+
+**Today's Progress**: #R6D91 Completed the Hacktoberfest challenge 2019!. Today's problems @ Leetcode: "Burst Balloons", "Merge Two Binary Trees" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 531 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 91: October 9, 2019
 
 **Today's Progress**: #R6D90 Finished SQL lessons at sqlzoo.net and the Databases part of the Microverse curriculum. JS practice @ Leetcode: "Missing Number", "Validate Binary Search Tree" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
