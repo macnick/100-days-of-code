@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 91: October 9, 2019
+
+**Today's Progress**: #R6D90 Finished SQL lessons at sqlzoo.net and the Databases part of the Microverse curriculum. JS practice @ Leetcode: "Missing Number", "Validate Binary Search Tree" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 532 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 90: October 8, 2019
 
 **Today's Progress**: #R6D90 Working on SQL lessons at sqlzoo.net. Today's JS problems @ Leetcode: "Longest Valid Parentheses", "First Missing Positive" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
