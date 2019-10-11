@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 93: October 11, 2019
+
+**Today's Progress**: #R6D92 Spent many hours working on a hard challenge on Codewars. I have to make a mathematical expression evaluator. The plan is to convert the expression from infix to postif or reverse Polish Notation and work from there. #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 531 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 92: October 10, 2019
 
 **Today's Progress**: #R6D91 Completed the Hacktoberfest challenge 2019!. Today's problems @ Leetcode: "Burst Balloons", "Merge Two Binary Trees" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
