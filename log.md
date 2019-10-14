@@ -1,20 +1,32 @@
 # 100 Days Of Code - Log
 
+## Day 95: October 13, 2019
+
+**Today's Progress**: #R6D95 Fixed my calc() function which returns the value of a postix expression. #Ruby practice: @ Codewars: "Alternate capitalization", "Nickname Generator", "Reverse every other word in the string" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 528 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 94: October 12, 2019
+
+**Today's Progress**: #R6D94 Fixed my toPostfix() function which converts an infix expression to postix or RPN. Challenges completed: @ Codewars: "Alphabet symmetry", "New Cashier Does Not Know About Space or Shift" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 529 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 93: October 11, 2019
 
-**Today's Progress**: #R6D92 Spent many hours working on a hard challenge on Codewars. I have to make a mathematical expression evaluator. The plan is to convert the expression from infix to postif or reverse Polish Notation and work from there. #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R6D93 Spent many hours working on a hard challenge on Codewars. I have to make a mathematical expression evaluator. The plan is to convert the expression from infix to postif or reverse Polish Notation and work from there. #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 531 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 530 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 92: October 10, 2019
 
-**Today's Progress**: #R6D91 Completed the Hacktoberfest challenge 2019!. Today's problems @ Leetcode: "Burst Balloons", "Merge Two Binary Trees" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R6D92 Completed the Hacktoberfest challenge 2019!. Today's problems @ Leetcode: "Burst Balloons", "Merge Two Binary Trees" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 531 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 91: October 9, 2019
 
-**Today's Progress**: #R6D90 Finished SQL lessons at sqlzoo.net and the Databases part of the Microverse curriculum. JS practice @ Leetcode: "Missing Number", "Validate Binary Search Tree" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R6D91 Finished SQL lessons at sqlzoo.net and the Databases part of the Microverse curriculum. JS practice @ Leetcode: "Missing Number", "Validate Binary Search Tree" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 532 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
