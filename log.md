@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 96: October 14, 2019
+
+**Today's Progress**: #R6D96 Got a new coding partner for the Rails part of the microverse curriculum. JS practice: @ Codewars: "Evaluate a postfix expression", "Infix to Postfix Converter" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 527 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 95: October 13, 2019
 
 **Today's Progress**: #R6D95 Fixed my calc() function which returns the value of a postix expression. #Ruby practice: @ Codewars: "Alternate capitalization", "Nickname Generator", "Reverse every other word in the string" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
