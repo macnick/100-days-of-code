@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 98: October 16, 2019
+
+**Today's Progress**: #R6D98 Completed the first Rails (easy) project. Started reading for the next. Solved the kata @ Codewars: "Write shortest function to calculate Average number", "Weight lifting calculator" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 525 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 97: October 15, 2019
+
+**Today's Progress**: #R6D97 Started work on the first Rails (easy) project. JS & # Ruby practice: @ Codewars: "Calculator", "Debug Basic Calculator", "Tax Calculator" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 526 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 96: October 14, 2019
 
 **Today's Progress**: #R6D96 Got a new coding partner for the Rails part of the microverse curriculum. JS practice: @ Codewars: "Evaluate a postfix expression", "Infix to Postfix Converter" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
