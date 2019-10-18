@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 99: October 17, 2019
+
+**Today's Progress**: #R6D99 Alomst finished the 2nd Rails (also easy) project. Solved the kata @ Codewars: "Alphabetical Addition", "Count the connected components" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 523 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 98: October 16, 2019
 
 **Today's Progress**: #R6D98 Completed the first Rails (easy) project. Started reading for the next. Solved the kata @ Codewars: "Write shortest function to calculate Average number", "Weight lifting calculator" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
