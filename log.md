@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 100: October 18, 2019
+
+**Today's Progress**: #R6D100 No, not again! It's been 600 days since I started the challenge. Learning Rails. Practiced @ Codewars: "Nth Smallest Element (Array Series #4)", "Find all pairs" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 521 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 99: October 17, 2019
 
-**Today's Progress**: #R6D99 Alomst finished the 2nd Rails (also easy) project. Solved the kata @ Codewars: "Alphabetical Addition", "Count the connected components" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R6D99 Almost finished the 2nd Rails (not so easy) project. Solved the kata @ Codewars: "Alphabetical Addition", "Count the connected components" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 523 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
