@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 2: October 20, 2019
+
+**Today's Progress**: #R7D2 Learning #Ruby on Rails tutorial on learnenough.com JS & Ruby practice @ Codewars: "RoboScript #1 - Implement Syntax Highlighting", "Is it a palindrome?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 519 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 1: October 19, 2019
+
+**Today's Progress**: #R7D1 Doing the Rails tutorial on learnenough.com . Challenges solved @ Codewars: "Encrypt this!", "Can you get the loop ?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 519 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 100: October 18, 2019
 
 **Today's Progress**: #R6D100 No, not again! It's been 600 days since I started the challenge. Learning Rails. Practiced @ Codewars: "Nth Smallest Element (Array Series #4)", "Find all pairs" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
