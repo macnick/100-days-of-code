@@ -1,10 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 4: October 22, 2019
+
+**Today's Progress**: #R7D4 Great day for me today. After 18 months of daily practice I appear in 500th place in the leader's list @ Codewars https://www.codewars.com/users/leaderboard #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 513 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 3: October 21, 2019
+
+**Today's Progress**: #R7D3 Still Learning #Rails. The tutorial on learnenough.com is a little boring. #Ruby & JS practice @ Codewars with hard kata: "Permutations", "Bouncy Numbers", "Grasshopper - Check for factor" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 515 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 2: October 20, 2019
 
 **Today's Progress**: #R7D2 Learning #Ruby on Rails tutorial on learnenough.com JS & Ruby practice @ Codewars: "RoboScript #1 - Implement Syntax Highlighting", "Is it a palindrome?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 519 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 517 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 1: October 19, 2019
 
