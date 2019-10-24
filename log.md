@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 5: October 23, 2019
+
+**Today's Progress**: #R7D5 Got confirmation from #Hacktoberfest today. Time for a new T-shirt. JS & #Ruby practice @ Codewars.com "Make Equal", "Arithmetic sequence - sum of n elements" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 511 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 4: October 22, 2019
 
 **Today's Progress**: #R7D4 Great day for me today. After 18 months of daily practice I appear in 500th place in the leader's list @ Codewars https://www.codewars.com/users/leaderboard #100DaysOfCode #javascript #React #freeCodeCamp #microverse
