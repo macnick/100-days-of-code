@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 6: October 24, 2019
+
+**Today's Progress**: #R7D6 Almost finished 3rd Rails project. Solved JS problems @ Codewars.com "Highest Rank Number in an Array", "Exclamation marks series #17: Put the exclamation " #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 509 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 5: October 23, 2019
 
 **Today's Progress**: #R7D5 Got confirmation from #Hacktoberfest today. Time for a new T-shirt. JS & #Ruby practice @ Codewars.com "Make Equal", "Arithmetic sequence - sum of n elements" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
