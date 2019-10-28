@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 8: October 26, 2019
+
+**Today's Progress**: #R7D8 Learning Active Record Basics on Rails. Practice today @ Codewars.com "Simple Substitution Cipher Helper", "Palindrome for your Dome" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 493 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 7: October 25, 2019
+
+**Today's Progress**: #R7D7 Completed 3rd Rails project on microverse's curriculum. Morning practice @ Codewars.com "Lambdas as a mechanism for Open/Closed", "Once", "FizzBuzz Array! (Custom)" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 494 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 6: October 24, 2019
 
-**Today's Progress**: #R7D6 Almost finished 3rd Rails project. Solved JS problems @ Codewars.com "Highest Rank Number in an Array", "Exclamation marks series #17: Put the exclamation " #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R7D6 Almost finished 3rd Rails project. Solved JS problems @ Codewars.com "Highest Rank Number in an Array", "Exclamation marks series #17: Put the exclamation" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 495 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
