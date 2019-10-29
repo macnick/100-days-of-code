@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 10: October 28, 2019
+
+**Today's Progress**: #R7D10 Started project Building with Rails Active Record: Migrations and Validations. #Ruby and JS practice @ Codewars.com "Simple Sentences", "ASCII hex converter" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 491 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 9: October 27, 2019
+
+**Today's Progress**: #R7D9 More Rails Active Record Basics: Migrations, Validations, Associations. Coding practice @ Codewars.com "Sum of many ints", "String transformer" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 492 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 8: October 26, 2019
 
 **Today's Progress**: #R7D8 Learning Active Record Basics on Rails. Practice today @ Codewars.com "Simple Substitution Cipher Helper", "Palindrome for your Dome" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
