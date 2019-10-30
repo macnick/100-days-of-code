@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 11: October 29, 2019
+
+**Today's Progress**: #R7D11 Created database table and performing input validations using #Rails. Daily coding practice @ Codewars.com "Multiplication table", "Harshad or Niven numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 490 @ Codewars, 38326 @ Hackerrank 74191 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 10: October 28, 2019
 
 **Today's Progress**: #R7D10 Started project Building with Rails Active Record: Migrations and Validations. #Ruby and JS practice @ Codewars.com "Simple Sentences", "ASCII hex converter" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
