@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 12: October 30, 2019
+
+**Today's Progress**: #R7D12 Finished Chapter 6 of Rails tutorial at learnenough.com. Ready to start my next little project. Practice @ Codewars "Does array x contain all values within array y?", "Where is my parent!?(cry)" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 490 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 11: October 29, 2019
 
 **Today's Progress**: #R7D11 Created database table and performing input validations using #Rails. Daily coding practice @ Codewars.com "Multiplication table", "Harshad or Niven numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
