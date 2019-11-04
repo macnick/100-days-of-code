@@ -1,10 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 16: November 3, 2019
+
+**Today's Progress**: #R7D16 Read about forms with Rails. Solved some more #SQL problems @ Codewars: "On the Canadian Border", "SQL Grasshopper: Select Columns", "Simple MIN / MAX", "Simple SUM" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 487 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 15: November 2, 2019
+
+**Today's Progress**: #R7D15 Solved some simple #SQL problems @ Codewars to refresh my knowledge "Easy SQL: Convert to Hexadecimal", "Easy SQL: LowerCase", "Collect Tuition (SQL for Beginners #4)", "Register for the Party" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 487 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 14: November 1, 2019
 
 **Today's Progress**: #R7D14 I got approval for the 4th rails project. Started work on the next one. More #SQL problems @ Codewars "Easy SQL - Ordering", "Easy SQL: Square Root and Log", "Easy SQL: Rounding Decimals" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 489 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 488 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 13: October 31, 2019
 
