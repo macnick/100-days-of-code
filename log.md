@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 17: November 4, 2019
+
+**Today's Progress**: #R7D17 Complete the Forms project on Rails. Waiting for code review. #SQL practice @ Codewars: "Find all active students", "Simple WHERE and ORDER BY", "First and last IP in a network" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 486 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 16: November 3, 2019
 
 **Today's Progress**: #R7D16 Read about forms with Rails. Solved some more #SQL problems @ Codewars: "On the Canadian Border", "SQL Grasshopper: Select Columns", "Simple MIN / MAX", "Simple SUM" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
