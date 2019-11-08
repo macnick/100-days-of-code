@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 20: November 7, 2019
+
+**Today's Progress**: #R7D20 Not much action today, mostly reading. Of course I never miss my morning training @ Codewars: "sum2total", "Numericals of a String", "Numerical Palindrome #1" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 483 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 19: November 6, 2019
 
 **Today's Progress**: #R7D19 Got approval for the previous project. Now if I could finish Chapter 7 of the Rails tutorial today... JS & #Ruby practice @ Codewars: "Cartesian coordinates from degree angle", "Bag#every?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
