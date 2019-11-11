@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 23: November 10, 2019
+
+**Today's Progress**: #R7D23 Authentication with Rails today. I will start next project tomorrow. Maore palindromes @ Codewars: "Numerical Palindrome #5", "Simple rotated palindromes" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 480 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 22: November 9, 2019
+
+**Today's Progress**: #R7D22 Reading chapter 8 or the Rails Tutorial. Coding palindromes @ Codewars: "Numerical Palindrome #3.5", "Numerical Palindrome #4", "Numerical Palindrome #5" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 481 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 21: November 8, 2019
+
+**Today's Progress**: #R7D21 Finished reading and also finished the 4th Rails project with my coding partner. Morning practice @ Codewars: "Numerical Palindrome #1.5", "Numerical Palindrome #2", "Numerical Palindrome #3" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 482 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 20: November 7, 2019
 
 **Today's Progress**: #R7D20 Not much action today, mostly reading. Of course I never miss my morning training @ Codewars: "sum2total", "Numericals of a String", "Numerical Palindrome #1" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
