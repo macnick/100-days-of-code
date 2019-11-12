@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 24: November 11, 2019
+
+**Today's Progress**: #R7D24 Rails session and cookies. Not ready yet for the next project. Palindrome mania @ Codewars: "Next Palindromic Number", "Palindrome Pairs" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 479 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 23: November 10, 2019
 
-**Today's Progress**: #R7D23 Authentication with Rails today. I will start next project tomorrow. Maore palindromes @ Codewars: "Numerical Palindrome #5", "Simple rotated palindromes" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R7D23 Authentication with Rails today. I will start next project tomorrow. More palindromes @ Codewars: "Numerical Palindrome #5", "Simple rotated palindromes" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 480 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
