@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 24: November 12, 2019
+
+**Today's Progress**: #R7D25 Showing, updating and deleting users with Rails. Palindrome madness @ Codewars: "Simple Fun #68: Palindrome Rearranging", "Palindromes Here and There" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 478 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 24: November 11, 2019
 
 **Today's Progress**: #R7D24 Rails session and cookies. Not ready yet for the next project. Palindrome mania @ Codewars: "Next Palindromic Number", "Palindrome Pairs" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
