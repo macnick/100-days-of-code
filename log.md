@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
-## Day 24: November 12, 2019
+## Day 26: November 13, 2019
 
-**Today's Progress**: #R7D25 Showing, updating and deleting users with Rails. Palindrome madness @ Codewars: "Simple Fun #68: Palindrome Rearranging", "Palindromes Here and There" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R7D26 Account activation and password resetting with Rails. JS training @ Leetcode: "Maximum Depth of Binary Tree", "Diameter of Binary Tree", "Find the Duplicate Number" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 477 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 25: November 12, 2019
+
+**Today's Progress**: #R7D25 Showing, updating and deleting users with Rails. Palindrome madness @ Codewars: "Palindromes Here and There", "Permute a Palindrome" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 478 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
