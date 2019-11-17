@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 28: November 15, 2019
+
+**Today's Progress**: #R7D28 Did some work on the 6th Rails project but got really tired. Challenges solved @ Leetcode: "Linked List Cycle II", "Decode String" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 475 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 27: November 14, 2019
 
 **Today's Progress**: #R7D27 Started work on the next Rails project with my coding partner. So far so good. JS problems @ Leetcode: "Best Time to Buy and Sell Stock", "Linked List Cycle" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
