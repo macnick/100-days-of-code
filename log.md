@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 27: November 14, 2019
+
+**Today's Progress**: #R7D27 Started work on the next Rails project with my coding partner. So far so good. JS problems @ Leetcode: "Best Time to Buy and Sell Stock", "Linked List Cycle" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 476 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 26: November 13, 2019
 
 **Today's Progress**: #R7D26 Account activation and password resetting with Rails. JS training @ Leetcode: "Maximum Depth of Binary Tree", "Diameter of Binary Tree", "Find the Duplicate Number" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
