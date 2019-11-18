@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 29: November 16, 2019
+
+**Today's Progress**: #R7D29 My last project is a mess. Don't like it. I will start over tomorrow.  Daily challenges @ Codewars: "Simple palindrome game", "Single character palindromes" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 474 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 28: November 15, 2019
 
 **Today's Progress**: #R7D28 Did some work on the 6th Rails project but got really tired. Challenges solved @ Leetcode: "Linked List Cycle II", "Decode String" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
