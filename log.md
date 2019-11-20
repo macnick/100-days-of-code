@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
-## Day 30: November 18, 2019
+## Day 32: November 19, 2019
 
-**Today's Progress**: #R7D31 Presented my solution to my team members like a code interview and it went very well. JS practice @ Codewars: "" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R7D32 Got the code review today. We have to make one change. Ruby training @ Codewars: "Difference between biggest 2 numbers" and JS @ Leetcode "Invert Binary Tree" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 473 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 471 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 31: November 18, 2019
+
+**Today's Progress**: #R7D31 Presented a challenge solution to my team members like a code interview and it went very well. JS practice @ Codewars: "Concatenating functions", "Adding Big Numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 472 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 30: November 17, 2019
 
