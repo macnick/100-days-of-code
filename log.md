@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 33: November 20, 2019
+
+**Today's Progress**: #R7D33 Our 6th Rails Project completed successfuly. Starting the next one. Practiced in JS @ Leetcode "Reverse Linked List", "Majority Element" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 470 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 32: November 19, 2019
 
 **Today's Progress**: #R7D32 Got the code review today. We have to make one change. Ruby training @ Codewars: "Difference between biggest 2 numbers" and JS @ Leetcode "Invert Binary Tree" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
