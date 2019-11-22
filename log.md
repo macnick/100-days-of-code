@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 35: November 22, 2019
+
+**Today's Progress**: #R7D35 First time I hear about monotonic queue. ..... @ Leetcode "Find All Numbers Disappeared in an Array", "Counting Bits" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 468 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 34: November 21, 2019
+
+**Today's Progress**: #R7D34 Doing table associations with Rails for the next project. Daily JS coding @ Leetcode "Find All Numbers Disappeared in an Array", "Counting Bits" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 469 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 33: November 20, 2019
 
 **Today's Progress**: #R7D33 Our 6th Rails Project completed successfuly. Starting the next one. Practiced in JS @ Leetcode "Reverse Linked List", "Majority Element" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
