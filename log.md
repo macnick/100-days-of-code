@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 36: November 23, 2019
+
+**Today's Progress**: #R7D36 Trying to create function to subtract really looooong numbers given as strings in JS. Coding practice @ Leetcode "Climbing Stairs", "N-th Tribonacci Number" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 467 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 35: November 22, 2019
 
-**Today's Progress**: #R7D35 First time I hear about monotonic queue. ..... @ Leetcode "Find All Numbers Disappeared in an Array", "Counting Bits" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R7D35 First time I hear about monotonic queue aka Monotone priority queue. WOW. Problems solved @ Leetcode "Daily Temperatures", "Binary Tree Inorder Traversal" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 468 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
