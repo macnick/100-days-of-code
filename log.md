@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 37: November 24, 2019
+
+**Today's Progress**: #R7D37 The going gets tough on Rails so I bought the most succesful course on Udemy to learn more. Trained with problems @ Leetcode "Valid Parentheses", "Palindrome Number" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 466 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 36: November 23, 2019
 
 **Today's Progress**: #R7D36 Trying to create function to subtract really looooong numbers given as strings in JS. Coding practice @ Leetcode "Climbing Stairs", "N-th Tribonacci Number" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
