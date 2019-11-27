@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 39: November 26, 2019
+
+**Today's Progress**: #R7D39 Started the 7th Rails project with my coding partner. Solved challenges @ Leetcode "Sliding Window Maximum", "Min Stack" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 464 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 38: November 25, 2019
 
 **Today's Progress**: #R7D38 20% on the "Complete Ruby on Rails Developer Course" and already I got some better understaing of Rails framework. Practice @ Leetcode "Remove Nth Node From End of List" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
