@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 41: November 28, 2019
+
+**Today's Progress**: #R7D41 Advanced to 25% on the "Complete Ruby on Rails Developer Course". JS practice @ Codewars "Failed Filter - Bug Fixing #3", "Subtract big numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 462 @ Codewars, 40000 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 40: November 27, 2019
+
+**Today's Progress**: #R7D40 My coding partner and I did some good progress on the 7th Rails project. Daily practice @ Leetcode "Find Minimum in Rotated Sorted Array" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 463 @ Codewars, 38326 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 39: November 26, 2019
 
 **Today's Progress**: #R7D39 Started the 7th Rails project with my coding partner. Solved challenges @ Leetcode "Sliding Window Maximum", "Min Stack" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
