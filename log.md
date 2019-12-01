@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 40: December 1, 2019
+
+**Today's Progress**: #R7D44 Only one team race today. 4x50m Medley Relay. Didn't miss my practice @ Codewars "Ninja vs Samurai: Attack + Block", "Draw stairs" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 459 @ Codewars, 40000 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 43: November 30, 2019
+
+**Today's Progress**: #R7D43 Swimming races today for my youngest son. Competed in 4 races. Best finish 5th, worst 7th. Proud for his progress. Coding practice JS & Ruby @ Codewars "Twisted Sum", "Custom Enumerators - Fibonacci" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 460 @ Codewars, 40000 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 42: November 29, 2019
+
+**Today's Progress**: #R7D42 Having some trouble with associations on 7th project but found a solution. Kata solved @ Codewars "Convert Integer to Binary", "Pyramid Array" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 461 @ Codewars, 40000 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 41: November 28, 2019
 
 **Today's Progress**: #R7D41 Advanced to 25% on the "Complete Ruby on Rails Developer Course". JS practice @ Codewars "Failed Filter - Bug Fixing #3", "Subtract big numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
