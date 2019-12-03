@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 41: December 2, 2019
+
+**Today's Progress**: #R7D45 More Rails training today. Also we submitted the 7th project with my CP and wait for code review. Practice coding @ Codewars "Testing 1-2-3", "Number of Rectangles in a Grid" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 460 @ Codewars, 40000 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 40: December 1, 2019
 
 **Today's Progress**: #R7D44 Only one team race today. 4x50m Medley Relay. Didn't miss my practice @ Codewars "Ninja vs Samurai: Attack + Block", "Draw stairs" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
