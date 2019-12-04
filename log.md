@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 42: December 3, 2019
+
+**Today's Progress**: #R7D46 We got the code review today. Spent the day working on fixing the problems. Solved kata @ Codewars "The Deaf Rats of Hamelin" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 459 @ Codewars, 40000 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 41: December 2, 2019
 
 **Today's Progress**: #R7D45 More Rails training today. Also we submitted the 7th project with my CP and wait for code review. Practice coding @ Codewars "Testing 1-2-3", "Number of Rectangles in a Grid" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
