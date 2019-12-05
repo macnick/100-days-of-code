@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 43: December 4, 2019
+
+**Today's Progress**: #R7D47 Advanced to 25% on the "Complete Ruby on Rails Developer Course". JS practice @ Codewars "Path Sum", "Counting Bits" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 460 @ Codewars, 40000 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 42: December 3, 2019
 
 **Today's Progress**: #R7D46 We got the code review today. Spent the day working on fixing the problems. Solved kata @ Codewars "The Deaf Rats of Hamelin" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
