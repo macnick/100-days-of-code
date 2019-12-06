@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 44: December 5, 2019
+
+**Today's Progress**: #R7D48 Redesign of our db and more styling to our Rails project. Morning coding @ Codewars "Thinking & Testing : Uniq or not Uniq", "Calculator: Coin Combination" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 459 @ Codewars, 40000 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 43: December 4, 2019
 
-**Today's Progress**: #R7D47 Advanced to 25% on the "Complete Ruby on Rails Developer Course". JS practice @ Codewars "Path Sum", "Counting Bits" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R7D47 Advanced to 30% on the "Complete Ruby on Rails Developer Course". JS practice @ Leetcode "Path Sum", "Counting Bits" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 460 @ Codewars, 40000 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
