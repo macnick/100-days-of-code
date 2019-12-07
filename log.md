@@ -1,30 +1,36 @@
 # 100 Days Of Code - Log
 
-## Day 44: December 5, 2019
+## Day 49: December 6, 2019
+
+**Today's Progress**: #R7D49 DigitalOcean released a graph showing the programming languages used in this year's Hacktoberfest. Problems solved @ Leetcode "Find the Duplicate Number", "Shortest Unsorted Continuous Subarray" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 458 @ Codewars, 40000 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 48: December 5, 2019
 
 **Today's Progress**: #R7D48 Redesign of our db and more styling to our Rails project. Morning coding @ Codewars "Thinking & Testing : Uniq or not Uniq", "Calculator: Coin Combination" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 459 @ Codewars, 40000 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
-## Day 43: December 4, 2019
+## Day 47: December 4, 2019
 
 **Today's Progress**: #R7D47 Advanced to 30% on the "Complete Ruby on Rails Developer Course". JS practice @ Leetcode "Path Sum", "Counting Bits" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 460 @ Codewars, 40000 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
-## Day 42: December 3, 2019
+## Day 46: December 3, 2019
 
 **Today's Progress**: #R7D46 We got the code review today. Spent the day working on fixing the problems. Solved kata @ Codewars "The Deaf Rats of Hamelin" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 459 @ Codewars, 40000 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
-## Day 41: December 2, 2019
+## Day 45: December 2, 2019
 
 **Today's Progress**: #R7D45 More Rails training today. Also we submitted the 7th project with my CP and wait for code review. Practice coding @ Codewars "Testing 1-2-3", "Number of Rectangles in a Grid" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 460 @ Codewars, 40000 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
-## Day 40: December 1, 2019
+## Day 44: December 1, 2019
 
 **Today's Progress**: #R7D44 Only one team race today. 4x50m Medley Relay. Didn't miss my practice @ Codewars "Ninja vs Samurai: Attack + Block", "Draw stairs" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
