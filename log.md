@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R7D49 DigitalOcean released a graph showing the programming languages used in this year's Hacktoberfest. Problems solved @ Leetcode "Find the Duplicate Number", "Shortest Unsorted Continuous Subarray" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 458 @ Codewars, 40000 @ Hackerrank 77936 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 458 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 48: December 5, 2019
 
