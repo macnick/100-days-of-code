@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 51: December 8, 2019
+
+**Today's Progress**: #R7D51 . Solved @ Leetcode "Two Sum" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 459 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 50: December 7, 2019
+
+**Today's Progress**: #R7D50 Advanced to 35% on the "Complete Ruby on Rails Developer Course". I like this course. Solved @ Leetcode "Two Sum" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 459 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 49: December 6, 2019
 
 **Today's Progress**: #R7D49 DigitalOcean released a graph showing the programming languages used in this year's Hacktoberfest. Problems solved @ Leetcode "Find the Duplicate Number", "Shortest Unsorted Continuous Subarray" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
