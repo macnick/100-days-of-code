@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 52: December 9, 2019
+
+**Today's Progress**: #R7D52 Went for a ride with my beautiful bike. Solved JS problem @ Hackerrank "Merge Sort: Counting Inversions" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 459 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 51: December 8, 2019
 
-**Today's Progress**: #R7D51 . Solved @ Leetcode "Two Sum" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R7D51 Finished rebuilding our 7th Rails project and submitted a request for code review. Guess what. We got approval to merge in less than 2 hours! Yeeees! Practiced JS @ Hackerrank "Find the Median" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 459 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
