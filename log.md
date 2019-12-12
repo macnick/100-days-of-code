@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 53: December 11, 2019
+
+**Today's Progress**: #R7D54 I reached 40% on the "Complete Ruby on Rails Developer Course". Planning the functionality of our fakebook. JS problems @ Codewars "Christmas mission: Programmer's Christmas #1", "Complete The Pattern #1" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 459 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 53: December 10, 2019
+
+**Today's Progress**: #R7D53 Ruby on Rails training day. Our next project is a Facebook clone. I will call it Fakebook. JS coding practice @ Codewars "Thinking & Testing : Uniq or not Uniq", "Calculator: Coin Combination" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 459 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 52: December 9, 2019
 
 **Today's Progress**: #R7D52 Went for a ride with my beautiful bike. Solved JS problem @ Hackerrank "Merge Sort: Counting Inversions" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
