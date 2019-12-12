@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 53: December 11, 2019
+## Day 54: December 11, 2019
 
 **Today's Progress**: #R7D54 I reached 40% on the "Complete Ruby on Rails Developer Course". Planning the functionality of our fakebook. JS problems @ Codewars "Christmas mission: Programmer's Christmas #1", "Complete The Pattern #1" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
