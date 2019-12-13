@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 55: December 12, 2019
+
+**Today's Progress**: #R7D55 I reached 40% on the "Complete Ruby on Rails Developer Course". Only rails lessons today. Katas solved @ Codewars "Complete The Pattern #2", "Complete The Pattern #3" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 458 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 54: December 11, 2019
 
-**Today's Progress**: #R7D54 I reached 40% on the "Complete Ruby on Rails Developer Course". Planning the functionality of our fakebook. JS problems @ Codewars "Christmas mission: Programmer's Christmas #1", "Complete The Pattern #1" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R7D54 Planning the functionality of our fakebook clone. Also found a great site for making ERDs http://lucidchart.com JS problems @ Codewars "Christmas mission: Programmer's Christmas #1", "Complete The Pattern #1" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 459 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
