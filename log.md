@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 57: December 14, 2019
+
+**Today's Progress**: #R7D56 Got the code review. We have the ok to merge. Started milestone-2. #$@^$%^%$^@$ @ Codewars "Complete The Pattern #4", "Complete The Pattern #5 Even Ladder" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 456 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 56: December 13, 2019
+
+**Today's Progress**: #R7D56 Submitted for code review milestone-1 of our facebook-clone project. Pratice with kata @ Codewars "Complete The Pattern #4", "Complete The Pattern #5 Even Ladder" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 457 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 55: December 12, 2019
 
 **Today's Progress**: #R7D55 I reached 40% on the "Complete Ruby on Rails Developer Course". Only rails lessons today. Katas solved @ Codewars "Complete The Pattern #2", "Complete The Pattern #3" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
