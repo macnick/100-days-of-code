@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 58: December 15, 2019
+
+**Today's Progress**: #R7D57 Quick trip to Thessaloniki ta attend a conference about "Digital Marketing" . /=**=/=// @ Codewars "CDivide and Conquer", "Who has the most money?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 457 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 57: December 14, 2019
 
-**Today's Progress**: #R7D56 Got the code review. We have the ok to merge. Started milestone-2. #$@^$%^%$^@$ @ Codewars "Complete The Pattern #4", "Complete The Pattern #5 Even Ladder" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R7D57 Got the code review. We have the ok to merge. Started milestone-2. Katas solved @ Codewars "Complete The Pattern #6 - Odd Ladder", "Complete The Pattern #7 - Cyclical Permutation" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 456 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 457 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 56: December 13, 2019
 
