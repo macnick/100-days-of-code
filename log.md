@@ -2,13 +2,13 @@
 
 ## Day 59: December 16, 2019
 
-**Today's Progress**: #R7D58 Milestone-2 of our facebook clone project is almost ready. Tomorrow we will ask for code review. Katas completed @ Codewars "", "Who has the most money?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R7D59 Milestone-2 of our facebook clone project is almost ready. Tomorrow we will ask for code review. Katas completed @ Codewars "", "Who has the most money?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 457 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 58: December 15, 2019
 
-**Today's Progress**: #R7D57 Quick one day trip to Thessaloniki ta attend a conference about "Digital Marketing". JS practice @ Codewars "CDivide and Conquer", "Who has the most money?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R7D58 Quick one day trip to Thessaloniki ta attend a conference about "Digital Marketing". JS practice @ Codewars "CDivide and Conquer", "Who has the most money?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 457 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
