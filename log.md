@@ -1,14 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 60: December 17, 2019
+
+**Today's Progress**: #R7D60 Facebook clone project Milestone-2 submitted and got approval to merge. Party. Morning training @ Codewars "Holiday II - Plane Seating", "Pillow on the Fridge" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+
+**Thoughts:** Rank 455 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 59: December 16, 2019
 
-**Today's Progress**: #R7D59 Milestone-2 of our facebook clone project is almost ready. Tomorrow we will ask for code review. Katas completed @ Codewars "", "Who has the most money?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R7D59 Milestone-2 of our facebook clone project is almost ready. Tomorrow we will ask for code review. Katas completed @ Codewars "Manhattan Distance", "The Desperate Rocket Scientist" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
-**Thoughts:** Rank 457 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 456 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 58: December 15, 2019
 
-**Today's Progress**: #R7D58 Quick one day trip to Thessaloniki ta attend a conference about "Digital Marketing". JS practice @ Codewars "CDivide and Conquer", "Who has the most money?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R7D58 Quick one day trip to Thessaloniki ta attend a conference about "Digital Marketing". JS practice @ Codewars "Divide and Conquer", "Who has the most money?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
 
 **Thoughts:** Rank 457 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
