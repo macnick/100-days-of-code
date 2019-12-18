@@ -2,7 +2,7 @@
 
 ## Day 60: December 17, 2019
 
-**Today's Progress**: #R7D60 Facebook clone project Milestone-2 submitted and got approval to merge. Party. Morning training @ Codewars "Holiday II - Plane Seating", "Pillow on the Fridge" #100DaysOfCode #javascript #React #freeCodeCamp #microverse
+**Today's Progress**: #R7D60 Facebook clone project Milestone-2 submitted and got approval to merge. Party. Morning training @ Codewars "Holiday II - Plane Seating", "Pillow on the Fridge" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 455 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
