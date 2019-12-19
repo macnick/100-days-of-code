@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 61: December 17, 2019
+## Day 61: December 18, 2019
 
 **Today's Progress**: #R7D61 Started Milestone-2 of Facebook clone project. Left the office sick. JS kata @ Codewars "Anything to integer", "How Many Reindeers?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
