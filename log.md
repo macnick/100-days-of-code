@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 62: December 19, 2019
+
+**Today's Progress**: #R7D62 Stayed at home. Did some reading, some rails training and solved a couple of JS kata @ Codewars "John and Ann sign up for Codewars", "One line kata: Sum Multiples of 3 and 5" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 453 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 61: December 18, 2019
 
-**Today's Progress**: #R7D61 Started Milestone-2 of Facebook clone project. Left the office sick. JS kata @ Codewars "Anything to integer", "How Many Reindeers?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D61 Started Milestone-3 of Facebook clone project. Left the office sick. JS kata @ Codewars "Anything to integer", "How Many Reindeers?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
-**Thoughts:** Rank 455 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 454 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 60: December 17, 2019
 
