@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 63: December 20, 2019
+
+**Today's Progress**: #R7D63 Back to the office today. Fortunately my coding partner did some good progress on our project.  @ Codewars "One line task: Multiples of 3 and 5", "Multiples of 3 and 5 redux" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 452 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 62: December 19, 2019
 
 **Today's Progress**: #R7D62 Stayed at home. Did some reading, some rails training and solved a couple of JS kata @ Codewars "John and Ann sign up for Codewars", "One line kata: Sum Multiples of 3 and 5" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
