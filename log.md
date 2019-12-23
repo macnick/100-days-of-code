@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 63: December 21, 2019
+
+**Today's Progress**: #R7D64 Completed 45% of the "Complete Ruby on Rails Developer Course". Katas solved @ Codewars "Codewars style ranking system", "80's Kids #1: How Many Licks Does it Take?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 451 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 63: December 20, 2019
 
 **Today's Progress**: #R7D63 Back to the office today. Fortunately my coding partner did some good progress on our project.  @ Codewars "One line task: Multiples of 3 and 5", "Multiples of 3 and 5 redux" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
