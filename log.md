@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 66: December 23, 2019
+
+**Today's Progress**: #R7D66 OK. I am really stuck. I keep reading explanations of a problem but can not understand it! Feeling complete idiot today. JS kata @ Codewars "Array intersect all" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 449 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 65: December 22, 2019
 
 **Today's Progress**: #R7D65 Did some progress on our Milestone-3 but there is more needed. Also learned a few useful timing console methods like console.time. Practice @ Codewars "80's Kids #2: Help ALF Find His Spaceship", "" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
