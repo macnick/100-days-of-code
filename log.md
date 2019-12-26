@@ -1,10 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 68: December 25, 2019
+
+**Today's Progress**: #R7D68 Merry Christmas to all! Time to celebrate with family. 🎄
+ Only a little practice today @ Codewars "Array intersect all" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 447 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 67: December 24, 2019
 
-**Today's Progress**: #R7D67 Still working on understanding the solution of subarrays problem. Practiced JS @ Codewars "" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D67 Still working on understanding the solution of subarrays problem. Practiced JS @ Codewars "Sort - one, three, two" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
-**Thoughts:** Rank 449 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 448 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 66: December 23, 2019
 
