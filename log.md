@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 67: December 24, 2019
+
+**Today's Progress**: #R7D67 Still working on understanding the solution of subarrays problem. Practiced JS @ Codewars "" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 449 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 66: December 23, 2019
 
 **Today's Progress**: #R7D66 OK. I am really stuck. I keep reading explanations of a problem but can not understand it! Feeling complete idiot today. JS kata @ Codewars "Array intersect all" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
