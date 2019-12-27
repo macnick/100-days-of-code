@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 69: December 26, 2019
+
+**Today's Progress**: #R7D69 Rails learn and practice day. I am 50% through the "Complete Ruby on Rails Developer Course". 
+ JS kata @ Codewars "EAN Validation", "Training JS #35: methods of Math---log() and its family" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 446 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 68: December 25, 2019
 
 **Today's Progress**: #R7D68 Merry Christmas to all! Time to celebrate with family. 🎄
@@ -9,7 +16,7 @@
 
 ## Day 67: December 24, 2019
 
-**Today's Progress**: #R7D67 Still working on understanding the solution of subarrays problem. Practiced JS @ Codewars "Sort - one, three, two" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D67 Still working on understanding the DP solution of subarrays problem. 🙄🤓 Interesting kata in Codewars "Sort - one, three, two" sort numbers by how they are pronounced in English. #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 448 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
