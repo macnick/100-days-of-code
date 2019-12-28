@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 70: December 27, 2019
+
+**Today's Progress**: #R7D70 Learned about 'devise' gem for athenticating users in my Rails practice App. Kata solved @ Codewars "T.T.T. #7: Profit or loss", "80's Kids #3: Punky Brewster's Socks" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 445 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 69: December 26, 2019
 
 **Today's Progress**: #R7D69 Rails learn and practice day. I am 50% through the "Complete Ruby on Rails Developer Course". 
