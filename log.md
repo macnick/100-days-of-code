@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 71: December 28, 2019
+
+**Today's Progress**: #R7D71 Progress in the "Complete Ruby on Rails Developer Course". Now at 55%. Learned how to use ActionCable to create chat apps. JS practice @ Codewars "Words to Hex", "What is between?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 444 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 70: December 27, 2019
 
 **Today's Progress**: #R7D70 Learned about 'devise' gem for athenticating users in my Rails practice App. Kata solved @ Codewars "T.T.T. #7: Profit or loss", "80's Kids #3: Punky Brewster's Socks" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
