@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 73: December 30, 2019
+
+**Today's Progress**: #R7D73 Happy new year! Last practice of the year  @ Codewars "makeBackronym", "Christmas Day" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 443 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 72: December 29, 2019
 
 **Today's Progress**: #R7D72 Found a new gem called stock_quote to get stock data from IEXcloud.io. JS coding  @ Codewars "Backspaces in string", "The Lamp: Revisited" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
