@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 72: December 29, 2019
+
+**Today's Progress**: #R7D72 Found a new gem called stock_quote to get stock data from IEXcloud.io. JS coding  @ Codewars "Backspaces in string", "The Lamp: Revisited" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 443 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 71: December 28, 2019
 
-**Today's Progress**: #R7D71 Progress in the "Complete Ruby on Rails Developer Course". Now at 55%. Learned how to use ActionCable to create chat apps. JS practice @ Codewars "Words to Hex", "What is between?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D71 Progress in the "Complete Ruby on Rails Developer Course". Now at 55%. Learned how to use ActionCable to create chat apps in Rails. JS practice @ Codewars "Words to Hex", "What is between?" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 444 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
