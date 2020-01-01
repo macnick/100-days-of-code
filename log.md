@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 74: December 31, 2019
+
+**Today's Progress**: #R7D74 To start the year properly solve a couple of problems. First challenges of 2020 @ Codewars "Dave's gamble", "One Line Wonder: Sum All Even Fibonacci Numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 443 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 73: December 30, 2019
 
 **Today's Progress**: #R7D73 Happy new year! Last practice of the year  @ Codewars "makeBackronym", "Christmas Day" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
