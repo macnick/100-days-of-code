@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 76: January 2, 2020
+
+**Today's Progress**: #R7D76 Spent time to update gems in my repos to fix vulnerabilities reported by GitHub. ==== Kata today @ Codewars "80's Kids #4: Legends of the Hidden Temple" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 442 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 75: January 1, 2020
 
 **Today's Progress**: #R7D75 Been trying to get stock quotes from iexcloud.io using the stock_quote gem. Apparently this one is not working as expected. Found iex-ruby-client which works as expected! Kata today @ Codewars "80's Kids #4: Legends of the Hidden Temple" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
