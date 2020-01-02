@@ -2,7 +2,7 @@
 
 ## Day 76: January 2, 2020
 
-**Today's Progress**: #R7D76 Spent time to update gems in my repos to fix vulnerabilities reported by GitHub. ==== Kata today @ Codewars "80's Kids #4: Legends of the Hidden Temple" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D76 Spent time to update gems in my repos to fix vulnerabilities reported by GitHub.Learned also yarn update, yarn install. ==== Kata today @ Codewars "80's Kids #4: Legends of the Hidden Temple" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 442 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
