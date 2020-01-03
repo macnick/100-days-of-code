@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 77: January 3, 2020
+
+**Today's Progress**: #R7D77 Used the "font-awesome-rails" gem to activate font-awesome in Rails 5. Can be found here: https://github.com/bokmann/font-awesome-rails Practice @ Codewars "80's Kids #5: You Can't Do That on Television" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 442 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 76: January 2, 2020
 
-**Today's Progress**: #R7D76 Spent time to update gems in my repos to fix vulnerabilities reported by GitHub.Learned also yarn update, yarn install. ==== Kata today @ Codewars "80's Kids #4: Legends of the Hidden Temple" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D76 Spent time to update gems in my repos to fix vulnerabilities reported by GitHub. Learned also yarn update, yarn install. Practice @ Codewars "80's Kids #5: You Can't Do That on Television" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 442 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
