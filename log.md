@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 78: January 4, 2020
+
+**Today's Progress**: #R7D78 60% of the Rails Udemy course completed. I learn a lot but I will wait to finish before I review this course. @#$%@%$ @ Codewars "" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 441 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 77: January 3, 2020
 
-**Today's Progress**: #R7D77 Used the "font-awesome-rails" gem to activate font-awesome in Rails 5. Can be found here: https://github.com/bokmann/font-awesome-rails Practice @ Codewars "80's Kids #5: You Can't Do That on Television" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D77 Used the "font-awesome-rails" gem to activate font-awesome in Rails 5. Can be found here: https://github.com/bokmann/font-awesome-rails Practice @ Codewars "replaceAll(input, find, replace)" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
-**Thoughts:** Rank 442 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 441 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 76: January 2, 2020
 
