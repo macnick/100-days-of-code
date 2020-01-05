@@ -2,7 +2,7 @@
 
 ## Day 79: January 5, 2020
 
-**Today's Progress**: #R7D79 or #R1D684 ? I have completed 679+5 days of coding no matter what. Should I start #1000DaysOfCode? What do you think? 45474734773 @ Codewars "" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D79 or #R1D684 ? I have completed 679+5 days of coding no matter what. Should I start #1000DaysOfCode? What do you think? Please let me know. 45474734773 @ Codewars "" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 439 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
