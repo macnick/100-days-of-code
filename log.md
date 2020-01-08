@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 80: January 6, 2020
+
+**Today's Progress**: #R7D80 More work witn my partner on Milestone-3 of our project. Solved kata @ Leetcode.com "House Robber", "Find First and Last Position of Element in Sorted Array" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 438 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 79: January 5, 2020
 
 **Today's Progress**: #R7D79 or #R1D684 ? I have completed 679+5 days of coding no matter what. Should I start #1000DaysOfCode? What do you think? Please let me know. JS practice @ Codewars "Calculate Fibonacci return count of digit occurrences" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
