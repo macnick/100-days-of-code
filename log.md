@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 81: January 7, 2020
+
+**Today's Progress**: #R7D81 Googled and solved the "Maximum Subarray" an "easy" problem on Leetcode. Can be solved in O(n) time using Kadane's algorithm else it might take O(nlogn) at best. #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 437 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 80: January 6, 2020
 
 **Today's Progress**: #R7D80 More work witn my partner on Milestone-3 of our project. Solved kata @ Leetcode.com "House Robber", "Find First and Last Position of Element in Sorted Array" #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
