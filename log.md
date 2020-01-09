@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 82: January 8, 2020
+
+**Today's Progress**: #R7D82 Submitted Milestone-3 for code review. REceived a review and working on fixes. Problems solved on Leetcode: "Palindrome Linked List", "Counting Bits". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 436 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 81: January 7, 2020
 
 **Today's Progress**: #R7D81 Googled and solved the "Maximum Subarray" an "easy" problem on Leetcode. Can be solved in O(n) time using Kadane's algorithm else it might take O(nlogn) at best. #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
