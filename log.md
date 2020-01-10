@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 83: January 9, 2020
+
+**Today's Progress**: #R7D83 Our Milestone-3 got approval to be merge. Great work with my partner @Daniel. JS practice on Leetcode: "Palindrome Linked List", "Counting Bits". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 436 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 82: January 8, 2020
 
 **Today's Progress**: #R7D82 Submitted Milestone-3 for code review. REceived a review and working on fixes. Problems solved on Leetcode: "Palindrome Linked List", "Counting Bits". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
