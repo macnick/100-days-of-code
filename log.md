@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 84: January 10, 2020
+
+**Today's Progress**: #R7D84 Working on Milestone 4 of our Rails project. Got stuck for an hour because of a = in the wrong place. Coded on Leetcode: "", "". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 434 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 83: January 9, 2020
 
-**Today's Progress**: #R7D83 Our Milestone-3 got approval to be merge. Great work with my partner @Daniel. JS practice on Leetcode: "Palindrome Linked List", "Counting Bits". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D83 Our Milestone-3 got approval to be merged. Great work with my partner @DanielLarbiAdd1. JS practice on Leetcode: "Palindrome Linked List", "Counting Bits". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
-**Thoughts:** Rank 436 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 435 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 82: January 8, 2020
 
