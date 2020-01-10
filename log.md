@@ -2,7 +2,7 @@
 
 ## Day 84: January 10, 2020
 
-**Today's Progress**: #R7D84 Working on Milestone 4 of our Rails project. Got stuck for an hour because of a = in the wrong place. Coded on Leetcode: "", "". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D84 Working on Milestone 4 of our Rails project. Got stuck for an hour because of a = in the wrong place. Coded on Leetcode: "Move Zeroes", "Maximum Subarray". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 434 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
