@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 87: January 13, 2020
+
+**Today's Progress**: #R7D87 65% of the Rails Udemy course completed. Also worket on Milestone-4 of our Rails project. JS kata on Codewars: " The Secret World of Alex Mack", "Down in Fraggle Rock". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 431 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 86: January 12, 2020
 
-**Today's Progress**: #R7D86 Practice with Manacher's algorith which finds the longest palindrome substring in a string in linear time! Kata solved on Codewars: " Rock 'Em, Sock 'Em Robots", "She's a Small Wonder". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D86 Practice with Manacher's algorithm which finds the longest palindrome substring in a string in linear time! Kata solved on Codewars: " Rock 'Em, Sock 'Em Robots", "She's a Small Wonder". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 432 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
