@@ -1,8 +1,12 @@
 # 100 Days Of Code - Log
 
+## Day 88: January 14, 2020
+
+**Today's Progress**: #R7D88 Submitted a pull request for code review on Milestone-4 of our Rails project. Practice on Codewars: "", "". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
 ## Day 87: January 13, 2020
 
-**Today's Progress**: #R7D87 65% of the Rails Udemy course completed. Also worket on Milestone-4 of our Rails project. JS kata on Codewars: " The Secret World of Alex Mack", "Down in Fraggle Rock". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D87 65% of the Rails Udemy course completed. Also worked on Milestone-4 of our Rails project. JS kata on Codewars: " The Secret World of Alex Mack", "Down in Fraggle Rock". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 431 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
