@@ -2,7 +2,9 @@
 
 ## Day 88: January 14, 2020
 
-**Today's Progress**: #R7D88 Submitted a pull request for code review on Milestone-4 of our Rails project. Practice on Codewars: "", "". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D88 Submitted a pull request for code review on Milestone-4 of our Rails project. Solved a puzzle kata on Codewars after one year of trying: "Defuse the bombs!". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 430 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 87: January 13, 2020
 
