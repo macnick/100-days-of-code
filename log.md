@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 90: January 16, 2020
+
+**Today's Progress**: #R7D90 Got approval to merge Milestone-4. Party!  Kata today Codewars: "", " ". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 430 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 89: January 15, 2020
 
-**Today's Progress**: #R7D89 Got code review for Milestone-4. Fixed the required changes and resubmitted. JS practice on Codewars: "". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D89 Got code review for Milestone-4. Fixed the required changes and resubmitted. JS practice on Codewars: "Vasya and Plates", " ". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 430 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
