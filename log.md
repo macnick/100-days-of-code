@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 92: January 18, 2020
+
+**Today's Progress**: #R7D92 Our Milestone-5 was approved for merging! Party with my coding partner. JS Practice on Codewars: "". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 428 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 91: January 17, 2020
 
 **Today's Progress**: #R7D91 Finished work on Milestone-5 and requested a code review. Solved @ Leetcode: "Same Tree" and Codewars: "80's Kids #10: Captain Planet". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
