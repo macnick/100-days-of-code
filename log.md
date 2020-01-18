@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 91: January 17, 2020
+
+**Today's Progress**: #R7D91 Finished work on Milestone-5 and requested a code review. Solved @ Leetcode: "Same Tree" and Codewars: "80's Kids #10: Captain Planet". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 429 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 90: January 16, 2020
 
 **Today's Progress**: #R7D90 Got approval to merge Milestone-4. Party with Daniel!  Practice today @ Leetcode: "Insert Interval", "Longest Palindromic Substring". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
