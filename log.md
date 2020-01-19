@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 93: January 19, 2020
+
+**Today's Progress**: #R7D93 Preparing for next Milestone, tomorrow. Solved a couple of kata on Codewars: "". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 427 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 92: January 18, 2020
 
-**Today's Progress**: #R7D92 Our Milestone-5 was approved for merging! Party with my coding partner. JS Practice on Codewars: "". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D92 Our Milestone-5 was approved for merging! Party with my coding partner. JS Practice on Codewars: "Arbitrary word wrapping", "Santa's Master Plan". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 428 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
