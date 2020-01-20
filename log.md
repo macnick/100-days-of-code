@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R7D93 Preparing for next Milestone, tomorrow. Solved a couple of kata on Codewars: "". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
-**Thoughts:** Rank 427 @ Codewars, 40000 @ Hackerrank 82064 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 427 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 92: January 18, 2020
 
