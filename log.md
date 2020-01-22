@@ -2,7 +2,7 @@
 
 ## Day 95: January 21, 2020
 
-**Today's Progress**: #R7D95 Preparing for next Milestone #6, tomorrow. Kata solved on Codewars: "", "". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D95 Submitted a request for review on Milestone #6. Practiced JS on Codewars: "Is n divisible by (...)?", "Vasya in his free time". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 425 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
