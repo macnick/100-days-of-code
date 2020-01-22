@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 95: January 21, 2020
+
+**Today's Progress**: #R7D95 Preparing for next Milestone #6, tomorrow. Kata solved on Codewars: "", "". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 425 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 94: January 20, 2020
 
 **Today's Progress**: #R7D94 Preparing for next Milestone #6, tomorrow. Kata solved on Codewars: "Find The Duplicated Number in a Consecutive Unsorted List", "Find The Duplicate Number in Consecutive Unsorted List - Tougher Version". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
