@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 96: January 22, 2020
+
+**Today's Progress**: #R7D96 Not much time left for it each day but 70% of the Rails Udemy course is completed. Conding on Codewars: "Is n divisible by (...)?", "Vasya in his free time". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 425 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 95: January 21, 2020
 
-**Today's Progress**: #R7D95 dsg gldrjg jdw on Milestone #6. Practiced JS on Codewars: "". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D95 Turned out the Milestone #6 review was mistaken and we have to unfix yesterday's "fixes". Coding on Codewars: "Is n divisible by (...)?", "Vasya in his free time". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 425 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
