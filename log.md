@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 97: January 23, 2020
+
+**Today's Progress**: #R7D97 Added some more functionality, fixed integration tests and requested anothe code review for Milestone 6. Coding on Codewars: "Case swapping", "Diagonals sum". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 427 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 96: January 22, 2020
 
 **Today's Progress**: #R7D96 Not much time left for it each day but 70% of the Rails Udemy course is completed. Conding on Codewars: "Is n divisible by (...)?", "Vasya in his free time". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
