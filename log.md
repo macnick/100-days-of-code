@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 98: January 24, 2020
+
+**Today's Progress**: #R7D98 Milestone 7 was about adding the functionatlity to sign in using a facebook account. Fixed it. Coding on Codewars: "", "". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 4276 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 97: January 23, 2020
 
 **Today's Progress**: #R7D97 Added some more functionality, fixed integration tests and requested anothe code review for Milestone 6. Coding on Codewars: "Case swapping", "Diagonals sum". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
