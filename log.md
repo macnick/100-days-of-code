@@ -1,10 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 1: January 27, 2020
+
+**Today's Progress**: #R8D01 Hello round 8. Learned about and implemented a priority queue in JS using heap represented as an array. This Kata on Codewars gave me the motivation: "Holiday Shopping Priority Queue". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 423 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 100: January 26, 2020
+
+**Today's Progress**: #R7D100 Round 7 is over! Party. In this round I learned Rails, testing with Rspec and a few algorithms. Kata on Codewars: "Insert dashes", "Will the present fit?". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 424 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 99: January 25, 2020
+
+**Today's Progress**: #R7D99 Going deep in Rspec documentation because my understanding is lacking. Practiced JS on Codewars: "Simple card game", "Exercise in Summing". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 425 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 98: January 24, 2020
 
-**Today's Progress**: #R7D98 Milestone 7 was about adding the functionatlity to sign in using a facebook account. Fixed it. Coding on Codewars: "", "". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R7D98 Milestone 7 is about adding the functionality to sign in using a facebook account. Fixed it. Coding on Codewars: "Sum ALL the arrays!", "Say hello!". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
-**Thoughts:** Rank 4276 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 426 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 97: January 23, 2020
 
