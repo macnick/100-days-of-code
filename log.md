@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 1: January 28, 2020
+## Day 2: January 28, 2020
 
 **Today's Progress**: #R8D02 Learned about and implemented a priority queue in JS using heap represented as an array. This Kata on Codewars gave me the motivation: "Holiday Shopping Priority Queue". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
