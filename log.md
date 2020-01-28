@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 1: January 28, 2020
+
+**Today's Progress**: #R8D02 Learned about and implemented a priority queue in JS using heap represented as an array. This Kata on Codewars gave me the motivation: "Holiday Shopping Priority Queue". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 422 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 1: January 27, 2020
 
-**Today's Progress**: #R8D01 Hello round 8. Learned about and implemented a priority queue in JS using heap represented as an array. This Kata on Codewars gave me the motivation: "Holiday Shopping Priority Queue". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R8D01 Hello round 8. Milestone 6 approved and merged. Waiting for review of Milestone 7. Solved kata on Codewars: "C.Wars", "Dreidel dreidel". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 423 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
