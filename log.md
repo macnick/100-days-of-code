@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 3: January 29, 2020
+
+**Today's Progress**: #R8D03 Practiced my skills on reversing a singly linked list, iteratively and recursively. Today's practice on Codewars: "Arrh, grabscrab!", "Beeramid". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 421 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 2: January 28, 2020
 
 **Today's Progress**: #R8D02 Learned about and implemented a priority queue in JS using heap represented as an array. This Kata on Codewars gave me the motivation: "Holiday Shopping Priority Queue". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
@@ -8,7 +14,7 @@
 
 ## Day 1: January 27, 2020
 
-**Today's Progress**: #R8D01 Hello round 8. Milestone 6 approved and merged. Waiting for review of Milestone 7. Solved kata on Codewars: "C.Wars", "Dreidel dreidel". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R8D01 Hello round 8. Milestone 6 approved and merged. Also Milestone 7 submitted and waiting for review. Solved kata on Codewars: "C.Wars", "Dreidel dreidel". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 423 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
