@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 5: January 31, 2020
+
+**Today's Progress**: #R8D05 Little work on last Rails Milestone. MOre work to fix my github profile more professional. Practice on Codewars: "Love vs friendship", "Can you keep a secret?". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 419 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 4: January 30, 2020
 
 **Today's Progress**: #R8D04 Milestone 7 approved and merged! party! We are working on the last Rails Milestone. Kata solved on Codewars: "Mean Square Error", "Sum of Intervals". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
