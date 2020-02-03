@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 7: February 2, 2020
+
+**Today's Progress**: #R8D07   on Codewars: "The Hashtag Generator", "Sum of angles". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 417 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 6: February 1, 2020
+
+**Today's Progress**: #R8D06 Started work on the Battleship game. Trying to find a way to validate the board. JS kata solved on Codewars: "The Hashtag Generator", "Sum of angles". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 418 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 5: January 31, 2020
 
-**Today's Progress**: #R8D05 Little work on last Rails Milestone. MOre work to fix my github profile more professional. Practice on Codewars: "Love vs friendship", "Can you keep a secret?". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R8D05 Little work on last Rails Milestone. More work to fix my github profile more professional. Practice on Codewars: "Love vs friendship", "Can you keep a secret?". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 419 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
