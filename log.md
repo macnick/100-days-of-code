@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 8: February 3, 2020
+
+**Today's Progress**: #R8D08 Not much learning today since I had some emergencies to take care of. Evening practice on Codewars: "Perimeter of squares in a rectangle", "Building blocks". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 416 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 7: February 2, 2020
 
-**Today's Progress**: #R8D07 Practicing with some backtracking recursion problems. Solved on Codewars: "", "". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R8D07 Practicing with some backtracking recursion problems. Solved on Codewars: "Looking for a benefactor", "Triangle number check". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 417 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
