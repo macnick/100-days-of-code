@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 9: February 4, 2020
+
+**Today's Progress**: #R8D09  Solved on Codewars: "PI approximation", "Counting in the Amazon". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 415 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 8: February 3, 2020
 
 **Today's Progress**: #R8D08 Not much learning today since I had some emergencies to take care of. Evening practice on Codewars: "Perimeter of squares in a rectangle", "Building blocks". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
