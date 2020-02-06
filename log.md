@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 10: February 5, 2020
+
+**Today's Progress**: #R8D10 Our little app is running on Heroku. Now the "Sign in with facebook" needs fixing. JS practice on Codewars: "The Shell Game", "Primes in numbers". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 414 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 9: February 4, 2020
 
-**Today's Progress**: #R8D09  Solved on Codewars: "PI approximation", "Counting in the Amazon". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R8D09 Deployed our app to Heroku. It crashes on clicking sign-up. Kata today on Codewars: "PI approximation", "Counting in the Amazon". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 415 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
