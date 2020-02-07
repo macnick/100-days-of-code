@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 11: February 6, 2020
+
+**Today's Progress**: #R8D11 Friendbook, our litle fb clone app got approved and merged. Going for the next challenge. Daily practice on Codewars: "Sum by Factors", "Simple Fun #152: Invite More Women?". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 413 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 10: February 5, 2020
 
 **Today's Progress**: #R8D10 Our little app is running on Heroku. Now the "Sign in with facebook" needs fixing. JS practice on Codewars: "The Shell Game", "Primes in numbers". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
