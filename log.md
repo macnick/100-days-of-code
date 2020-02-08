@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 12: February 7, 2020
+
+**Today's Progress**: #R8D12 Reading YDKJS Book 3: this and Object Prototypes. Morning practice Codewars: "FIXME: Get Full Name", "Simple Fun #37: House Numbers Sum". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 413 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 11: February 6, 2020
 
 **Today's Progress**: #R8D11 Friendbook, our litle fb clone app got approved and merged. Going for the next challenge. Daily practice on Codewars: "Sum by Factors", "Simple Fun #152: Invite More Women?". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
