@@ -1,4 +1,5 @@
 # I've joined the #100DaysOfCode Challenge.
+## That was 700+ ago
 
 ## Contents
 * [Rules](rules.md)
