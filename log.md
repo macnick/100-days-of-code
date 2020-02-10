@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 14: February 9, 2020
+
+**Today's Progress**: #R8D14 It's been a couple of months since my last SQL program so I did a little recap today. Kata solved at Codewars: "Recursion #1 - Factorial", "Function iteration". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 412 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 13: February 8, 2020
+
+**Today's Progress**: #R8D13 Went on a superbike ride with my friends. Evening practice at Codewars: "A disguised sequence (I)", "Stringing me along". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 412 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 12: February 7, 2020
 
 **Today's Progress**: #R8D12 Reading YDKJS Book 3: this and Object Prototypes. Morning practice Codewars: "FIXME: Get Full Name", "Simple Fun #37: House Numbers Sum". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
