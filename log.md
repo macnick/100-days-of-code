@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 15: February 10, 2020
+
+**Today's Progress**: #R8D15 Sent my first article for publishing at Hackernoon. Keeping my fingers crossed. JS practice at Codewars: "Sort arrays - 3", "Number climber". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 412 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 14: February 9, 2020
 
 **Today's Progress**: #R8D14 It's been a couple of months since my last SQL program so I did a little recap today. Kata solved at Codewars: "Recursion #1 - Factorial", "Function iteration". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
