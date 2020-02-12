@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 16: February 11, 2020
+
+**Today's Progress**: #R8D16 Working on my soft skills. Various assignments here. I will become better at it. SQL kata @ Codewars: "SQL Basics: Simple HAVING", "SQL Basics: Simple IN". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 412 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 15: February 10, 2020
 
 **Today's Progress**: #R8D15 Sent my first article for publishing at Hackernoon. Keeping my fingers crossed. JS practice at Codewars: "Sort arrays - 3", "Number climber". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
