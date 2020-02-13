@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 17: February 12, 2020
+
+**Today's Progress**: #R8D17 Still no answer from Hackernoon. Nail bitting moments :-{ Solve kata @ Codewars: "Area or Perimeter", "SQL Basics: Simple GROUP BY". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 411 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 16: February 11, 2020
 
 **Today's Progress**: #R8D16 Working on my soft skills. Various assignments here. I will become better at it. SQL kata @ Codewars: "SQL Basics: Simple HAVING", "SQL Basics: Simple IN". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
