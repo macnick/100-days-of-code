@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 18: February 13, 2020
+
+**Today's Progress**: #R8D18 Learning how to work with APIs from Rails. Today's practice @ Codewars: "Function composition", "SQL Basics: Simple JOIN". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 412 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 17: February 12, 2020
 
 **Today's Progress**: #R8D17 Still no answer from Hackernoon. Nail bitting moments :-{ Solve kata @ Codewars: "Area or Perimeter", "SQL Basics: Simple GROUP BY". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
