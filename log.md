@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 22: February 17, 2020
+
+**Today's Progress**: #R8D22  JS and SQL kata @ Codewars: "SQL: Concatenating Columns", "Strongest even number in an interval". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 411 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 21: February 16, 2020
+
+**Today's Progress**: #R8D21 Practiced recursion with Ackermann function. Training @ Codewars: "Ackermann Function", "Easy SQL: Counting and Grouping". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 412 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 20: February 15, 2020
 
 **Today's Progress**: #R8D20 Had fun with family and friends playing bowling. Morning SQL practice @ Codewars: "Best-Selling Books (SQL for Beginners #5)", "SQL Basics: Simple JOIN with COUNT". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
