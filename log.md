@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 20: February 15, 2020
+
+**Today's Progress**: #R8D20 Had fun with family and friends playing bowling. Morning SQL practice @ Codewars: "Best-Selling Books (SQL for Beginners #5)", "SQL Basics: Simple JOIN with COUNT". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 413 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 19: February 14, 2020
+
+**Today's Progress**: #R8D19 Reading articles about software design patterns. Practiced SQL and JS @ Codewars: "SQL Basics: Simple EXISTS", "Pick peaks". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 412 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 18: February 13, 2020
 
 **Today's Progress**: #R8D18 Learning how to work with APIs from Rails. Today's practice @ Codewars: "Function composition", "SQL Basics: Simple JOIN". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
