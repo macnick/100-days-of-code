@@ -2,7 +2,7 @@
 
 ## Day 22: February 18, 2020
 
-**Today's Progress**: #R8D23 -------------- Today's practice @ Codewars: "Character frequency", "Product Of Maximums Of Array (Array Series #2)". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R8D23 -------------- Today's practice @ Codewars: "Character frequency", "Product Of Maximums Of Array (Array Series #2)". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 410 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
