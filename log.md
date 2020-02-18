@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 22: February 18, 2020
+
+**Today's Progress**: #R8D23 -------------- Today's practice @ Codewars: "Character frequency", "Product Of Maximums Of Array (Array Series #2)". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+
+**Thoughts:** Rank 410 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 22: February 17, 2020
 
-**Today's Progress**: #R8D22  JS and SQL kata @ Codewars: "SQL: Concatenating Columns", "Strongest even number in an interval". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
+**Today's Progress**: #R8D22 Got re-paired with the same coding partner. We are going so well together @Daniel. JS and SQL kata @ Codewars: "SQL: Concatenating Columns", "Strongest even number in an interval". #100DaysOfCode #javascript #React #freeCodeCamp #microverse #1000DaysOfCode
 
 **Thoughts:** Rank 411 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
