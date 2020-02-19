@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
-## Day 22: February 18, 2020
+## Day 24: February 19, 2020
 
-**Today's Progress**: #R8D23 -------------- Today's practice @ Codewars: "Character frequency", "Product Of Maximums Of Array (Array Series #2)". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D24 -------------------- Kata solved @ Codewars: "Did I Finish my Sudoku?", "Sum of Cubes". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
-**Thoughts:** Rank 410 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 408 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 23: February 18, 2020
+
+**Today's Progress**: #R8D23 Started the Javascript course of the curriculum. This should be easy. Today's practice @ Codewars: "Character frequency", "Product Of Maximums Of Array (Array Series #2)". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 409 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 22: February 17, 2020
 
