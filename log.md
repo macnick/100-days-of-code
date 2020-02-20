@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 25: February 20, 2020
+
+**Today's Progress**: #R8D25 Reading about JS linters. I will go with ESLint. Besides being the most popular it is made by a Greek person. Kata solved @ Codewars: "Print count and numbers", "Row of the odd triangle". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 408 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 24: February 19, 2020
 
 **Today's Progress**: #R8D24 Did a recap on Git best practices. Kata solved @ Codewars: "Did I Finish my Sudoku?", "Sum of Cubes". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
