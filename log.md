@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 28: February 23, 2020
+
+**Today's Progress**: #R8D28 . Problems solved @ Codewars: "SQL Basics: Raise to the Power", "Schrödinger's Boolean". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 409 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 27: February 22, 2020
+
+**Today's Progress**: #R8D27 Did some DOM manipulation with JS, exercises. Problems solved @ Codewars: "SQL Basics: Raise to the Power", "Schrödinger's Boolean". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 409 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 26: February 21, 2020
 
-**Today's Progress**: #R8D26 Started working on the first JS project. Kata solved @ Codewars: "", "". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D26 Started working on the first JS project. Kata solved @ Codewars: "SQL with Street Fighter: Total Wins", "Reducing by steps". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 408 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
