@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 30: February 25, 2020
+
+**Today's Progress**: #R8D30 Created a brainfuck intpreter!!! Solved kata @ Codewars: "Simple Fun #79: Delete a Digit", "My smallest code interpreter (aka Brainf**k)". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 409 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 29: February 24, 2020
+
+**Today's Progress**: #R8D29 I think I finally got how backtracking recursion works. Solved kata @ Codewars: "SQL Basics - Position", "Tidy Number (Special Numbers Series #9)". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 409 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 28: February 23, 2020
 
-**Today's Progress**: #R8D28 . Problems solved @ Codewars: "SQL Basics: Raise to the Power", "Schrödinger's Boolean". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D28 Library project almost ready. Only the popup form needs fixing and we submit. Problems solved @ Codewars: "SQL Basics: Raise to the Power", "Schrödinger's Boolean". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 409 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
