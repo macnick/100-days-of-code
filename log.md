@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 31: February 26, 2020
+
+**Today's Progress**: #R8D31 Learned how to modify CSS variables using JS.  Solved kata @ Codewars: "", "". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 408 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 30: February 25, 2020
 
-**Today's Progress**: #R8D30 Created a brainfuck intpreter!!! Solved kata @ Codewars: "Simple Fun #79: Delete a Digit", "My smallest code interpreter (aka Brainf**k)". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D30 Created a brainfuck interpreter!!! Solved kata @ Codewars: "Simple Fun #79: Delete a Digit", "My smallest code interpreter (aka Brainf**k)". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
-**Thoughts:** Rank 409 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 408 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 29: February 24, 2020
 
