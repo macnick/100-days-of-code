@@ -1,14 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 32: February 27, 2020
+
+**Today's Progress**: #R8D32 Submitted our library project for code review. Fingers crossed. Today's practice @ Codewars: "Maximum Triplet Sum", "Array Leaders". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 407 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 31: February 26, 2020
 
-**Today's Progress**: #R8D31 Learned how to modify CSS variables using JS.  Solved kata @ Codewars: "", "". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D31 Learned how to modify CSS variables using JS.  Solved kata @ Codewars: "SQL Basics: Repeat and Reverse", "Are we alternate?". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 408 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 30: February 25, 2020
 
-**Today's Progress**: #R8D30 Created a brainfuck interpreter!!! Solved kata @ Codewars: "Simple Fun #79: Delete a Digit", "My smallest code interpreter (aka Brainf**k)". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D30 There is actually a small language called Brainfuck! 😮 I created an interpreter for it!!! 🥳
+Solved @ Codewars: "Simple Fun #79: Delete a Digit", "My smallest code interpreter (aka Brainf**k)". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 408 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
