@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 33: February 28, 2020
+
+**Today's Progress**: #R8D33 Learned about Factory Functions and why they are useful. Kata solved @ Codewars: "TV channels", "SQL Basics: Top 10 customers by total payments amount". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 406 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 32: February 27, 2020
 
 **Today's Progress**: #R8D32 Submitted our library project for code review. Fingers crossed. Today's practice @ Codewars: "Maximum Triplet Sum", "Array Leaders". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
