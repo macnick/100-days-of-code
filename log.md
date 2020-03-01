@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 34: February 29, 2020
+
+**Today's Progress**: #R8D34 Learned how to create a module and the revealing module pattern in JS. Practiced SQL and JS with @ Codewars: "Shortest steps to a number", "Positions Average". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 405 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 33: February 28, 2020
 
 **Today's Progress**: #R8D33 Learned about Factory Functions and why they are useful. Kata solved @ Codewars: "TV channels", "SQL Basics: Top 10 customers by total payments amount". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
