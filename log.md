@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 35: March 1, 2020
+
+**Today's Progress**: #R8D35 Found and started reading the excellent book "Learning JavaScript Design Patterns by Addy Osmani". You can read/download it here. Coding @ Codewars: "Sum of Minimums!", "Array Deep Count". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 404 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 34: February 29, 2020
 
 **Today's Progress**: #R8D34 Learned how to create a module and the revealing module pattern in JS. Practiced SQL and JS with @ Codewars: "Shortest steps to a number", "Positions Average". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
