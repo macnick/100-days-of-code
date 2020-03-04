@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 36: March 2, 2020
+
+**Today's Progress**: #R8D36 Our little front-end project got approved. Starting work on the next one. Practice @ Codewars: "Sum of Minimums!", "Array Deep Count". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 403 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 35: March 1, 2020
 
 **Today's Progress**: #R8D35 Found and started reading the excellent book "Learning JavaScript Design Patterns by Addy Osmani". You can read/download it here. Coding @ Codewars: "Sum of Minimums!", "Array Deep Count". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
