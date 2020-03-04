@@ -2,7 +2,7 @@
 
 ## Day 36: March 2, 2020
 
-**Today's Progress**: #R8D36 Our little front-end project got approved. Starting work on the next one. Practice @ Codewars: "Sum of Minimums!", "Array Deep Count". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D36 Our little front-end project got approved. Starting work on the next one. Practice @ Codewars: "Easy Diagonal", "The wheat/rice and chessboard problem". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 403 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
 
