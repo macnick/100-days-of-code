@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 38: March 4, 2020
+
+**Today's Progress**: #R8D38 My situation got worse. Hopefully tomorrow I will be better. Of course I will try to solve some challenges. Today's kata @ Codewars: "GROCERY STORE: Inventory", "1/n- Cycle". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 401 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 37: March 3, 2020
+
+**Today's Progress**: #R8D37 I am sick today so I will do some more reading on JS Design Pattern. Solved kata @ Codewars: "Check three and two", "Moves in squared strings (III)". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 402 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 36: March 2, 2020
 
 **Today's Progress**: #R8D36 Our little front-end project got approved. Starting work on the next one. Practice @ Codewars: "Easy Diagonal", "The wheat/rice and chessboard problem". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
