@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 39: March 5, 2020
+
+**Today's Progress**: #R8D39 Still at home. I managed to do some work on our Tic Tac Toe game. some challenges. Solved @ Codewars: "SQL with Sailor Moon: Thinking about JOINs...", "Life of Possibilities". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 400 @ Codewars, 40000 @ Hackerrank ~100000 @ Leetcode - 8 hour of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 38: March 4, 2020
 
 **Today's Progress**: #R8D38 My situation got worse. Hopefully tomorrow I will be better. Of course I will try to solve some challenges. Today's kata @ Codewars: "GROCERY STORE: Inventory", "1/n- Cycle". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
