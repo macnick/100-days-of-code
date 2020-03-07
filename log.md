@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 41: March 7, 2020
+
+**Today's Progress**: #R8D41 ---. Today's practice @ LeetCode: "Lexicographical Numbers", "Letter Combinations of a Phone Number". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 398 @ Codewars, 40000 @ Hackerrank - 4 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 40: March 6, 2020
+
+**Today's Progress**: #R8D40 My temperature is at 37.2-37.6 all day. Not well yet but not bad enough to give up. Also I started the HBO series Silicon Valey. Kata solved @ LeetCode: "Container With Most Water", "Intersection of Two Linked Lists". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 399 @ Codewars, 40000 @ Hackerrank - 4 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 39: March 5, 2020
 
 **Today's Progress**: #R8D39 Still at home. I managed to do some work on our Tic Tac Toe game. some challenges. Solved @ Codewars: "SQL with Sailor Moon: Thinking about JOINs...", "Life of Possibilities". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
