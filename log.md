@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 42: March 8, 2020
+
+**Today's Progress**: #R8D42 Spent the day between chair, couch, bed. All with my laptop. Solved challenges @ LeetCode: "Queue Reconstruction by Height", "Subsets". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 397 @ Codewars, 40000 @ Hackerrank - 4 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 41: March 7, 2020
 
-**Today's Progress**: #R8D41 ---. Today's practice @ LeetCode: "Lexicographical Numbers", "Letter Combinations of a Phone Number". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D41 Added input fields for player names in our Tic-Tac-Toe game. I started the HBO series Silicon Valey. I really like it. Any fans here? Today's practice @ LeetCode: "Lexicographical Numbers", "Letter Combinations of a Phone Number". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 398 @ Codewars, 40000 @ Hackerrank - 4 hours of study. Goals: 1. Finish the Microverse curicullum
 
