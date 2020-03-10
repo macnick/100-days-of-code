@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 43: March 9, 2020
+
+**Today's Progress**: #R8D43 Almost finished Tic-Tac-Toe project with my coding partner. More reading on Javascript Design Patterns. Problems solved @ LeetCode: "Permutations", "Group Anagrams". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 396 @ Codewars, 40000 @ Hackerrank - 4 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 42: March 8, 2020
 
 **Today's Progress**: #R8D42 Spent the day between chair, couch, bed. All with my laptop. Solved challenges @ LeetCode: "Queue Reconstruction by Height", "Subsets". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
