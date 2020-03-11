@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 44: March 10, 2020
+
+**Today's Progress**: #R8D44 Waiting for code review of our Tic-Tac-Toe game. Problems solved @ LeetCode: "Rotate Image", "Generate Parentheses". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 395 @ Codewars - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 43: March 9, 2020
 
 **Today's Progress**: #R8D43 Almost finished Tic-Tac-Toe project with my coding partner. More reading on Javascript Design Patterns. Problems solved @ LeetCode: "Permutations", "Group Anagrams". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
