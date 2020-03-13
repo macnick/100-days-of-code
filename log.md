@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 46: March 12, 2020
+
+**Today's Progress**: #R8D46 Did a recap on JS Classes and ES modules. Kata solved @ Codewars: "How many consecutive numbers are needed?", "Almost Even". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 394 @ Codewars - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 45: March 11, 2020
 
 **Today's Progress**: #R8D45 We code the review and our code is approved! Congrats to @Daniel and me. Today's kata @ LeetCode: "Combination Sum", @ codewars: "N-th Power". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
