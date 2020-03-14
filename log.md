@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 47: March 13, 2020
+
+**Today's Progress**: #R8D47 Played with webpack and its configurations. Today's challenges @ Codewars: "Alternate Square Sum", "What dominates your array?". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 394 @ Codewars - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 46: March 12, 2020
 
 **Today's Progress**: #R8D46 Did a recap on JS Classes and ES modules. Kata solved @ Codewars: "How many consecutive numbers are needed?", "Almost Even". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
