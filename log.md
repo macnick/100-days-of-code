@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 49: March 15, 2020
+
+**Today's Progress**: #R8D48 ===. kata @ Codewars: "Object extend", "Dropcaps". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 392 @ Codewars - 3 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 48: March 14, 2020
+
+**Today's Progress**: #R8D47 More reading about JS Design Patterns. Today it was the Constructor and Module Pattern.  Solved challenges @ Codewars: "Ho Ho Ho with Functions!", "Relational expressions". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 393 @ Codewars - 3 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 47: March 13, 2020
 
 **Today's Progress**: #R8D47 Played with webpack and its configurations. Today's challenges @ Codewars: "Alternate Square Sum", "What dominates your array?". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
