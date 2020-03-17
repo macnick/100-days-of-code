@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 50: March 16, 2020
+
+**Today's Progress**: #R8D50 . Practice @ Leetcode: "Search in Rotated Sorted Array". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 392 @ Codewars - 3 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 49: March 15, 2020
 
-**Today's Progress**: #R8D49 ===. kata @ Codewars: "Object extend", "Dropcaps". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D49 Started work on the Restaurant page app. This will be all JS and packed using webpack module bundler. kata @ Codewars: "Escape HTML Markup". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 392 @ Codewars - 3 hours of study. Goals: 1. Finish the Microverse curicullum
 
