@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 51: March 17, 2020
+
+**Today's Progress**: #R8D51 -----  @ Leetcode & Codewars: "", "". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 392 @ Codewars - 4 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 50: March 16, 2020
 
 **Today's Progress**: #R8D50 I love to learn something new every day. It was about npm today. Practice @ Leetcode & Codewars: "Search in Rotated Sorted Array", "Sum with Arrows". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
