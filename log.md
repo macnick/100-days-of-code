@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 52: March 18, 2020
+
+**Today's Progress**: #R8D52 After a few hours of stuggling I managed to make my materialize burger menu work with JQuery. Plain JS throws an error. Today's practice @ Codewars: "Write JavaScript's 'call' function using apply.". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 391 @ Codewars - 4 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 51: March 17, 2020
 
 **Today's Progress**: #R8D51 Tried to add materializecss to my Restaurant project. Some JS code not working. Kata solved @ Codewars: "Breaking search bad", "Sort with Arrow Functions". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
