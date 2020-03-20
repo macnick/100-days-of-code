@@ -2,9 +2,9 @@
 
 ## Day 51: March 17, 2020
 
-**Today's Progress**: #R8D51 -----  @ Leetcode & Codewars: "", "". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D51 Tried to add materializecss to my Restaurant project. Some JS code not working. Kata solved @ Codewars: "Breaking search bad", "Sort with Arrow Functions". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
-**Thoughts:** Rank 392 @ Codewars - 4 hours of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 391 @ Codewars - 4 hours of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 50: March 16, 2020
 
