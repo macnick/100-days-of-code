@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 54: March 20, 2020
+
+**Today's Progress**: #R8D54 Currying is a technique of evaluating function with N arguments, into sequence of N functions with single argument. Kata solved @ Codewars: "". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 391 @ Codewars - 6 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 53: March 19, 2020
 
 **Today's Progress**: #R8D53 Fixed my burger menu with vanila JS! Time to go to the next bug. Kata solved @ Codewars: "Compose functions (T Combinator)", "Is this working?". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
