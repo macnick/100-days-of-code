@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 55: March 21, 2020
+
+**Today's Progress**: #R8D55 Partial application. Kata solved @ Codewars: "". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 391 @ Codewars - 6 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 54: March 20, 2020
 
 **Today's Progress**: #R8D54 Currying is a technique of evaluating function with N arguments, into sequence of N functions with single argument. Kata solved @ Codewars: "A Taste of Curry". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
