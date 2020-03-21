@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 53: March 19, 2020
+
+**Today's Progress**: #R8D53 Fixed my burger menu with vanila JS! Time to go to the next bug. Kata solved @ Codewars: "Compose functions (T Combinator)", "Is this working?". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 391 @ Codewars - 6 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 52: March 18, 2020
 
 **Today's Progress**: #R8D52 After a few hours of stuggling I managed to make my materialize burger menu work with JQuery. Plain JS throws an error. Today's practice @ Codewars: "Write JavaScript's 'call' function using apply.". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
