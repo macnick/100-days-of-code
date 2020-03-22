@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 56: March 22, 2020
+
+**Today's Progress**: #R8D56 Functional programming - difference between Currying and partial application. Solved @ Codewars: "Functions of Integers on Cartesian Plane". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 389 @ Codewars - 4 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 55: March 21, 2020
 
-**Today's Progress**: #R8D55 Partial application. Kata solved @ Codewars: "". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D55 Partial application is the second important idea in functional programming. Partial application fixes the value of some of a function’s arguments without fully evaluating the function and returns a function with fewer parameters. Solved @ Codewars: "ISBN-10 Validation". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
-**Thoughts:** Rank 391 @ Codewars - 6 hours of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 390 @ Codewars - 6 hours of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 54: March 20, 2020
 
