@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 57: March 23, 2020
+
+**Today's Progress**: #R8D57 Squashed all the bugs in my restaurant page. Seems the materialize documentation has many errors. Problems completed @ Codewars: "The Most Sacred of Days". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 389 @ Codewars - 4 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 56: March 22, 2020
 
-**Today's Progress**: #R8D56 Functional programming - difference between Currying and partial application. Solved @ Codewars: "Functions of Integers on Cartesian Plane". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D56 Read this article about Functional Programming and differences between Currying and partial application. Solved @ Codewars: "Functions of Integers on Cartesian Plane". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 389 @ Codewars - 4 hours of study. Goals: 1. Finish the Microverse curicullum
 
