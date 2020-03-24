@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 58: March 24, 2020
+
+**Today's Progress**: #R8D58 Was pulling my hair for a couple of hours over DocumentFragment. The solution is in the docs. After you use it is empty and you have to recreate it. Kata today @ Codewars: "ISBN-10 Validation". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 388 @ Codewars - 4 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 57: March 23, 2020
 
 **Today's Progress**: #R8D57 Squashed all the bugs in my restaurant page. Seems the materialize documentation has many errors. Problems completed @ Codewars: "The Most Sacred of Days". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
