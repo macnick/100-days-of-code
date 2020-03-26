@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 60: March 26, 2020
+
+**Today's Progress**: #R8D60 reading oop module patterns. Practice @ Codewars: "Sort sentence pseudo-alphabetically", "Lazy Repeater". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 386 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 59: March 25, 2020
+
+**Today's Progress**: #R8D59 Submitted my Restaurant page project for code review. Read OOP Principles. Problems solved @ Codewars: "Ordinal Numbers", "Find the anonymous function". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 387 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 58: March 24, 2020
 
 **Today's Progress**: #R8D58 Was pulling my hair for a couple of hours over DocumentFragment. The solution is in the docs. After you use it is empty and you have to recreate it. Kata today @ Codewars: "ISBN-10 Validation". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
