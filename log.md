@@ -2,7 +2,7 @@
 
 ## Day 60: March 26, 2020
 
-**Today's Progress**: #R8D60 reading oop module patterns. Practice @ Codewars: "Sort sentence pseudo-alphabetically", "Lazy Repeater". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D60 My Restaurant project got approved! Read OOP principles. Practice @ Codewars: "Sort sentence pseudo-alphabetically", "Lazy Repeater". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 386 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
 
