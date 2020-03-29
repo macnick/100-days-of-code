@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 62: March 28, 2020
+
+**Today's Progress**: #R8D62 Created a recursive function to deeply freeze objects. Today's challenges @ Codewars: "Calculate age in years", "Default + Rest + Spread". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 384 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 61: March 27, 2020
 
 **Today's Progress**: #R8D61 Started the design of the To-Do list project. It will be a simple MVC pattern. Solved @ Codewars: "Super Class Extensions", "Cylon Evolution". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
