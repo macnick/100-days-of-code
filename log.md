@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 63: March 29, 2020
+
+**Today's Progress**: #R8D63 I am going to practice some more by joining the 30-day Leetcoding challenge. It starts on April 1st. https://tinyurl.com/vnelw6v JS kata @ Codewars: "Katastrophe!", "Sqrt approximation". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 383 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 62: March 28, 2020
 
 **Today's Progress**: #R8D62 Created a recursive function to deeply freeze objects. Today's challenges @ Codewars: "Calculate age in years", "Default + Rest + Spread". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
