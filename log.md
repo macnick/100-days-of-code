@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 64: March 30, 2020
+
+**Today's Progress**: #R8D64 Started out TODO list project. My coding partner and me decided to use UIkit for styling it. Kata solved @ Codewars: "UriBuilder", "Slamming Lockers". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 382 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 63: March 29, 2020
 
 **Today's Progress**: #R8D63 I am going to practice some more by joining the 30-day Leetcoding challenge. It starts on April 1st. https://tinyurl.com/vnelw6v JS kata @ Codewars: "Katastrophe!", "Sqrt approximation". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
