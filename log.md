@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 66: April 2, 2020
+
+**Today's Progress**: #R8D67 Add the capability to Mark as completed and Delete todos. Next step to edit todos and create multiple lists of todos. JS practice @ Codewars: "Implementing a Queue", "sort array by last character". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 380 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 66: April 1, 2020
 
 **Today's Progress**: #R8D66 Now we can add todos in our list. Next step to be able delete todos and mark them as completed. Kata completed @ Codewars: "Counting DNA Nucleotides", "Return substring instance count - 2". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
