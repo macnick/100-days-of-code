@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-## Day 66: April 2, 2020
+## Day 68: April 3, 2020
+
+**Today's Progress**: #R8D68 If you don't use it, you loose it. Ruby practice today with some challenges @ Codewars: "Inserting multiple strings into another string", "Iterator Basics". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 380 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 67: April 2, 2020
 
 **Today's Progress**: #R8D67 Add the capability to Mark as completed and Delete todos. Next step to edit todos and create multiple lists of todos. JS practice @ Codewars: "Implementing a Queue", "sort array by last character". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
