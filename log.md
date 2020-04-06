@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 70: April 5, 2020
+
+**Today's Progress**: #R8D70 I checked my profile in Codewars and saw that I have completed 1500 kata! WOW. Solved today @ Codewars: "lucky number", "Filter the number". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 380 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 69: April 4, 2020
+
+**Today's Progress**: #R8D69 Read about the Observer Pattern in Addy Osmani's book. Kata solved @ Codewars: "Optimal Taxi Fare", "(Ready for) Prime Time". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 380 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 68: April 3, 2020
 
 **Today's Progress**: #R8D68 If you don't use it, you loose it. Ruby practice today with some challenges @ Codewars: "Inserting multiple strings into another string", "Iterator Basics". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
