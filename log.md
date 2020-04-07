@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 71: April 6, 2020
+
+**Today's Progress**: #R8D71 After a few hours of hair-pulling I managed to squash the bug in our ToDo List. One more thing and we are ready for code review. Practice @ Codewars: "Reverse linked list", "Selective fear of numbers". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 379 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 70: April 5, 2020
 
 **Today's Progress**: #R8D70 I checked my profile in Codewars and saw that I have completed 1500 kata! WOW. Solved today @ Codewars: "lucky number", "Filter the number". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
