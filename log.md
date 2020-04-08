@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 72: April 7, 2020
+
+**Today's Progress**: #R8D72 My 2011 iMac probably gave up the ghost today. Spent the day setting up on my mac mini. Kata solved @ Codewars: "Matrix Transpose", "Sum of (Two) Squares". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 378 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 71: April 6, 2020
 
 **Today's Progress**: #R8D71 After a few hours of hair-pulling I managed to squash the bug in our ToDo List. One more thing and we are ready for code review. Practice @ Codewars: "Reverse linked list", "Selective fear of numbers". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
