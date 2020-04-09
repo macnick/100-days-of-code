@@ -2,7 +2,7 @@
 
 ## Day 73: April 8, 2020
 
-**Today's Progress**: #R8D73 Limitations of the design of our ToDo list are preventing us from add the functionality we want. Either we change the UI or start over. JS kata @ Codewars: "Figurate Numbers #2 - Pronic Number". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D73 Limitations of the design of our ToDo list are preventing us from adding the functionality we want. Either we change the UI or start over. JS kata @ Codewars: "Figurate Numbers #2 - Pronic Number". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 377 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
 
