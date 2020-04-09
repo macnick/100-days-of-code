@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 73: April 8, 2020
+
+**Today's Progress**: #R8D73 Limitations of the design of our ToDo list are preventing us from add the functionality we want. Either we change the UI or start over. JS kata @ Codewars: "Figurate Numbers #2 - Pronic Number". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 377 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 72: April 7, 2020
 
 **Today's Progress**: #R8D72 My 2011 iMac probably gave up the ghost today. Spent the day setting up on my mac mini. Kata solved @ Codewars: "Matrix Transpose", "Sum of (Two) Squares". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
