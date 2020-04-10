@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 74: April 9, 2020
+
+**Today's Progress**: #R8D74 Project is going well after a small change in the UI. Now all we have to do is use local storage to save the todos in the user' browser. Solved today @ Codewars: "Valid string". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 377 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 73: April 8, 2020
 
 **Today's Progress**: #R8D73 Limitations of the design of our ToDo list are preventing us from adding the functionality we want. Either we change the UI or start over. JS kata @ Codewars: "Figurate Numbers #2 - Pronic Number". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
