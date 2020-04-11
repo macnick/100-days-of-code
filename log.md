@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 75: April 10, 2020
+
+**Today's Progress**: #R8D75 Now all we have to do is use local storage to save the todos in the user' browser. Solved today @ Codewars: "Ruby Metaprogramming 101 - Dynamic Method Calls", "String chunks". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 377 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 74: April 9, 2020
 
-**Today's Progress**: #R8D74 Project is going well after a small change in the UI. Now all we have to do is use local storage to save the todos in the user' browser. Solved today @ Codewars: "Valid string". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D74 After a small change in the UI we can now Edit the todos. Solved today @ Codewars: "Valid string", "Game - Electrons around the cores". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 377 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
 
