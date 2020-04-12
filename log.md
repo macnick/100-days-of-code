@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 76: April 11, 2020
+
+**Today's Progress**: #R8D76 Helped a friend make his static HTML page responsive. He thinks I am God! :-D Training @ Codewars: "What century is it?", "Sums of consecutive integers". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 376 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 75: April 10, 2020
 
 **Today's Progress**: #R8D75 Now all we have to do is use local storage to save the todos in the user' browser. Solved today @ Codewars: "Ruby Metaprogramming 101 - Dynamic Method Calls", "String chunks". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
