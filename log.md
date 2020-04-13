@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 77: April 12, 2020
+
+**Today's Progress**: #R8D77 Suncay I played and coded with kids. Both know LOGO and oldest is learning Java. Daily practice @ Codewars: "Transposing a song", "Mirror, Mirror". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 375 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 76: April 11, 2020
 
 **Today's Progress**: #R8D76 Helped a friend make his static HTML page responsive. He thinks I am God! :-D Training @ Codewars: "What century is it?", "Sums of consecutive integers". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
