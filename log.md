@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 78: April 13, 2020
+
+**Today's Progress**: #R8D78 ToDo List project almost ready. Tomorrow we will submit it for code review. Kata today @ Codewars: "Cumulative Triangle", "Creating Elements with React". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 375 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 77: April 12, 2020
 
-**Today's Progress**: #R8D77 Suncay I played and coded with kids. Both know LOGO and oldest is learning Java. Daily practice @ Codewars: "Transposing a song", "Mirror, Mirror". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D77 Sunday I played and coded with kids. Both know LOGO and oldest is learning Java. Daily practice @ Codewars: "Transposing a song", "Mirror, Mirror". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 375 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
 
