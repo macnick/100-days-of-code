@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 79: April 14, 2020
+
+**Today's Progress**: #R8D79 ToDo List project submitted for code review. Reading about how to create and publish npm packages. Practice @ Codewars: "Find the longest gap!". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 375 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 78: April 13, 2020
 
 **Today's Progress**: #R8D78 ToDo List project almost ready. Tomorrow we will submit it for code review. Kata today @ Codewars: "Cumulative Triangle", "Creating Elements with React". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
