@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 81: April 16, 2020
+
+**Today's Progress**: #R8D81 Our ToDo List project was approved! Yess . Problems solved @ Leetcode: "Product of Array Except Self", "Happy Number". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 374 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 80: April 15, 2020
 
 **Today's Progress**: #R8D80 Reading about callback hell, devil's trianle and JS horror stories :-D. Problems solved @ Leetcode: "Jump Game", "Merge Intervals". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
