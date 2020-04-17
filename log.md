@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 82: April 17, 2020
+
+**Today's Progress**: #R8D82 Learning about async JS and Promises. Love them so far. Today's practice @ Leetcode: "Add Digits", "Binary Tree Preorder Traversal". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 374 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 81: April 16, 2020
 
 **Today's Progress**: #R8D81 Our ToDo List project was approved! Yess . Problems solved @ Leetcode: "Product of Array Except Self", "Happy Number". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
