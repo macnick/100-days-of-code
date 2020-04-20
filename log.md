@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 84: April 19, 2020
+
+**Today's Progress**: #R8D84 Reading about promise on You Don't Know JS. Problem solving power, down to 20%. Challenges @ Leetcode: "Middle of the Linked List", "Backspace String Compare". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 373 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 83: April 18, 2020
+
+**Today's Progress**: #R8D83 My little brain gone on vacation. Having trouble to solve even the simplest problems. Solved @ Leetcode: "Best Time to Buy and Sell Stock II", "Counting Elements". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 373 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 82: April 17, 2020
 
 **Today's Progress**: #R8D82 Learning about async JS and Promises. Love them so far. Today's practice @ Leetcode: "Add Digits", "Binary Tree Preorder Traversal". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
