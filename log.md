@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 85: April 20, 2020
+
+**Today's Progress**: #R8D85 Working on the Weather App project. Problems solved @ Leetcode: "Last Stone Weight", "Contiguous Array". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 373 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 84: April 19, 2020
 
-**Today's Progress**: #R8D84 Reading about promise on You Don't Know JS. Problem solving power, down to 20%. Challenges @ Leetcode: "Middle of the Linked List", "Backspace String Compare". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D84 Reading about promises on You Don't Know JS. Problem solving power, down to 20%. Challenges @ Leetcode: "Middle of the Linked List", "Backspace String Compare". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 373 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
 
