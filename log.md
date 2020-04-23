@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 87: April 22, 2020
+
+**Today's Progress**: #R8D87 Weather App project submitted. Waiting for code review. Algorithms practice @ Leetcode: "Number of Islands", "Construct Binary Search Tree from Preorder Traversal". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 371 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 86: April 21, 2020
 
 **Today's Progress**: #R8D86 Weather App project almost ready. Tomorrow I will ask for code review. JS practice @ Leetcode: "Perform String Shifts", "Valid Parenthesis String". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
