@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 89: April 24, 2020
+
+**Today's Progress**: #R8D89 My little weather app got approved! Here is the live link if you want to check the weather at your city.  Challenges @ Leetcode: "Bitwise AND of Numbers Range" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 371 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 88: April 23, 2020
 
 **Today's Progress**: #R8D88 More work and practice on promises and async/await. Problems solved @ Leetcode: "Leftmost Column with at Least a One", "Merge k Sorted Lists". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
