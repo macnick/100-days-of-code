@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 88: April 23, 2020
+
+**Today's Progress**: #R8D88 More work and practice on promises and async/await. Problems solved @ Leetcode: "Leftmost Column with at Least a One", "Merge k Sorted Lists". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 371 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 87: April 22, 2020
 
 **Today's Progress**: #R8D87 Weather App project submitted. Waiting for code review. Algorithms practice @ Leetcode: "Number of Islands", "Construct Binary Search Tree from Preorder Traversal". #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
