@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 91: April 26, 2020
+
+**Today's Progress**: #R8D91 Reading about testing in JS. Tomorrow I will start using jest. Morning practice @ Leetcode: "Subarray Sum Equals K", "Jump Game II" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 371 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 90: April 25, 2020
 
 **Today's Progress**: #R8D90 Round 8 is almost finished and I haven't learned React yet! Morning practice @ Leetcode: "Subarray Sum Equals K", "Jump Game II" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
