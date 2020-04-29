@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 93: April 28, 2020
+
+**Today's Progress**: #R8D93 First testing project submitted for code review. Learning about mock testing for I/O. Solved today @ Codewars: "Move Zeros", "Clone-a-Regex" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 370 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 92: April 27, 2020
 
 **Today's Progress**: #R8D92 Testing practice with a few JS functions and jest testing framework. Challenges solved @ Codewars: "Linked Lists - Get Nth Node", "Zero fill... for the Queen!" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
