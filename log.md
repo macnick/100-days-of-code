@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 94: April 29, 2020
+
+**Today's Progress**: #R8D94 Testing with jest project approved. Next project: Testing Tic-Tac-Toe. JS practice @ Codewars: "Extract Values and Units", "Javascript Mathematician" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 370 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 93: April 28, 2020
 
 **Today's Progress**: #R8D93 First testing project submitted for code review. Learning about mock testing for I/O. Solved today @ Codewars: "Move Zeros", "Clone-a-Regex" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
