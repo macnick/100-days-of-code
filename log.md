@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 96: May 1, 2020
+
+**Today's Progress**: #R8D95 Learn that you can't do units tests on code that relies on async operations. Writing tests helped me refactor the code. Kata today @ Codewars: "Regex Failure - Bug Fixing #2" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 370 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 95: April 30, 2020
+
+**Today's Progress**: #R8D95 Worked on Testing Tic-Tac-Toe project. Finished most of the tests. Algorithm practice @ Codewars: "Find the Combination", "Insert Dashes 2" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 370 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 94: April 29, 2020
 
 **Today's Progress**: #R8D94 Testing with jest project approved. Next project: Testing Tic-Tac-Toe. JS practice @ Codewars: "Extract Values and Units", "Javascript Mathematician" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
