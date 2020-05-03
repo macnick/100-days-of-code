@@ -1,8 +1,15 @@
 # 100 Days Of Code - Log
 
+
+## Day 97: May 2, 2020
+
+**Today's Progress**: #R8D97 Project Testing Tic Tac Toe, submitted for code review. Let's see. Solved kata @ Codewars: "Supernatural", "Find an employees role in the company" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 369 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 96: May 1, 2020
 
-**Today's Progress**: #R8D95 Learn that you can't do units tests on code that relies on async operations. Writing tests helped me refactor the code. Kata today @ Codewars: "Regex Failure - Bug Fixing #2" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D96 Learn that you can't do units tests on code that relies on async operations. Writing tests helped me refactor the code. Kata today @ Codewars: "Regex Failure - Bug Fixing #2" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 370 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
 
