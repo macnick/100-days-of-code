@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+## Day 98: May 3, 2020
+
+**Today's Progress**: #R8D98 Start you day with a win! It boosts your confidence for the rest of the day. That is why I like to code for an hour every morning. Practice @ Codewars: "Difference of 2", "Geometric Progression Sequence" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 368 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 97: May 2, 2020
 
