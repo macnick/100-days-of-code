@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 100: May 5, 2020
+
+**Today's Progress**: #R8D100 Another round completed! Learn new stuff every day. Today learned a new way to clone an array especially 2d or 3d. JS practice @ Codewars: "Hamming Numbers", "Arithmetic progression" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 366 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 99: May 4, 2020
+
+**Today's Progress**: #R8D99 My project Testing Tic Tac Toe was approved! Let's prepare for the next one. Morning training @ Codewars: "Approximate derivative", "parseInt() reloaded" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 367 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 98: May 3, 2020
 
-**Today's Progress**: #R8D98 Start you day with a win! It boosts your confidence for the rest of the day. That is why I like to code for an hour every morning. Practice @ Codewars: "Difference of 2", "Geometric Progression Sequence" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R8D98 Start your day with a win! It boosts your confidence for the rest of the day. That is why I like to code for an hour every morning. Practice @ Codewars: "Difference of 2", "Geometric Progression Sequence" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Rank 368 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
 
