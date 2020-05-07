@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 2: May 7, 2020
+
+**Today's Progress**: #R9D02 Wrote my 2nd article. This one is about Ruby and Rails. Kata today @ Codewars: "Calculate Julie's Age", "Simple image processing (part I): edges, feature growing and shrinking" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 364 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 1: May 6, 2020
 
 **Today's Progress**: #R9D01 Learn new stuff every day. Today learned a new way to clone an array especially 2d or 3d. JS practice @ Codewars: "Hamming Numbers", "Arithmetic progression" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
-**Thoughts:** Rank 366 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Rank 365 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 100: May 5, 2020
 
