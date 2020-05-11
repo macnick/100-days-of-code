@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 5: May 10, 2020
+
+**Today's Progress**: #R9D05 Went for a ride with friends with bikes. Evening practice @ Codewars: "Scoring Tests", "Quantum Bogosort" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 361 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 4: May 9, 2020
+
+**Today's Progress**: #R9D04 Creating a Phaser3 template, following a tutorial. Today's kata @ Codewars: "Palindromes Below", "uniq -c (UNIX style)" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 362 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 3: May 8, 2020
 
 **Today's Progress**: #R9D03 Doing the Phaser3 tutorial. Seems so simple. Practice JS @ Codewars: "Class conundrum - Bug Fixing #7", "Reducing Problems - Bug Fixing #8" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
