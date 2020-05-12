@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 6: May 11, 2020
+
+**Today's Progress**: #R9D06 Going deeper into Phaser3. Doing the next tutorial. Challenges solved @ Leetcode: "Unique Paths", "First Bad Version" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 360 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 5: May 10, 2020
 
 **Today's Progress**: #R9D05 Went for a ride with friends with bikes. Evening practice @ Codewars: "Scoring Tests", "Quantum Bogosort" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
