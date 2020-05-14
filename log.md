@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 8: May 13, 2020
+
+**Today's Progress**: #R9D08 I really like Phaser3. Just bought a course in Udemy to do during the weekend. Challenges @ Leetcode: "Number Complement", "Unique Paths" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 358 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 7: May 12, 2020
 
 **Today's Progress**: #R9D07 Lots of reading and experimenting with Phaser3. Probably I need a Advanced Metaphysical Degree in Thaumaturgical Javascript to get all of it. Solved @ Leetcode: "Jewels and Stones", "Ransom Note" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
