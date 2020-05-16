@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 10: May 15, 2020
+
+**Today's Progress**: #R9D10 50% of Phaser3 course in Udemy completed. Today's challenges @ Leetcode: "Majority Element", "Edit Distance" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 358 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 9: May 14, 2020
+
+**Today's Progress**: #R9D09 30% of Phaser3 course in Udemy completed. Solved challenges @ Leetcode: "Palindromic Substrings", "First Unique Character in a String" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 358 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 8: May 13, 2020
 
 **Today's Progress**: #R9D08 I really like Phaser3. Just bought a course in Udemy to do during the weekend. Challenges @ Leetcode: "Number Complement", "Unique Paths" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
