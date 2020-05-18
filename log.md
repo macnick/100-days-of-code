@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 12: May 17, 2020
+
+**Today's Progress**: #R9D12 I went with my wife on a daily bike trip organized by the local rider's club Practiced algorithms @ Leetcode: "Valid Perfect Square", "Find the Town Judge" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 359 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 11: May 16, 2020
+
+**Today's Progress**: #R9D11 Worked on the Phaser3 course in Udemy. Now I am at 65%. Practiced algorithms @ Leetcode: "Cousins in Binary Tree", "Check If It Is a Straight Line" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 359 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 10: May 15, 2020
 
 **Today's Progress**: #R9D10 50% of Phaser3 course in Udemy completed. Today's challenges @ Leetcode: "Majority Element", "Edit Distance" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
