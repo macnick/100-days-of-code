@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 13: May 18, 2020
+
+**Today's Progress**: #R9D13 Phaser 3 Course on Udemy succesfully finished. I was expecting more from it. Unfortunately I do not recommend it. Practiced @ Leetcode: "Flood Fill", "Best Time to Buy and Sell Stock with Cooldown" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 359 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 12: May 17, 2020
 
 **Today's Progress**: #R9D12 I went with my wife on a daily bike trip organized by the local rider's club Practiced algorithms @ Leetcode: "Valid Perfect Square", "Find the Town Judge" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
