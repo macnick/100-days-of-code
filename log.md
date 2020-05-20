@@ -4,7 +4,7 @@
 
 **Today's Progress**: #R9D14 Started my capstone project. I have to create a simple RPG game in 5 days. Practice @ Leetcode: "Single Element in a Sorted Array", "Remove K Digits" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
-**Thoughts:** Rank 359 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Codewars Rank 359 - 8 hours of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 13: May 18, 2020
 
