@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 14: May 19, 2020
+
+**Today's Progress**: #R9D14 Started my capstone project. I have to create a simple RPG game in 5 days. Practice @ Leetcode: "Single Element in a Sorted Array", "Remove K Digits" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Rank 359 @ Codewars - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 13: May 18, 2020
 
 **Today's Progress**: #R9D13 Phaser 3 Course on Udemy succesfully finished. I was expecting more from it. Unfortunately I do not recommend it. Practiced @ Leetcode: "Flood Fill", "Best Time to Buy and Sell Stock with Cooldown" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
