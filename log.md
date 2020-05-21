@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 15: May 20, 2020
+
+**Today's Progress**: #R9D15 Did a morning quiz on triplebyte.com. I averaged 80% which is pretty satisfying considering it tests everything. Practice @ Leetcode: "Single Element in a Sorted Array", "Remove K Digits" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 14: May 19, 2020
 
 **Today's Progress**: #R9D14 Started my capstone project. I have to create a simple RPG game in 5 days. Practice @ Leetcode: "Single Element in a Sorted Array", "Remove K Digits" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
