@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 16: May 21, 2020
+
+**Today's Progress**: #R9D16 2nd day on my RPG game. Now I have a plan, all the scenes except Game and Battle, and found the proper music for it. Practice @ Leetcode: "Shortest Unsorted Continuous Subarray" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 358 - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 15: May 20, 2020
 
 **Today's Progress**: #R9D15 Did a morning quiz on triplebyte.com. I averaged 80% which is pretty satisfying considering it tests everything. Practice @ Leetcode: "Single Element in a Sorted Array", "Remove K Digits" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
