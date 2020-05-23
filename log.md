@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 17: May 22, 2020
+
+**Today's Progress**: #R9D17 3rd day on my RPG game. Spent 2 hours trying to understand why my BattleScene did not show. Practice @ Leetcode: "Binary Tree Level Order Traversal" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 16: May 21, 2020
 
 **Today's Progress**: #R9D16 2nd day on my RPG game. Now I have a plan, all the scenes except Game and Battle, and found the proper music for it. Practice @ Leetcode: "Shortest Unsorted Continuous Subarray" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
