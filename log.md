@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 19: May 24, 2020
+
+**Today's Progress**: #R9D19 Little progress on my game today. Spent most of the day at the beach with kids. Practice @ codewars: "The Coins of Ter | Round to the Next N" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 18: May 23, 2020
+
+**Today's Progress**: #R9D18 Had an interwiew with a startup. Looked promising but it isn't. I do not want to work for them. Am I wrong to turn down a company I do not like? Practice @ Leetcode: "Path Sum III" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 8 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 17: May 22, 2020
 
 **Today's Progress**: #R9D17 3rd day on my RPG game. Spent 2 hours trying to understand why my BattleScene did not show. Practice @ Leetcode: "Binary Tree Level Order Traversal" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
