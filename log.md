@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 20: May 25, 2020
+
+**Today's Progress**: #R9D20 Day 4 of my RPG game. Spent most of the day trying to solve a bug with BattleScene and UIScene. Practice @ codewars: "Algorithmic predicament- Bug Fixing #9" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 11 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 19: May 24, 2020
 
 **Today's Progress**: #R9D19 Little progress on my game today. Spent most of the day at the beach with kids. Practice @ codewars: "The Coins of Ter | Round to the Next N" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
