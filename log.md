@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 22: May 27, 2020
+
+**Today's Progress**: #R9D22 Day 6 of my RPG game. Fixed all the requirements except the README and the tests. Submitted it for code review. #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 11 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 21: May 26, 2020
+
+**Today's Progress**: #R9D21 Day 5 of my RPG game. Today I realize that I will not deliver on time. Still remaining to be done: LeaderBoard API, Test, Credits scene, README and deploy on Netlify. #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 11 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 20: May 25, 2020
 
 **Today's Progress**: #R9D20 Day 4 of my RPG game. Spent most of the day trying to solve a bug with BattleScene and UIScene. Practice @ codewars: "Algorithmic predicament- Bug Fixing #9" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
