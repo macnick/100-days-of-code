@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 24: May 29, 2020
+
+**Today's Progress**: #R9D24 Finished the README my RPG game and wrote a few tests. Took me longer than expected. Coding practice @ Codewars:"Simple string validation", "Linked Lists - Append"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 361 - 11 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 23: May 28, 2020
+
+**Today's Progress**: #R9D23 Got the review for my RPG game. The reviewers were happy for everything except my README and the non-existen tests. Will fix them today and tomorrow. #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 361 - 11 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 22: May 27, 2020
 
 **Today's Progress**: #R9D22 Day 6 of my RPG game. Fixed all the requirements except the README and the tests. Submitted it for code review. #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
