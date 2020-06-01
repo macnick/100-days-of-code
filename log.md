@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 26: May 31, 2020
+
+**Today's Progress**: #R9D26 Started wirting tests for my RPG game. Algorithm practice @ Codewars:"Linked Lists - Insert Nth Node", "Linked Lists - Sorted Insert"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 364 - 11 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 25: May 30, 2020
+
+**Today's Progress**: #R9D25 Only Coding practice today @ Codewars:"A tetrahedron of cannonballs", "Search JSON for any key value pair"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 361 - 11 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 24: May 29, 2020
 
 **Today's Progress**: #R9D24 Finished the README my RPG game and wrote a few tests. Took me longer than expected. Coding practice @ Codewars:"Simple string validation", "Linked Lists - Append"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
