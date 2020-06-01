@@ -2,7 +2,7 @@
 
 ## Day 26: May 31, 2020
 
-**Today's Progress**: #R9D26 Started wirting tests for my RPG game. Algorithm practice @ Codewars:"Linked Lists - Insert Nth Node", "Linked Lists - Sorted Insert"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D26 Too bored to write tests for my RPG game. I prefer to play :-) Algorithm practice @ Codewars:"Linked Lists - Insert Nth Node", "Linked Lists - Sorted Insert"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 364 - 11 hours of study. Goals: 1. Finish the Microverse curicullum
 
