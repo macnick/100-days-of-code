@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 28: June 2, 2020
+
+**Today's Progress**: #R9D28 Fixed conflicts in webpack packages and managed to build my. Also fixed all linter errors. Practice lists @ Codewars:"Linked Lists - Insert Sort"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 363 - 11 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 27: June 1, 2020
 
 **Today's Progress**: #R9D27 Somehow npm run build fails. Trying to debug it the last 5 hours. Practice @ Leetcode:"Symmetric Tree"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
