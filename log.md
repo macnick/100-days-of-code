@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 29: June 3, 2020
+
+**Today's Progress**: #R9D29 Finished writing all tests. Found why I couldn't build. I will solve this tomorrow. Practice lists @ Codewars:"Linked Lists - Remove Duplicates"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 364 - 7 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 28: June 2, 2020
 
-**Today's Progress**: #R9D28 Fixed conflicts in webpack packages and managed to build my. Also fixed all linter errors. Practice lists @ Codewars:"Linked Lists - Insert Sort"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D28 Fixed conflicts in webpack packages and managed to build my game again. Also fixed all linter errors. Practice lists @ Codewars:"Linked Lists - Insert Sort"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 363 - 8 hours of study. Goals: 1. Finish the Microverse curicullum
 
