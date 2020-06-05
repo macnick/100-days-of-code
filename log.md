@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 30: June 4, 2020
+
+**Today's Progress**: #R9D30 Finished all requested mods and submitted the game for code review. You can play it online here netlify.app. Practice lists @ Codewars:"Linked Lists - Move Node"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 364 - 7 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 29: June 3, 2020
 
 **Today's Progress**: #R9D29 Finished writing all tests. Found why I couldn't build. I will solve this tomorrow. Practice lists @ Codewars:"Linked Lists - Remove Duplicates"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
