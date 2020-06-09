@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 32: June 6, 2020
+
+**Today's Progress**: #R9D32 Going for a 3-day bike adventure with wife, organized by the local bikers club. I will pack my laptop and try to do an hour of coding. Practice lists @ Leetcode: "Sort Colors"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 364 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 31: June 5, 2020
+
+**Today's Progress**: #R9D31 My turn-based old school RPG game got approved! I want to implement a health bar though to make it more interesting. Practice lists @ Leetcode: "Symmetric Tree"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 364 - 7 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 30: June 4, 2020
 
 **Today's Progress**: #R9D30 Finished all requested mods and submitted the game for code review. You can play it online here netlify.app. Practice lists @ Codewars:"Linked Lists - Move Node"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
