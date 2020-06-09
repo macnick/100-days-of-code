@@ -1,14 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 33: June 7, 2020
+
+**Today's Progress**: #R9D33 Went through beautiful places and got rain for most of the day. Everybody was almost completely wet. Solved @ Leetcode: "Kth Largest Element in an Array"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 364 - 1 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 32: June 6, 2020
 
-**Today's Progress**: #R9D32 Going for a 3-day bike adventure with wife, organized by the local bikers club. I will pack my laptop and try to do an hour of coding. Practice lists @ Leetcode: "Sort Colors"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D32 Went for a 3-day bike adventure with wife, organized by the local bikers club. I packed my laptop and did an hour of coding. Practice @ Leetcode: "Sort Colors"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 364 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 31: June 5, 2020
 
-**Today's Progress**: #R9D31 My turn-based old school RPG game got approved! I want to implement a health bar though to make it more interesting. Practice lists @ Leetcode: "Symmetric Tree"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D31 My turn-based old school RPG game got approved! I want to implement a health bar though to make it more interesting. Practice @ Leetcode: "Symmetric Tree"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 364 - 7 hours of study. Goals: 1. Finish the Microverse curicullum
 
