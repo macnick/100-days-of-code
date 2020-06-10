@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 34: June 9, 2020
+
+**Today's Progress**: #R9D35 Fixed the health bar as promised. Here is the link to Dark Forest. Enjoy your play. Practice @ Codewars: "Ordering the words!"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 364 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 34: June 8, 2020
+
+**Today's Progress**: #R9D34 Last day of our trip. Thinking how to implement the health bar for enemies and heroes. Practice @ Codewars: "The old switcheroo 2"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 364 - 1 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 33: June 7, 2020
 
 **Today's Progress**: #R9D33 Went through beautiful places and got rain for most of the day. Everybody was almost completely wet. Solved @ Leetcode: "Kth Largest Element in an Array"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
