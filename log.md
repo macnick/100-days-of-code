@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 35: June 10, 2020
+
+**Today's Progress**: #R9D36 There is a bug in health bar which appears only on production and not on development mode. . Practice @ Codewars: "Ordering the words!"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 364 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 34: June 9, 2020
 
 **Today's Progress**: #R9D35 Fixed the health bar as promised. Here is the link to Dark Forest. Enjoy your play. Practice @ Codewars: "Ordering the words!"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
