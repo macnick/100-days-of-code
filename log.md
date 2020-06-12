@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 36: June 11, 2020
+
+**Today's Progress**: #R9D36 Started the React curriculum . Practice Ruby @ Codewars: "Santa's Secret Sorting Sequence" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 365 - 7 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 35: June 10, 2020
 
-**Today's Progress**: #R9D36 There is a bug in health bar which appears only on production and not on development mode. . Practice @ Codewars: "Ordering the words!"  #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D36 There is a bug in health bar which appears only on production and not on development mode.! I am out of ideas. Practice @ Codewars: "Trigrams", "Basic method" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 364 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
 
