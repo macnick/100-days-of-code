@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 38: June 12, 2020
+
+**Today's Progress**: #R9D38 Completed the React tutorial. Built a version of Tic-Tac-Toe saving the previous moves and restoring them. Ruby practice @ Codewars: "Hyper Sphere" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 365 - 6 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 37: June 11, 2020
 
-**Today's Progress**: #R9D37 Started the React curriculum . Practice Ruby @ Codewars: "Santa's Secret Sorting Sequence" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D37 Started the React part of curriculum. Not ready to squash the bug in my game. Ruby practice @ Codewars: "Santa's Secret Sorting Sequence" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 365 - 7 hours of study. Goals: 1. Finish the Microverse curicullum
 
