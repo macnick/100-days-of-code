@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 40: June 14, 2020
+
+**Today's Progress**: #R9D40 Practiced swimming :-) with my little athlete. Quarantine had taken its toll on me. I am officially beaten by my 10-year old. Practice @ Codewars: "Filter unused digits" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 366 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 39: June 13, 2020
+
+**Today's Progress**: #R9D39 Spent the day learning about the min-max heap and solving coding challenges. Practice @ Codewars: "Point in Polygon", "Sum up the random string" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 365 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 38: June 12, 2020
 
 **Today's Progress**: #R9D38 Completed the React tutorial. Built a version of Tic-Tac-Toe saving the previous moves and restoring them. Ruby practice @ Codewars: "Hyper Sphere" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
