@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 41: June 15, 2020
+
+**Today's Progress**: #R9D41 Halfway through this excellent React tutorial: http://bit.do/macnick Practice @ Codewars: "Catching Car Mileage Numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 365 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 40: June 14, 2020
 
 **Today's Progress**: #R9D40 Practiced swimming :-) with my little athlete. Quarantine had taken its toll on me. I am officially beaten by my 10-year old. Practice @ Codewars: "Filter unused digits" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
