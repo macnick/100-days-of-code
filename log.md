@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 42: June 16, 2020
+
+**Today's Progress**: #R9D42 Finished part 1 of this codecademy React course: http://bit.do/macnick2 Practice @ Codewars: "Invalid Input - Error Handling #1", "We need these data immediately!" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 365 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 41: June 15, 2020
 
 **Today's Progress**: #R9D41 Halfway through this excellent React tutorial: http://bit.do/macnick Practice @ Codewars: "Catching Car Mileage Numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
