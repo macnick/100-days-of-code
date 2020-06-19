@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 44: June 18, 2020
+
+**Today's Progress**: #R9D44 ----Doing part 2 of this codecademy React course: <link> Practice @ Codewars: "Arc Length" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 365 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 43: June 17, 2020
 
-**Today's Progress**: #R9D42 Fully imersed in React and I love it! Doing part 2 of this codecademy React course: <link> Practice @ Codewars: "Arc Length" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D43 Fully imersed in React and I love it! Doing part 2 of this codecademy React course: <link> Practice @ Codewars: "Arc Length" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 365 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
 
