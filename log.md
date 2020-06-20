@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 45: June 19, 2020
+
+**Today's Progress**: #R9D45 OMG! Received and email with an invitation to apply for a job! I have to prepare a cover letter! JS Practice @ Codewars: "" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 365 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 44: June 18, 2020
 
-**Today's Progress**: #R9D44 ----Doing part 2 of this codecademy React course: <link> Practice @ Codewars: "Arc Length" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D44 Handling events with React elements is very similar to handling events on DOM elements. JS Practice @ Codewars: "Time Interval" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 365 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
 
