@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 46: June 20, 2020
+
+**Today's Progress**: #R9D46 I remember how I made fun of JS back when it was invented in 1993. 2 years ago I started learning and using it and fell in love with it.  Practice @ Codewars: "" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 365 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 45: June 19, 2020
 
 **Today's Progress**: #R9D45 OMG! Received and email with an invitation to apply for a job! I have to prepare a cover letter! JS Practice @ Codewars: "" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
