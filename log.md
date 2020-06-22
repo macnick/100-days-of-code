@@ -2,7 +2,7 @@
 
 ## Day 47: June 21, 2020
 
-**Today's Progress**: #R9D47 Life is like programming. You can not solve all problem using one algorithm. Practice @ Codewars: "JSON.parse Date Reviver" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D47 Life is like programming. You can not solve all problems using one algorithm. Practice @ Codewars: "JSON.parse Date Reviver" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 365 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
 
