@@ -2,7 +2,7 @@
 
 ## Day 48: June 22, 2020
 
-**Today's Progress**: #R9D48 I love JavaScript because its dynamic typing give me freedom. Why do you love JS? Practice @ Codewars: "" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D48 I love JavaScript because its dynamic typing gives me freedom. Why do you love JS? Practice @ Codewars: "" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 365 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
 
