@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 49: June 23, 2020
+
+**Today's Progress**: #R9D49  Practice @ Codewars: "Satisfying numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 365 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 48: June 22, 2020
 
-**Today's Progress**: #R9D48 I love JavaScript because its dynamic typing gives me freedom. Why do you love JS? Practice @ Codewars: "" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D48 I love JavaScript because its dynamic typing gives me freedom. Why do you love JS? Practice @ Codewars: "Simplify Compound Fractions", "Error Throwing - Error Handling #2" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 365 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
 
