@@ -1,14 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 50: June 24, 2020
+
+**Today's Progress**: #R9D50  Practice @ Codewars: "Satisfying numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 365 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 49: June 23, 2020
 
-**Today's Progress**: #R9D49  Practice @ Codewars: "Satisfying numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D49 I love JavaScript because its dynamic typing gives me freedom. Why do you love JS? Practice @ Codewars: "Error Throwing - Error Handling #2","Satisfying numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 365 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 48: June 22, 2020
 
-**Today's Progress**: #R9D48 I love JavaScript because its dynamic typing gives me freedom. Why do you love JS? Practice @ Codewars: "Simplify Compound Fractions", "Error Throwing - Error Handling #2" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D48 Noticed today Github has changed their CSS. New look on the buttons and the contribution map. I think it looks better this way. What do you think?  Practice @ Codewars: "Simplify Compound Fractions" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 365 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
 
