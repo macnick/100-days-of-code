@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 51: June 25, 2020
+
+**Today's Progress**: #R9D51 If you are coding a rails app using VS Code and Emmet does not work, here is a little piece I wrote to help you configure it. http://bit.do/macnick4 Practice @ Codewars: "Find the K-th last element of a singly linked list" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 364 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 50: June 24, 2020
 
-**Today's Progress**: #R9D50  Practice @ Codewars: "Satisfying numbers" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D50 I got contacted from 1 recruiter and 1 HR person in one day! That is a first at least for me! Practice @ Codewars: "Find the K-th last element of a singly linked list" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 365 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
 
