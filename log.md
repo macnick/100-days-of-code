@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 54: June 28, 2020
+
+**Today's Progress**: #R9D54 Codewars: "Hanoi record" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 363 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 53: June 27, 2020
+
+**Today's Progress**: #R9D53 Little practice with algorithms and data structures on Codewars: "Find the smallest", "Prime factorization" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 363 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 52: June 26, 2020
 
 **Today's Progress**: #R9D52 Trying to find a job that intrigues you is a full-time job by itself. Keep searching... Practice @ Codewars: "The nth smallest integer" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
