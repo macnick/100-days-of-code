@@ -2,7 +2,7 @@
 
 ## Day 54: June 28, 2020
 
-**Today's Progress**: #R9D54 Codewars: "Hanoi record" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D54 Learned about the three categories of React lifecycle methods: mounting, updating, and unmounting. Codewars: "Hanoi record" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 363 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
 
