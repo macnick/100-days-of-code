@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 55: June 29, 2020
+
+**Today's Progress**: #R9D55 I was a FileMaker Pro developer for a decade. The last 2 years I study to become a full-stack developer. Yesterday a company contacted me for a FileMaker job. Should I say yes and throw away the last 2 years or not? That is the question. Codewars: "heggeleggleggo", "Multiply array values and filter non-numeric" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 362 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 54: June 28, 2020
 
-**Today's Progress**: #R9D54 Learned about the three categories of React lifecycle methods: mounting, updating, and unmounting. Codewars: "Hanoi record" #100DaysOfCode #javascript #React #freeCodeCamp #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D54 Learned about the three categories of React lifecycle methods: mounting, updating, and unmounting. Codewars: "Hanoi record", "char_to_ascii" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 363 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
 
