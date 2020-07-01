@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 56: June 30, 2020
+
+**Today's Progress**: #R9D56 Thank you @MariosKnl, @LearnLiftLines for your help. 2 years ago I made the decision to go for Full-stack developer. The reasons still stand. I turned down the job. JS Practice on Codewars: "Excel sheet column numbers" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 361 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 55: June 29, 2020
 
 **Today's Progress**: #R9D55 I was a FileMaker Pro developer for a decade. The last 2 years I study to become a full-stack developer. Yesterday a company contacted me for a FileMaker job. Should I say yes and throw away the last 2 years or not? That is the question. Codewars: "heggeleggleggo", "Multiply array values and filter non-numeric" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
