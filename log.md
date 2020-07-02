@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 58: July 2, 2020
+
+**Today's Progress**: #R9D57 Helped my coding partner with a little issue. Completed Milestone-2. JS Practice on Codewars: "", "" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 361 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 57: July 1, 2020
+
+**Today's Progress**: #R9D57 Completed Milestone-1 of the react calculator project. JS Practice on Codewars: "Unscrambled eggs", "Balance the tree" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 361 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 56: June 30, 2020
 
 **Today's Progress**: #R9D56 Thank you @MariosKnl, @LearnLiftLines for your help. 2 years ago I made the decision to go for Full-stack developer. The reasons still stand. I turned down the job. JS Practice on Codewars: "Excel sheet column numbers" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
