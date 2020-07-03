@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 59: July 3, 2020
+
+**Today's Progress**: #R9D59  Milestone-3 JS Practice on Codewars: "htmlify my text", "Array Exchange" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 361 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 58: July 2, 2020
 
-**Today's Progress**: #R9D57 Helped my coding partner with a little issue. Completed Milestone-2. JS Practice on Codewars: "", "" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D58 Helped my coding partner with a little issue. Completed Milestone-2. Ruby Practice on Codewars: "Quarter of the year" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 361 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
 
