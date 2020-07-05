@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 60: July 4, 2020
+
+**Today's Progress**: #R9D60 Milestone-1 and 2 of React calculator approved. Started work on Milestone-4. JS Practice on Codewars: "Coefficients of the Quadratic Equation", "Length of the line segment" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 361 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 59: July 3, 2020
 
-**Today's Progress**: #R9D59  Milestone-3 JS Practice on Codewars: "htmlify my text", "Array Exchange" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D59 Milestone-3 of React calculator submitted for code review. JS Practice on Codewars: "htmlify my text", "Array Exchange" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 361 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
 
