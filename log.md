@@ -1,16 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 62: July 6, 2020
+
+**Today's Progress**: #R9D62 My React Calculator Milestone-3 got approved. Submitted Milestone-4. JS Practice on Codewars: "Nesting Structure Comparison" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 358 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 61: July 5, 2020
 
 **Today's Progress**: #R9D61 It was Saturday and I thought: "let me play for a couple of hours with a 4kyu kata". Solved it in 20 minutes! What is wrong with me? JS Practice on Codewars: "A functional deck of cards...." #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
-**Thoughts:** Codewars Rank 359 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Codewars Rank 359 - 1 hours of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 60: July 4, 2020
 
 **Today's Progress**: #R9D60 Milestone-1 and 2 of React calculator approved. Started work on Milestone-4. JS Practice on Codewars: "Coefficients of the Quadratic Equation", "Length of the line segment" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
-**Thoughts:** Codewars Rank 360 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Codewars Rank 360 - 3 hours of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 59: July 3, 2020
 
