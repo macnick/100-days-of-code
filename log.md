@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 64: July 8, 2020
+
+**Today's Progress**: #R9D64 Feeling exhausted today. I don't have any incentive to work. Is it coronavirus or I need a vacation? JS Practice on Leetcode: "LRU Cache" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 358 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 63: July 7, 2020
+
+**Today's Progress**: #R9D63 My React Calculator Milestone-4 got approved without any changes. Working on Milestone-5. JS Practice on Codewars: "Add a property to an object", "Always perfect" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 358 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 62: July 6, 2020
 
 **Today's Progress**: #R9D62 My React Calculator Milestone-3 got approved. Submitted Milestone-4. JS Practice on Codewars: "Nesting Structure Comparison" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
