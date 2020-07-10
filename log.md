@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 66: July 10, 2020
+
+**Today's Progress**: #R9D65 Fixed the bugs on Milestone-5 of my little Calculator. Sumbitted it for code review and got approval immediately! JS Practice on Leetcode: "Remove Zeros" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 356 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
+## Day 65: July 9, 2020
+
+**Today's Progress**: #R9D65 Finished Milestone-5. Calculator works but has some bugs. I will fix it tomorrow. JS Practice on Leetcode: "The maximum sum value of ranges -- Simple version" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 357 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 64: July 8, 2020
 
 **Today's Progress**: #R9D64 Feeling exhausted today. I don't have any incentive to work. Is it coronavirus or I need a vacation? JS Practice on Leetcode: "LRU Cache" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
