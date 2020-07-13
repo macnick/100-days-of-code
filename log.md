@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 68: July 12, 2020
+
+**Today's Progress**: #R9D68 I started a small side project today. Let's see if I can finish it in a couple of days. Practice on Codewars: "Big number problem" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 355 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 67: July 11, 2020
 
 **Today's Progress**: #R9D67 Started a quick React course on LinkedIn. JS Code Golf on Codewars: "One Line Task: Remove Zeros" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
-**Thoughts:** Codewars Rank 355 - 9 hours of study. Goals: 1. Finish the Microverse curicullum
+**Thoughts:** Codewars Rank 355 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 66: July 10, 2020
 
