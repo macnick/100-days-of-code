@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 69: July 13, 2020
+
+**Today's Progress**: #R9D69 My little project is almost finished. Tomorrow I will make it available to students of Microverse. Also did a recap on Redux.  Practice on Codewars: "Color of the moment" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 355 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
+
 ## Day 68: July 12, 2020
 
 **Today's Progress**: #R9D68 I started a small side project today. Let's see if I can finish it in a couple of days. Practice on Codewars: "Big number problem" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
