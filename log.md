@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 71: July 15, 2020
+
+**Today's Progress**: #R9D71 I am on vacation. Filter Challeges is the name of my chrome extension. It is made to make Microverse's students daily routine a little easier. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+## Day 70: July 14, 2020
+
+**Today's Progress**: #R9D70 My side project is ready. I wrote a little article on Medium about it. Presented it to students of Microverse and was accepted with unexpected enthusiasm. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
 ## Day 69: July 13, 2020
 
 **Today's Progress**: #R9D69 My little project is almost finished. Tomorrow I will make it available to students of Microverse. Also did a recap on Redux.  Practice on Codewars: "Color of the moment" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
