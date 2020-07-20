@@ -1,12 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 73: July 17, 2020
+
+**Today's Progress**: #R9D73  #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 357 - 2 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
+## Day 72: July 16, 2020
+
+**Today's Progress**: #R9D72 Last day of my 4-day vacation  at Syvota, Greece. Worked an hour every morning during breakfast.  #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 357 - 2 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
 ## Day 71: July 15, 2020
 
 **Today's Progress**: #R9D71 I am on vacation. Filter Challeges is the name of my chrome extension. It is made to make Microverse's students daily routine a little easier. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
+**Thoughts:** Codewars Rank 355 - 2 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
 ## Day 70: July 14, 2020
 
 **Today's Progress**: #R9D70 My side project is ready. I wrote a little article on Medium about it. Presented it to students of Microverse and was accepted with unexpected enthusiasm. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 355 - 2 hours of study. Goals: 1. Finish the Microverse curicullum
 
 ## Day 69: July 13, 2020
 
