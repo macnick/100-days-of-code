@@ -2,14 +2,13 @@
 
 ## Day 74: July 18, 2020
 
-**Today's Progress**: #R9D74 
+**Today's Progress**: #R9D74 Started the React & Redux part of the FCC curriculum. Solved a strange challenge using backtracking recursion but it is too slow. I will try to solve it using DP. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
-#100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+**Thoughts:** Codewars Rank 357 - 2 hours of study. Goals: 1. Finish the Microverse curicullum 71%
 
 ## Day 73: July 17, 2020
 
 **Today's Progress**: #R9D73 Today I finished the Redux part of FreeCodeCamp curriculum. Nerd facePartying face Boring to say the least.Yawning face But needed the recap.
-
 #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 357 - 2 hours of study. Goals: 1. Finish the Microverse curicullum 71%
