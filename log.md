@@ -1,8 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 74: July 18, 2020
+
+**Today's Progress**: #R9D74 
+
+#100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
 ## Day 73: July 17, 2020
 
-**Today's Progress**: #R9D73  #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D73 Today I finished the Redux part of FreeCodeCamp curriculum. Nerd facePartying face Boring to say the least.Yawning face But needed the recap.
+
+#100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 357 - 2 hours of study. Goals: 1. Finish the Microverse curicullum 71%
 
