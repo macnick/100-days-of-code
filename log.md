@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 75: July 19, 2020
+
+**Today's Progress**: #R9D75 Finished the React & Redux part of the FCC curriculum. Algorithm Practice @ Leetcode: "Target Sum". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 357 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
 ## Day 74: July 18, 2020
 
 **Today's Progress**: #R9D74 Started the React & Redux part of the FCC curriculum. Solved a strange challenge using backtracking recursion but it is too slow. I will try to solve it using DP. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
-**Thoughts:** Codewars Rank 357 - 2 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+**Thoughts:** Codewars Rank 357 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 71%
 
 ## Day 73: July 17, 2020
 
