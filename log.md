@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 76: July 20, 2020
+
+**Today's Progress**: #R9D76  Algorithm Practice @ Leetcode: "Target Sum". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 357 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
 ## Day 75: July 19, 2020
 
 **Today's Progress**: #R9D75 Finished the React & Redux part of the FCC curriculum. Algorithm Practice @ Leetcode: "Target Sum". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
