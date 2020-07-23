@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 77: July 21, 2020
+
+**Today's Progress**: #R9D77  #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 358 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
 ## Day 76: July 20, 2020
 
-**Today's Progress**: #R9D76  Algorithm Practice @ Leetcode: "Target Sum". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D76 Doing Dan Abramov's “Getting Started with Redux” course on egghead.io. Still trying to figure out a DP way to solve the Leetcode problem "Target Sum". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 357 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 71%
 
