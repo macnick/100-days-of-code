@@ -2,7 +2,7 @@
 
 ## Day 77: July 21, 2020
 
-**Today's Progress**: #R9D77  #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D77 Trying to built a small todo app using React & Redux as Dan did. JS practice on Codewars: "Terminal Game #2" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 358 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 71%
 
