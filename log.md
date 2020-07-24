@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 78: July 22, 2020
+
+**Today's Progress**: #R9D78 Finished Dan Abramov's “Getting Started with Redux” course on egghead.io and rewrote his Todo App. Dan is a genius! JS practice on Codewars: "Grains" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 358 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
 ## Day 77: July 21, 2020
 
 **Today's Progress**: #R9D77 Trying to built a small todo app using React & Redux as Dan did. JS practice on Codewars: "Terminal Game #2" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
