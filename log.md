@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 79: July 23, 2020
+
+**Today's Progress**: #R9D79 Solved the sliding window maximum problem on Leetcode in O(n) time complexity using a stack. JS practice on Codewars: "Squeaky Window" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
 ## Day 78: July 22, 2020
 
 **Today's Progress**: #R9D78 Finished Dan Abramov's “Getting Started with Redux” course on egghead.io and rewrote his Todo App. Dan is a genius! JS practice on Codewars: "Grains" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
