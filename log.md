@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 81: July 25, 2020
+
+**Today's Progress**: #R9D81  JS practice on Codewars: "Mobile Operator detector" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
+## Day 80: July 24, 2020
+
+**Today's Progress**: #R9D80 #R9D80 Doing acrobatics at the beach with the kids today! Grinning face with smiling eyes JS practice on Codewars: "Mobile Operator detector" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 1 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
 ## Day 79: July 23, 2020
 
 **Today's Progress**: #R9D79 Solved the sliding window maximum problem on Leetcode in O(n) time complexity using a stack. JS practice on Codewars: "Squeaky Window" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
