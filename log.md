@@ -8,7 +8,7 @@
 
 ## Day 80: July 24, 2020
 
-**Today's Progress**: #R9D80 #R9D80 Doing acrobatics at the beach with the kids today! Grinning face with smiling eyes JS practice on Codewars: "Mobile Operator detector" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D80 #R9D80 Doing acrobatics at the beach with the kids today! JS practice on Codewars: "Mobile Operator detector" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 359 - 1 hours of study. Goals: 1. Finish the Microverse curicullum 71%
 
