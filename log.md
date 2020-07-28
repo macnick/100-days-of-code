@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 82: July 26, 2020
+
+**Today's Progress**: #R9D82 Started work on the React Bookstore project. Milestone-1 submitted for review.  #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
 ## Day 81: July 25, 2020
 
 **Today's Progress**: #R9D81 Got a message from Microverse informing me that me resume has been selected as top resume for best practices! They want to use it as a guide for other students! Algo practice on Leetcode: "Unique Binary Search Trees" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
