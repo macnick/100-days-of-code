@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 83: July 27, 2020
+
+**Today's Progress**: #R9D83 Milestone-1 of React Bookstore project approved today. Milestone-2 almost ready.  #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
 ## Day 82: July 26, 2020
 
 **Today's Progress**: #R9D82 Started work on the React Bookstore project. Milestone-1 submitted for review.  #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
