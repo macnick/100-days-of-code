@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 86: July 30, 2020
+
+**Today's Progress**: #R9D86 Good news is Milestone-2 was approved. Bad news: we still work on the Redux part of Milestone-3. Solved on Leetcode: "" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 361 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
+## Day 85: July 29, 2020
+
+**Today's Progress**: #R9D85 Worked with my partner on Milestone-3 of our React Bookstore. We both got stuck while implementing Redux store. Solved on Leetcode: "Binary Tree Level Order Traversal II" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 361 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
 ## Day 84: July 28, 2020
 
 **Today's Progress**: #R9D84 Squashed a bug that was giving us trouble for the whole day. Milestone-2 submitted for review. Solved on Leetcode: "Unique Binary Search Trees" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
