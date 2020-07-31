@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 87: July 31, 2020
+
+**Today's Progress**: #R9D87 Thanks to my coding partner Milestone-3 was submitted for review. No coding challenges today. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 361 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
 ## Day 86: July 30, 2020
 
-**Today's Progress**: #R9D86 Good news is Milestone-2 was approved. Bad news: we still work on the Redux part of Milestone-3. Solved on Leetcode: "" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D86 Good news is Milestone-2 was approved. Bad news: we still work on the Redux part of Milestone-3. Bought a Udemy course on React. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 361 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 71%
 
