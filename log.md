@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 88: August 1, 2020
+
+**Today's Progress**: #R9D88 Beautiful day at the beach with wife and kids. Continue learning Redux from my Udemy course. JS practice on Codewars: "Where's Wally" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 361 - 3 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
 ## Day 87: July 31, 2020
 
 **Today's Progress**: #R9D87 Thanks to my coding partner Milestone-3 was submitted for review. No coding challenges today. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
