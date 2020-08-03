@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 89: August 2, 2020
+
+**Today's Progress**: #R9D89 Really busy Sunday. Had great with family on another beach today. Did some more of my Redux Udemy course. Algo practice on Leecode with "House Robber III" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 361 - 3 hours of study. Goals: 1. Finish the Microverse curicullum 71%
+
 ## Day 88: August 1, 2020
 
 **Today's Progress**: #R9D88 Beautiful day at the beach with wife and kids. Continue learning Redux from my Udemy course. JS practice on Codewars: "Where's Wally" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
