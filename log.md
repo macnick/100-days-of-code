@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 91: August 4, 2020
+
+**Today's Progress**: #R9D90 Another very productive day thanks to my coding partner Abdusaid. Milestone 4 of Redux Boostore approved. Sumbitted milestone-5 for review. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 360 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 75%
+
+## Day 90: August 3, 2020
+
+**Today's Progress**: #R9D90 Really productive day. Finished milestone 4 of Redux Boostore and got milestone 3 approved. Algo practice on Leecode with "Power of Four" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 360 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 75%
+
 ## Day 89: August 2, 2020
 
 **Today's Progress**: #R9D89 Really busy Sunday. Had great with family on another beach today. Did some more of my Redux Udemy course. Algo practice on Leecode with "House Robber III" #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
