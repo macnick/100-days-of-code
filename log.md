@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 92: August 5, 2020
+
+**Today's Progress**: #R9D91 Got the review for Milestone 5 of Redux Boostore. A couple of changes requested and finally approved. We decided with my partner to try and also implement the optional Milestone-6. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 360 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 75%
+
 ## Day 91: August 4, 2020
 
 **Today's Progress**: #R9D90 Another very productive day thanks to my coding partner Abdusaid. Milestone 4 of Redux Boostore approved. Sumbitted milestone-5 for review. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
