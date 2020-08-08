@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 93: August 6, 2020
+
+**Today's Progress**: #R9D92 Learning how to create a REST API using Rails. Coding challenges solved on Leetcode "Number of Islands". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 360 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 75%
+
 ## Day 92: August 5, 2020
 
 **Today's Progress**: #R9D91 Got the review for Milestone 5 of Redux Boostore. A couple of changes requested and finally approved. We decided with my partner to try and also implement the optional Milestone-6. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
