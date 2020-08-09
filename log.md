@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 94: August 7, 2020
+
+**Today's Progress**: #R9D93 Day of rest and play with family today. New acrobatics tried with my younger one. The older is too heavy for me now. Coding practice on Leetcode "Word Search". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 360 - 2 hours of study. Goals: 1. Finish the Microverse curicullum 75%
+
 ## Day 93: August 6, 2020
 
-**Today's Progress**: #R9D92 Learning how to create a REST API using Rails. Coding challenges solved on Leetcode "Number of Islands". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D92 Learning how to create a REST API using Rails. Coding challenge solved on Leetcode "Number of Islands". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 360 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 75%
 
