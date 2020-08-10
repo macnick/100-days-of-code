@@ -1,26 +1,38 @@
 # 100 Days Of Code - Log
 
+## Day 96: August 9, 2020
+
+**Today's Progress**: #R9D96  Coding practice on Codewars "SMS Shortener". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 2 hours of study. Goals: 1. Finish the Microverse curicullum 75%
+
+## Day 95: August 8, 2020
+
+**Today's Progress**: #R9D95 Decided to use Axios AJAX library to call our REST API. Will implement it tomorrow. Coding practice on Codewars "Masquerade Waiting Line". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 2 hours of study. Goals: 1. Finish the Microverse curicullum 75%
+
 ## Day 94: August 7, 2020
 
-**Today's Progress**: #R9D93 Day of rest and play with family today. New acrobatics tried with my younger one. The older is too heavy for me now. Coding practice on Leetcode "Word Search". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D94 Day of rest and play with family today. New acrobatics tried with my younger one. The older is too heavy for me now. Coding practice on Leetcode "Word Search". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 360 - 2 hours of study. Goals: 1. Finish the Microverse curicullum 75%
 
 ## Day 93: August 6, 2020
 
-**Today's Progress**: #R9D92 Learning how to create a REST API using Rails. Coding challenge solved on Leetcode "Number of Islands". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D93 Learning how to create a REST API using Rails. Coding challenge solved on Leetcode "Number of Islands". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 360 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 75%
 
 ## Day 92: August 5, 2020
 
-**Today's Progress**: #R9D91 Got the review for Milestone 5 of Redux Boostore. A couple of changes requested and finally approved. We decided with my partner to try and also implement the optional Milestone-6. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D92 Got the review for Milestone 5 of Redux Boostore. A couple of changes requested and finally approved. We decided with my partner to try and also implement the optional Milestone-6. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 360 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 75%
 
 ## Day 91: August 4, 2020
 
-**Today's Progress**: #R9D90 Another very productive day thanks to my coding partner Abdusaid. Milestone 4 of Redux Boostore approved. Sumbitted milestone-5 for review. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+**Today's Progress**: #R9D91 Another very productive day thanks to my coding partner Abdusaid. Milestone 4 of Redux Boostore approved. Sumbitted milestone-5 for review. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
 
 **Thoughts:** Codewars Rank 360 - 9 hours of study. Goals: 1. Finish the Microverse curicullum 75%
 
