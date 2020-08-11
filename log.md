@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 97: August 10, 2020
+
+**Today's Progress**: #R9D97 For the first time after weeks of effort I get how Redux works! Amazing. I get it!  #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 2 hours of study. Goals: 1. Finish the Microverse curicullum 75%
+
 ## Day 96: August 9, 2020
 
 **Today's Progress**: #R9D96 Thanks to my coding partner @abdusaid we managed to create new books using our REST API. Coding practice on Codewars "SMS Shortener". #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
