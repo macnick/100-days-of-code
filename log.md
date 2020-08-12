@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 98: August 11, 2020
+
+**Today's Progress**: #R9D98 Tried to apply what I learned about Redux, but to no avail. I still can not get the list of Books from my API. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 2 hours of study. Goals: 1. Finish the Microverse curicullum 75%
+
 ## Day 97: August 10, 2020
 
 **Today's Progress**: #R9D97 For the first time after weeks of effort I get how Redux works! Amazing. I get it!  #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
