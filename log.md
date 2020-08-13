@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 99: August 12, 2020
+
+**Today's Progress**: #R9D99 We did it! My partner and me managed to create a BookStore REST API using Rails and a React-Redux frontend to display-add-remove books from our BookStore database. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
+
+**Thoughts:** Codewars Rank 359 - 2 hours of study. Goals: 1. Finish the Microverse curicullum 86%
+
 ## Day 98: August 11, 2020
 
 **Today's Progress**: #R9D98 Tried to apply what I learned about Redux, but to no avail. I still can not get the list of Books from my REST API. #100DaysOfCode #javascript #React #microverseinc #1000DaysOfCode
