@@ -2,7 +2,7 @@
 
 ## Day 100: August 13, 2020
 
-**Today's Progress**: #R9D100 Round 9 completed! Seems like yesterday but its 900 days ago, when I started. I learned a lot along the way and made many friends here on Twitter. This was my last round. I will stop counting and take a week of vacation. Will I code everyday? You bet! But I will stop reporting my daily progress. #100DaysOfCode #javascript #React #microverseinc
+**Today's Progress**: #R9D100 Round 9 completed! Seems like yesterday but its 900 days ago, when I started. I learned a lot along the way and made many friends here on Twitter. This was my last round. I will stop counting and take a week of vacation. Will I code everyday? You bet! But I will stop reporting my daily progress. #100DaysOfCode #javascript #React #Redux #microverseinc
 
 **Thoughts:** Codewars Rank 359 - 2 hours of study. Goals: 1. Finish the Microverse curicullum 86%
 
