@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 2: March 16, 2021
+
+**Today's Progress**: #R10D2 Today I played with Intersection Observer API and lazy loading images with vanilla JS. No need to play with Element.getBoundingClientRect() anymore. https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API #100DaysOfCode #javascript #React #Redux #microverseinc
+
+**Thoughts:** Codewars Rank 387 Goal: Get a dev job
+
 ## Day 1: March 15, 2021
 
 **Today's Progress**: #R10D1 Decided to start another round of #100DaysOfCode! It seems logical since I code every day. So why not reporting the progress? If I manage to motivate younger devs even better. Implemented sticky nav-bar using the scroll event. #javascript #React #Redux #microverseinc
