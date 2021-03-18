@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 3: March 17, 2021
+
+**Today's Progress**: #R10D3 Finaly received my t-shirt and the stickers for my participation in HacktoberFest 2020!  #100DaysOfCode #javascript #React #Redux #microverseinc
+
+**Thoughts:** Codewars Rank 387 Goal: Get a dev job
+
 ## Day 2: March 16, 2021
 
 **Today's Progress**: #R10D2 Today I played with Intersection Observer API and lazy loading images with vanilla JS. No need to play with Element.getBoundingClientRect() anymore. https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API #100DaysOfCode #javascript #React #Redux #microverseinc
