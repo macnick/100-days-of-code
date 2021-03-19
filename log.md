@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 4: March 18, 2021
+
+**Today's Progress**: #R10D4 Played with Lifecycle DOM events and tried the differences between defer and async script loading. #100DaysOfCode #javascript #React #Redux #microverseinc
+
+**Thoughts:** Codewars Rank 388 Goal: Get a dev job
+
 ## Day 3: March 17, 2021
 
 **Today's Progress**: #R10D3 Finaly received my t-shirt and the stickers for my participation in HacktoberFest 2020!  #100DaysOfCode #javascript #React #Redux #microverseinc
