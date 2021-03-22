@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 7: March 21, 2021
+
+**Today's Progress**: #R10D7 Although it was cloudy and slightly raining I went hiking with my little one. Today I discovered Leaflet, an open-source JavaScript library for mobile-friendly interactive maps. Tomorrow I will play with it. #100DaysOfCode #javascript #React #Redux #microverseinc
+
+**Thoughts:** Codewars Rank 388 Goal: Get a dev job
+
+## Day 6: March 20, 2021
+
+**Today's Progress**: #R10D6 It was Saturday so I played a little more with JS "classes", setters, getters, and created some chainable methods. #100DaysOfCode #javascript #React #Redux #microverseinc
+
+**Thoughts:** Codewars Rank 388 Goal: Get a dev job
+
 ## Day 5: March 19, 2021
 
 **Today's Progress**: #R10D5 Had fun with OOP, JS objects, Object.create and how prototypal inheritance works. #100DaysOfCode #javascript #React #Redux #microverseinc
