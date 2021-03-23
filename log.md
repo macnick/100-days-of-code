@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 8: March 22, 2021
+
+**Today's Progress**: #R10D8 Played with Leaflet today. It is a very easy JS library to add maps to your app. Also it supports layers from many sources, like openstreetmap, googlemaps and more. #100DaysOfCode #javascript #React #Redux #microverseinc
+
+**Thoughts:** Codewars Rank 388 Goal: Get a dev job
+
 ## Day 7: March 21, 2021
 
 **Today's Progress**: #R10D7 Although it was cloudy and slightly raining I went hiking with my little one. Today I discovered Leaflet, an open-source JavaScript library for mobile-friendly interactive maps. Tomorrow I will play with it. #100DaysOfCode #javascript #React #Redux #microverseinc
