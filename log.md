@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 9: March 23, 2021
+
+**Today's Progress**: #R10D9 Your favorite full stack dev (me) is looking for a new role and would appreciate your support! Remote preferred but I am willing to relocate to certain countries. Thank you in advance for any connections, advice, or opportunities you can offer. #OpenToWork #100DaysOfCode #javascript #React #Redux #microverseinc
+
+**Thoughts:** Codewars Rank 388 Goal: Get a dev job
+
 ## Day 8: March 22, 2021
 
 **Today's Progress**: #R10D8 Played with Leaflet today. It is a very easy JS library to add maps to your app. Also it supports layers from many sources, like openstreetmap, googlemaps and more. #100DaysOfCode #javascript #React #Redux #microverseinc
