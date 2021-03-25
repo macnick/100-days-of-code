@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 10: March 24, 2021
+
+**Today's Progress**: #R10D10 It's the 200th anniversary of Greek Independence day! 🇬🇷 Χρόνια Πολλά σε όλους τους Έλληνες! Worked on a small map project based on Jona's mapty. Implemented show map, add workouts, save to localStorage. #OpenToWork #100DaysOfCode #javascript #React #Redux #microverseinc
+
+**Thoughts:** Codewars Rank 388 Goal: Get a dev job
+
 ## Day 9: March 23, 2021
 
 **Today's Progress**: #R10D9 Your favorite full stack dev (me) is looking for a new role and would appreciate your support! Remote preferred but I am willing to relocate to certain countries. Thank you in advance for any connections, advice, or opportunities you can offer. #OpenToWork #100DaysOfCode #javascript #React #Redux #microverseinc
