@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 11: March 25, 2021
+
+**Today's Progress**: #R10D11 Playing with 'ancient' Asynchronous JS today. Particularly with XMLHttpRequest and its methods. Now I am be able to understand old code.  #100DaysOfCode #javascript #React #Redux #microverseinc #OpenToWork
+
+**Thoughts:** Codewars Rank 388 Goal: Get a dev job
+
 ## Day 10: March 24, 2021
 
 **Today's Progress**: #R10D10 It's the 200th anniversary of Greek Independence day! 🇬🇷 Χρόνια Πολλά σε όλους τους Έλληνες! Worked on a small map project based on Jona's mapty. Implemented show map, add workouts, save to localStorage. #OpenToWork #100DaysOfCode #javascript #React #Redux #microverseinc
