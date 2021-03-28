@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 13: March 27, 2021
+
+**Today's Progress**: #R10D17 .  #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
+
+## Day 12: March 26, 2021
+
+**Today's Progress**: #R10D12 Saturday so I played a couple of hours with some callback hell examples using the https://restcountries.eu API which provides information for every country.  #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
+
+**Thoughts:** Codewars Rank 388 Goal: Get a dev job
+
 ## Day 11: March 25, 2021
 
 **Today's Progress**: #R10D11 Playing with 'ancient' Asynchronous JS today. Particularly with XMLHttpRequest and its methods. Now I am be able to understand old code.  #100DaysOfCode #javascript #React #Redux #microverseinc #OpenToWork
