@@ -2,11 +2,11 @@
 
 ## Day 14: March 28, 2021
 
-**Today's Progress**: #R10D18  #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
+**Today's Progress**: #R10D18 Played with promises. Consuming, chaining, handling rejected promises, and throwing errors manually. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
 
 ## Day 13: March 27, 2021
 
-**Today's Progress**: #R10D17 Played with the same API but today I was using the Fetch API and Promises. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
+**Today's Progress**: #R10D17 Played with the same https://restcountries.eu API, but today I was using the Fetch API and Promises. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
 
 ## Day 12: March 26, 2021
 
