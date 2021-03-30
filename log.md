@@ -1,12 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 15: March 29, 2021
+
+**Today's Progress**: #R10D15 Recap and a little practice on the Event loop in JS, the call stack and the callback and microtasks queues.  #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
+
 ## Day 14: March 28, 2021
 
-**Today's Progress**: #R10D18 Played with promises. Consuming, chaining, handling rejected promises, and throwing errors manually. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
+**Today's Progress**: #R10D14 Played with promises. Consuming, chaining, handling rejected promises, and throwing errors manually. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
 
 ## Day 13: March 27, 2021
 
-**Today's Progress**: #R10D17 Played with the same https://restcountries.eu API, but today I was using the Fetch API and Promises. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
+**Today's Progress**: #R10D13 Played with the same https://restcountries.eu API, but today I was using the Fetch API and Promises. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
 
 ## Day 12: March 26, 2021
 
