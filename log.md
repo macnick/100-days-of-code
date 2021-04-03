@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 17: March 31, 2021
+
+**Today's Progress**: #R10D17 Using try/catch to catch the erros when consuming promises with async/await. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
+
+## Day 16: March 30, 2021
+
+**Today's Progress**: #R10D16 More playing with Async JS. Consuming promises with async/await. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
+
 ## Day 15: March 29, 2021
 
 **Today's Progress**: #R10D15 Recap and a little practice on the Event loop in JS, the call stack and the callback and microtasks queues.  #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
