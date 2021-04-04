@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+## Day 18: April 1, 2021
+
+**Today's Progress**: #R10D18 Played with running promises in parallel and using Promise.all. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
+
 ## Day 17: March 31, 2021
 
 **Today's Progress**: #R10D17 Using try/catch to catch the errors when consuming promises with async/await. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
