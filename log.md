@@ -2,7 +2,7 @@
 
 ## Day 18: April 1, 2021
 
-**Today's Progress**: #R10D18 Played with running promises in parallel and using Promise.all. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
+**Today's Progress**: #R10D18 Played with promises. Run 🏃 them in parallel using an array method and then learned about Promise.all. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
 
 ## Day 17: March 31, 2021
 
