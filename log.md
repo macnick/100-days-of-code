@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+## Day 19: April 2, 2021
+
+**Today's Progress**: #R10D19 Played with Promise combinators. I think the most useful are race, allSettled and any. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
+
 ## Day 18: April 1, 2021
 
 **Today's Progress**: #R10D18 Played with promises. Run 🏃 them in parallel using an array method and then learned about Promise.all. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
