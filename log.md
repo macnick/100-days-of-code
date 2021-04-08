@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+## Day 20: April 3, 2021
+
+**Today's Progress**: #R10D20 Noticed this today. On npms' site on the upper left corner there is a little heart with a wrong meaning of npm on the right. It was Neutrino Packing Machine 😂 Changes everytime you click it. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
+
 ## Day 19: April 2, 2021
 
 **Today's Progress**: #R10D19 Played with Promise combinators. I think the most useful are race, allSettled and any. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
