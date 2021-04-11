@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+## Day 22: April 5, 2021
+
+**Today's Progress**: #R10D22 Babel 7 and Polyfilling today. Babel has plugins that support the latest Javascript and also some proposed stage 3 changes. #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
+
 ## Day 21: April 4, 2021
 
 **Today's Progress**: #R10D21 Played with Parcel and NPM scripts. Parcel is a packager like Webpack but it needs no initial configuration. Anyone with experience with it? #100DaysOfCode #javascript #React #Dev #microverseinc #OpenToWork 
